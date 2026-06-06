@@ -16,6 +16,7 @@
           <span v-if="item.license" class="card-license">{{ item.license }}</span>
         </div>
       </div>
+      <CommunityWidget item-type="submissions" :item-id="item.folder" />
     </div>
   </div>
 
@@ -45,7 +46,7 @@
         </header>
         <article class="md-body" v-html="renderedBody"></article>
         <footer class="md-footer">
-          <a v-if="selected.folder" :href="'https://github.com/BoHuYeShan/flesh-is-weak-seminar/blob/main/submissions/' + selected.folder + '/index.md'" target="_blank">
+          <a v-if="selected.folder" :href="'https://github.com/BoHuYeShan/flesh-is-weak-seminar/blob/main/submissions/' + selected.folder + '/index.md'" target="_blank" rel="noopener noreferrer">
             在 GitHub 查看原始文件 →
           </a>
         </footer>

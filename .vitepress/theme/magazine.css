@@ -589,3 +589,102 @@
   .news-grid { grid-template-columns: 1fr; }
   .flip-page { padding: 24px; min-height: 400px; }
 }
+
+/* Swiss overrides for magazine surfaces */
+.shelf,
+.reader-standard,
+.reader-flip {
+  max-width: 1180px;
+  color: #000;
+}
+
+.shelf-nav,
+.reader-toolbar,
+.section-divider,
+.flip-controls {
+  border: 3px solid #000;
+  border-radius: 0;
+  background: #fff;
+}
+
+.reader-toolbar {
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+}
+
+.issue-card,
+.news-card,
+.disc-item,
+.flip-page,
+.mag-article {
+  border: 3px solid #000;
+  border-radius: 0;
+  background: #fff;
+  box-shadow: none;
+}
+
+.issue-card:hover,
+.news-card:hover,
+.disc-item:hover {
+  border-color: #000;
+  background: #ff3000;
+  color: #fff;
+  transform: translateY(-1px);
+  box-shadow: none;
+}
+
+.issue-cover,
+.news-category,
+.article-license,
+.mag-article .article-meta .tag {
+  border-radius: 0;
+  background:
+    repeating-linear-gradient(45deg, rgba(0,0,0,0.035) 0 1px, transparent 1px 10px),
+    #f2f2f2;
+}
+
+.issue-week,
+.section-divider .num,
+.article-category,
+.news-category,
+.flip-news-cat,
+.toolbar-btn:hover,
+.mode-btn.active,
+.nav-btn:hover:not(:disabled),
+.flip-controls button:hover:not(:disabled) {
+  color: #ff3000;
+}
+
+.cover-title,
+.article-title,
+.issue-info h3,
+.news-card h3,
+.disc-content h4,
+.flip-cover h1,
+.flip-article h2,
+.flip-news h2,
+.flip-disc h2 {
+  font-family: Inter, Helvetica, Arial, sans-serif;
+  font-weight: 900;
+  letter-spacing: -0.035em;
+  text-transform: uppercase;
+}
+
+.cover-title {
+  font-size: clamp(44px, 8vw, 96px);
+  line-height: 0.9;
+}
+
+.section-divider .label,
+.toolbar-title,
+.issue-date,
+.issue-stats,
+.news-meta,
+.disc-meta,
+.flip-meta {
+  font-family: "JetBrains Mono", Consolas, monospace;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}

@@ -77,12 +77,28 @@ function inline(text) {
     .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
     .replace(/\*(.*?)\*/g, '<em>$1</em>')
     .replace(/`([^`]+)`/g, '<code>$1</code>')
-    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>')
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_match, label, rawUrl) => {
+      const href = safeUrl(rawUrl)
+      if (!href) return label
+      return `<a href="${href}" target="_blank" rel="noopener noreferrer">${label}</a>`
+    })
     .replace(/\n/g, '<br>')
 }
 
 function escapeHtml(text) {
-  return text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;')
+  return String(text).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;')
+}
+
+function safeUrl(rawUrl) {
+  const decoded = String(rawUrl || '').trim().replace(/&amp;/g, '&')
+  if (!decoded || /[\u0000-\u001f\u007f\s]/.test(decoded)) return ''
+  try {
+    const url = new URL(decoded, 'https://example.invalid')
+    if (!['http:', 'https:', 'mailto:'].includes(url.protocol)) return ''
+    return escapeHtml(decoded)
+  } catch {
+    return ''
+  }
 }
 
 export function extractHeadings(text) {

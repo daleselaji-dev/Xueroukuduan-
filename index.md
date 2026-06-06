@@ -122,8 +122,9 @@ function setCategory(id) { activeCategory.value = id }
           <span class="dcard-link">查看详情 →</span>
         </div>
       </a>
+      <CommunityWidget v-if="item.isSubmission" item-type="submissions" :item-id="item.submissionData.folder" />
       <!-- 讨论卡片 -->
-      <a v-else :href="item.url" target="_blank" class="dcard">
+      <a v-else :href="item.url" target="_blank" rel="noopener noreferrer" class="dcard">
         <div class="dcard-top">
           <img v-if="item.avatar" :src="item.avatar" :alt="item.author" class="avatar" />
           <div>
@@ -137,6 +138,7 @@ function setCategory(id) { activeCategory.value = id }
           <span v-if="item.comments">💬 {{ item.comments }}</span>
         </div>
       </a>
+      <CommunityWidget v-if="!item.isSubmission" :item-type="item.category === 'Announcements' ? 'news' : item.category === 'Show and tell' ? 'tools' : 'discussions'" :item-id="item.id" />
     </template>
   </div>
 </section>
@@ -148,7 +150,7 @@ function setCategory(id) { activeCategory.value = id }
   </div>
   <div v-if="loading" class="empty">加载中...</div>
   <div v-else class="contribs">
-    <a v-for="c in contributors" :key="c.login" :href="c.url" target="_blank" class="contrib">
+    <a v-for="c in contributors" :key="c.login" :href="c.url" target="_blank" rel="noopener noreferrer" class="contrib">
       <img :src="c.avatar" :alt="c.login" />
       <span>{{ c.login }}</span>
       <span class="count">{{ c.contributions }} commits</span>

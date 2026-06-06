@@ -1,0 +1,11 @@
+[Unit]
+Description=Deploy Flesh Is Weak Seminar from GitHub
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+Environment=APP_ROOT=/opt/flesh-is-weak-seminar
+Environment=REPO_URL=https://github.com/BoHuYeShan/flesh-is-weak-seminar.git
+Environment=BRANCH=main
+ExecStart=/usr/local/bin/flesh-seminar-deploy
