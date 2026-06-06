@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-06T09:33:59.121869",
+  "generated": "2026-06-06T15:22:18.073703",
   "totalIssues": 1,
   "issues": [
     {
@@ -11,7 +11,7 @@
       "dateRange": "6月8日 – 6月14日",
       "count": {
         "submissions": 2,
-        "discussions": 1,
+        "discussions": 0,
         "news": 0
       }
     }

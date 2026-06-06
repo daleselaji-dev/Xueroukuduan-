@@ -1,20 +1,5 @@
 {
-  "discussions": [
-    {
-      "id": 1,
-      "title": "[test] DeepSeek-Reasonix：DeepSeek 原生的终端编码 Agent",
-      "body": "## 项目链接\n\nhttps://github.com/esengine/DeepSeek-Reasonix\n\n## 简介\n\n发现了一个很有意思的项目——**Reasonix**，这是一个 DeepSeek 原生的终端编码 Agent。\n\n### 核心亮点\n\n- **缓存优先循环**：运行循环 append-only，对齐 DeepSeek 字节稳定的 prefix-cache，长会话缓存命中 90%+，输入 token 成本降到约 1/5\n- **单个 Go 二进制**：无 CGO，交叉编译覆盖 darwin/linux/windows × amd64/arm64，无需 Node 运行时\n-",
-      "category": "Announcements",
-      "categoryEmoji": "📰",
-      "author": "BoHuYeShan",
-      "avatar": "./avatars/91080289.png",
-      "authorUrl": "https://github.com/BoHuYeShan",
-      "date": "2026-06-05T09:05:12Z",
-      "dateFormatted": "2026/6/5",
-      "comments": 0,
-      "url": "https://github.com/BoHuYeShan/flesh-is-weak-seminar/discussions/1"
-    }
-  ],
+  "discussions": [],
   "submissions": [
     {
       "folder": "2026-06-05-codex-plus-plus",
@@ -61,7 +46,7 @@
     {
       "login": "actions-user",
       "avatar": "./avatars/65916846.png",
-      "contributions": 2,
+      "contributions": 3,
       "url": "https://github.com/actions-user"
     },
     {
@@ -72,12 +57,12 @@
     }
   ],
   "stats": {
-    "discussions": 1,
+    "discussions": 0,
     "submissions": 2,
-    "news": 1,
+    "news": 0,
     "tools": 0,
     "general": 0,
     "contributors": 3
   },
-  "updatedAt": "2026-06-06T09:33:59.019Z"
+  "updatedAt": "2026-06-06T15:22:17.487Z"
 }
