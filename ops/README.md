@@ -18,14 +18,14 @@ Required environment:
 
 ```bash
 APP_ROOT=/opt/flesh-is-weak-seminar
-REPO_URL=https://github.com/BoHuYeShan/flesh-is-weak-seminar.git
+REPO_URL=https://github.com/daleselaji-dev/Xueroukuduan-.git
 BRANCH=main
 ```
 
 Run manually:
 
 ```bash
-sudo APP_ROOT=/opt/flesh-is-weak-seminar REPO_URL=https://github.com/BoHuYeShan/flesh-is-weak-seminar.git BRANCH=main bash ops/deploy-from-github.sh
+sudo APP_ROOT=/opt/flesh-is-weak-seminar REPO_URL=https://github.com/daleselaji-dev/Xueroukuduan-.git BRANCH=main bash ops/deploy-from-github.sh
 ```
 
 For a personal fork or gray release, change `REPO_URL` or `BRANCH`.
