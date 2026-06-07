@@ -31,3 +31,7 @@ sudo APP_ROOT=/opt/flesh-is-weak-seminar REPO_URL=https://github.com/daleselaji-
 For a personal fork or gray release, change `REPO_URL` or `BRANCH`.
 
 The API database is not stored in GitHub. It stays on the server under `/opt/flesh-is-weak-seminar/api/data`.
+
+## Nginx
+
+Use `ops/nginx-flesh-seminar-8082.conf` for the public site. The CSP intentionally allows VitePress inline bootstrap scripts; removing `'unsafe-inline'` from `script-src` leaves the site stuck before hydration.
