@@ -53,7 +53,6 @@ if [ -d "$RELEASE/api" ]; then
   mkdir -p "$API_DIR/data"
   find "$API_DIR" -mindepth 1 -maxdepth 1 ! -name data -exec rm -rf {} +
   cp -a "$RELEASE/api/." "$API_DIR/"
-  rm -rf "$API_DIR/data"
   mkdir -p "$API_DIR/data"
   cd "$API_DIR"
   npm ci --omit=dev
