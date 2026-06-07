@@ -11,7 +11,7 @@ hero:
       link: /discussions
     - theme: alt
       text: GitHub
-      link: https://github.com/BoHuYeShan/flesh-is-weak-seminar
+      link: https://github.com/daleselaji-dev/Xueroukuduan-
 
 features:
   - icon: ✍️
@@ -56,7 +56,7 @@ const filtered = computed(() => {
 
 onMounted(async () => {
   try {
-    const res = await fetch('./data/discussions.json')
+    const res = await fetch('/data/discussions.json')
     const data = await res.json()
     discussions.value = data.discussions || []
     submissions.value = data.submissions || []
@@ -107,7 +107,7 @@ function setCategory(id) { activeCategory.value = id }
   <div v-else class="dlist">
     <template v-for="item in filtered" :key="item.id">
       <!-- 投稿卡片 -->
-      <a v-if="item.isSubmission" href="/flesh-is-weak-seminar/submissions.html" class="dcard submission">
+      <a v-if="item.isSubmission" href="/submissions.html" class="dcard submission">
         <div class="dcard-top">
           <div class="dcard-badge">✍️ 投稿</div>
           <div>

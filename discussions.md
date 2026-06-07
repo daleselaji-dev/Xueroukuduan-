@@ -10,7 +10,7 @@ const loading = ref(true)
 
 onMounted(async () => {
   try {
-    const res = await fetch('./data/discussions.json')
+    const res = await fetch('/data/discussions.json')
     const data = await res.json()
     items.value = data.discussions.filter(d => d.category === 'General')
   } catch (e) {

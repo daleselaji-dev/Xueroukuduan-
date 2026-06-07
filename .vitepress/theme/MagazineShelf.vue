@@ -105,7 +105,7 @@ function openIssue(id) {
 
 onMounted(async () => {
   try {
-    const res = await fetch('./data/magazine/index.json')
+    const res = await fetch('/data/magazine/index.json')
     const data = await res.json()
     issues.value = data.issues || []
 

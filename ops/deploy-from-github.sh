@@ -2,7 +2,7 @@
 set -euo pipefail
 
 APP_ROOT="${APP_ROOT:-/opt/flesh-is-weak-seminar}"
-REPO_URL="${REPO_URL:-https://github.com/BoHuYeShan/flesh-is-weak-seminar.git}"
+REPO_URL="${REPO_URL:-https://github.com/daleselaji-dev/Xueroukuduan-.git}"
 BRANCH="${BRANCH:-main}"
 REPO_DIR="$APP_ROOT/repo"
 SITE_DIR="$APP_ROOT/site"

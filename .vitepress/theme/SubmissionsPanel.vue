@@ -69,7 +69,7 @@ const contentEl = ref(null)
 
 onMounted(async () => {
   try {
-    const res = await fetch('./data/discussions.json')
+    const res = await fetch('/data/discussions.json')
     const data = await res.json()
     items.value = data.submissions || []
   } catch (e) {
