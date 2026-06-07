@@ -17,6 +17,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
+      { text: '发布', link: '/create' },
       { text: '投稿', link: '/submissions' },
       { text: '杂志', link: '/pages/magazine' },
       { text: '新闻', link: '/news' },

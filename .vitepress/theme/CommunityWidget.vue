@@ -2,7 +2,7 @@
   <section class="community" @click.stop>
     <div class="community-reactions">
       <button
-        v-for="emoji in emojis"
+        v-for="emoji in quickEmojis"
         :key="emoji"
         type="button"
         :class="['reaction-btn', { active: reactionState.mine.includes(emoji) }]"
@@ -14,6 +14,26 @@
       </button>
       <button type="button" class="comment-toggle" @click.prevent="commentsOpen = !commentsOpen">
         留言 {{ comments.length }}
+      </button>
+    </div>
+
+    <div class="emoji-tools">
+      <button type="button" :class="['emoji-toggle', { active: pickerOpen }]" @click.prevent="pickerOpen = !pickerOpen">
+        表情面板
+      </button>
+    </div>
+
+    <div v-if="pickerOpen" class="emoji-panel">
+      <button
+        v-for="emoji in emojis"
+        :key="emoji"
+        type="button"
+        :class="['emoji-choice', { active: reactionState.mine.includes(emoji) }]"
+        :disabled="busy"
+        @click.prevent="toggleReaction(emoji)"
+      >
+        <span>{{ emoji }}</span>
+        <small>{{ reactionState.counts[emoji] || 0 }}</small>
       </button>
     </div>
 
@@ -55,10 +75,16 @@ const props = defineProps({
   itemId: { type: [String, Number], required: true },
 })
 
-const emojis = ['👍', '❤️', '😂', '😮', '👀', '🚀']
+const quickEmojis = ['👍', '❤️', '😂', '😮', '👀', '🚀']
+const emojis = [
+  '👍', '👎', '❤️', '😂', '😮', '😢', '😡', '👏',
+  '🙏', '🤔', '👀', '🔥', '🚀', '💯', '✨', '🎉',
+  '💡', '🧠', '🫡', '🤝', '☕', '🌊', '🧩', '🛠️',
+]
 const reactionState = ref({ counts: {}, mine: [] })
 const comments = ref([])
 const commentsOpen = ref(false)
+const pickerOpen = ref(false)
 const busy = ref(false)
 const notice = ref('')
 const displayName = ref('')

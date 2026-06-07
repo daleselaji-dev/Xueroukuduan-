@@ -20,7 +20,10 @@ const wechatAppId = process.env.WECHAT_APP_ID || ''
 const wechatSecret = process.env.WECHAT_APP_SECRET || ''
 const wechatRedirectUri = process.env.WECHAT_REDIRECT_URI || ''
 const allowedTypes = new Set(['news', 'tools', 'discussions', 'submissions', 'magazine'])
-const allowedEmoji = new Set(['👍', '❤️', '😂', '😮', '👀', '🚀'])
+const allowedEmoji = new Set([
+  '👍', '👎', '❤️', '😂', '😮', '😢', '😡', '👏', '🙏', '🤔', '👀', '🔥',
+  '🚀', '💯', '✨', '🎉', '💡', '🧠', '🫡', '🤝', '☕', '🌊', '🧩', '🛠️',
+])
 const rateBuckets = new Map()
 
 db.exec(`
