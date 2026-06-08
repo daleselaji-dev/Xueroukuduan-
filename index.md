@@ -56,7 +56,7 @@ const filtered = computed(() => {
 
 onMounted(async () => {
   try {
-    const res = await fetch('/data/discussions.json')
+    const res = await fetch('/flesh-is-weak-seminar/data/discussions.json')
     const data = await res.json()
     discussions.value = data.discussions || []
     submissions.value = data.submissions || []

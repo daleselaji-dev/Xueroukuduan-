@@ -3,23 +3,30 @@
 export function renderMarkdown(text) {
   if (!text) return ''
 
-  const blocks = text.split(/\n\n+/)
+  // 先提取代码块，避免被段落分割破坏
+  const codeBlocks = []
+  let processed = text.replace(/```(\w*)\n([\s\S]*?)```/g, (match, lang, code) => {
+    const index = codeBlocks.length
+    codeBlocks.push({ lang, code: code.trim() })
+    return `\n__CODE_BLOCK_${index}__\n`
+  })
+
+  const blocks = processed.split(/\n\n+/)
   let html = ''
 
   for (const block of blocks) {
     const trimmed = block.trim()
     if (!trimmed) continue
 
-    // 代码块
-    if (trimmed.startsWith('```')) {
-      const match = trimmed.match(/^```(\w*)\n([\s\S]*?)```$/)
-      if (match) {
-        html += '<pre><code>' + escapeHtml(match[2].trim()) + '</code></pre>'
-        continue
-      }
+    // 代码块占位符
+    const codeMatch = trimmed.match(/^__CODE_BLOCK_(\d+)__$/)
+    if (codeMatch) {
+      const cb = codeBlocks[parseInt(codeMatch[1])]
+      html += '<pre><code>' + escapeHtml(cb.code) + '</code></pre>'
+      continue
     }
 
-    // 标题
+    // 标题（必须在 # 后有空格）
     if (trimmed.startsWith('### ')) { html += '<h3>' + inline(trimmed.slice(4)) + '</h3>'; continue }
     if (trimmed.startsWith('## ')) { html += '<h2>' + inline(trimmed.slice(3)) + '</h2>'; continue }
     if (trimmed.startsWith('# ')) { html += '<h1>' + inline(trimmed.slice(2)) + '</h1>'; continue }
@@ -47,15 +54,20 @@ export function renderMarkdown(text) {
       }
     }
 
-    // 列表
+    // 列表（支持 - 和 *，以及有序列表 1.）
     const listLines = trimmed.split('\n')
-    const allList = listLines.every(l => l.trim().startsWith('- ') || l.trim().startsWith('* ') || l.trim() === '')
+    const allList = listLines.every(l => l.trim().match(/^[-*]\s+/) || l.trim().match(/^\d+\.\s+/) || l.trim() === '')
     if (allList && listLines.filter(l => l.trim()).length > 0) {
-      html += '<ul>'
+      const isOrdered = listLines.some(l => l.trim().match(/^\d+\.\s+/))
+      const tag = isOrdered ? 'ol' : 'ul'
+      html += `<${tag}>`
       for (const l of listLines) {
-        if (l.trim()) html += '<li>' + inline(l.replace(/^\s*[-*]\s+/, '')) + '</li>'
+        if (l.trim()) {
+          const content = l.trim().replace(/^\s*[-*]\s+/, '').replace(/^\s*\d+\.\s+/, '')
+          html += '<li>' + inline(content) + '</li>'
+        }
       }
-      html += '</ul>'
+      html += `</${tag}>`
       continue
     }
 
@@ -104,7 +116,9 @@ function safeUrl(rawUrl) {
 export function extractHeadings(text) {
   if (!text) return []
   const result = []
-  for (const line of text.split('\n')) {
+  // 排除代码块内的内容
+  const withoutCode = text.replace(/```[\s\S]*?```/g, '')
+  for (const line of withoutCode.split('\n')) {
     const m = line.match(/^(#{1,3})\s+(.+)$/)
     if (m) result.push({ level: m[1].length, text: m[2] })
   }

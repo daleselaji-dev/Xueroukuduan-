@@ -1,0 +1,550 @@
+{
+  "date": "2026-06-07",
+  "generated": "2026-06-07T06:34:44.563997",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "b-nnett/goose",
+        "description": "Goose Swift proof-of-concept README",
+        "stars": 2174,
+        "language": "Rust",
+        "url": "https://github.com/b-nnett/goose",
+        "created": "2026-06-02"
+      },
+      {
+        "rank": 2,
+        "name": "cpaczek/skylight",
+        "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
+        "stars": 2117,
+        "language": "TypeScript",
+        "url": "https://github.com/cpaczek/skylight",
+        "created": "2026-06-02"
+      },
+      {
+        "rank": 3,
+        "name": "jd-opensource/JoyAI-Echo",
+        "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+        "stars": 751,
+        "language": "Python",
+        "url": "https://github.com/jd-opensource/JoyAI-Echo",
+        "created": "2026-06-02"
+      },
+      {
+        "rank": 4,
+        "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
+        "description": "",
+        "stars": 592,
+        "language": "Python",
+        "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
+        "created": "2026-06-01"
+      },
+      {
+        "rank": 5,
+        "name": "VAST-AI-Research/TripoSplat",
+        "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
+        "stars": 502,
+        "language": "Python",
+        "url": "https://github.com/VAST-AI-Research/TripoSplat",
+        "created": "2026-06-01"
+      },
+      {
+        "rank": 6,
+        "name": "tastyeffectco/sandboxes",
+        "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+        "stars": 476,
+        "language": "Go",
+        "url": "https://github.com/tastyeffectco/sandboxes",
+        "created": "2026-06-03"
+      },
+      {
+        "rank": 7,
+        "name": "tiantianGPU/reg-factory",
+        "description": "",
+        "stars": 465,
+        "language": "Python",
+        "url": "https://github.com/tiantianGPU/reg-factory",
+        "created": "2026-06-01"
+      },
+      {
+        "rank": 8,
+        "name": "Jane-xiaoer/xiaoer-videolab",
+        "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+        "stars": 456,
+        "language": "JavaScript",
+        "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 9,
+        "name": "Fullive-AI/Anima",
+        "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
+        "stars": 389,
+        "language": "Python",
+        "url": "https://github.com/Fullive-AI/Anima",
+        "created": "2026-06-01"
+      },
+      {
+        "rank": 10,
+        "name": "S-Sigdel/vimhjkl",
+        "description": "learn vim from your terminal with spaced repetition",
+        "stars": 387,
+        "language": "Python",
+        "url": "https://github.com/S-Sigdel/vimhjkl",
+        "created": "2026-06-01"
+      },
+      {
+        "rank": 11,
+        "name": "SenhorH/tab-labeler",
+        "description": "Rename browser tabs locally and bring order to chaotic sessions.",
+        "stars": 384,
+        "language": "TypeScript",
+        "url": "https://github.com/SenhorH/tab-labeler",
+        "created": "2026-06-02"
+      },
+      {
+        "rank": 12,
+        "name": "jeff141/meatshell",
+        "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
+        "stars": 336,
+        "language": "Rust",
+        "url": "https://github.com/jeff141/meatshell",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 13,
+        "name": "zenhosta/9drive",
+        "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files",
+        "stars": 328,
+        "language": "TypeScript",
+        "url": "https://github.com/zenhosta/9drive",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 14,
+        "name": "ConiferKit/sage",
+        "description": "",
+        "stars": 304,
+        "language": null,
+        "url": "https://github.com/ConiferKit/sage",
+        "created": "2026-06-01"
+      },
+      {
+        "rank": 15,
+        "name": "nevertoday/zhongguo-traditional-colors",
+        "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
+        "stars": 282,
+        "language": "JavaScript",
+        "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
+        "created": "2026-06-03"
+      },
+      {
+        "rank": 16,
+        "name": "wy51ai/edulab",
+        "description": "",
+        "stars": 262,
+        "language": "HTML",
+        "url": "https://github.com/wy51ai/edulab",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 17,
+        "name": "CWS6206/ai-coding-starter-kit",
+        "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+        "stars": 261,
+        "language": null,
+        "url": "https://github.com/CWS6206/ai-coding-starter-kit",
+        "created": "2026-06-05"
+      },
+      {
+        "rank": 18,
+        "name": "razr001/align-dev",
+        "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
+        "stars": 257,
+        "language": "TypeScript",
+        "url": "https://github.com/razr001/align-dev",
+        "created": "2026-06-03"
+      },
+      {
+        "rank": 19,
+        "name": "ni5arga/deanonymizer",
+        "description": "Deanonymize anyone based on their public commenting or posting history & pattern.",
+        "stars": 254,
+        "language": "TypeScript",
+        "url": "https://github.com/ni5arga/deanonymizer",
+        "created": "2026-06-02"
+      },
+      {
+        "rank": 20,
+        "name": "torvalds/ScrollWheel",
+        "description": "Minimalist RP2350 magnetic sensor scroll wheel toy project",
+        "stars": 236,
+        "language": "C",
+        "url": "https://github.com/torvalds/ScrollWheel",
+        "created": "2026-06-02"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
+        "authors": [
+          "Lizhi Yang",
+          "Junheng Li",
+          "Nehar Poddar",
+          "Yiling Hou",
+          "Gio Huh"
+        ],
+        "summary": "For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typically demand dense kinematic or spatial references that planners struggle to synthesize from task sema",
+        "url": "http://arxiv.org/abs/2606.06493v1",
+        "pdf": "https://arxiv.org/pdf/2606.06493v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+        "authors": [
+          "Liliana Hotsko",
+          "Yinxi Li",
+          "Yuntian Deng",
+          "Pengyu Nie"
+        ],
+        "summary": "Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long inputs (retrieved through RAG or dependency analysis) or through per-repository fine-tuning and LoRA -- costly at repository scale and brittle to evolv",
+        "url": "http://arxiv.org/abs/2606.06492v1",
+        "pdf": "https://arxiv.org/pdf/2606.06492v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
+        "authors": [
+          "Dong Jing",
+          "Jingchen Nie",
+          "Tianqi Zhang",
+          "Jiaqi Liu",
+          "Huaxiu Yao"
+        ],
+        "summary": "Robot manipulation alternates between low-risk transit phases that call for fast execution and high-risk contact stages that demand slow, precise motion. Yet existing Vision-Language-Action models (VLAs) only inherit a single fixed speed from training demonstrations. Prior efforts to accelerate VLAs",
+        "url": "http://arxiv.org/abs/2606.06491v1",
+        "pdf": "https://arxiv.org/pdf/2606.06491v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Regret Minimization with Adaptive Opponents in Repeated Games",
+        "authors": [
+          "Mingyang Liu",
+          "Asuman Ozdaglar",
+          "Tiancheng Yu",
+          "Kaiqing Zhang"
+        ],
+        "summary": "In this paper, we study regret minimization in repeated games with \\emph{adaptive} opponents who can respond based on histories of play. The standard metric of \\emph{external regret} in online learning is known to fail to capture such adaptivity. To account for players' counterfactual reasoning, we ",
+        "url": "http://arxiv.org/abs/2606.06486v1",
+        "pdf": "https://arxiv.org/pdf/2606.06486v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection",
+        "authors": [
+          "Sondos Mahmoud Bsharat",
+          "Jiacheng Liu",
+          "Xiaohan Zhao",
+          "Tianjun Yao",
+          "Xinyi Shang"
+        ],
+        "summary": "As AI writing assistants become increasingly integrated into real-world drafting and revision workflows, many documents are no longer purely human-written or AI-generated, but instead result from progressive human-AI co-editing. However, existing AI-text detection benchmarks largely focus on final o",
+        "url": "http://arxiv.org/abs/2606.06481v1",
+        "pdf": "https://arxiv.org/pdf/2606.06481v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Pretraining Recurrent Networks without Recurrence",
+        "authors": [
+          "Akarsh Kumar",
+          "Phillip Isola"
+        ],
+        "summary": "Training recurrent neural networks (RNNs) requires assigning credit across long sequences of computations. Standard backpropagation through time (BPTT) addresses this problem poorly: it is sequential in time, limiting parallelism, and suffers from vanishing or exploding gradients, making long-range ",
+        "url": "http://arxiv.org/abs/2606.06479v1",
+        "pdf": "https://arxiv.org/pdf/2606.06479v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "RREDCoT: Segment-Level Reward Redistribution for Reasoning Models",
+        "authors": [
+          "Mykyta Ielanskyi",
+          "Kajetan Schweighofer",
+          "Lukas Aichberger",
+          "Sepp Hochreiter"
+        ],
+        "summary": "Recent advancements in reasoning language models have been driven by Reinforcement Learning (RL) fine-tuning. Most often, these rely on the Group Relative Policy Optimization (GRPO) algorithm or modifications thereof to steer the models to produce Chain-of-Thought (CoT) traces. The final answer can ",
+        "url": "http://arxiv.org/abs/2606.06475v1",
+        "pdf": "https://arxiv.org/pdf/2606.06475v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Self-Augmenting Retrieval for Diffusion Language Models",
+        "authors": [
+          "Paul Jünger",
+          "Justin Lovelace",
+          "Linxi Zhao",
+          "Dongyoung Go",
+          "Kilian Q. Weinberger"
+        ],
+        "summary": "Discrete diffusion language models generate text by iteratively denoising an entire response in parallel. At each step, they predict tentative tokens for every masked position, committing the confident predictions to the output and discarding the unconfident ones. We show that the discarded tokens a",
+        "url": "http://arxiv.org/abs/2606.06474v1",
+        "pdf": "https://arxiv.org/pdf/2606.06474v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery",
+        "authors": [
+          "Shangheng Du",
+          "Xiangchao Yan",
+          "Jinxin Shi",
+          "Zongsheng Cao",
+          "Shiyang Feng"
+        ],
+        "summary": "Large language model (LLM) agents are increasingly applied to long-horizon tasks such as scientific discovery and machine learning engineering (MLE), where sustained self-evolution becomes a key capability. However, existing MLE agents suffer from inter-branch information isolation, memoryless searc",
+        "url": "http://arxiv.org/abs/2606.06473v1",
+        "pdf": "https://arxiv.org/pdf/2606.06473v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training",
+        "authors": [
+          "Senmiao Wang",
+          "Tiantian Fang",
+          "Haoran Zhang",
+          "Yushun Zhang",
+          "Kunxiang Zhao"
+        ],
+        "summary": "We propose a preconditioning (PC) layer, a weight parameterization via polynomial preconditioner that ensures stable weight conditioning throughout LLM training. The PC module reshapes the singular-value spectrum of weight matrices via low-degree polynomial preconditioning. After training, the preco",
+        "url": "http://arxiv.org/abs/2606.06470v1",
+        "pdf": "https://arxiv.org/pdf/2606.06470v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Goedel-Architect: Streamlining Formal Theorem Proving with Blueprint Generation and Refinement",
+        "authors": [
+          "Jui-Hui Chung",
+          "Ziyang Cai",
+          "Zihao Li",
+          "Qishuo Yin",
+          "Rohit Agarwal"
+        ],
+        "summary": "We introduce Goedel-Architect, an agentic framework for formal theorem proving in Lean 4 centered on blueprint generation and refinement. A blueprint is a dependency graph of definitions and lemmas that builds up to the main theorem. First, Goedel-Architect generates a blueprint of formally stated d",
+        "url": "http://arxiv.org/abs/2606.06468v1",
+        "pdf": "https://arxiv.org/pdf/2606.06468v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "You Only Index Once: Cross-Layer Sparse Attention with Shared Routing",
+        "authors": [
+          "Yutao Sun",
+          "Yanqi Zhang",
+          "Li Dong",
+          "Jianyong Wang",
+          "Furu Wei"
+        ],
+        "summary": "Long-context inference in modern LLMs is increasingly constrained by decoding efficiency, especially in reasoning-heavy settings where models generate long intermediate chains of thought. Existing sparse attention methods often face a practical efficiency-quality trade-off. Structured block sparse m",
+        "url": "http://arxiv.org/abs/2606.06467v1",
+        "pdf": "https://arxiv.org/pdf/2606.06467v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Benchmark Everything Everywhere All at Once",
+        "authors": [
+          "Shiyun Xiong",
+          "Dongming Wu",
+          "Peiwen Sun",
+          "Yuang Ai",
+          "Bokang Yang"
+        ],
+        "summary": "Benchmarks are fundamental for evaluating and advancing LLMs and MLLMs by providing standardized and explicit measures of performance. However, their construction is labor-intensive and hard to reuse, raising concerns about sustainability and scalability. Moreover, existing benchmarks often quickly ",
+        "url": "http://arxiv.org/abs/2606.06462v1",
+        "pdf": "https://arxiv.org/pdf/2606.06462v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals",
+        "authors": [
+          "Thamilvendhan Munirathinam"
+        ],
+        "summary": "As autonomous LLM agents increasingly hold real credentials and operate infrastructure without a human in the loop, operators have no standard way to tell an agent that a resource is off-limits. Access controls either let the agent in (it has valid credentials) or hard-fail it (indistinguishable fro",
+        "url": "http://arxiv.org/abs/2606.06460v1",
+        "pdf": "https://arxiv.org/pdf/2606.06460v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "In-Context Multiple Instance Learning",
+        "authors": [
+          "Alexander Möllers",
+          "Marvin Sextro",
+          "Julius Hense",
+          "Gabriel Dernbach",
+          "Klaus-Robert Müller"
+        ],
+        "summary": "Multiple Instance Learning (MIL) addresses problems where supervision is available at the level of bags of instances and has been successfully applied in fields ranging from computational pathology to satellite imagery. Nevertheless, existing algorithms struggle in the low-label regime that characte",
+        "url": "http://arxiv.org/abs/2606.06458v1",
+        "pdf": "https://arxiv.org/pdf/2606.06458v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents",
+        "authors": [
+          "Zhuoming Chen",
+          "Xinrui Zhong",
+          "Qilong Feng",
+          "Ranajoy Sadhukhan",
+          "Yang Zhou"
+        ],
+        "summary": "Sparse attention is becoming increasingly important for serving large language models (LLMs) as generation lengths continue to grow. However, deploying and evaluating new sparse attention algorithms at scale remains highly engineering-intensive, slowing both human researchers and AI agents in explor",
+        "url": "http://arxiv.org/abs/2606.06453v1",
+        "pdf": "https://arxiv.org/pdf/2606.06453v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
+        "authors": [
+          "Yasmine Omri",
+          "Ziyu Gan",
+          "Zachary Broveak",
+          "Robin Geens",
+          "Zexue He"
+        ],
+        "summary": "LLM agents are increasingly deployed on long-horizon tasks requiring sustained reasoning over extended interaction histories. Realizing this at scale requires agents to persistently store, retrieve, and update their own memory across sessions. A rich ecosystem of agent memory systems has emerged spa",
+        "url": "http://arxiv.org/abs/2606.06448v1",
+        "pdf": "https://arxiv.org/pdf/2606.06448v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "RiskFlow: Fast and Faithful Safety-Critical Traffic Scenario Generation",
+        "authors": [
+          "Qi Lan",
+          "Yining Tang",
+          "Yu Shen",
+          "Yi Zhou",
+          "Yuhao Wei"
+        ],
+        "summary": "Safety-critical traffic scenario generation is essential for evaluating autonomous driving systems under rare but high-risk interactions. Existing diffusion-based methods offer strong controllability in closed-loop generation, but their iterative denoising process is computationally expensive and ma",
+        "url": "http://arxiv.org/abs/2606.06423v1",
+        "pdf": "https://arxiv.org/pdf/2606.06423v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Double Preconditioning (DoPr): Optimization for Test-Time Performance, not Validation Loss",
+        "authors": [
+          "Thomas T. Zhang",
+          "Alok Shah",
+          "Yifei Zhang",
+          "Vincent Zhang",
+          "Nikolai Matni"
+        ],
+        "summary": "Many modern applications of deep learning involve training a neural network via a one-step prediction loss (e.g., $L^2$ regression, cross-entropy), but deploy the network by rolling out along its own predictions. Key examples include autoregressive language modeling, flow-based generative modeling, ",
+        "url": "http://arxiv.org/abs/2606.06418v1",
+        "pdf": "https://arxiv.org/pdf/2606.06418v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Unsupervised Skill Discovery for Agentic Data Analysis",
+        "authors": [
+          "Zhisong Qiu",
+          "Kangqi Song",
+          "Shengwei Tang",
+          "Shuofei Qiao",
+          "Lei Liang"
+        ],
+        "summary": "Inference-time skill augmentation provides a lightweight way to improve data-analytic agents by injecting reusable procedural knowledge without updating model parameters. However, discovering effective skills for data analysis remains challenging, as reliable supervision is expensive and success cri",
+        "url": "http://arxiv.org/abs/2606.06416v1",
+        "pdf": "https://arxiv.org/pdf/2606.06416v1",
+        "published": "2026-06-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning",
+        "authors": [
+          "Marius Dragoi",
+          "Ioana Pintilie",
+          "Alexandra Dragomir",
+          "Antonio Barbalau",
+          "Florin Brad"
+        ],
+        "summary": "Parameter-efficient finetuning methods based on spectral decomposition have enabled progress in Continual Learning. In this paper we introduce TailLoR, which utilizes the singular bases U and V of the pre-trained weights as a fixed reference frame to learn a low-rank update applied to the singular v",
+        "url": "http://arxiv.org/abs/2606.06494v1",
+        "pdf": "https://arxiv.org/pdf/2606.06494v1",
+        "published": "2026-06-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "DNQ: Deep Nash Q-Network for Partially Observable n-Player Games",
+        "authors": [
+          "Qintong Xie",
+          "Edward Koh",
+          "Xavier Cadet",
+          "Peter Chin"
+        ],
+        "summary": "Many real-world competitive systems require multiple decision-makers to act simultaneously under shared constraints, limited information, and repeated interaction, as in auctions, resource allocation, and security competition. We study multi-turn simultaneous bidding as a controlled testbed for such",
+        "url": "http://arxiv.org/abs/2606.06480v1",
+        "pdf": "https://arxiv.org/pdf/2606.06480v1",
+        "published": "2026-06-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "How abundant are good interpolators?",
+        "authors": [
+          "August Y. Chen",
+          "Ahmed El Alaoui"
+        ],
+        "summary": "Let $S$ be the set of unit norm linear classifiers $θ\\in \\mathbb{R}^d$ which correctly classify every point of a labeled dataset $(X_i,y_i)_{i=1}^n$, $X_i \\in \\mathbb{R}^d$, $y_i \\in \\{-1,+1\\}$, with a possibly negative margin $κ$ fixed in advance. Under two natural data-generating distributions of ",
+        "url": "http://arxiv.org/abs/2606.06469v1",
+        "pdf": "https://arxiv.org/pdf/2606.06469v1",
+        "published": "2026-06-04",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}

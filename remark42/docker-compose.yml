@@ -1,0 +1,46 @@
+version: "3.8"
+
+services:
+  remark42:
+    image: umputun/remark42:latest
+    container_name: remark42
+    restart: always
+    environment:
+      # 基本配置
+      - REMARK_URL=https://remark42.example.com  # 改为你的域名
+      - SITE=seminar                              # site ID，保持不变即可
+      - SECRET=change-me-to-a-long-random-string  # 用 openssl rand -hex 32 生成
+
+      # 管理员（登录后在日志里找 ADMIN_SHARED_ID）
+      # - ADMIN_SHARED_ID=github_xxxxx
+
+      # 邮箱登录（推荐，群友不需要 GitHub 账号）
+      - AUTH_EMAIL_ENABLE=true
+      - AUTH_EMAIL_FROM=remark42@example.com
+      - SMTP_HOST=smtp.example.com
+      - SMTP_PORT=587
+      - SMTP_USERNAME=remark42@example.com
+      - SMTP_PASSWORD=your-smtp-password
+      - SMTP_TLS=true
+
+      # 可选：匿名登录（不需要任何账号）
+      - AUTH_ANON_ENABLE=true
+
+      # 可选：GitHub OAuth 登录
+      # - AUTH_GITHUB_CID=your_github_client_id
+      # - AUTH_GITHUB_CSEC=your_github_client_secret
+
+      # 数据备份
+      - BACKUP_PATH=/srv/var/backup
+      - MAX_BACKUP_COUNT=30
+
+    volumes:
+      - ./data:/srv/var/data       # 数据文件
+      - ./backup:/srv/var/backup   # 备份
+    ports:
+      - "127.0.0.1:8080:8080"     # 绑定本地，Nginx 反代
+    healthcheck:
+      test: ["CMD", "wget", "-q", "--spider", "http://localhost:8080/api/v1/ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3

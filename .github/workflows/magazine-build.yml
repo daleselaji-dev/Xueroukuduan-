@@ -30,6 +30,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "actions@github.com"
+          git stash
+          git pull --rebase origin main
+          git stash pop || true
           git add public/data/magazine/
           git diff --cached --quiet || git commit -m "📚 杂志数据更新 $(date +%Y-%m-%d)"
           git push

@@ -10,7 +10,7 @@ const loading = ref(true)
 
 onMounted(async () => {
   try {
-    const res = await fetch('/data/discussions.json')
+    const res = await fetch('/flesh-is-weak-seminar/data/discussions.json')
     const data = await res.json()
     contributors.value = data.contributors
   } catch (e) {

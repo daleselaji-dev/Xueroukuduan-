@@ -235,10 +235,34 @@ jobs:
       - name: Build Magazine JSON
         run: python scripts/magazine-build.py
 
+      - name: Crawl Hotlist
+        run: |
+          pip install requests
+          python scripts/crawl-hotlist.py
+
+      # Remark42 邮箱论坛（可选）
+      # 启用方法：设置仓库 Secret REMARK42_URL 为你的 Remark42 地址
+      # 如 https://remark42.example.com
+      # 然后取消下面的注释
+      # - name: Fetch Remark42 Data
+      #   env:
+      #     REMARK42_URL: ${{ secrets.REMARK42_URL }}
+      #     REMARK42_SITE: ${{ secrets.REMARK42_SITE }}
+      #   run: python scripts/fetch-remark42.py
+
+      - name: Generate Config
+        env:
+          REMARK42_URL: ${{ secrets.REMARK42_URL }}
+          REMARK42_SITE: ${{ secrets.REMARK42_SITE }}
+        run: python scripts/generate-config.py
+
       - name: Commit data to repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "actions@github.com"
+          git stash
+          git pull --rebase origin main
+          git stash pop || true
           git add public/data/
           git diff --cached --quiet || git commit -m "📊 数据更新 $(date +%Y-%m-%d)"
           git push

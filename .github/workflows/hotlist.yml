@@ -1,0 +1,38 @@
+name: Daily Hotlist
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每天 UTC 2点（北京时间10点）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Crawl hotlist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/crawl-hotlist.py
+
+      - name: Commit hotlist data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@github.com"
+          git stash
+          git pull --rebase origin main
+          git stash pop || true
+          git add public/data/hotlist/
+          git diff --cached --quiet || git commit -m "🔥 热榜更新 $(date +%Y-%m-%d)"
+          git push

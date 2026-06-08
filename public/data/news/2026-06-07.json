@@ -1,0 +1,475 @@
+{
+  "date": "2026-06-07",
+  "generated": "2026-06-07T12:15:15.521111",
+  "source": "founderkit.md",
+  "digest": "\n\n\n\n## S&P 500 拒绝 AI 巨头：资本市场与 AI 行业关系的深层裂痕\n\n- S&P 500 明确拒绝了 SpaceX 的加入申请，同时阻止了 OpenAI 和 Anthropic 进入指数，这一决定远超普通金融事件范畴——它标志着主流资本开始对 AI 行业中最激进的两类玩家（高估值私营公司、有争议的技术伦理记录）表达系统性排斥，暗示未来 AI 企业上市和进入资本市场将面临更严格审查，而不仅仅是财务指标合格。[(Hacker News)](https://news.ycombinator.com/item?id=48421442)\n\n- 这与 Paul Graham 近期\"Y Combinator 花了20年选择错误的创始人\"的隐晦自我批评形成微妙呼应——当顶级投资人对 AI 行业生态产生疑虑时，资本市场用脚投票的行为可能正在印证这种担忧，AI 行业需要正视其与华尔街之间的信任危机。[(Hacker News)](https://news.ycombinator.com/item?id=48421442) [(X)](https://x.com/paulg/status/2063246591964958747)\n\n## Meta 安全丑闻：AI 聊天机器人成为大规模账号被黑的工具\n\n- Meta 官方确认数千个 Instagram 账号被黑客入侵，攻击手法涉及滥用其 AI 聊天机器人功能，这暴露了一个核心矛盾：当 AI 系统被设计成易于接入时，安全边界也随之扩大——这不是孤立的漏洞事件，而是 AI 产品安全设计的系统性失败，可能引发监管机构对 AI 聊天机器人安全协议的重新审视。[(Hacker News)](https://news.ycombinator.com/item?id=48427643)\n\n- 与另一条关于 Pewdiepie AI 工具中一键管理员账户接管的 Reddit 讨论结合来看，AI 驱动的产品正在成为网络攻击的新入口，从个人账号到企业账户都面临类似风险，这要求 AI 安全研究社区将\"AI 被用于攻击\"纳入威胁模型，而不仅仅是防御对抗性输入。[(Hacker News)](https://news.ycombinator.com/item?id=48427643) [(Reddit)](https://www.reddit.com/r/LocalLLaMA/comments/1tys1wj/another_1click_admin_account_takeover_in/)\n\n## Gemini 迭代停滞与本地推理效率突破：AI 格局的关键分化\n\n- Ethan Mollick 直指 Gemini Pro 模型自今年2月发布3.1 Pro后几乎停止迭代，与 Claude 和 GPT 的性能差距正在扩大，这不仅是 Google AI 产品线的问题，更暗示着技术迭代速度正在成为 AI 竞争的核心变量——那些能保持快速迭代的组织将积累指数级优势，而停滞者将被远远甩开。[(X)](https://x.com/emollick/status/2063307399537004907)\n\n- 同期社区传来重大突破：KVarN 6-bit 量化在 KV cache 上的性能与 q8_0 相当，4-bit 与 q5_0 相当；而 Gemma 4 12B QAT 模型在仅12GB显存下达到120 tok/s 的推理速度——这意味着本地 AI 推理的效率边界正在被快速推进，与云端模型的质量差距缩小同时，成本效率差距也在缩小，对闭源云服务形成直接竞争压力。[(Reddit)](https://www.reddit.com/r/LocalLLaMA/comments/1tyockn/kv_cache_quant_benchmarks_kvarn_6bit_matches_q8_0/) [(Reddit)](https://www.reddit.com/r/LocalLLaMA/comments/1typjmc/120_toks_on_12gb_vram_with_gemma_4_12b_qat_mtp/)\n\n## Yann LeCun 明确宣判 VLA 架构死刑，开源生态持续深化\n\n- Yann LeCun 在推文中明确表示\"VLAs are dead\"，并强调\"无法预测行动后果就无法行动\"，这是 Meta AI 负责人对视觉语言动作模型架构的全面否定——不同于学术讨论，这更像是内部路线确认，意味着 Meta 未来将押注于其他范式（如 VLMs + 独立动作模块），这一判断将影响开源 AI 社区的资源分配和研究方向。[(X)](https://x.com/ylecun/status/2063242146593841645) [(X)](https://x.com/ylecun/status/2063332501171376240)\n\n- 开源社区在 Agent 框架层面持续发力：NousResearch 的 Hermes-Agent 定位为\"自我改进 AI agent\"进入 GitHub Trending，MemPalace 作为开源 AI 记忆系统获得高基准测试评价，Headroom 工具能压缩60-95%的 token 使用量——这些工具链的成熟表明开源 AI 生态正在从模型竞争转向系统优化和工程实践，这将是决定 AI 应用落地效率的关键战场。[(GitHub)](https://github.com/NousResearch/hermes-agent) [(GitHub)](https://github.com/MemPalace/mempalace) [(GitHub)](https://github.com/chopratejas/headroom)\n\n---\n\n**今日核心**：S&P 500 拒绝 AI 巨头入场与 Meta AI 聊天机器人被滥用两大事件共同揭示，AI 行业正面临资本信任与安全可信度的双重考验，而本地推理效率的突破可能为开源生态打开新的竞争窗口。",
+  "count": 65,
+  "articles": [
+    {
+      "title": "Tokenomics: 量化代币在自主软件工程中的使用位置",
+      "summary": "",
+      "category": "技术",
+      "source": "Hacker News",
+      "link": "https://arxiv.org/abs/2601.14470",
+      "score": 46
+    },
+    {
+      "title": "Public Domain Image Archive",
+      "summary": "",
+      "category": "技术",
+      "source": "Hacker News",
+      "link": "https://pdimagearchive.org/",
+      "score": 58
+    },
+    {
+      "title": "Show HN: TakoVM – 企业使用的隔离模型与工具执行环境",
+      "summary": "",
+      "category": "技术",
+      "source": "Hacker News",
+      "link": "https://github.com/las7/TakoVM",
+      "score": 9
+    },
+    {
+      "title": "Meta确认数千个Instagram账户因滥用其AI聊天机器人而被黑客入侵",
+      "summary": "",
+      "category": "技术",
+      "source": "Hacker News",
+      "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "score": 478
+    },
+    {
+      "title": "Show HN: DomainTasker – 避免域名丢失和意外续费",
+      "summary": "",
+      "category": "技术",
+      "source": "Hacker News",
+      "link": "https://domaintasker.com/",
+      "score": 17
+    },
+    {
+      "title": "Computex 2026: 我们是否即将进入Agentic PC时代？ – EE Times",
+      "summary": "",
+      "category": "技术",
+      "source": "Hacker News",
+      "link": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+      "score": 29
+    },
+    {
+      "title": "消息人士称，五角大楼将以色列对美国进行间谍活动的威胁提升至最高级别",
+      "summary": "",
+      "category": "技术",
+      "source": "Hacker News",
+      "link": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+      "score": 472
+    },
+    {
+      "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+      "summary": "",
+      "category": "技术",
+      "source": "Hacker News",
+      "link": "https://arxiv.org/abs/2605.00414",
+      "score": 44
+    },
+    {
+      "title": "DoD 正式从军方认可的宗教名单中移除180个信仰",
+      "summary": "",
+      "category": "技术",
+      "source": "Hacker News",
+      "link": "https://www.military.com/dod-officially-drops-180-faiths-from-militarys-recognized-religion-list",
+      "score": 48
+    },
+    {
+      "title": "法学教授更青睐AI而非同行答案",
+      "summary": "",
+      "category": "技术",
+      "source": "Hacker News",
+      "link": "https://law.stanford.edu/publications/law-professors-prefer-ai-over-peer-answers/",
+      "score": 14
+    },
+    {
+      "title": "S&P 500 拒绝 SpaceX，同时阻止 OpenAI 和 Anthropic 进入",
+      "summary": "",
+      "category": "技术",
+      "source": "Hacker News",
+      "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "score": 1390
+    },
+    {
+      "title": "micropython-wasm 0.1a2",
+      "summary": "Release: micropython-wasm 0.1a2\n        我向 micropython-wasm 添加了一个 CLI（问题 #7），受博客文章初稿的启发，当我意识到这将是一个展示“自己试试”部分的好方法时。\n    \n    \n        标签: python, sandboxing, webassembly, micropython",
+      "category": "AI",
+      "source": "Simon Willison",
+      "link": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything"
+    },
+    {
+      "title": "LLM Research Papers: The 2026 List (January to May)",
+      "summary": "今年发布的值得关注的大语言模型研究论文精选汇总",
+      "category": "AI",
+      "source": "Ahead of AI",
+      "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "summary": "与你一同成长的 agent\nHermes Agent ☤\n\n由 Nous Research 构建的自我改进 AI agent。它是唯一具有内置学习循环的 agent——它从经验中创建技能，改",
+      "category": "开源",
+      "source": "GitHub Trending",
+      "link": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "title": "chopratejas/headroom",
+      "summary": "在输出、日志、文件和RAG分块到达LLM之前对其进行压缩。减少60-95%的token，答案不变。提供库、代理、MCP服务器。  ██╗  ██╗███████╗ █████╗ ██████╗ ██████╗  ██████╗  ██████╗",
+      "category": "开源",
+      "source": "GitHub Trending",
+      "link": "https://github.com/chopratejas/headroom"
+    },
+    {
+      "title": "Panniantong/Agent-Reach",
+      "summary": "为你的AI Agent装上观察整个互联网的眼睛。读取并搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu——一个CLI，零API费用。👁️ Agent Reach \n 给你的AI Agent一键装上互联网能力  \n     \n 快速开始",
+      "category": "开源",
+      "source": "GitHub Trending",
+      "link": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "title": "666ghj/MiroFish",
+      "summary": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 \n  \n  \n 简洁通用的群体智能引擎，预测万物  A Simple and Universal Swarm Intelligence Engine, Predicting Anything",
+      "category": "开源",
+      "source": "GitHub Trending",
+      "link": "https://github.com/666ghj/MiroFish"
+    },
+    {
+      "title": "mvanhorn/last30days-skill",
+      "summary": "AI agent 技能，可在 Reddit、X、YouTube、HN、Polymarket 和网络上研究任何主题，然后生成基于事实的摘要/last30days\n         \n由 AI agent 主导的搜索引擎，按点赞数评分",
+      "category": "开源",
+      "source": "GitHub Trending",
+      "link": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "title": "PaddlePaddle/PaddleOCR",
+      "summary": "将任何 PDF 或图像文档转换为结构化数据，供 AI 使用。强大的轻量级 OCR 工具包，弥合图像/PDF 与 LLM 之间的鸿沟。支持 100+ 种语言。\n\n全球领先 O",
+      "category": "开源",
+      "source": "GitHub Trending",
+      "link": "https://github.com/PaddlePaddle/PaddleOCR"
+    },
+    {
+      "title": "MemPalace/mempalace",
+      "summary": "经过最佳基准测试的开源AI记忆系统。而且它是免费的。\n  \n MemPalace \n 本地优先的AI记忆。逐字存储，可插拔后端，在LongMemEval上达到96.6% R@5 raw——零API调用。",
+      "category": "开源",
+      "source": "GitHub Trending",
+      "link": "https://github.com/MemPalace/mempalace"
+    },
+    {
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "summary": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. \n 📈 股票智能分析系统 \n       \n     \n  \n  🤖 基于 AI 大模型的 A股/港股/美股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到",
+      "category": "开源",
+      "source": "GitHub Trending",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    },
+    {
+      "title": "microsoft/agent-framework",
+      "summary": "一个用于构建、编排和部署AI智能体与多智能体工作流的框架，支持Python和.NET。\n欢迎使用Microsoft Agent Framework！\n    \n欢迎使用微软的全面",
+      "category": "开源",
+      "source": "GitHub Trending",
+      "link": "https://github.com/microsoft/agent-framework"
+    },
+    {
+      "title": "jundot/omlx",
+      "summary": "为Apple Silicon提供连续批处理和SSD缓存的LLM推理服务器——可通过macOS菜单栏管理 \n  \n   \n   \n   \n   \noMLX \nLLM推理，为你的Mac优化连续批处理和t",
+      "category": "开源",
+      "source": "GitHub Trending",
+      "link": "https://github.com/jundot/omlx"
+    },
+    {
+      "title": "unslothai/unsloth",
+      "summary": "Unsloth Studio是一个用于本地训练和运行Qwen3.5、Gemma 4、DeepSeek、gpt-oss等开源模型的Web界面。\n\n\n\n\n\n通过统一的本地界面运行和训练AI模型。\nF",
+      "category": "开源",
+      "source": "GitHub Trending",
+      "link": "https://github.com/unslothai/unsloth"
+    },
+    {
+      "title": "microsoft/BitNet",
+      "summary": "1-bit LLMs的官方推理框架bitnet.cpp \n  \n \n通过此演示尝试，或在您自己的CPU或GPU上构建并运行它。\nbitnet.cpp 是1-bit LLMs（例如，",
+      "category": "开源",
+      "source": "GitHub Trending",
+      "link": "https://github.com/microsoft/BitNet"
+    },
+    {
+      "title": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "summary": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms \nOpen-LLM-VTuber \n        \n  \n  📢 v2.0 开发中：我们正专注于Op",
+      "category": "开源",
+      "source": "GitHub Trending",
+      "link": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+    },
+    {
+      "title": "vllm-project/vllm-omni",
+      "summary": "用于全模态模型高效推理的框架\n  \n   \n   \n   \n 为每个人提供简单、快速且低成本的全模态模型服务\n  | 文档 | DeepWiki | 用户论坛 | 开发",
+      "category": "开源",
+      "source": "GitHub Trending",
+      "link": "https://github.com/vllm-project/vllm-omni"
+    },
+    {
+      "title": "agentscope-ai/agentscope",
+      "summary": "构建并运行您可以看到、理解和信任的agents。\n中文主页 | Tutorial | Roadmap (2026年1月-) | FAQ\n\n\n什么是AgentScope？\nAgentScope是一个可用于生产、易于使用的a",
+      "category": "开源",
+      "source": "GitHub Trending",
+      "link": "https://github.com/agentscope-ai/agentscope"
+    },
+    {
+      "title": "@googleaistudio: 你这周末在 vibe coding 什么？",
+      "summary": "你这周末在 vibe coding 什么？",
+      "category": "Twitter",
+      "source": "Google AI Studio",
+      "link": "https://x.com/googleaistudio/status/2063324861574082773"
+    },
+    {
+      "title": "@demishassabis: @sriramk 感谢您的服务 @sriramk！对您的新篇章充满期待！",
+      "summary": "@sriramk 感谢您的服务 @sriramk！对您的新篇章充满期待！",
+      "category": "Twitter",
+      "source": "Demis Hassabis",
+      "link": "https://x.com/demishassabis/status/2063373030370185439"
+    },
+    {
+      "title": "@AravSrinivas: 感谢 @LipBuTan1 和 @intel 与 Perplexity 合作，将搭载本地模型和混合推理的个人电脑引入 I",
+      "summary": "感谢 @LipBuTan1 和 @intel 与 Perplexity 合作，将搭载本地模型和混合推理的个人电脑引入 Intel Ultra Series 3 笔记本电脑！",
+      "category": "Twitter",
+      "source": "Aravind Srinivas",
+      "link": "https://x.com/AravSrinivas/status/2063341557923901584"
+    },
+    {
+      "title": "@gdb: 每当我在某个任务中没有使用codex时，我都会问自己为什么，通常会发现要么缺少某些上下文，要么需要编写一个技能，要么只是",
+      "summary": "每当我在某个任务中没有使用codex时，我都会问自己为什么，通常会发现要么缺少某些上下文，要么需要编写一个技能，要么只是没想到去使用它。\n\n很少是因为任务超出了模型的能力范围。当前感觉技术储备（overhang）还很充足。",
+      "category": "Twitter",
+      "source": "Greg Brockman",
+      "link": "https://x.com/gdb/status/2063437915347136554"
+    },
+    {
+      "title": "@gdb: @_adishj @OpenAI 谢谢——团队正在全力研发！",
+      "summary": "@_adishj @OpenAI 谢谢——团队正在全力研发！",
+      "category": "Twitter",
+      "source": "Greg Brockman",
+      "link": "https://x.com/gdb/status/2063436882080391470"
+    },
+    {
+      "title": "@gdb: @pnpmjs @OpenAI @github 不客气，感谢你为JS生态所做的一切。",
+      "summary": "@pnpmjs @OpenAI @github 不客气，感谢你为JS生态所做的一切。",
+      "category": "Twitter",
+      "source": "Greg Brockman",
+      "link": "https://x.com/gdb/status/2063334239450640673"
+    },
+    {
+      "title": "@ylecun: 真是胡说八道。\n\n那个孤独、孤立且资源匮乏的研究者的故事，在我职业生涯初期也适用。\n\n莱特兄弟、勒努瓦、本茨和戴姆勒都是",
+      "summary": "真是胡说八道。\n\n那个孤独、孤立且资源匮乏的研究者的故事，在我职业生涯初期也适用。\n\n莱特兄弟、勒努瓦、本茨和戴姆勒都是天才的创新者和修补匠。但这里讨论的是技术发展，而非研究。",
+      "category": "Twitter",
+      "source": "Yann LeCun",
+      "link": "https://x.com/ylecun/status/2063393463983341964"
+    },
+    {
+      "title": "@ylecun: @Noahpinion 我不明白为什么不行。\n迟早的事。\n🤗",
+      "summary": "@Noahpinion 我不明白为什么不行。\n迟早的事。\n🤗",
+      "category": "Twitter",
+      "source": "Yann LeCun",
+      "link": "https://x.com/ylecun/status/2063384978042314823"
+    },
+    {
+      "title": "@ylecun: @jeffcafe_ @Dan_Jeffries1 这简直和现实差了十万八千里。\n你一定是个很糟糕的“私家侦探”。",
+      "summary": "@jeffcafe_ @Dan_Jeffries1 这简直和现实差了十万八千里。\n你一定是个很糟糕的“私家侦探”。",
+      "category": "Twitter",
+      "source": "Yann LeCun",
+      "link": "https://x.com/ylecun/status/2063382956765266170"
+    },
+    {
+      "title": "@fchollet: Scaling knowledge gives you static competence. Intelligence ",
+      "summary": "Scaling knowledge gives you static competence. Intelligence gives you adaptability.",
+      "category": "Twitter",
+      "source": "François Chollet",
+      "link": "https://x.com/fchollet/status/2063350697626845639"
+    },
+    {
+      "title": "@fchollet: 代码量并不代表生产力。",
+      "summary": "代码量并不代表生产力。",
+      "category": "Twitter",
+      "source": "François Chollet",
+      "link": "https://x.com/fchollet/status/2063288883052491011"
+    },
+    {
+      "title": "@emollick: @Chestu_eth 嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡：提示词不佳。已屏蔽。",
+      "summary": "@Chestu_eth 嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡：提示词不佳。已屏蔽。",
+      "category": "Twitter",
+      "source": "Ethan Mollick",
+      "link": "https://x.com/emollick/status/2063370292982956220"
+    },
+    {
+      "title": "@emollick: @Surreal_Intel 文字、思想、创意——以表单形式发送给需要的人。",
+      "summary": "@Surreal_Intel 文字、思想、创意——以表单形式发送给需要的人。",
+      "category": "Twitter",
+      "source": "Ethan Mollick",
+      "link": "https://x.com/emollick/status/2063369616160629164"
+    },
+    {
+      "title": "@emollick: 希望AI成为更优秀写作者的一个原因在于，即便是在软件领域也存在大量写作需求，而面对充斥着Claudisms或ChatGP",
+      "summary": "希望AI成为更优秀写作者的一个原因在于，即便是在软件领域也存在大量写作需求，而面对充斥着Claudisms或ChatGPTish风格的菜单选项时，体验会极其痛苦。\n\n一份报告并非“会议结论”，分析报告也不是“每个数字都有意义”。",
+      "category": "Twitter",
+      "source": "Ethan Mollick",
+      "link": "https://x.com/emollick/status/2063368660798898284"
+    },
+    {
+      "title": "@swyx: idea - 通用基本人工智能：\n\n为每位美国公民发放1股xai、oai和ant。\n\n成本\nSpaceXai：135.0",
+      "summary": "idea - 通用基本人工智能：\n\n为每位美国公民发放1股xai、oai和ant。\n\n成本\nSpaceXai：135.00美元 × 3.49亿 = 470亿美元\nOpenAI：733.54美元 × 3.49亿 = 2560亿美元\nAnthropic：930.45美元 × 3.49亿 = 3250亿美元\n\n总成本6280亿美元，占美国政府预算的8.5%，国防预算的62%，与约7000亿美元的TARP大致相当",
+      "category": "Twitter",
+      "source": "Swyx",
+      "link": "https://x.com/swyx/status/2063474153995526219"
+    },
+    {
+      "title": "@swyx: 一个流行的理论是，研究论文alpha*和实验室发表~消亡，是因为研究人员意识到，与其与营销部门争斗，不如直接走出门去，就",
+      "summary": "一个流行的理论是，研究论文alpha*和实验室发表~消亡，是因为研究人员意识到，与其与营销部门争斗，不如直接走出门去，就能凭借其受法律保护的隐性知识获得超过1亿美元的收益。\n\n加州非竞争条款的失效对",
+      "category": "Twitter",
+      "source": "Swyx",
+      "link": "https://x.com/swyx/status/2063432747432268259"
+    },
+    {
+      "title": "@swyx: @VibeGuessing @saranormous @satyanadella 我看到Sarah和Elad大展身手，学",
+      "summary": "@VibeGuessing @saranormous @satyanadella 我看到Sarah和Elad大展身手，学到了很多！",
+      "category": "Twitter",
+      "source": "Swyx",
+      "link": "https://x.com/swyx/status/2063426035337789831"
+    },
+    {
+      "title": "@amasad: @wreckmyshit 完全同意",
+      "summary": "@wreckmyshit 完全同意",
+      "category": "Twitter",
+      "source": "Amjad Masad",
+      "link": "https://x.com/amasad/status/2063397023299334634"
+    },
+    {
+      "title": "@amasad: @hakarishhagadol 你亲自辟谣了吗？",
+      "summary": "@hakarishhagadol 你亲自辟谣了吗？",
+      "category": "Twitter",
+      "source": "Amjad Masad",
+      "link": "https://x.com/amasad/status/2063395884738765218"
+    },
+    {
+      "title": "@amasad: @arlogilbert 是的，加入那些平庸者吧，soyjak",
+      "summary": "@arlogilbert 是的，加入那些平庸者吧，soyjak",
+      "category": "Twitter",
+      "source": "Amjad Masad",
+      "link": "https://x.com/amasad/status/2063387238466298160"
+    },
+    {
+      "title": "@rauchg: @mickces 酷！",
+      "summary": "@mickces 酷！",
+      "category": "Twitter",
+      "source": "Guillermo Rauch",
+      "link": "https://x.com/rauchg/status/2063361812565799151"
+    },
+    {
+      "title": "@rauchg: @Peterintech @nextjs 我们在扩展和缩减方面付出了巨大努力：无论是大型项目还是小型项目。\n\n我们还押注",
+      "summary": "@Peterintech @nextjs 我们在扩展和缩减方面付出了巨大努力：无论是大型项目还是小型项目。\n\n我们还押注于一种高度可扩展但（理所当然！）复杂的架构，这种架构需要一段时间才能成熟。",
+      "category": "Twitter",
+      "source": "Guillermo Rauch",
+      "link": "https://x.com/rauchg/status/2063324466529349776"
+    },
+    {
+      "title": "@rauchg: @giuseppegurgone @v0 @nextjs 🫡",
+      "summary": "@giuseppegurgone @v0 @nextjs 🫡",
+      "category": "Twitter",
+      "source": "Guillermo Rauch",
+      "link": "https://x.com/rauchg/status/2063175745397309646"
+    },
+    {
+      "title": "@garrytan: @Alex_TGH 它是免费的，那就别用吧",
+      "summary": "@Alex_TGH 它是免费的，那就别用吧",
+      "category": "Twitter",
+      "source": "Garry Tan",
+      "link": "https://x.com/garrytan/status/2063464218486280413"
+    },
+    {
+      "title": "@garrytan: @TinaJucyBlue 这个工具是免费的",
+      "summary": "@TinaJucyBlue 这个工具是免费的",
+      "category": "Twitter",
+      "source": "Garry Tan",
+      "link": "https://x.com/garrytan/status/2063464174064406937"
+    },
+    {
+      "title": "@garrytan: @chiragdotxyz 链接里有",
+      "summary": "@chiragdotxyz 链接里有",
+      "category": "Twitter",
+      "source": "Garry Tan",
+      "link": "https://x.com/garrytan/status/2063464101041643754"
+    },
+    {
+      "title": "@danshipper: @jonnym1ller 这基本上说得很对",
+      "summary": "@jonnym1ller 这基本上说得很对",
+      "category": "Twitter",
+      "source": "Dan Shipper",
+      "link": "https://x.com/danshipper/status/2063443275273457851"
+    },
+    {
+      "title": "@danshipper: 再补充两个具有递增价值的理念：\n\nAidōs——对他人的敬畏与回应\nDikē——辨别是非的能力",
+      "summary": "再补充两个具有递增价值的理念：\n\nAidōs——对他人的敬畏与回应\nDikē——辨别是非的能力",
+      "category": "Twitter",
+      "source": "Dan Shipper",
+      "link": "https://x.com/danshipper/status/2063436919967522848"
+    },
+    {
+      "title": "@danshipper: @_quanta_ 如果……",
+      "summary": "@_quanta_ 如果……",
+      "category": "Twitter",
+      "source": "Dan Shipper",
+      "link": "https://x.com/danshipper/status/2063432675227034103"
+    },
+    {
+      "title": "@mattturck: @albn @RomainLavault @Jameswise @gpcastle12 @2lr @brendaniri",
+      "summary": "@albn @RomainLavault @Jameswise @gpcastle12 @2lr @brendaniribe ❤️",
+      "category": "Twitter",
+      "source": "Matt Turck",
+      "link": "https://x.com/mattturck/status/2063374036881596450"
+    },
+    {
+      "title": "@mattturck: @PouliotDave 😱😂",
+      "summary": "@PouliotDave 😱😂",
+      "category": "Twitter",
+      "source": "Matt Turck",
+      "link": "https://x.com/mattturck/status/2063276166891372594"
+    },
+    {
+      "title": "@paulg: @wilkinsoncape 我每期都会进行office hours。虽然因为Covid错过了几期，但我从未停止过。",
+      "summary": "@wilkinsoncape 我每期都会进行office hours。虽然因为Covid错过了几期，但我从未停止过。",
+      "category": "Twitter",
+      "source": "Paul Graham",
+      "link": "https://x.com/paulg/status/2063414818728743167"
+    },
+    {
+      "title": "@paulg: @alistairmcleay YC本身就是这样。如果你自己这么说，没人会相信，但这是事实。实际上，这是合伙人招聘的测试",
+      "summary": "@alistairmcleay YC本身就是这样。如果你自己这么说，没人会相信，但这是事实。实际上，这是合伙人招聘的测试之一。",
+      "category": "Twitter",
+      "source": "Paul Graham",
+      "link": "https://x.com/paulg/status/2063411185719165358"
+    },
+    {
+      "title": "@paulg: @ewilliamsh 问问你的小组伙伴。由他们决定推荐谁。",
+      "summary": "@ewilliamsh 问问你的小组伙伴。由他们决定推荐谁。",
+      "category": "Twitter",
+      "source": "Paul Graham",
+      "link": "https://x.com/paulg/status/2063410286582010345"
+    },
+    {
+      "title": "@dwarkesh_sp: 前20次 reps 你会发出可怕的呻吟声，并且会以为自己已经力竭了。然后 Mike 会要求你再做10次 reps，而你会",
+      "summary": "前20次 reps 你会发出可怕的呻吟声，并且会以为自己已经力竭了。然后 Mike 会要求你再做10次 reps，而你会尖叫着完成它们。谢谢你带来这么有趣的训练，Mike！",
+      "category": "Twitter",
+      "source": "Dwarkesh Patel",
+      "link": "https://x.com/dwarkesh_sp/status/2063363586550866023"
+    },
+    {
+      "title": "@dwarkesh_sp: 谁的偏好将决定遥远未来的形态？Alex Imas与Phil Trammell展开辩论：\n\n- Alex推测，对人类具有内",
+      "summary": "谁的偏好将决定遥远未来的形态？Alex Imas与Phil Trammell展开辩论：\n\n- Alex推测，对人类具有内在偏好且对AI服务持道德反对态度的人，将更善于寻找其他人类进行繁衍。长期来看，进化...",
+      "category": "Twitter",
+      "source": "Dwarkesh Patel",
+      "link": "https://x.com/dwarkesh_sp/status/2063335334566621297"
+    },
+    {
+      "title": "@dwarkesh_sp: 摩尔定律的悲观解读：每18个月，计算价值的价值减半。",
+      "summary": "摩尔定律的悲观解读：每18个月，计算价值的价值减半。",
+      "category": "Twitter",
+      "source": "Dwarkesh Patel",
+      "link": "https://x.com/dwarkesh_sp/status/2063274857912221844"
+    }
+  ]
+}

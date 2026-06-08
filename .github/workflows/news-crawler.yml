@@ -1,8 +1,8 @@
 name: Daily News Crawler
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # 每天 UTC 0点（北京时间8点）
+  # schedule:
+  #   - cron: '0 0 * * *'  # 暂时禁用，等确定信源后再开
   workflow_dispatch:
 
 permissions:

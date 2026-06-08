@@ -57,17 +57,15 @@ def get_iso_week(date_str: str) -> tuple[int, int]:
 
 
 def get_week_date_range(year: int, week: int) -> str:
-    """获取某周的日期范围字符串"""
+    """获取某周的日期范围字符串（使用 ISO 标准）"""
     try:
-        # ISO week 的第一天是周一
-        jan1 = date(year, 1, 1)
-        # 找到该年的第一个周一
-        first_monday = jan1
-        while first_monday.weekday() != 0:
-            first_monday = date.fromordinal(first_monday.toordinal() + 1)
-        # 计算目标周的周一
         from datetime import timedelta
-        target_monday = first_monday + timedelta(weeks=week - 1)
+        # ISO 标准：1月4日所在的周一定是 week 1
+        jan4 = date(year, 1, 4)
+        # 找到 week 1 的周一
+        week1_monday = jan4 - timedelta(days=jan4.weekday())
+        # 计算目标周的周一
+        target_monday = week1_monday + timedelta(weeks=week - 1)
         target_sunday = target_monday + timedelta(days=6)
         return f"{target_monday.month}月{target_monday.day}日 – {target_sunday.month}月{target_sunday.day}日"
     except:
@@ -78,11 +76,10 @@ def get_week_label(year: int, week: int) -> str:
     """获取期标签"""
     try:
         from datetime import timedelta
-        jan1 = date(year, 1, 1)
-        first_monday = jan1
-        while first_monday.weekday() != 0:
-            first_monday = date.fromordinal(first_monday.toordinal() + 1)
-        target_monday = first_monday + timedelta(weeks=week - 1)
+        # ISO 标准：1月4日所在的周一定是 week 1
+        jan4 = date(year, 1, 4)
+        week1_monday = jan4 - timedelta(days=jan4.weekday())
+        target_monday = week1_monday + timedelta(weeks=week - 1)
         month_names = ['', '一月', '二月', '三月', '四月', '五月', '六月',
                        '七月', '八月', '九月', '十月', '十一月', '十二月']
         month_name = month_names[target_monday.month]
