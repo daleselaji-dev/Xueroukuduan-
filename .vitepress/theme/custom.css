@@ -812,6 +812,178 @@ a:hover { color: var(--cyan); }
   border-top: var(--swiss-border);
 }
 
+/* ── ContentReactions ── */
+.content-reactions {
+  margin-top: 16px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+}
+.cr-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+}
+.cr-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--surface);
+  color: var(--text);
+  font-size: 13px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.cr-btn:hover { border-color: var(--cyan); }
+.cr-btn.active { background: var(--cyan-dim); border-color: var(--cyan); }
+.cr-btn small { font-family: var(--font-mono); font-size: 11px; color: var(--faint); }
+.cr-picker-toggle span { font-size: 16px; }
+.cr-picker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 8px;
+  padding: 8px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+.cr-pick {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  background: transparent;
+  font-size: 18px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.cr-pick:hover { background: var(--surface); border-color: var(--border); }
+.cr-pick.active { background: var(--cyan-dim); border-color: var(--cyan); }
+
+/* ── ExperiencePanel ── */
+.exp-panel {
+  margin-top: 12px;
+  padding: 12px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+.exp-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text);
+}
+.exp-header small { color: var(--faint); }
+.exp-identity,
+.exp-form {
+  display: grid;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+.exp-identity input,
+.exp-form textarea {
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 8px 10px;
+  font: 500 13px/1.4 var(--font-body);
+  background: var(--surface);
+  color: var(--text);
+}
+.exp-identity input:focus,
+.exp-form textarea:focus { outline: 2px solid var(--cyan); outline-offset: 0; }
+.exp-form textarea { resize: vertical; min-height: 60px; }
+.exp-identity button,
+.exp-form button {
+  justify-self: start;
+  padding: 6px 16px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.exp-identity button:hover,
+.exp-form button:hover { background: var(--cyan); color: #fff; border-color: var(--cyan); }
+.exp-notice {
+  margin: 6px 0;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--cyan);
+}
+.exp-empty {
+  text-align: center;
+  padding: 16px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--faint);
+}
+.exp-item {
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+  border-top: 1px solid var(--border);
+}
+.exp-item:first-of-type { border-top: 0; }
+.exp-item img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--border);
+}
+.exp-content header {
+  display: flex;
+  gap: 8px;
+  align-items: baseline;
+}
+.exp-content strong {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 700;
+}
+.exp-content time {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--faint);
+}
+.exp-content p {
+  margin: 4px 0 0;
+  font-size: 13px;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+/* ── Lifecycle badges ── */
+.lifecycle-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.lifecycle-badge.fresh { background: rgba(0,180,80,0.1); color: #00b450; }
+.lifecycle-badge.archived { background: var(--card); color: var(--faint); }
+
 ::-webkit-scrollbar { width: 10px; height: 10px; }
 ::-webkit-scrollbar-track { background: #fff; }
 ::-webkit-scrollbar-thumb { background: #000; border: 2px solid #fff; }

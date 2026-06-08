@@ -12,6 +12,16 @@ const currentData = ref(null)
 const digestExpanded = ref(false)
 const resourcesExpanded = ref(false)
 
+function isFresh(dateStr) {
+  if (!dateStr) return false
+  return Date.now() - new Date(dateStr).getTime() < 2 * 24 * 60 * 60 * 1000
+}
+function articleId(item) {
+  const raw = (item.link || '') + (item.title || '')
+  let h = 0; for (let i = 0; i < raw.length; i++) h = ((h << 5) - h + raw.charCodeAt(i)) | 0
+  return 'news-' + Math.abs(h).toString(36)
+}
+
 const currentDate = computed(() => dates.value[currentIndex.value] || '')
 const canPrev = computed(() => currentIndex.value < dates.value.length - 1)
 const canNext = computed(() => currentIndex.value > 0)
@@ -97,16 +107,23 @@ onMounted(async () => {
       <span class="cat-count">{{ currentData.count }} 条</span>
     </div>
     <div class="news-grid">
-      <a v-for="(item, i) in currentData.articles" :key="i"
-         :href="item.link || '#'" target="_blank" class="news-card">
-        <span class="news-cat">{{ item.category || '其他' }}</span>
-        <h3>{{ item.title }}</h3>
-        <p v-if="item.summary">{{ item.summary }}</p>
-        <div class="news-meta">
-          <span v-if="item.source">{{ item.source }}</span>
-          <span v-if="item.score">🔺 {{ item.score }}</span>
-        </div>
-      </a>
+      <div v-for="(item, i) in currentData.articles" :key="i" class="news-card-wrap">
+        <a :href="item.link || '#'" target="_blank" class="news-card">
+          <div class="news-card-top">
+            <span class="news-cat">{{ item.category || '其他' }}</span>
+            <span :class="['lifecycle-badge', isFresh(currentDate) ? 'fresh' : 'archived']">
+              {{ isFresh(currentDate) ? '新鲜' : '归档' }}
+            </span>
+          </div>
+          <h3>{{ item.title }}</h3>
+          <p v-if="item.summary">{{ item.summary }}</p>
+          <div class="news-meta">
+            <span v-if="item.source">{{ item.source }}</span>
+            <span v-if="item.score">🔺 {{ item.score }}</span>
+          </div>
+        </a>
+        <ContentReactions item-type="news" :item-id="articleId(item)" />
+      </div>
     </div>
   </div>
 </div>
@@ -225,6 +242,8 @@ onMounted(async () => {
   text-decoration: none; color: inherit; transition: all 0.2s;
 }
 .news-card:hover { border-color: var(--cyan); transform: translateY(-2px); }
+.news-card-wrap { position: relative; }
+.news-card-top { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
 .news-cat {
   font-family: var(--font-mono); font-size: 10px; padding: 2px 8px;
   background: var(--cyan-dim); color: var(--cyan); border-radius: 4px;

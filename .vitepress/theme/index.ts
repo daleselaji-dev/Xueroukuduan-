@@ -5,6 +5,7 @@ import MagazineReader from './MagazineReader.vue'
 import HotList from './HotList.vue'
 import ForumLinks from './ForumLinks.vue'
 import ForumList from './ForumList.vue'
+import ContentReactions from './ContentReactions.vue'
 import './custom.css'
 import './magazine.css'
 
@@ -17,5 +18,6 @@ export default {
     app.component('HotList', HotList)
     app.component('ForumLinks', ForumLinks)
     app.component('ForumList', ForumList)
+    app.component('ContentReactions', ContentReactions)
   }
 }
