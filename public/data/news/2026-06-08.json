@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-08",
+  "generated": "2026-06-08T03:28:25.011391",
+  "count": 8,
+  "articles": [
+    {
+      "title": "Amazing Digital Dentures (a failed project)",
+      "summary": "",
+      "link": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "published": "Sun, 07 Jun 2026 19:44:27 GMT",
+      "source": "Hugging Face - Blog",
+      "category": "AI"
+    },
+    {
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "published": "Thu, 04 Jun 2026 18:57:45 GMT",
+      "source": "Hugging Face - Blog",
+      "category": "AI"
+    },
+    {
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "published": "Thu, 04 Jun 2026 12:24:58 GMT",
+      "source": "Hugging Face - Blog",
+      "category": "AI"
+    },
+    {
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "summary": "",
+      "link": "https://huggingface.co/blog/hf-cli-for-agents",
+      "published": "Thu, 04 Jun 2026 00:00:00 GMT",
+      "source": "Hugging Face - Blog",
+      "category": "AI"
+    },
+    {
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "summary": "",
+      "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "published": "Wed, 03 Jun 2026 12:55:11 GMT",
+      "source": "Hugging Face - Blog",
+      "category": "AI"
+    },
+    {
+      "title": "Adding MCP Tools to Reachy Mini",
+      "summary": "",
+      "link": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "published": "Wed, 03 Jun 2026 00:00:00 GMT",
+      "source": "Hugging Face - Blog",
+      "category": "AI"
+    },
+    {
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "summary": "",
+      "link": "https://huggingface.co/blog/Hcompany/holo31",
+      "published": "Tue, 02 Jun 2026 14:13:23 GMT",
+      "source": "Hugging Face - Blog",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "summary": "",
+      "link": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "published": "Mon, 01 Jun 2026 15:45:17 GMT",
+      "source": "Hugging Face - Blog",
+      "category": "AI"
+    }
+  ]
+}
