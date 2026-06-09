@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T13:22:40.576612",
+  "generated": "2026-06-09T13:52:16.681151",
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
@@ -9,7 +9,7 @@
         "rank": 1,
         "name": "diffusionstudio/lottie",
         "description": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code",
-        "stars": 983,
+        "stars": 1004,
         "language": "TypeScript",
         "url": "https://github.com/diffusionstudio/lottie",
         "created": "2026-06-04"
@@ -18,7 +18,7 @@
         "rank": 2,
         "name": "NoopApp/noop",
         "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-        "stars": 649,
+        "stars": 674,
         "language": "Swift",
         "url": "https://github.com/NoopApp/noop",
         "created": "2026-06-07"
@@ -27,7 +27,7 @@
         "rank": 3,
         "name": "JimLiu/baoyu-design",
         "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4",
-        "stars": 597,
+        "stars": 600,
         "language": "JavaScript",
         "url": "https://github.com/JimLiu/baoyu-design",
         "created": "2026-06-07"
@@ -36,7 +36,7 @@
         "rank": 4,
         "name": "nevertoday/zhongguo-traditional-colors",
         "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
-        "stars": 579,
+        "stars": 588,
         "language": "JavaScript",
         "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
         "created": "2026-06-03"
@@ -45,7 +45,7 @@
         "rank": 5,
         "name": "GordenSun/GordenSuperPPTSkills",
         "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-        "stars": 530,
+        "stars": 533,
         "language": "Python",
         "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
         "created": "2026-06-07"
@@ -54,7 +54,7 @@
         "rank": 6,
         "name": "tastyeffectco/sandboxd",
         "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-        "stars": 522,
+        "stars": 523,
         "language": "Go",
         "url": "https://github.com/tastyeffectco/sandboxd",
         "created": "2026-06-03"
@@ -63,7 +63,7 @@
         "rank": 7,
         "name": "amElnagdy/guard-skills",
         "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-        "stars": 492,
+        "stars": 494,
         "language": null,
         "url": "https://github.com/amElnagdy/guard-skills",
         "created": "2026-06-06"
@@ -81,7 +81,7 @@
         "rank": 9,
         "name": "zenhosta/9drive",
         "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files",
-        "stars": 466,
+        "stars": 467,
         "language": "TypeScript",
         "url": "https://github.com/zenhosta/9drive",
         "created": "2026-06-04"
@@ -90,34 +90,34 @@
         "rank": 10,
         "name": "jeff141/meatshell",
         "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
-        "stars": 449,
+        "stars": 450,
         "language": "Rust",
         "url": "https://github.com/jeff141/meatshell",
         "created": "2026-06-04"
       },
       {
         "rank": 11,
-        "name": "wy51ai/edulab",
-        "description": "",
-        "stars": 442,
-        "language": "HTML",
-        "url": "https://github.com/wy51ai/edulab",
-        "created": "2026-06-04"
-      },
-      {
-        "rank": 12,
         "name": "vorpus/performativeUI",
         "description": "",
-        "stars": 439,
+        "stars": 448,
         "language": "TypeScript",
         "url": "https://github.com/vorpus/performativeUI",
         "created": "2026-06-07"
       },
       {
+        "rank": 12,
+        "name": "wy51ai/edulab",
+        "description": "",
+        "stars": 445,
+        "language": "HTML",
+        "url": "https://github.com/wy51ai/edulab",
+        "created": "2026-06-04"
+      },
+      {
         "rank": 13,
         "name": "mysk-research/loupe",
         "description": "A privacy-focused iOS app that raises awareness about what native apps can see",
-        "stars": 394,
+        "stars": 398,
         "language": null,
         "url": "https://github.com/mysk-research/loupe",
         "created": "2026-06-04"
@@ -135,7 +135,7 @@
         "rank": 15,
         "name": "rednote-hilab/dots.tts",
         "description": "",
-        "stars": 352,
+        "stars": 354,
         "language": "Python",
         "url": "https://github.com/rednote-hilab/dots.tts",
         "created": "2026-06-04"
@@ -144,34 +144,34 @@
         "rank": 16,
         "name": "razr001/align-dev",
         "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
-        "stars": 348,
+        "stars": 349,
         "language": "TypeScript",
         "url": "https://github.com/razr001/align-dev",
         "created": "2026-06-03"
       },
       {
         "rank": 17,
-        "name": "YuvBindal/produck-oss",
-        "description": "Great apps are built on good context",
-        "stars": 324,
-        "language": null,
-        "url": "https://github.com/YuvBindal/produck-oss",
-        "created": "2026-06-03"
-      },
-      {
-        "rank": 18,
         "name": "Parcle-AI/parcle-memory",
         "description": "",
-        "stars": 324,
+        "stars": 326,
         "language": null,
         "url": "https://github.com/Parcle-AI/parcle-memory",
         "created": "2026-06-06"
       },
       {
+        "rank": 18,
+        "name": "YuvBindal/produck-oss",
+        "description": "Great apps are built on good context",
+        "stars": 325,
+        "language": null,
+        "url": "https://github.com/YuvBindal/produck-oss",
+        "created": "2026-06-03"
+      },
+      {
         "rank": 19,
         "name": "IvanSobolev/Neo3dEngine",
         "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time cha",
-        "stars": 291,
+        "stars": 295,
         "language": "C#",
         "url": "https://github.com/IvanSobolev/Neo3dEngine",
         "created": "2026-06-06"
@@ -180,7 +180,7 @@
         "rank": 20,
         "name": "FerroxLabs/wayland",
         "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-        "stars": 280,
+        "stars": 282,
         "language": "TypeScript",
         "url": "https://github.com/FerroxLabs/wayland",
         "created": "2026-06-05"
