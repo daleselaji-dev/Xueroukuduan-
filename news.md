@@ -1,13 +1,118 @@
 # 新闻
 
-每日自动爬取的科技资讯。
-
-<ContentFeed type="news" />
-
 <script setup>
-import { ref } from 'vue'
+import { onMounted, ref, computed, watch } from 'vue'
+
+const loading = ref(true)
+const dates = ref([])
+const currentIndex = ref(0)
+const currentData = ref(null)
+const digestExpanded = ref(false)
 const resourcesExpanded = ref(false)
+const composeOpen = ref(false)
+
+const currentDate = computed(() => dates.value[currentIndex.value] || '')
+const canPrev = computed(() => currentIndex.value < dates.value.length - 1)
+const canNext = computed(() => currentIndex.value > 0)
+
+function prevDay() { if (canPrev.value) currentIndex.value++ }
+function nextDay() { if (canNext.value) currentIndex.value-- }
+
+async function loadIndex() {
+  try {
+    const today = new Date()
+    const found = []
+    for (let i = 0; i < 7; i++) {
+      const d = new Date(today)
+      d.setDate(d.getDate() - i)
+      const dateStr = d.toISOString().split('T')[0]
+      try {
+        const res = await fetch(`/flesh-is-weak-seminar/data/news/${dateStr}.json`, { method: 'HEAD' })
+        if (res.ok) found.push(dateStr)
+      } catch {}
+    }
+    dates.value = found
+  } catch (e) { console.error(e) }
+}
+
+async function loadDate(date) {
+  if (!date) return
+  loading.value = true
+  try {
+    const res = await fetch(`/flesh-is-weak-seminar/data/news/${date}.json`)
+    currentData.value = await res.json()
+  } catch (e) {
+    console.error('Failed to load news:', e)
+    currentData.value = null
+  } finally { loading.value = false }
+}
+
+watch(currentDate, (d) => { if (d) loadDate(d) })
+
+onMounted(async () => {
+  await loadIndex()
+  if (dates.value.length > 0) await loadDate(dates.value[0])
+  else loading.value = false
+})
 </script>
+
+<!-- 日期导航 -->
+<div class="news-nav">
+  <button class="nav-btn" @click="prevDay" :disabled="!canPrev">◀</button>
+  <span class="nav-date">{{ currentDate || '暂无数据' }}</span>
+  <button class="nav-btn" @click="nextDay" :disabled="!canNext">▶</button>
+</div>
+
+<!-- 发布入口 -->
+<div class="composer-section">
+  <button v-if="!composeOpen" class="feed-compose-btn" @click="composeOpen = true">✏️ 发布新闻</button>
+  <PostComposer v-if="composeOpen" @created="composeOpen = false" />
+</div>
+
+<div v-if="loading" class="loading">加载中...</div>
+<div v-else-if="!currentData" class="empty">暂无新闻数据</div>
+<div v-else class="news-container">
+
+  <!-- AI 日报摘要 -->
+  <div v-if="currentData.digest" class="digest-section">
+    <div class="digest-toggle" @click="digestExpanded = !digestExpanded">
+      <span class="arrow" :class="{ open: digestExpanded }">▶</span>
+      <span>📰 AI 日报摘要</span>
+      <span class="digest-source">by FounderKit</span>
+    </div>
+    <div v-if="digestExpanded" class="digest-content" v-html="currentData.digest"></div>
+  </div>
+
+  <!-- 新闻列表 -->
+  <div class="news-list">
+    <div class="news-category-header">
+      <span class="cat-icon">📡</span>
+      <h2>今日资讯</h2>
+      <span class="cat-count">{{ currentData.count }} 条</span>
+    </div>
+    <div class="news-grid">
+      <a v-for="(item, i) in currentData.articles" :key="i"
+         :href="item.link || '#'" target="_blank" class="news-card">
+        <span class="news-cat">{{ item.category || '其他' }}</span>
+        <h3>{{ item.title }}</h3>
+        <p v-if="item.summary">{{ item.summary }}</p>
+        <div class="news-meta">
+          <span v-if="item.source">{{ item.source }}</span>
+          <span v-if="item.score">🔺 {{ item.score }}</span>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <!-- 群友发布的新闻 -->
+  <div class="news-list" style="margin-top:32px">
+    <div class="news-category-header">
+      <span class="cat-icon">👥</span>
+      <h2>群友分享</h2>
+    </div>
+    <ContentFeed type="news" />
+  </div>
+</div>
 
 <!-- 扩展资源 -->
 <div class="resources">
@@ -55,5 +160,64 @@ const resourcesExpanded = ref(false)
 .resources-note { background: var(--cyan-dim); border: 1px solid var(--cyan); border-radius: 8px; padding: 16px; margin: 20px 0; font-size: 13px; line-height: 1.7; }
 .resources-note strong { color: var(--cyan); }
 .resources-content blockquote { border-left: 3px solid var(--cyan); padding-left: 16px; margin: 16px 0; color: var(--muted); font-size: 14px; }
+/* ── Added news styles ── */
+.news-nav {
+  display: flex; align-items: center; justify-content: center; gap: 16px;
+  padding: 20px 28px 0; font-family: var(--font-mono);
+}
+.nav-btn {
+  background: var(--card); border: 1px solid var(--border); color: var(--muted);
+  width: 32px; height: 32px; border-radius: 6px; cursor: pointer;
+  display: flex; align-items: center; justify-content: center; font-size: 12px;
+  transition: all 0.15s;
+}
+.nav-btn:hover:not(:disabled) { border-color: var(--cyan); color: var(--cyan); }
+.nav-btn:disabled { opacity: 0.3; cursor: default; }
+.nav-date { font-size: 16px; font-weight: 600; color: var(--text); min-width: 100px; text-align: center; }
+.news-container { max-width: 800px; margin: 0 auto; padding: 24px 28px; }
+.digest-section { margin-bottom: 32px; }
+.digest-toggle {
+  display: flex; align-items: center; gap: 10px;
+  cursor: pointer; user-select: none;
+  font-family: var(--font-mono); font-size: 14px; color: var(--text);
+  padding: 14px 16px; background: var(--surface); border: 1px solid var(--border);
+  border-radius: 10px; transition: all 0.2s;
+}
+.digest-toggle:hover { border-color: var(--cyan); }
+.digest-source { margin-left: auto; font-size: 11px; color: var(--faint); }
+.digest-content {
+  padding: 20px; margin-top: 8px;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+  font-size: 14px; line-height: 1.8; color: var(--text);
+}
+.digest-content h2, .digest-content h3 { font-family: var(--font-display); color: var(--text); margin: 16px 0 8px; }
+.digest-content p { margin: 8px 0; }
+.digest-content a { color: var(--cyan); }
+.arrow { transition: transform 0.2s; font-size: 10px; }
+.arrow.open { transform: rotate(90deg); }
+.news-category-header {
+  display: flex; align-items: center; gap: 10px;
+  margin-bottom: 16px; padding-bottom: 12px; border-bottom: 1px solid var(--border);
+}
+.cat-icon { font-size: 18px; }
+.news-category-header h2 { font-family: var(--font-display); font-size: 18px; font-weight: 700; color: var(--text); margin: 0; }
+.cat-count { margin-left: auto; font-family: var(--font-mono); font-size: 12px; color: var(--faint); }
+.news-grid { display: grid; gap: 12px; }
+.news-card {
+  display: block; padding: 16px;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+  text-decoration: none; color: inherit; transition: all 0.2s;
+}
+.news-card:hover { border-color: var(--cyan); transform: translateY(-2px); }
+.news-cat {
+  font-family: var(--font-mono); font-size: 10px; padding: 2px 8px;
+  background: var(--cyan-dim); color: var(--cyan); border-radius: 4px;
+  display: inline-block; margin-bottom: 8px;
+}
+.news-card h3 { margin: 0 0 6px; font-size: 15px; font-weight: 600; color: var(--text); line-height: 1.4; }
+.news-card p { margin: 0 0 8px; font-size: 13px; color: var(--muted); line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.news-meta { display: flex; gap: 12px; font-family: var(--font-mono); font-size: 11px; color: var(--faint); }
+.composer-section { max-width: 800px; margin: 16px auto 0; padding: 0 28px; }
+
 @media (max-width: 768px) { .resources { padding: 0 16px 40px; } }
 </style>
