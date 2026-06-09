@@ -1,6 +1,6 @@
 {
   "date": "2026-06-08",
-  "generated": "2026-06-08T06:54:08.424155",
+  "generated": "2026-06-08T16:25:45.796064",
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
@@ -9,7 +9,7 @@
         "rank": 1,
         "name": "cpaczek/skylight",
         "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
-        "stars": 2303,
+        "stars": 2348,
         "language": "TypeScript",
         "url": "https://github.com/cpaczek/skylight",
         "created": "2026-06-02"
@@ -18,7 +18,7 @@
         "rank": 2,
         "name": "b-nnett/goose",
         "description": "Goose Swift proof-of-concept README",
-        "stars": 2274,
+        "stars": 2307,
         "language": "Rust",
         "url": "https://github.com/b-nnett/goose",
         "created": "2026-06-02"
@@ -27,7 +27,7 @@
         "rank": 3,
         "name": "jd-opensource/JoyAI-Echo",
         "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-        "stars": 900,
+        "stars": 1037,
         "language": "Python",
         "url": "https://github.com/jd-opensource/JoyAI-Echo",
         "created": "2026-06-02"
@@ -36,154 +36,154 @@
         "rank": 4,
         "name": "tastyeffectco/sandboxd",
         "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-        "stars": 502,
+        "stars": 512,
         "language": "Go",
         "url": "https://github.com/tastyeffectco/sandboxd",
         "created": "2026-06-03"
       },
       {
         "rank": 5,
-        "name": "Jane-xiaoer/xiaoer-videolab",
-        "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-        "stars": 474,
-        "language": "JavaScript",
-        "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
-        "created": "2026-06-04"
-      },
-      {
-        "rank": 6,
-        "name": "zenhosta/9drive",
-        "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files",
-        "stars": 421,
-        "language": "TypeScript",
-        "url": "https://github.com/zenhosta/9drive",
-        "created": "2026-06-04"
-      },
-      {
-        "rank": 7,
-        "name": "nevertoday/zhongguo-traditional-colors",
-        "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
-        "stars": 401,
-        "language": "JavaScript",
-        "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
-        "created": "2026-06-03"
-      },
-      {
-        "rank": 8,
-        "name": "jeff141/meatshell",
-        "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
-        "stars": 399,
-        "language": "Rust",
-        "url": "https://github.com/jeff141/meatshell",
-        "created": "2026-06-04"
-      },
-      {
-        "rank": 9,
         "name": "JimLiu/baoyu-design",
         "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4",
-        "stars": 387,
+        "stars": 498,
         "language": "JavaScript",
         "url": "https://github.com/JimLiu/baoyu-design",
         "created": "2026-06-07"
       },
       {
-        "rank": 10,
-        "name": "amElnagdy/guard-skills",
-        "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-        "stars": 359,
-        "language": null,
-        "url": "https://github.com/amElnagdy/guard-skills",
-        "created": "2026-06-06"
+        "rank": 6,
+        "name": "Jane-xiaoer/xiaoer-videolab",
+        "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+        "stars": 481,
+        "language": "JavaScript",
+        "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+        "created": "2026-06-04"
       },
       {
-        "rank": 11,
+        "rank": 7,
         "name": "NoopApp/noop",
         "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-        "stars": 352,
+        "stars": 474,
         "language": "Swift",
         "url": "https://github.com/NoopApp/noop",
         "created": "2026-06-07"
       },
       {
+        "rank": 8,
+        "name": "zenhosta/9drive",
+        "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files",
+        "stars": 441,
+        "language": "TypeScript",
+        "url": "https://github.com/zenhosta/9drive",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 9,
+        "name": "amElnagdy/guard-skills",
+        "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+        "stars": 437,
+        "language": null,
+        "url": "https://github.com/amElnagdy/guard-skills",
+        "created": "2026-06-06"
+      },
+      {
+        "rank": 10,
+        "name": "nevertoday/zhongguo-traditional-colors",
+        "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
+        "stars": 431,
+        "language": "JavaScript",
+        "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
+        "created": "2026-06-03"
+      },
+      {
+        "rank": 11,
+        "name": "jeff141/meatshell",
+        "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
+        "stars": 417,
+        "language": "Rust",
+        "url": "https://github.com/jeff141/meatshell",
+        "created": "2026-06-04"
+      },
+      {
         "rank": 12,
         "name": "wy51ai/edulab",
         "description": "",
-        "stars": 329,
+        "stars": 395,
         "language": "HTML",
         "url": "https://github.com/wy51ai/edulab",
         "created": "2026-06-04"
       },
       {
         "rank": 13,
-        "name": "SenhorH/tab-labeler",
-        "description": "Rename browser tabs locally and bring order to chaotic sessions.",
-        "stars": 328,
-        "language": "TypeScript",
-        "url": "https://github.com/SenhorH/tab-labeler",
-        "created": "2026-06-02"
-      },
-      {
-        "rank": 14,
-        "name": "razr001/align-dev",
-        "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
-        "stars": 319,
-        "language": "TypeScript",
-        "url": "https://github.com/razr001/align-dev",
-        "created": "2026-06-03"
-      },
-      {
-        "rank": 15,
-        "name": "ninjawarlorddisclose/CapCut-Pro-Crack-2026",
-        "description": "⭐️ Download CapCut PRO 2026 - Professional Video Editor. Full Premium Version with Pre-Activated License and Mod Loader. Latest Build with creative effects, easy editing tools & social media sharing. ",
-        "stars": 268,
-        "language": "C++",
-        "url": "https://github.com/ninjawarlorddisclose/CapCut-Pro-Crack-2026",
-        "created": "2026-06-07"
-      },
-      {
-        "rank": 16,
         "name": "mysk-research/loupe",
         "description": "A privacy-focused iOS app that raises awareness about what native apps can see",
-        "stars": 267,
+        "stars": 340,
         "language": null,
         "url": "https://github.com/mysk-research/loupe",
         "created": "2026-06-04"
       },
       {
+        "rank": 14,
+        "name": "SenhorH/tab-labeler",
+        "description": "Rename browser tabs locally and bring order to chaotic sessions.",
+        "stars": 329,
+        "language": "TypeScript",
+        "url": "https://github.com/SenhorH/tab-labeler",
+        "created": "2026-06-02"
+      },
+      {
+        "rank": 15,
+        "name": "GordenSun/GordenSuperPPTSkills",
+        "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+        "stars": 325,
+        "language": "Python",
+        "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+        "created": "2026-06-07"
+      },
+      {
+        "rank": 16,
+        "name": "razr001/align-dev",
+        "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
+        "stars": 320,
+        "language": "TypeScript",
+        "url": "https://github.com/razr001/align-dev",
+        "created": "2026-06-03"
+      },
+      {
         "rank": 17,
+        "name": "rednote-hilab/dots.tts",
+        "description": "",
+        "stars": 293,
+        "language": "Python",
+        "url": "https://github.com/rednote-hilab/dots.tts",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 18,
         "name": "YuvBindal/produck-oss",
         "description": "Great apps are built on good context",
-        "stars": 264,
+        "stars": 280,
         "language": null,
         "url": "https://github.com/YuvBindal/produck-oss",
         "created": "2026-06-03"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "name": "Parcle-AI/parcle-memory",
         "description": "",
-        "stars": 264,
+        "stars": 280,
         "language": null,
         "url": "https://github.com/Parcle-AI/parcle-memory",
         "created": "2026-06-06"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "name": "CWS6206/ai-coding-starter-kit",
         "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
         "stars": 262,
         "language": null,
         "url": "https://github.com/CWS6206/ai-coding-starter-kit",
         "created": "2026-06-05"
-      },
-      {
-        "rank": 20,
-        "name": "ni5arga/deanonymizer",
-        "description": "Deanonymize anyone based on their public commenting or posting history & pattern.",
-        "stars": 261,
-        "language": "TypeScript",
-        "url": "https://github.com/ni5arga/deanonymizer",
-        "created": "2026-06-02"
       }
     ]
   },
