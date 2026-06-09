@@ -6,6 +6,8 @@ import HotList from './HotList.vue'
 import ForumLinks from './ForumLinks.vue'
 import ForumList from './ForumList.vue'
 import ContentReactions from './ContentReactions.vue'
+import PostComposer from './PostComposer.vue'
+import ContentFeed from './ContentFeed.vue'
 import './custom.css'
 import './magazine.css'
 
@@ -19,5 +21,7 @@ export default {
     app.component('ForumLinks', ForumLinks)
     app.component('ForumList', ForumList)
     app.component('ContentReactions', ContentReactions)
+    app.component('PostComposer', PostComposer)
+    app.component('ContentFeed', ContentFeed)
   }
 }
