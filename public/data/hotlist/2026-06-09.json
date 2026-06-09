@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T12:05:48.954271",
+  "generated": "2026-06-09T12:20:54.741471",
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
@@ -9,7 +9,7 @@
         "rank": 1,
         "name": "diffusionstudio/lottie",
         "description": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code",
-        "stars": 931,
+        "stars": 942,
         "language": "TypeScript",
         "url": "https://github.com/diffusionstudio/lottie",
         "created": "2026-06-04"
@@ -18,7 +18,7 @@
         "rank": 2,
         "name": "NoopApp/noop",
         "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-        "stars": 606,
+        "stars": 611,
         "language": "Swift",
         "url": "https://github.com/NoopApp/noop",
         "created": "2026-06-07"
@@ -27,7 +27,7 @@
         "rank": 3,
         "name": "JimLiu/baoyu-design",
         "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4",
-        "stars": 590,
+        "stars": 594,
         "language": "JavaScript",
         "url": "https://github.com/JimLiu/baoyu-design",
         "created": "2026-06-07"
@@ -36,13 +36,22 @@
         "rank": 4,
         "name": "nevertoday/zhongguo-traditional-colors",
         "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
-        "stars": 562,
+        "stars": 563,
         "language": "JavaScript",
         "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
         "created": "2026-06-03"
       },
       {
         "rank": 5,
+        "name": "GordenSun/GordenSuperPPTSkills",
+        "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+        "stars": 522,
+        "language": "Python",
+        "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+        "created": "2026-06-07"
+      },
+      {
+        "rank": 6,
         "name": "tastyeffectco/sandboxd",
         "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
         "stars": 522,
@@ -51,19 +60,10 @@
         "created": "2026-06-03"
       },
       {
-        "rank": 6,
-        "name": "GordenSun/GordenSuperPPTSkills",
-        "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-        "stars": 520,
-        "language": "Python",
-        "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-        "created": "2026-06-07"
-      },
-      {
         "rank": 7,
         "name": "amElnagdy/guard-skills",
         "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-        "stars": 489,
+        "stars": 490,
         "language": null,
         "url": "https://github.com/amElnagdy/guard-skills",
         "created": "2026-06-06"
@@ -81,7 +81,7 @@
         "rank": 9,
         "name": "zenhosta/9drive",
         "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files",
-        "stars": 463,
+        "stars": 464,
         "language": "TypeScript",
         "url": "https://github.com/zenhosta/9drive",
         "created": "2026-06-04"
@@ -108,7 +108,7 @@
         "rank": 12,
         "name": "vorpus/performativeUI",
         "description": "",
-        "stars": 424,
+        "stars": 425,
         "language": "TypeScript",
         "url": "https://github.com/vorpus/performativeUI",
         "created": "2026-06-07"
@@ -153,7 +153,7 @@
         "rank": 17,
         "name": "YuvBindal/produck-oss",
         "description": "Great apps are built on good context",
-        "stars": 323,
+        "stars": 324,
         "language": null,
         "url": "https://github.com/YuvBindal/produck-oss",
         "created": "2026-06-03"
@@ -162,7 +162,7 @@
         "rank": 18,
         "name": "Parcle-AI/parcle-memory",
         "description": "",
-        "stars": 323,
+        "stars": 324,
         "language": null,
         "url": "https://github.com/Parcle-AI/parcle-memory",
         "created": "2026-06-06"
@@ -171,7 +171,7 @@
         "rank": 19,
         "name": "IvanSobolev/Neo3dEngine",
         "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time cha",
-        "stars": 283,
+        "stars": 284,
         "language": "C#",
         "url": "https://github.com/IvanSobolev/Neo3dEngine",
         "created": "2026-06-06"
@@ -180,7 +180,7 @@
         "rank": 20,
         "name": "FerroxLabs/wayland",
         "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-        "stars": 271,
+        "stars": 272,
         "language": "TypeScript",
         "url": "https://github.com/FerroxLabs/wayland",
         "created": "2026-06-05"
