@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "generated": "2026-06-09T06:11:45.310228",
+  "generated": "2026-06-09T12:05:48.954271",
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
@@ -9,79 +9,79 @@
         "rank": 1,
         "name": "diffusionstudio/lottie",
         "description": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code",
-        "stars": 700,
+        "stars": 931,
         "language": "TypeScript",
         "url": "https://github.com/diffusionstudio/lottie",
         "created": "2026-06-04"
       },
       {
         "rank": 2,
-        "name": "JimLiu/baoyu-design",
-        "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4",
-        "stars": 557,
-        "language": "JavaScript",
-        "url": "https://github.com/JimLiu/baoyu-design",
-        "created": "2026-06-07"
-      },
-      {
-        "rank": 3,
         "name": "NoopApp/noop",
         "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-        "stars": 551,
+        "stars": 606,
         "language": "Swift",
         "url": "https://github.com/NoopApp/noop",
         "created": "2026-06-07"
       },
       {
-        "rank": 4,
-        "name": "tastyeffectco/sandboxd",
-        "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-        "stars": 517,
-        "language": "Go",
-        "url": "https://github.com/tastyeffectco/sandboxd",
-        "created": "2026-06-03"
+        "rank": 3,
+        "name": "JimLiu/baoyu-design",
+        "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4",
+        "stars": 590,
+        "language": "JavaScript",
+        "url": "https://github.com/JimLiu/baoyu-design",
+        "created": "2026-06-07"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "nevertoday/zhongguo-traditional-colors",
         "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
-        "stars": 513,
+        "stars": 562,
         "language": "JavaScript",
         "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
         "created": "2026-06-03"
       },
       {
+        "rank": 5,
+        "name": "tastyeffectco/sandboxd",
+        "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+        "stars": 522,
+        "language": "Go",
+        "url": "https://github.com/tastyeffectco/sandboxd",
+        "created": "2026-06-03"
+      },
+      {
         "rank": 6,
-        "name": "Jane-xiaoer/xiaoer-videolab",
-        "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-        "stars": 485,
-        "language": "JavaScript",
-        "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
-        "created": "2026-06-04"
+        "name": "GordenSun/GordenSuperPPTSkills",
+        "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+        "stars": 520,
+        "language": "Python",
+        "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+        "created": "2026-06-07"
       },
       {
         "rank": 7,
         "name": "amElnagdy/guard-skills",
         "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-        "stars": 477,
+        "stars": 489,
         "language": null,
         "url": "https://github.com/amElnagdy/guard-skills",
         "created": "2026-06-06"
       },
       {
         "rank": 8,
-        "name": "GordenSun/GordenSuperPPTSkills",
-        "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-        "stars": 475,
-        "language": "Python",
-        "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-        "created": "2026-06-07"
+        "name": "Jane-xiaoer/xiaoer-videolab",
+        "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+        "stars": 488,
+        "language": "JavaScript",
+        "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+        "created": "2026-06-04"
       },
       {
         "rank": 9,
         "name": "zenhosta/9drive",
         "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files",
-        "stars": 453,
+        "stars": 463,
         "language": "TypeScript",
         "url": "https://github.com/zenhosta/9drive",
         "created": "2026-06-04"
@@ -90,7 +90,7 @@
         "rank": 10,
         "name": "jeff141/meatshell",
         "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
-        "stars": 439,
+        "stars": 448,
         "language": "Rust",
         "url": "https://github.com/jeff141/meatshell",
         "created": "2026-06-04"
@@ -99,52 +99,52 @@
         "rank": 11,
         "name": "wy51ai/edulab",
         "description": "",
-        "stars": 425,
+        "stars": 440,
         "language": "HTML",
         "url": "https://github.com/wy51ai/edulab",
         "created": "2026-06-04"
       },
       {
         "rank": 12,
+        "name": "vorpus/performativeUI",
+        "description": "",
+        "stars": 424,
+        "language": "TypeScript",
+        "url": "https://github.com/vorpus/performativeUI",
+        "created": "2026-06-07"
+      },
+      {
+        "rank": 13,
         "name": "mysk-research/loupe",
         "description": "A privacy-focused iOS app that raises awareness about what native apps can see",
-        "stars": 376,
+        "stars": 387,
         "language": null,
         "url": "https://github.com/mysk-research/loupe",
         "created": "2026-06-04"
       },
       {
-        "rank": 13,
-        "name": "razr001/align-dev",
-        "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
-        "stars": 346,
-        "language": "TypeScript",
-        "url": "https://github.com/razr001/align-dev",
-        "created": "2026-06-03"
-      },
-      {
         "rank": 14,
         "name": "Unicornronote/Microsoft-Office-Activated",
         "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)",
-        "stars": 344,
+        "stars": 370,
         "language": "C++",
         "url": "https://github.com/Unicornronote/Microsoft-Office-Activated",
         "created": "2026-06-04"
       },
       {
         "rank": 15,
-        "name": "vorpus/performativeUI",
-        "description": "",
-        "stars": 339,
+        "name": "razr001/align-dev",
+        "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
+        "stars": 347,
         "language": "TypeScript",
-        "url": "https://github.com/vorpus/performativeUI",
-        "created": "2026-06-07"
+        "url": "https://github.com/razr001/align-dev",
+        "created": "2026-06-03"
       },
       {
         "rank": 16,
         "name": "rednote-hilab/dots.tts",
         "description": "",
-        "stars": 323,
+        "stars": 347,
         "language": "Python",
         "url": "https://github.com/rednote-hilab/dots.tts",
         "created": "2026-06-04"
@@ -153,7 +153,7 @@
         "rank": 17,
         "name": "YuvBindal/produck-oss",
         "description": "Great apps are built on good context",
-        "stars": 322,
+        "stars": 323,
         "language": null,
         "url": "https://github.com/YuvBindal/produck-oss",
         "created": "2026-06-03"
@@ -162,25 +162,25 @@
         "rank": 18,
         "name": "Parcle-AI/parcle-memory",
         "description": "",
-        "stars": 322,
+        "stars": 323,
         "language": null,
         "url": "https://github.com/Parcle-AI/parcle-memory",
         "created": "2026-06-06"
       },
       {
         "rank": 19,
-        "name": "CWS6206/ai-coding-starter-kit",
-        "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
-        "stars": 262,
-        "language": null,
-        "url": "https://github.com/CWS6206/ai-coding-starter-kit",
-        "created": "2026-06-05"
+        "name": "IvanSobolev/Neo3dEngine",
+        "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time cha",
+        "stars": 283,
+        "language": "C#",
+        "url": "https://github.com/IvanSobolev/Neo3dEngine",
+        "created": "2026-06-06"
       },
       {
         "rank": 20,
         "name": "FerroxLabs/wayland",
         "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-        "stars": 258,
+        "stars": 271,
         "language": "TypeScript",
         "url": "https://github.com/FerroxLabs/wayland",
         "created": "2026-06-05"
