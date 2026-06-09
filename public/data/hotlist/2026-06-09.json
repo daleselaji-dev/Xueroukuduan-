@@ -1,0 +1,582 @@
+{
+  "date": "2026-06-09",
+  "generated": "2026-06-09T06:11:45.310228",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "diffusionstudio/lottie",
+        "description": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code",
+        "stars": 700,
+        "language": "TypeScript",
+        "url": "https://github.com/diffusionstudio/lottie",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 2,
+        "name": "JimLiu/baoyu-design",
+        "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4",
+        "stars": 557,
+        "language": "JavaScript",
+        "url": "https://github.com/JimLiu/baoyu-design",
+        "created": "2026-06-07"
+      },
+      {
+        "rank": 3,
+        "name": "NoopApp/noop",
+        "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+        "stars": 551,
+        "language": "Swift",
+        "url": "https://github.com/NoopApp/noop",
+        "created": "2026-06-07"
+      },
+      {
+        "rank": 4,
+        "name": "tastyeffectco/sandboxd",
+        "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+        "stars": 517,
+        "language": "Go",
+        "url": "https://github.com/tastyeffectco/sandboxd",
+        "created": "2026-06-03"
+      },
+      {
+        "rank": 5,
+        "name": "nevertoday/zhongguo-traditional-colors",
+        "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
+        "stars": 513,
+        "language": "JavaScript",
+        "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
+        "created": "2026-06-03"
+      },
+      {
+        "rank": 6,
+        "name": "Jane-xiaoer/xiaoer-videolab",
+        "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+        "stars": 485,
+        "language": "JavaScript",
+        "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 7,
+        "name": "amElnagdy/guard-skills",
+        "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+        "stars": 477,
+        "language": null,
+        "url": "https://github.com/amElnagdy/guard-skills",
+        "created": "2026-06-06"
+      },
+      {
+        "rank": 8,
+        "name": "GordenSun/GordenSuperPPTSkills",
+        "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+        "stars": 475,
+        "language": "Python",
+        "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+        "created": "2026-06-07"
+      },
+      {
+        "rank": 9,
+        "name": "zenhosta/9drive",
+        "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files",
+        "stars": 453,
+        "language": "TypeScript",
+        "url": "https://github.com/zenhosta/9drive",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 10,
+        "name": "jeff141/meatshell",
+        "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
+        "stars": 439,
+        "language": "Rust",
+        "url": "https://github.com/jeff141/meatshell",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 11,
+        "name": "wy51ai/edulab",
+        "description": "",
+        "stars": 425,
+        "language": "HTML",
+        "url": "https://github.com/wy51ai/edulab",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 12,
+        "name": "mysk-research/loupe",
+        "description": "A privacy-focused iOS app that raises awareness about what native apps can see",
+        "stars": 376,
+        "language": null,
+        "url": "https://github.com/mysk-research/loupe",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 13,
+        "name": "razr001/align-dev",
+        "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
+        "stars": 346,
+        "language": "TypeScript",
+        "url": "https://github.com/razr001/align-dev",
+        "created": "2026-06-03"
+      },
+      {
+        "rank": 14,
+        "name": "Unicornronote/Microsoft-Office-Activated",
+        "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)",
+        "stars": 344,
+        "language": "C++",
+        "url": "https://github.com/Unicornronote/Microsoft-Office-Activated",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 15,
+        "name": "vorpus/performativeUI",
+        "description": "",
+        "stars": 339,
+        "language": "TypeScript",
+        "url": "https://github.com/vorpus/performativeUI",
+        "created": "2026-06-07"
+      },
+      {
+        "rank": 16,
+        "name": "rednote-hilab/dots.tts",
+        "description": "",
+        "stars": 323,
+        "language": "Python",
+        "url": "https://github.com/rednote-hilab/dots.tts",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 17,
+        "name": "YuvBindal/produck-oss",
+        "description": "Great apps are built on good context",
+        "stars": 322,
+        "language": null,
+        "url": "https://github.com/YuvBindal/produck-oss",
+        "created": "2026-06-03"
+      },
+      {
+        "rank": 18,
+        "name": "Parcle-AI/parcle-memory",
+        "description": "",
+        "stars": 322,
+        "language": null,
+        "url": "https://github.com/Parcle-AI/parcle-memory",
+        "created": "2026-06-06"
+      },
+      {
+        "rank": 19,
+        "name": "CWS6206/ai-coding-starter-kit",
+        "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+        "stars": 262,
+        "language": null,
+        "url": "https://github.com/CWS6206/ai-coding-starter-kit",
+        "created": "2026-06-05"
+      },
+      {
+        "rank": 20,
+        "name": "FerroxLabs/wayland",
+        "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+        "stars": 258,
+        "language": "TypeScript",
+        "url": "https://github.com/FerroxLabs/wayland",
+        "created": "2026-06-05"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
+        "authors": [
+          "Mingxian Lin",
+          "Shengju Qian",
+          "Yuqi Liu",
+          "Yi-Hua Huang",
+          "Yiyu Wang"
+        ],
+        "summary": "Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, focus on single-agent Solo play, and lack unified protocols for evaluating heterogeneous agent class",
+        "url": "http://arxiv.org/abs/2606.09826v1",
+        "pdf": "https://arxiv.org/pdf/2606.09826v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "An Agency-Transferring Model-Free Policy Enhancement Technique",
+        "authors": [
+          "Anton Bolychev",
+          "Georgiy Malaniya",
+          "Sinan Ibrahim",
+          "Pavel Osinenko"
+        ],
+        "summary": "Training reinforcement learning (RL) policies from scratch is\n  costly: it requires careful reward and environment design,\n  extensive tuning, and substantial computation.\n  Yet many control problems already have a functional but\n  suboptimal policy available as a baseline.\n  This paper proposes a m",
+        "url": "http://arxiv.org/abs/2606.09825v1",
+        "pdf": "https://arxiv.org/pdf/2606.09825v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws",
+        "authors": [
+          "Danqi Zhuang",
+          "Jisui Huang",
+          "Xiaoyue Xi",
+          "Andrew Kiggins",
+          "Xiaojie Wang"
+        ],
+        "summary": "Standard diffusion models typically use a single time-homogeneous Gaussian terminal distribution as the reference law for generation. While this choice is analytically convenient and empirically powerful, it provides little explicit structure for data concentrated near low-dimensional manifolds, whe",
+        "url": "http://arxiv.org/abs/2606.09816v1",
+        "pdf": "https://arxiv.org/pdf/2606.09816v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing",
+        "authors": [
+          "Jisong Cai",
+          "Long Ling",
+          "Shiwei Chu",
+          "Zhongshan Liu",
+          "Jiayue Kang"
+        ],
+        "summary": "World-action models have emerged as a promising paradigm for robot manipulation, jointly modeling visual scene dynamics and actions to inject physical priors into policy learning. However, existing world-action models couple world prediction and action execution at the same temporal resolution, forc",
+        "url": "http://arxiv.org/abs/2606.09811v1",
+        "pdf": "https://arxiv.org/pdf/2606.09811v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting",
+        "authors": [
+          "Avijit Ghosh",
+          "Anka Reuel",
+          "Jenny Chim",
+          "Wm. Matthew Kennedy",
+          "Srishti Yadav"
+        ],
+        "summary": "AI evaluation results are produced at scale but reported inconsistently across leaderboards, model cards, benchmark papers, and company blogs. The cost is interpretive: readers cannot reliably compare results across sources, identify what a report omits, or trace an aggregate claim to its underlying",
+        "url": "http://arxiv.org/abs/2606.09809v1",
+        "pdf": "https://arxiv.org/pdf/2606.09809v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Topological Neural Operators",
+        "authors": [
+          "Lennart Bastian",
+          "Samuel Leventhal",
+          "Mustafa Hajij",
+          "Tolga Birdal"
+        ],
+        "summary": "We introduce Topological Neural Operators (TNOs), a principled framework for operator learning on cell complexes that lifts neural operators (NOs) from functions on points and/or edges to topological domains. TNOs represent data as features defined on cells of varying dimension and model their inter",
+        "url": "http://arxiv.org/abs/2606.09806v1",
+        "pdf": "https://arxiv.org/pdf/2606.09806v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Bandits for Efficient Experimentation: Adapting to Control Group, Preferences, and Context Drifts",
+        "authors": [
+          "Udvas Das",
+          "Waris Radji",
+          "Debabrota Basu",
+          "Odalric-Ambrym Maillard"
+        ],
+        "summary": "We consider a variant of the linear contextual stochastic multi-armed bandits, where the learner must provide recommendations to a group of users, each having its personalized preference vector, and in the presence of context distributions that are drifting over time. Under practitioner-friendly ass",
+        "url": "http://arxiv.org/abs/2606.09802v1",
+        "pdf": "https://arxiv.org/pdf/2606.09802v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "FASE: Fast Adaptive Semantic Entropy for Code Quality",
+        "authors": [
+          "Shizhe Lin",
+          "Ladan Tahvildari"
+        ],
+        "summary": "Multi-agent code generation offers a promising paradigm for autonomous software development by simulating the human software engineering lifecycle. However, system reliability remains hindered by LLM hallucinations and error propagation across interacting agents. While semantic entropy provides a pr",
+        "url": "http://arxiv.org/abs/2606.09800v1",
+        "pdf": "https://arxiv.org/pdf/2606.09800v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Who Earns the Safety? Intervention-Aware Quantum Predictive Control with Safety Attribution",
+        "authors": [
+          "Yifan Wang"
+        ],
+        "summary": "Hard safety filters are increasingly placed downstream of learned controllers to guarantee constraint satisfaction at run time. Yet a filtered controller that never violates a constraint may still have learned nothing about safety: the filter can silently repair an incompetent upstream policy, so th",
+        "url": "http://arxiv.org/abs/2606.09778v1",
+        "pdf": "https://arxiv.org/pdf/2606.09778v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "SIGA: Self-Evolving Coding-Agent Adapters for Scientific Simulation",
+        "authors": [
+          "Matthew Ho",
+          "Brian Liu",
+          "Jixuan Chen",
+          "Audrey Wang",
+          "Lianhui Qin"
+        ],
+        "summary": "Advanced scientific simulators expose specialized input languages that turn simulation goals into executable configurations, but learning them can cost domain scientists hours to days. We study simulator setup as a problem of agent-tool interface grounding: what minimal simulator-specific adaptation",
+        "url": "http://arxiv.org/abs/2606.09774v1",
+        "pdf": "https://arxiv.org/pdf/2606.09774v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Data Synthesis and Parameter-Efficient Fine-Tuning for Low-Resource NMT: A Case Study on Q'eqchi' Mayan",
+        "authors": [
+          "Alexander Chulzhanov",
+          "Soeren Eberhardt",
+          "Arjun Mukherjee"
+        ],
+        "summary": "Neural machine translation for digitally low-resource Indigenous languages is often hindered by extreme data scarcity, prompting reliance on extractive web-scraping. To ensure data sovereignty, this study introduces a data synthesis methodology to bootstrap NMT models without scraping target-languag",
+        "url": "http://arxiv.org/abs/2606.09767v1",
+        "pdf": "https://arxiv.org/pdf/2606.09767v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Preserving Plasticity in Continual Learning via Dynamical Isometry",
+        "authors": [
+          "Andries Rosseau",
+          "Robert Müller",
+          "Ann Nowé"
+        ],
+        "summary": "Continual training of deep neural networks under non-stationarity often leads to a progressive loss of plasticity, eventually limiting further learning. We relate plasticity to the empirical Neural Tangent Kernel, and identify dynamical isometry (the condition that layer-wise Jacobian singular value",
+        "url": "http://arxiv.org/abs/2606.09762v1",
+        "pdf": "https://arxiv.org/pdf/2606.09762v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Difference-Aware Retrieval Policies for Imitation Learning",
+        "authors": [
+          "Quinn Pfeifer",
+          "Ethan Pronovost",
+          "Paarth Shah",
+          "Khimya Khetarpal",
+          "Siddhartha Srinivasa"
+        ],
+        "summary": "Parametric imitation learning via behavior cloning can suffer from poor generalization to out-of-distribution states due to compounding errors during deployment. We show that reusing the training data during inference via a semi-parametric retrieval-based imitation learning approach can alleviate th",
+        "url": "http://arxiv.org/abs/2606.09758v1",
+        "pdf": "https://arxiv.org/pdf/2606.09758v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Collaborative Human-Agent Protocol (CHAP)",
+        "authors": [
+          "Arsalan Shahid",
+          "Gordon Suttie",
+          "Philip Black"
+        ],
+        "summary": "Foundation models are moving from response generation into operational roles. They plan across steps, call tools, request human input, coordinate with other agents, and increasingly carry responsibility for work that affects customers, claims, code, contracts, and clinical decisions. Production depl",
+        "url": "http://arxiv.org/abs/2606.09751v1",
+        "pdf": "https://arxiv.org/pdf/2606.09751v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Multi-Turn Evaluation of Deep Research Agents Under Process-Level Feedback",
+        "authors": [
+          "Rishabh Sabharwal",
+          "Hongru Wang",
+          "Amos Storkey",
+          "Jeff Z. Pan"
+        ],
+        "summary": "Existing benchmarks for deep research agents (DRAs) assess only single-shot outputs, ignoring a key question: can DRAs improve their reports when guided by feedback? To investigate this, we conduct a multi-turn evaluation of DRAs under two feedback settings: self-reflection, in which the agent revis",
+        "url": "http://arxiv.org/abs/2606.09748v1",
+        "pdf": "https://arxiv.org/pdf/2606.09748v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Hybrid Robustness Verification for Spatio-Temporal Neural Networks",
+        "authors": [
+          "Sherwin Varghese",
+          "Matthew Wicker",
+          "Alessio Lomuscio"
+        ],
+        "summary": "With AI increasingly deployed in safety-critical systems, providing formal robustness guarantees for the underlying models is essential. Existing verification methods either rely on overly conservative approximations or incur prohibitive computational costs. For example, the use of lp-norm perturbat",
+        "url": "http://arxiv.org/abs/2606.09746v1",
+        "pdf": "https://arxiv.org/pdf/2606.09746v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research",
+        "authors": [
+          "Pu Ning",
+          "Quan Chen",
+          "Kun Tao",
+          "Xinyu Tang",
+          "Tianshu Wang"
+        ],
+        "summary": "Large language models are increasingly expected to handle complex, long-horizon real-world tasks whose context demands can grow without bound, yet model context windows remain inherently finite. Recent work explores a paradigm where a main agent decomposes tasks and dispatches subtasks to subagents,",
+        "url": "http://arxiv.org/abs/2606.09730v1",
+        "pdf": "https://arxiv.org/pdf/2606.09730v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Beyond Probabilistic Similarity: Structural, Temporal, and Causal Limitations of Retrieval-Augmented Generation in the Legal Domain",
+        "authors": [
+          "Hudson de Martim"
+        ],
+        "summary": "Retrieval-Augmented Generation (RAG) has become a standard architectural response to unreliability in legal AI, yet high-profile failures, including fabricated citations submitted to courts and anachronistic legal content presented as current, continue to appear across jurisdictions. We argue that t",
+        "url": "http://arxiv.org/abs/2606.09724v1",
+        "pdf": "https://arxiv.org/pdf/2606.09724v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Proxy Reward Internalization and Mechanistic Exploitation: A Learned Precursor to Reward Hacking and Its Generalization",
+        "authors": [
+          "Mohammad Beigi",
+          "Ming Jin",
+          "Lifu Huang"
+        ],
+        "summary": "Reward hacking is usually studied after it becomes visible, once a model earns high proxy reward while failing the intended task. We instead study what proxy RL teaches before that failure appears. We introduce Proxy Reward Internalization and Mechanistic Exploitation (PRIME), a learned capability t",
+        "url": "http://arxiv.org/abs/2606.09711v1",
+        "pdf": "https://arxiv.org/pdf/2606.09711v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Learning to Attack and Defend: Adaptive Red Teaming of Language Models via GRPO",
+        "authors": [
+          "Blake Bullwinkel",
+          "Eugenia Kim",
+          "Amanda Minnich",
+          "Mark Russinovich"
+        ],
+        "summary": "AI red teaming must continually adapt to evolving attackers and defenders. Reinforcement learning offers a promising approach to discovering novel attacks, and co-training methods can produce more robust defenders in tandem. Recent works have demonstrated the efficacy of attacker-defender co-trainin",
+        "url": "http://arxiv.org/abs/2606.09701v1",
+        "pdf": "https://arxiv.org/pdf/2606.09701v1",
+        "published": "2026-06-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Rethinking the Divergence Regularization in LLM RL",
+        "authors": [
+          "Jiarui Yao",
+          "Xiangxin Zhou",
+          "Penghui Qi",
+          "Wee Sun Lee",
+          "Liefeng Bo"
+        ],
+        "summary": "Reinforcement learning (RL) has become a key component of post-training large language models (LLMs). In practice, LLM RL is often off-policy because of training-inference mismatch and policy staleness, making trust-region control essential for stable optimization. Mainstream methods such as PPO and",
+        "url": "http://arxiv.org/abs/2606.09821v1",
+        "pdf": "https://arxiv.org/pdf/2606.09821v1",
+        "published": "2026-06-08",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Weighted universal approximation of differentiable maps on infinite-dimensional manifolds",
+        "authors": [
+          "Philipp Schmocker",
+          "Josef Teichmann"
+        ],
+        "summary": "We generalize the universal approximation theorem for functional input neural networks (FNN) to differentiable maps by including the approximation of the derivatives. A FNN maps the input from a possibly infinite-dimensional weighted manifold to the real-valued hidden layer, on which a non-linear sc",
+        "url": "http://arxiv.org/abs/2606.09820v1",
+        "pdf": "https://arxiv.org/pdf/2606.09820v1",
+        "published": "2026-06-08",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Echo-Memory: A Controlled Study of Memory in Action World Models",
+        "authors": [
+          "Wayne King",
+          "Zeyue Xue",
+          "Yuxuan Bian",
+          "Jie Huang",
+          "Haoran Li"
+        ],
+        "summary": "We present \\textbf{Echo-Memory}, a controlled study of memory mechanisms in action-conditioned world models. These models generate multi-segment videos from a first frame, text prompt, and camera-action sequence, but their central failure is often memory rather than local image synthesis: after the ",
+        "url": "http://arxiv.org/abs/2606.09803v1",
+        "pdf": "https://arxiv.org/pdf/2606.09803v1",
+        "published": "2026-06-08",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Zero Touch Predictive Orchestration: Automating Time-Series Models for the Cloud-Edge Continuum",
+        "authors": [
+          "Abd Elghani Meliani",
+          "Arora Sagar",
+          "Adlen Ksentini",
+          "Raymond Knopp"
+        ],
+        "summary": "The Cloud-Edge Continuum (CEC) enables latency-critical applications by distributing resources to the far edge, but its extreme volatility makes proactive Zero Touch Management via time-series forecasting essential. However, orchestrators face a severe \"cold start\" problem: newly discovered nodes la",
+        "url": "http://arxiv.org/abs/2606.09787v1",
+        "pdf": "https://arxiv.org/pdf/2606.09787v1",
+        "published": "2026-06-08",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model",
+        "authors": [
+          "Badr AlKhamissi",
+          "Johannes Mehrer",
+          "Lara Marinov",
+          "Ahmed Abdelaal",
+          "Abdulkadir Gokce"
+        ],
+        "summary": "Nearby neurons in cortex share similar response profiles, producing systematic spatial organization across sensory and cognitive systems. Recent topographic models reproduce aspects of this structure but remain unimodal and spatially constrain each layer separately, yielding fragmented maps that cap",
+        "url": "http://arxiv.org/abs/2606.09770v1",
+        "pdf": "https://arxiv.org/pdf/2606.09770v1",
+        "published": "2026-06-08",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "iOSWorld: A Benchmark for Personally Intelligent Phone Agents",
+        "authors": [
+          "Lawrence Keunho Jang",
+          "Mareks Woodside",
+          "Geronimo Carom",
+          "Andrew Keunwoo Jang",
+          "Jing Yu Koh"
+        ],
+        "summary": "A useful phone agent needs to be personally intelligent. It should reason over a user's identity, history, and preferences as they exist on the device, not just follow isolated instructions in an impersonal sandbox. Existing mobile agent benchmarks lack this kind of personalization. We introduce iOS",
+        "url": "http://arxiv.org/abs/2606.09764v1",
+        "pdf": "https://arxiv.org/pdf/2606.09764v1",
+        "published": "2026-06-08",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
