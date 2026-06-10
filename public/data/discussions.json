@@ -1,41 +1,6 @@
 {
   "discussions": [],
-  "submissions": [
-    {
-      "folder": "2026-06-05-codex-plus-plus",
-      "title": "[test] Codex++：OpenAI Codex 的外部增强工具",
-      "author": "BOHUYESHAN-APB",
-      "date": "2026-06-05",
-      "summary": "面向 Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强脚本，支持中转注入、插件解锁、会话管理等功能",
-      "cover": "",
-      "tags": [
-        "AI",
-        "Codex",
-        "工具",
-        "开源"
-      ],
-      "license": "CC BY 4.0",
-      "body": "\n## 项目链接\n\nhttps://github.com/BigPizzaV3/CodexPlusPlus\n\n## 简介\n\n**Codex++** 是面向 OpenAI Codex App 的外部增强启动器和管理工具。它不修改 Codex App 原始安装文件，而是通过外部 launcher 启动 Codex，并使用 Chromium DevTools Protocol (CDP) 注入增强脚本。\n\n目前已有 **13.8k Stars**，是一个非常活跃的开源项目。\n\n## 核心功能\n\n### 1. 中转注入模式\n\n支持多个中转配置，可以将模型请求转到自定义兼容 API：\n\n- 写入 `CodexPlusPlus` provider\n- 支持多个中转配置切换\n- 可切回官方 ChatGPT 登录态\n\n### 2. 插件入口解锁\n\nAPI Key 登录模式下，Codex 原生插件入口会提示需要登录 ChatGPT。Codex++ 可以解锁插件入口，让 API Key 用户也能使用插件功能。\n\n### 3. 会话管理\n\n- **会话删除**：原生 Codex 只有归档入口，Codex++ 添加了真正的删除按钮\n- **Markdown 导出**：支持将会话导出为 Markdown 格式\n- **项目移动**：支持移动项目位置\n\n### 4. 其他功能\n\n- Provider 同步：切换供应商后旧会话仍可见\n- Zed 打开入口：从 Codex 直接打开文件到 Zed\n- Upstream worktree 创建：从最新的远端跟踪分支开始\n- 自动更新：通过 GitHub Release 自动检测更新\n\n## 技术栈\n\n| 组件 | 技术 |\n|------|------|\n| 后端 | Rust |\n| 管理工具 | Tauri + React |\n| 注入方式 | Chromium DevTools Protocol (CDP) |\n| 安装包 | Windows NSIS / macOS DMG |\n\n## 安装方式\n\n从 [GitHub Releases](https://github.com/BigPizzaV3/CodexPlusPlus/releases) 下载：\n\n- **Windows**：`CodexPlusPlus-*-windows-x64-setup.exe`\n- **macOS Intel**：`CodexPlusPlus-*-macos-x64.dmg`\n- **macOS Apple Silicon**：`CodexPlusPlus-*-macos-arm64.dmg`\n\n安装后有两个入口：\n- `Codex++`：静默启动入口\n- `Codex++ 管理工具`：Tauri 控制面板\n\n## 适用场景\n\n- 使用 API Key 登录 Codex 的用户\n- 需要中转 API 的用户\n- 需要会话管理功能的用户\n- 需要插件入口解锁的用户\n\n## 总结\n\nCodex++ 是一个非常实用的 Codex 增强工具，通过外部注入的方式，不修改原始文件，安全可靠。如果你是 Codex 用户，特别是使用 API Key 登录的用户，强烈推荐试试。\n\n---\n\n*注：这是一个测试投稿，用于验证投稿系统功能。*\n",
-      "url": "/submissions/2026-06-05-codex-plus-plus"
-    },
-    {
-      "folder": "2026-06-05-swarm-ide",
-      "title": "Swarm-IDE：自组织 Agent 蜂群的工作原理深度解析",
-      "author": "群友投稿",
-      "date": "2026-06-05",
-      "summary": "深入解析 Swarm-IDE 的核心架构：两原语（create+send）如何生成任意拓扑，IM 系统与 Agent Loop 的解耦设计，以及液态拓扑的自组织机制。",
-      "cover": "",
-      "tags": [
-        "多Agent",
-        "蜂群",
-        "开源",
-        "架构解析"
-      ],
-      "license": "CC BY 4.0",
-      "body": "\n## 项目概览\n\nSwarm-IDE 是一个开源的多 Agent 协作系统，核心理念是用最少的原语（create + send）生成任意复杂的 Agent 拓扑。它不像 LangGraph 那样预定义静态工作流，而是让 Agent 在运行时自主\"雇佣\"子代理、自组织成蜂群。\n\n**项目地址**：[github.com/chmod777john/swarm-ide](https://github.com/chmod777john/swarm-ide)\n\n**⚠️ 注意：原项目未声明开源协议。**\n\n### 与同类项目对比\n\n| 能力 | Kimi-Swarm | Claude Agent Team | Swarm-IDE |\n|------|-----------|-------------------|-----------|\n| 嵌套 Agent | ❌ | ❌ | ✅ |\n| Agent 间通信 | ❌ | ✅ | ✅ |\n| 人与子 Agent 通信 | ❌ | ✅ | ✅ |\n| 群聊模式 | ❌ | ❌ | ✅ |\n| 可视化 | ❌ | ❌ | ✅ |\n| 开源 | ❌ | ❌ | ✅ |\n| 发布时间 | 2026.1.27 | 2026.2.6 | 2026.1.2 |\n\n---\n\n## 核心设计哲学：两原语生成一切拓扑\n\nSwarm-IDE 的设计哲学可以用一句话概括：**每个人都能生孩子，也能和任意一个人说话。** 只要有这两种能力（create + send），就能实现任意结构。\n\n### 极简原语\n\n系统只依赖两个核心通信原语：\n\n- **create**：生成新节点（Agent）。任何 Agent 都可以调用 `create` 工具创建子代理，指定其 role（角色，如 coder、researcher、reviewer）。\n- **send**：在节点之间传递信息。Agent 可以向任意其他 Agent 或群组发送消息。\n\n复杂协作行为（如 Map-Reduce、路由到专家、树状递归）全部由这两个原语组合而来。系统提供 `create_group` / `send_group_message` 只是\"多播容器\"的便利工具，不改变最小原语的本质。\n\n### 液态拓扑\n\n拓扑不预设、在运行中自演化。遇到复杂任务时，由 Agent 主动\"雇佣\"下属。没有中心控制器，只有不断扩展的节点网络。这是一种**递归生成**的拓扑：\n\n```\n人类 → assistant → coder (子节点)\n                 → researcher (子节点)\n                 → reviewer (子节点)\n                      → sub-reviewer (孙节点)\n```\n\n每个新创建的 Agent 运行**同一套 loop 逻辑**，可以继续 create 和 send，形成无限嵌套的蜂群结构。\n\n### 扁平协作\n\n人类可以像聊天一样介入任意层级的 Agent。不管 Agent 嵌套多深，人类都可以直接与其对话，使复杂拓扑可观察、可调试、可介入。\n\n---\n\n## 系统架构：IM 系统与 Agent Loop 的解耦\n\nSwarm-IDE 的架构由两个独立但桥接的系统组成：\n\n### 1. IM 系统（消息层）\n\nIM 系统管理 `group`（群组）和 `message`（消息），只关心\"谁发给谁\"。核心数据模型：\n\n```\nWorkspace\n├── Agent (id, role, parentId, llmHistory)\n├── Group (id, name, contextTokens)\n│   └── GroupMember (userId, lastReadMessageId)\n└── Message (groupId, senderId, content, sendTime)\n```\n\n关键设计点：\n- **Agent 的 `llmHistory`**：每个 Agent 拥有独立的 LLM 上下文历史，与 IM group 无关。这是 Agent 的\"内部记忆\"。\n- **消息与 LLM 输出的解耦**：LLM 产生的内容**不会自动进入 messages**。只有显式调用 `send_*` 工具才会在 IM 系统产生消息。\n- **可见性规则**：谁需要知道信息，就必须显式 send。\n\n### 2. Agent Loop（推理层）\n\n每个 Agent 都运行相同的循环：\n\n```\n┌─────────────────────────────────────────────┐\n│  1. 拉取各 group 的未读消息                  │\n│  2. 拼成 user 内容，追加到 llmHistory        │\n│  3. 调用 LLM（可多轮工具调用，最多 3 轮）    │\n│  4. 工具结果写回 llmHistory                  │\n│  5. assistant 输出写回 llmHistory            │\n│  6. 需要对外可见时，显式 send_*              │\n└─────────────────────────────────────────────┘\n```\n\n### 桥接机制\n\n两个系统的唯一桥接点：\n\n- **拉取方向**：Agent 从 IM 系统拉取未读消息，作为本轮 LLM 输入。\n- **推送方向**：只有显式 `send_*` 才会在 IM 系统产生消息。\n\n这意味着 Agent 的内部推理过程（思考链、工具调用）是完全私有的，只有它主动 send 的内容才会被其他 Agent 或人类看到。\n\n---\n\n## Agent 运行时详解\n\n### 唤醒机制（Wake）\n\nAgent 不是轮询运行的，而是被\"唤醒\"的。唤醒触发条件：\n\n1. **group_message**：群内有新消息时，唤醒群里所有其他 Agent。\n2. **direct_message**：收到私信时唤醒。\n3. **manual**：手动唤醒。\n\n唤醒后，Agent 进入 `processUntilIdle()` 循环：拉取所有未读 batch，逐个处理，直到没有未读消息。\n\n### 工具系统\n\n每个 Agent 拥有一组内置工具：\n\n| 工具 | 功能 |\n|------|------|\n| `create` | 创建子 Agent |\n| `send` | 发送私信 |\n| `send_group_message` | 群发消息 |\n| `send_direct_message` | 直接消息 |\n| `list_agents` | 列出所有 Agent |\n| `list_groups` / `list_group_members` | 查看群组信息 |\n| `create_group` | 创建群组 |\n| `get_group_messages` | 获取群消息历史 |\n| `bash` | 执行 shell 命令 |\n| `self` | 查看自身身份 |\n| `get_skill` | 加载技能 |\n\n此外，系统支持 **MCP（Model Context Protocol）** 扩展，可以接入外部工具服务器。支持 stdio、HTTP、SSE 三种传输方式。\n\n### LLM 提供者\n\n支持两种 LLM 后端：\n- **GLM**（智谱 AI）：默认使用 glm-4.7 模型\n- **OpenRouter**：支持 Kimi-2.5 等多种模型\n\n### 防死循环机制\n\n- 每轮最多 **3 轮工具调用**（`maxToolRounds = 3`）。\n- 如果 Agent 本轮没有调用任何 `send_*` 工具，系统会自动追加一条提醒消息，要求它判断是否需要对外可见。\n- 支持 `interruptAll()` 中断所有 Agent。\n\n---\n\n## UI 事件系统\n\n系统通过两层事件总线实现前端实时更新：\n\n### AgentEventBus（Agent 事件）\n\n每个 Agent 一个 channel，事件类型：\n- `agent.wakeup`：Agent 被唤醒\n- `agent.unread`：有未读消息\n- `agent.stream`：流式输出（reasoning / content / tool_calls / tool_result）\n- `agent.done`：LLM 调用完成\n- `agent.error`：错误\n\n### WorkspaceUIBus（UI 事件）\n\n每个 Workspace 一个 channel，事件类型：\n- `ui.agent.created`：新 Agent 创建\n- `ui.group.created`：新群组创建\n- `ui.message.created`：新消息\n- `ui.agent.llm.start` / `ui.agent.llm.done`：LLM 调用状态\n- `ui.agent.tool_call.start` / `ui.agent.tool_call.done`：工具调用状态\n\n前端通过 **SSE（Server-Sent Events）** 订阅 `ui-stream`，实时接收这些事件并更新界面。\n\n---\n\n## 前端界面设计\n\n### 三栏布局\n\n```\n┌──────────────┬──────────────────────┬──────────────────┐\n│  左侧栏      │  中间：聊天 + Graph   │  右侧：Agent 详情 │\n│  - 对话列表   │  - 消息气泡区         │  - LLM history    │\n│  - 搜索框     │  - Agent Graph 可视化 │  - 工具调用日志    │\n│  - Agent 列表 │  - 输入区             │  - 推理过程        │\n└──────────────┴──────────────────────┴──────────────────┘\n```\n\n### Agent Graph 可视化\n\nGraph 页面展示 Agent 间的事件和数据流动：\n- 圆点 = Agent（含人类）\n- 箭头 = 消息/事件流\n- 可点击节点查看详情\n- 实时统计边数和消息聚合数\n\n### LLM History 面板\n\n展示 Agent 的完整 `llmHistory`，包括：\n- 系统提示词\n- 接收到的消息\n- LLM 的推理过程（reasoning）\n- 工具调用参数和结果\n- Assistant 的回复\n\n这让 Agent 不再是黑箱，你可以看到它的完整思考过程。\n\n---\n\n## 协作模式（Spells）\n\nSwarm-IDE 预置了三种协作模式，通过\"咒语\"（system prompt 模板）实现：\n\n### 1. Map-Reduce（并行分片→汇总）\n\n大任务切分并行处理，最后汇总。入口 Agent 将任务拆分为 N 个子任务，为每个子任务创建一个 Agent，等待回报后汇总。\n\n### 2. Router-Experts（路由到专家）\n\n入口 Agent 根据任务内容把请求路由给最合适的专家：\n- 需求/规划/产品 → role 含 \"pm\"\n- 代码/实现/调试 → role 含 \"coder\"\n- 设计/体验/交互 → role 含 \"designer\"\n- 分析/总结/归纳 → role 含 \"analyst\"\n\n如果不存在匹配的 Agent，就 create 对应 role 再发送。\n\n### 3. Tree-Executor（树状递归）\n\n每个节点想一个数字 → 向父节点汇报 → 父节点把\"子节点汇总 + 自己的数字\"再汇报给上级。这是一个典型的递归聚合模式。\n\n---\n\n## 技术栈\n\n| 组件 | 技术 |\n|------|------|\n| 后端框架 | Next.js 16 (App Router) |\n| 数据库 | PostgreSQL 17 (Drizzle ORM) |\n| 实时通信 | Redis + Upstash Realtime (SSE) |\n| LLM 集成 | GLM API / OpenRouter (OpenAI 兼容) |\n| MCP 支持 | @modelcontextprotocol/sdk |\n| 前端 | React 19 + Tailwind CSS + Framer Motion |\n| Markdown 渲染 | Streamdown |\n| 包管理 | Bun |\n| 容器化 | Docker Compose |\n\n### 运行要求\n\n- Linux 系统（或使用 GitHub Codespaces）\n- Bun 运行时\n- PostgreSQL + Redis（通过 Docker Compose 启动）\n- LLM API Key（GLM 或 OpenRouter）\n\n---\n\n## 关键代码解析\n\n### Agent 创建流程\n\n当 Agent 调用 `create` 工具时：\n\n```typescript\n// agent-runtime.ts 中的 create 工具处理\nif (name === \"create\") {\n  const args = safeJsonParse<{ role?: string; guidance?: string }>(input.call.argumentsText, {});\n  const role = (args.role ?? \"\").trim();\n  \n  // 1. 在数据库中创建子 Agent + 自动建立 P2P 群\n  const created = await store.createSubAgentWithP2P({\n    workspaceId,\n    creatorId: this.agentId,\n    role,\n    guidance,\n  });\n  \n  // 2. 为新 Agent 启动 Runner（事件循环）\n  this.ensureRunner(created.agentId);\n  \n  // 3. 发送 UI 事件通知前端\n  getWorkspaceUIBus().emit(workspaceId, {\n    event: \"ui.agent.created\",\n    data: { workspaceId, agent: { id: created.agentId, role, parentId: this.agentId } },\n  });\n}\n```\n\n### 消息发送与唤醒\n\n当 Agent 调用 `send_group_message` 时：\n\n```typescript\n// 1. 写入消息到数据库\nconst result = await store.sendMessage({\n  groupId,\n  senderId: this.agentId,\n  content,\n  contentType: args.contentType ?? \"text\",\n});\n\n// 2. 唤醒群里所有其他 Agent\nfor (const memberId of members) {\n  if (memberId === this.agentId) continue;\n  const role = await store.getAgentRole({ agentId: memberId }).catch(() => null);\n  if (role === \"human\" || role === null) continue;\n  this.ensureRunner(memberId);   // 确保 Runner 存在\n  this.wakeAgent(memberId);       // 唤醒\n}\n```\n\n### Agent 事件循环\n\n```typescript\nprivate async loop() {\n  while (true) {\n    await this.wake.promise;        // 阻塞等待唤醒\n    if (this.running) continue;\n    this.running = true;\n    try {\n      await this.processUntilIdle(); // 处理所有未读\n    } finally {\n      this.running = false;\n    }\n  }\n}\n```\n\n---\n\n## 运行方式\n\n### 方式一：GitHub Codespaces（推荐）\n\n无需本地环境，点击即可启动：\n\n[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&repo=chmod777john/swarm-ide)\n\n### 方式二：本地运行\n\n```bash\ncd swarm-ide/backend\n\n# 配置环境变量\ncp .env.example .env.local\n# 编辑 .env.local，填写 API Key\n\n# 启动数据库\ndocker compose up -d\n\n# 初始化数据库\ncurl -X POST http://127.0.0.1:3017/api/admin/init-db\n\n# 安装依赖并启动\nbun install\nbun dev\n```\n\n访问 http://localhost:3017，创建 workspace 即可开始。\n\n### 体验蜂群\n\n直接对 assistant 说：\n\n> \"创建 3 个儿子，给他们分别发消息，让他们再次自己创建 3 个孙子\"\n\n你会看到 Agent 自动创建子代理、建立群组、传递消息，形成一个树状的蜂群拓扑。\n\n---\n\n## 总结\n\nSwarm-IDE 的核心创新在于：\n\n1. **极简原语**：只用 create + send 两个原语就能表达任意多 Agent 协作行为。\n2. **液态拓扑**：拓扑不预设，在运行时由 Agent 自主演化，真正实现\"自组织\"。\n3. **IM + Agent 解耦**：消息系统与推理系统独立，LLM 输出不会自动暴露，只有显式 send 才产生可见消息。\n4. **人类可介入**：人类可以像聊天一样随时介入任意层级的 Agent。\n5. **完全开源**：在 Kimi-Swarm 和 Claude Agent Team 之前就独立提出了蜂群模式。\n\n这个项目对于理解多 Agent 系统的设计非常有参考价值。它的\"两原语生成一切拓扑\"的思想，比预定义静态工作流的方式更加灵活和强大。\n\n---\n\n## 相关链接\n\n- [GitHub 仓库](https://github.com/chmod777john/swarm-ide)\n- [B 站演示视频](https://www.bilibili.com/video/BV1X163BQE5c/)\n- [知乎文章](https://zhuanlan.zhihu.com/p/2000736341479138182)\n- [白皮书链上时间戳](https://viewblock.io/arweave/tx/BJ5GVAQBUXtv21jIEvuyqTsv9t93j7rlG47Lwcmtdu8)\n",
-      "url": "/submissions/2026-06-05-swarm-ide"
-    }
-  ],
+  "submissions": [],
   "contributors": [
     {
       "login": "BOHUYESHAN-APB",
@@ -46,7 +11,7 @@
     {
       "login": "actions-user",
       "avatar": "./avatars/65916846.png",
-      "contributions": 29,
+      "contributions": 33,
       "url": "https://github.com/actions-user"
     },
     {
@@ -58,11 +23,11 @@
   ],
   "stats": {
     "discussions": 0,
-    "submissions": 2,
+    "submissions": 0,
     "news": 0,
     "tools": 0,
     "general": 0,
     "contributors": 3
   },
-  "updatedAt": "2026-06-09T14:12:33.955Z"
+  "updatedAt": "2026-06-10T17:02:16.046Z"
 }

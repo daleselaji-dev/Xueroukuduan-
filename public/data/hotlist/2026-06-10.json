@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T06:26:11.586107",
+  "generated": "2026-06-10T17:02:19.104485",
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
@@ -8,8 +8,8 @@
       {
         "rank": 1,
         "name": "diffusionstudio/lottie",
-        "description": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code",
-        "stars": 1695,
+        "description": "Generate production-ready Lottie animations with Claude Code or Codex",
+        "stars": 1971,
         "language": "TypeScript",
         "url": "https://github.com/diffusionstudio/lottie",
         "created": "2026-06-04"
@@ -18,172 +18,172 @@
         "rank": 2,
         "name": "NoopApp/noop",
         "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-        "stars": 1169,
+        "stars": 1351,
         "language": "Swift",
         "url": "https://github.com/NoopApp/noop",
         "created": "2026-06-07"
       },
       {
         "rank": 3,
+        "name": "MSNightmare/RoguePlanet",
+        "description": "RoguePlanet Windows Defender Vulnerability",
+        "stars": 765,
+        "language": "C++",
+        "url": "https://github.com/MSNightmare/RoguePlanet",
+        "created": "2026-06-09"
+      },
+      {
+        "rank": 4,
         "name": "GordenSun/GordenSuperPPTSkills",
         "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-        "stars": 658,
+        "stars": 719,
         "language": "Python",
         "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
         "created": "2026-06-07"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "JimLiu/baoyu-design",
         "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4",
-        "stars": 654,
+        "stars": 673,
         "language": "JavaScript",
         "url": "https://github.com/JimLiu/baoyu-design",
         "created": "2026-06-07"
       },
       {
-        "rank": 5,
-        "name": "vorpus/performativeUI",
-        "description": "",
-        "stars": 532,
-        "language": "TypeScript",
-        "url": "https://github.com/vorpus/performativeUI",
-        "created": "2026-06-07"
-      },
-      {
         "rank": 6,
-        "name": "amElnagdy/guard-skills",
-        "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-        "stars": 521,
-        "language": null,
-        "url": "https://github.com/amElnagdy/guard-skills",
-        "created": "2026-06-06"
-      },
-      {
-        "rank": 7,
-        "name": "Jane-xiaoer/xiaoer-videolab",
-        "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-        "stars": 496,
-        "language": "JavaScript",
-        "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
-        "created": "2026-06-04"
-      },
-      {
-        "rank": 8,
-        "name": "jeff141/meatshell",
-        "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
-        "stars": 491,
-        "language": "Rust",
-        "url": "https://github.com/jeff141/meatshell",
-        "created": "2026-06-04"
-      },
-      {
-        "rank": 9,
-        "name": "zenhosta/9drive",
-        "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files",
-        "stars": 476,
-        "language": "TypeScript",
-        "url": "https://github.com/zenhosta/9drive",
-        "created": "2026-06-04"
-      },
-      {
-        "rank": 10,
-        "name": "wy51ai/edulab",
-        "description": "",
-        "stars": 463,
-        "language": "HTML",
-        "url": "https://github.com/wy51ai/edulab",
-        "created": "2026-06-04"
-      },
-      {
-        "rank": 11,
         "name": "apple/coreai-models",
         "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-        "stars": 437,
+        "stars": 561,
         "language": "Python",
         "url": "https://github.com/apple/coreai-models",
         "created": "2026-06-08"
       },
       {
-        "rank": 12,
-        "name": "mysk-research/loupe",
-        "description": "A privacy-focused iOS app that raises awareness about what native apps can see",
-        "stars": 426,
+        "rank": 7,
+        "name": "vorpus/performativeUI",
+        "description": "",
+        "stars": 556,
+        "language": "TypeScript",
+        "url": "https://github.com/vorpus/performativeUI",
+        "created": "2026-06-07"
+      },
+      {
+        "rank": 8,
+        "name": "amElnagdy/guard-skills",
+        "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+        "stars": 546,
         "language": null,
-        "url": "https://github.com/mysk-research/loupe",
+        "url": "https://github.com/amElnagdy/guard-skills",
+        "created": "2026-06-06"
+      },
+      {
+        "rank": 9,
+        "name": "jeff141/meatshell",
+        "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
+        "stars": 516,
+        "language": "Rust",
+        "url": "https://github.com/jeff141/meatshell",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 10,
+        "name": "Jane-xiaoer/xiaoer-videolab",
+        "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+        "stars": 501,
+        "language": "JavaScript",
+        "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 11,
+        "name": "zenhosta/9drive",
+        "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files",
+        "stars": 487,
+        "language": "TypeScript",
+        "url": "https://github.com/zenhosta/9drive",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 12,
+        "name": "wy51ai/edulab",
+        "description": "",
+        "stars": 472,
+        "language": "HTML",
+        "url": "https://github.com/wy51ai/edulab",
         "created": "2026-06-04"
       },
       {
         "rank": 13,
-        "name": "rednote-hilab/dots.tts",
-        "description": "",
-        "stars": 402,
-        "language": "Python",
-        "url": "https://github.com/rednote-hilab/dots.tts",
-        "created": "2026-06-04"
+        "name": "shadcn/improve",
+        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "stars": 469,
+        "language": null,
+        "url": "https://github.com/shadcn/improve",
+        "created": "2026-06-10"
       },
       {
         "rank": 14,
-        "name": "Unicornronote/Microsoft-Office-Activated",
-        "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)",
-        "stars": 382,
-        "language": "C++",
-        "url": "https://github.com/Unicornronote/Microsoft-Office-Activated",
+        "name": "mysk-research/loupe",
+        "description": "A privacy-focused iOS app that raises awareness about what native apps can see",
+        "stars": 433,
+        "language": null,
+        "url": "https://github.com/mysk-research/loupe",
         "created": "2026-06-04"
       },
       {
         "rank": 15,
         "name": "xiaohuailabs/xiaohu-video-translate",
         "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-        "stars": 377,
+        "stars": 431,
         "language": "Python",
         "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
         "created": "2026-06-08"
       },
       {
         "rank": 16,
-        "name": "Parcle-AI/parcle-memory",
+        "name": "rednote-hilab/dots.tts",
         "description": "",
-        "stars": 365,
-        "language": null,
-        "url": "https://github.com/Parcle-AI/parcle-memory",
-        "created": "2026-06-06"
+        "stars": 426,
+        "language": "Python",
+        "url": "https://github.com/rednote-hilab/dots.tts",
+        "created": "2026-06-04"
       },
       {
         "rank": 17,
-        "name": "MSNightmare/RoguePlanet",
-        "description": "RoguePlanet Windows Defender Vulnerability",
-        "stars": 364,
-        "language": "C++",
-        "url": "https://github.com/MSNightmare/RoguePlanet",
-        "created": "2026-06-09"
+        "name": "Tencent-Hunyuan/UniRL",
+        "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
+        "stars": 421,
+        "language": "Python",
+        "url": "https://github.com/Tencent-Hunyuan/UniRL",
+        "created": "2026-06-08"
       },
       {
         "rank": 18,
         "name": "IvanSobolev/Neo3dEngine",
         "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time cha",
-        "stars": 356,
+        "stars": 378,
         "language": "C#",
         "url": "https://github.com/IvanSobolev/Neo3dEngine",
         "created": "2026-06-06"
       },
       {
         "rank": 19,
-        "name": "FerroxLabs/wayland",
-        "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-        "stars": 345,
-        "language": "TypeScript",
-        "url": "https://github.com/FerroxLabs/wayland",
-        "created": "2026-06-05"
+        "name": "Parcle-AI/parcle-memory",
+        "description": "",
+        "stars": 372,
+        "language": "Python",
+        "url": "https://github.com/Parcle-AI/parcle-memory",
+        "created": "2026-06-06"
       },
       {
         "rank": 20,
-        "name": "Tencent-Hunyuan/UniRL",
-        "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
-        "stars": 343,
-        "language": "Python",
-        "url": "https://github.com/Tencent-Hunyuan/UniRL",
-        "created": "2026-06-08"
+        "name": "FerroxLabs/wayland",
+        "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+        "stars": 365,
+        "language": "TypeScript",
+        "url": "https://github.com/FerroxLabs/wayland",
+        "created": "2026-06-05"
       }
     ]
   },
