@@ -1,120 +1,3 @@
-﻿---
-layout: home
-
-hero:
-  name: "血肉苦短研讨班"
-  text: " "
-  tagline: 群友讨论与分享 · 收集精彩内容
-  actions:
-    - theme: brand
-      text: 浏览讨论
-      link: /discussions
-    - theme: alt
-      text: GitHub
-      link: https://github.com/daleselaji-dev/Xueroukuduan-
-
-features:
-  - icon: 📰
-    title: 新闻
-    details: 群友分享的最新资讯
-  - icon: 🔧
-    title: 小工具
-    details: 群友开发的实用工具
-  - icon: 💬
-    title: 讨论
-    details: 热门话题与交流
----
-
-<script setup>
-import { onMounted, ref, computed } from 'vue'
-
-const discussions = ref([])
-const contributors = ref([])
-const stats = ref({})
-const loading = ref(true)
-const activeCategory = ref("all")
-const allItems = ref([])
-
-const categories = [
-  { id: "all", name: "全部", emoji: "🔥" },
-  { id: "Announcements", name: "新闻", emoji: "📰" },
-  { id: "Show and tell", name: "小工具", emoji: "🔧" },
-  { id: "General", name: "讨论", emoji: "💬" }
-]
-
-const filtered = computed(() => {
-  if (activeCategory.value === "all") return allItems.value
-  return allItems.value.filter(d => d.category === activeCategory.value)
-})
-
-onMounted(async () => {
-  try {
-    const res = await fetch("/flesh-is-weak-seminar/data/discussions.json")
-    const data = await res.json()
-    discussions.value = data.discussions || []
-    contributors.value = data.contributors || []
-    stats.value = data.stats || {}
-
-    allItems.value = (data.discussions || [])
-      .sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0))
-  } catch (e) {
-    console.error(e)
-  } finally {
-    loading.value = false
-  }
-})
-
-function setCategory(id) { activeCategory.value = id }
-</script>
-
-<section class="sec">
-  <div class="sec-head">
-    <span class="lab">Latest</span>
-    <h2>最新内容</h2>
-  </div>
-  <div class="cats">
-    <button v-for="cat in categories" :key="cat.id" :class="{ on: activeCategory === cat.id }" @click="setCategory(cat.id)">
-      {{ cat.emoji }} {{ cat.name }}
-    </button>
-  </div>
-  <div v-if="loading" class="empty">加载中...</div>
-  <div v-else-if="filtered.length === 0" class="empty">暂无内容</div>
-  <div v-else class="dlist">
-    <a v-for="item in filtered" :key="item.id" :href="item.url" target="_blank" rel="noopener noreferrer" class="dcard">
-      <div class="dcard-top">
-        <img v-if="item.avatar" :src="item.avatar" :alt="item.author" class="avatar" />
-        <div>
-          <h3>{{ item.title }}</h3>
-          <p>{{ item.body }}</p>
-        </div>
-      </div>
-      <div class="dcard-meta">
-        <span>{{ item.author }}</span>
-        <span>{{ item.dateFormatted }}</span>
-        <span v-if="item.comments">💬 {{ item.comments }}</span>
-      </div>
-    </a>
-  </div>
-</section>
-
-<section class="sec">
-  <div class="sec-head">
-    <span class="lab">Contributors</span>
-    <h2>贡献者</h2>
-  </div>
-  <div v-if="loading" class="empty">加载中...</div>
-  <div v-else class="contribs">
-    <a v-for="c in contributors" :key="c.login" :href="c.url" target="_blank" rel="noopener noreferrer" class="contrib">
-      <img :src="c.avatar" :alt="c.login" />
-      <span>{{ c.login }}</span>
-      <span class="count">{{ c.contributions }} commits</span>
-    </a>
-  </div>
-</section>
-
-
-
-<style>
 /* === LIQUID METAL OVERRIDE - loads directly in HTML head === */
 /* This bypasses VitePress CSS import system for guaranteed application */
 
@@ -131,6 +14,49 @@ function setCategory(id) { activeCategory.value = id }
   --accent-gradient: linear-gradient(135deg,#1a1815 0%,#5a5450 30%,#1a1815 60%,#3a3632 100%);
   --font-display: 'Inter',Helvetica Neue,Arial,sans-serif;
   --font-mono: 'JetBrains Mono',SF Mono,Consolas,monospace;
+}
+
+
+/* ===== MOBILE RESPONSIVE ===== */
+@media (max-width: 768px) {
+  /* Hero: smaller */
+  .VPHero:not(#_) { padding: 80px 16px 40px !important; }
+  .VPHero:not(#_) .name:not(#_) { font-size: 36px !important; letter-spacing: -0.02em !important; max-width: 100% !important; }
+  .VPHero:not(#_) .tagline:not(#_) { font-size: 11px !important; }
+  .VPHero:not(#_) .actions:not(#_) { flex-direction: column !important; gap: 8px !important; }
+  .VPHero:not(#_) .VPButton:not(#_) { width: 100% !important; text-align: center !important; }
+  
+  /* Feature cards: 1 column */
+  .VPFeatures:not(#_) .items:not(#_) { grid-template-columns: 1fr !important; }
+  .VPFeature:not(#_) { padding: 32px 24px !important; }
+  .VPFeature:not(#_) .icon:not(#_) { font-size: 28px !important; }
+  .VPFeature:not(#_) h2:not(#_), .VPFeature:not(#_) .title:not(#_) { font-size: 16px !important; }
+  .VPFeature:not(#_) p:not(#_), .VPFeature:not(#_) .details:not(#_) { font-size: 11px !important; }
+  
+  /* Sections */
+  .sec:not(#_) { padding: 40px 16px !important; }
+  .sec:not(#_) h2:not(#_) { font-size: 24px !important; }
+  .cats:not(#_) button:not(#_) { font-size: 10px !important; padding: 6px 12px !important; }
+  
+  /* Cards */
+  .dcard:not(#_) { padding: 16px !important; }
+  .dcard:not(#_) h3:not(#_) { font-size: 15px !important; }
+  .dcard:not(#_) .dcard-top:not(#_) { flex-direction: column !important; }
+  
+  /* Feed */
+  .feed:not(#_) { padding: 12px 16px !important; }
+  .feed-card:not(#_) { padding: 16px !important; }
+  
+  /* Composer */
+  .composer-panel:not(#_) { padding: 16px !important; }
+  
+  /* Touch targets */
+  .VPButton:not(#_) { min-height: 44px !important; }
+  .cr-btn:not(#_) { min-height: 36px !important; padding: 8px 12px !important; }
+  .cats:not(#_) button:not(#_) { min-height: 36px !important; }
+  
+  /* Show mobile nav (VitePress handles this) */
+  .VPNavScreen:not(#_) { display: block !important; }
 }
 
 /* ===== DARK HERO (Thibaut-inspired #131313) ===== */
@@ -397,14 +323,6 @@ h1:not(.VPHero h1), h2, h3, h4, h5, h6 {
 }
 
 /* Responsive */
-@media(max-width:960px){.VPHero{padding:100px 20px 60px!important}}
-@media(max-width:640px){
-  .VPHero{padding:80px 16px 48px!important}
-  .VPHero .name{font-size:42px!important}
-  .VPHero .actions{flex-direction:column!important}
-  .VPButton{width:100%!important}
-}
-
 
 /* ===== MOBILE RESPONSIVE ===== */
 @media (max-width: 768px) {
@@ -448,4 +366,10 @@ h1:not(.VPHero h1), h2, h3, h4, h5, h6 {
   .VPNavScreen:not(#_) { display: block !important; }
 }
 
-</style>
+@media(max-width:960px){.VPHero{padding:100px 20px 60px!important}}
+@media(max-width:640px){
+  .VPHero{padding:80px 16px 48px!important}
+  .VPHero .name{font-size:42px!important}
+  .VPHero .actions{flex-direction:column!important}
+  .VPButton{width:100%!important}
+}

@@ -48,31 +48,33 @@ h1:hover,h2:hover,h3:hover{letter-spacing:-0.04em}
 a{color:var(--text);text-decoration:none;transition:color .2s}
 a:hover{color:var(--muted)}
 
-.VPNav{border-bottom:1px solid var(--border-light)!important;background:rgba(245,243,239,0.92)!important;backdrop-filter:blur(24px) saturate(1.2)!important}
-.VPNavBar{background:transparent!important}
-.VPNavBarTitle .title{font-weight:900!important;font-size:12px!important;letter-spacing:0.12em!important;text-transform:uppercase!important;background:var(--text-chrome)!important;-webkit-background-clip:text!important;-webkit-text-fill-color:transparent!important;background-clip:text!important}
-.VPNavBarMenuLink{font-size:12px!important;font-weight:700!important;letter-spacing:0.08em!important;text-transform:uppercase!important;color:var(--muted)!important;padding:0 18px!important;position:relative!important;transition:all .25s!important}
+.VPNav:not(#_){border-bottom:1px solid var(--border-light)!important;background:rgba(19,19,19,0.95)!important;backdrop-filter:blur(24px) saturate(1.2)!important}
+.VPNavBar:not(#_){background:transparent!important}
+.VPNavBarTitle:not(#_) .title:not(#_){font-weight:900!important;font-size:12px!important;letter-spacing:0.12em!important;text-transform:uppercase!important;background:var(--text-chrome)!important;-webkit-background-clip:text!important;-webkit-text-fill-color:transparent!important;background-clip:text!important}
+.VPNavBarMenuLink:not(#_){font-size:12px!important;font-weight:700!important;letter-spacing:0.08em!important;text-transform:uppercase!important;color:var(--muted)!important;padding:0 18px!important;position:relative!important;transition:all .25s!important}
 .VPNavBarMenuLink::after{content:''!important;position:absolute!important;bottom:0!important;left:50%!important;width:0!important;height:2px!important;background:var(--metal-gradient)!important;transition:all .3s!important;transform:translateX(-50%)!important}
 .VPNavBarMenuLink:hover{color:var(--text)!important}
 .VPNavBarMenuLink:hover::after{width:60%!important}
 
 /* HERO - Dark dramatic section inspired by Thibaut/Henri */
-.VPHero{background:#1a1815!important;border-bottom:1px solid rgba(255,255,255,0.06)!important;padding:140px 24px 100px!important;position:relative;overflow:hidden}
+.VPHero:not(#_){background:#131313!important;border-bottom:1px solid rgba(255,255,255,0.06)!important;padding:140px 24px 100px!important;position:relative;overflow:hidden}
 .VPHero::before{content:'';position:absolute;top:-40%;right:-15%;width:700px;height:700px;background:radial-gradient(circle at 30% 50%,rgba(200,200,200,0.04) 0%,rgba(255,255,255,0.02) 30%,transparent 60%);border-radius:58% 42% 55% 45%/48% 40% 60% 52%;pointer-events:none;filter:blur(80px);animation:heroBlob 25s ease-in-out infinite alternate}
 @keyframes heroBlob{0%{transform:translate(0,0) scale(1)}25%{transform:translate(80px,-60px) scale(1.1)}50%{transform:translate(-40px,-100px) scale(0.95)}75%{transform:translate(60px,-40px) scale(1.08)}100%{transform:translate(-60px,0) scale(1.02)}}
 .VPHero::after{content:'';position:absolute;bottom:-25%;left:-5%;width:500px;height:500px;background:radial-gradient(circle at 50% 50%,rgba(255,255,255,0.03) 0%,transparent 50%);border-radius:42% 58% 48% 52%/55% 45% 50% 50%;pointer-events:none;filter:blur(60px);animation:heroBlob2 30s ease-in-out infinite alternate reverse}
-@keyframes heroBlob2{0%{transform:translate(0,0) scale(1)}33%{transform:translate(-100px,50px) scale(1.15)}66%{transform:translate(50px,-80px) scale(0.92)}100%{transform:translate(-30px,30px) scale(1.08)}}
-.VPHero .container{max-width:1180px!important;position:relative;z-index:1}
-.VPHero .name{display:block!important;font-family:var(--font-display)!important;font-size:clamp(48px,8vw,112px)!important;font-weight:900!important;line-height:0.85!important;letter-spacing:-0.04em!important;text-transform:uppercase!important;margin-bottom:20px;background:linear-gradient(135deg,#d8d4cc 0%,#8a8279 15%,#ffffff 35%,#4a4440 50%,#d8d4cc 65%,#706960 80%,#ffffff 100%)!important;background-size:300% 300%!important;-webkit-background-clip:text!important;-webkit-text-fill-color:transparent!important;background-clip:text!important;text-shadow:none!important;animation:chromeShimmer 10s ease-in-out infinite}
-@keyframes chromeShimmer{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
-.VPHero .tagline{color:rgba(255,255,255,0.4)!important;font-size:13px!important;letter-spacing:0.15em!important;text-transform:uppercase!important;max-width:800px;font-weight:600}
-.VPHero .actions{margin-top:48px!important;gap:14px!important}
-.VPHero .VPButton.brand{background:linear-gradient(135deg,#ffffff,#e8e4de 30%,#d8d4cc 60%,#ffffff)!important;color:#1a1815!important;border:none!important;box-shadow:0 4px 20px rgba(255,255,255,0.1)!important}
-.VPHero .VPButton.brand:hover{transform:translateY(-3px)!important;box-shadow:0 8px 30px rgba(255,255,255,0.15)!important}
-.VPHero .VPButton.alt{background:transparent!important;color:rgba(255,255,255,0.7)!important;border:1px solid rgba(255,255,255,0.15)!important}
-.VPHero .VPButton.alt:hover{border-color:rgba(255,255,255,0.4)!important;color:#fff!important}
+body::after{content:"";position:fixed;inset:0;background:radial-gradient(closest-side,rgba(0,0,0,0.2) 50%,rgba(0,0,0,0));pointer-events:none;z-index:0;opacity:0.6}
 
-.VPButton{min-height:52px;padding:0 36px!important;border-radius:var(--r-sm)!important;font-family:var(--font-mono)!important;font-size:11px!important;font-weight:700!important;letter-spacing:0.12em!important;text-transform:uppercase!important;transition:all .3s!important;position:relative;overflow:hidden}
+@keyframes heroBlob2{0%{transform:translate(0,0) scale(1)}33%{transform:translate(-100px,50px) scale(1.15)}66%{transform:translate(50px,-80px) scale(0.92)}100%{transform:translate(-30px,30px) scale(1.08)}}
+.VPHero:not(#_) .container{max-width:1180px!important;position:relative;z-index:1}
+.VPHero:not(#_) .name{display:block!important;font-family:var(--font-display)!important;font-size:clamp(48px,8vw,112px)!important;font-weight:900!important;line-height:0.85!important;letter-spacing:-0.04em!important;text-transform:uppercase!important;margin-bottom:20px;background:linear-gradient(135deg,#d8d4cc 0%,#8a8279 15%,#ffffff 35%,#4a4440 50%,#d8d4cc 65%,#706960 80%,#ffffff 100%)!important;background-size:300% 300%!important;-webkit-background-clip:text!important;-webkit-text-fill-color:transparent!important;background-clip:text!important;text-shadow:none!important;animation:chromeShimmer 10s ease-in-out infinite}
+@keyframes chromeShimmer{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+.VPHero:not(#_) .tagline{color:rgba(255,255,255,0.4)!important;font-size:13px!important;letter-spacing:0.15em!important;text-transform:uppercase!important;max-width:800px;font-weight:600}
+.VPHero:not(#_) .actions{margin-top:48px!important;gap:14px!important}
+.VPHero:not(#_) .VPButton.brand{background:linear-gradient(135deg,#ffffff,#e8e4de 30%,#d8d4cc 60%,#ffffff)!important;color:#1a1815!important;border:none!important;box-shadow:0 4px 20px rgba(255,255,255,0.1)!important}
+.VPHero:not(#_) .VPButton.brand:hover{transform:translateY(-3px)!important;box-shadow:0 8px 30px rgba(255,255,255,0.15)!important}
+.VPHero:not(#_) .VPButton.alt{background:transparent!important;color:rgba(255,255,255,0.7)!important;border:1px solid rgba(255,255,255,0.15)!important}
+.VPHero:not(#_) .VPButton.alt:hover{border-color:rgba(255,255,255,0.4)!important;color:#fff!important}
+
+.VPButton:not(#_){min-height:52px;padding:0 36px!important;border-radius:var(--r-sm)!important;font-family:var(--font-mono)!important;font-size:11px!important;font-weight:700!important;letter-spacing:0.12em!important;text-transform:uppercase!important;transition:all .3s!important;position:relative;overflow:hidden}
 .VPButton.brand::after{content:'';position:absolute;top:-50%;left:-50%;width:200%;height:200%;background:radial-gradient(circle at 30% 50%,rgba(255,255,255,0.15),transparent 60%);opacity:0;transition:opacity .4s;pointer-events:none}
 .VPButton.brand:hover::after{opacity:1}
 .VPButton:hover{transform:translateY(-2px)!important}
@@ -80,21 +82,21 @@ a:hover{color:var(--muted)}
 .VPButton.alt:hover{border-color:var(--chrome-dark)!important;box-shadow:var(--shadow-md)!important}
 
 /* Feature cards - VPFeatures override */
-.VPFeatures{background:var(--card)!important;padding:0!important}
-.VPFeatures .container{max-width:100%!important;padding:0!important}
-.VPFeatures .items{display:grid!important;grid-template-columns:repeat(3,1fr)!important;gap:1px!important;background:var(--border-light)!important;border-bottom:1px solid var(--border-light)!important}
-.VPFeatures .item{padding:0!important;background:transparent!important;border:none!important}
-.VPFeature{height:auto!important;background:var(--card)!important;text-align:left!important;border:none!important;border-radius:0!important;position:relative!important;transition:all .35s cubic-bezier(.25,.46,.45,.94)!important}
+.VPFeatures:not(#_){background:var(--card)!important;padding:0!important}
+.VPFeatures:not(#_) .container{max-width:100%!important;padding:0!important}
+.VPFeatures:not(#_) .items{display:grid!important;grid-template-columns:repeat(3,1fr)!important;gap:1px!important;background:var(--border-light)!important;border-bottom:1px solid var(--border-light)!important}
+.VPFeatures:not(#_) .item{padding:0!important;background:transparent!important;border:none!important}
+.VPFeature:not(#_){height:auto!important;background:var(--card)!important;text-align:left!important;border:none!important;border-radius:0!important;position:relative!important;transition:all .35s cubic-bezier(.25,.46,.45,.94)!important}
 .VPFeature::after{content:''!important;position:absolute!important;top:0!important;left:0!important;right:0!important;height:3px!important;background:var(--metal-gradient)!important;opacity:0!important;transition:opacity .3s!important}
 .VPFeature:hover::after{opacity:1!important}
 .VPFeature:hover{transform:translateY(-4px)!important;box-shadow:0 8px 30px rgba(0,0,0,0.06)!important;z-index:2!important;position:relative!important}
 .VPFeature::before{content:''!important;position:absolute!important;top:-50%!important;left:-50%!important;width:200%!important;height:200%!important;background:radial-gradient(ellipse at 50% 50%,rgba(255,255,255,0.08),transparent 50%)!important;opacity:0!important;transition:opacity .5s!important;pointer-events:none!important}
 .VPFeature:hover::before{opacity:1!important}
-.VPFeature .icon{font-size:36px!important;margin-bottom:20px!important;display:block!important}
-.VPFeature h2{font-family:var(--font-display)!important;font-weight:900!important;font-size:clamp(18px,1.6vw,24px)!important;letter-spacing:-0.02em!important;margin-bottom:10px!important;color:var(--text)!important;background:none!important;-webkit-text-fill-color:var(--text)!important;text-transform:uppercase!important;line-height:1.0!important}
-.VPFeature p{font-family:var(--font-mono)!important;font-size:12px!important;color:var(--muted)!important;line-height:1.5!important;margin:0!important}
-@media(max-width:960px){.VPFeatures .items{grid-template-columns:repeat(2,1fr)!important}}
-@media(max-width:600px){.VPFeatures .items{grid-template-columns:1fr!important}.VPFeature{height:auto!important;}}
+.VPFeature:not(#_) .icon{font-size:36px!important;margin-bottom:20px!important;display:block!important}
+.VPFeature:not(#_) h2{font-family:var(--font-display)!important;font-weight:900!important;font-size:clamp(18px,1.6vw,24px)!important;letter-spacing:-0.02em!important;margin-bottom:10px!important;color:var(--text)!important;background:none!important;-webkit-text-fill-color:var(--text)!important;text-transform:uppercase!important;line-height:1.0!important}
+.VPFeature:not(#_) p{font-family:var(--font-mono)!important;font-size:12px!important;color:var(--muted)!important;line-height:1.5!important;margin:0!important}
+@media(max-width:960px){.VPFeatures:not(#_) .items{grid-template-columns:repeat(2,1fr)!important}}
+@media(max-width:600px){.VPFeatures:not(#_) .items{grid-template-columns:1fr!important}.VPFeature:not(#_){height:auto!important;}}
 
 /* Content sections */
 .sec{max-width:1080px;margin:0 auto;padding:80px 28px}
@@ -213,9 +215,9 @@ a:hover{color:var(--muted)}
 .lp-time{color:var(--faint);font-size:10px}
 .lp-empty{text-align:center;padding:16px;color:var(--faint);font-family:var(--font-mono);font-size:11px}
 
-.VPFooter{border-top:1px solid var(--border-light)!important;background:var(--card)!important;color:var(--faint)!important}
-.VPFooter .message{font-family:var(--font-mono);font-size:12px!important;color:var(--faint)!important}
+.VPFooter:not(#_){border-top:1px solid var(--border-light)!important;background:var(--card)!important;color:var(--faint)!important}
+.VPFooter:not(#_) .message{font-family:var(--font-mono);font-size:12px!important;color:var(--faint)!important}
 
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important;animation:none!important}}
-@media(max-width:960px){.VPHero{padding:100px 20px 60px!important}.sec{padding:60px 20px}.VPFeatures .items{grid-template-columns:repeat(2,1fr)!important}}
-@media(max-width:640px){.VPHero{padding:80px 16px 48px!important}.VPHero .name{font-size:42px!important}.VPHero .actions{flex-direction:column;gap:8px!important}.VPButton{width:100%!important}.sec{padding:40px 16px}.sec h2{font-size:28px}.cats button{font-size:11px;padding:6px 14px}.dcard{padding:18px 20px}.dcard h3{font-size:16px}.dcard-meta{font-size:11px;gap:12px;flex-wrap:wrap}.dcard-top{flex-direction:column}.contribs{grid-template-columns:repeat(2,1fr)}.composer-panel{padding:20px}.feed{padding:16px}.feed-card{padding:18px 20px}.VPFeatures .items{grid-template-columns:1fr!important}.VPFeature{height:auto!important;}}
+@media(max-width:960px){.VPHero:not(#_){padding:100px 20px 60px!important}.sec{padding:60px 20px}.VPFeatures:not(#_) .items{grid-template-columns:repeat(2,1fr)!important}}
+@media(max-width:640px){.VPHero:not(#_){padding:80px 16px 48px!important}.VPHero:not(#_) .name{font-size:42px!important}.VPHero:not(#_) .actions{flex-direction:column;gap:8px!important}.VPButton:not(#_){width:100%!important}.sec{padding:40px 16px}.sec h2{font-size:28px}.cats button{font-size:11px;padding:6px 14px}.dcard{padding:18px 20px}.dcard h3{font-size:16px}.dcard-meta{font-size:11px;gap:12px;flex-wrap:wrap}.dcard-top{flex-direction:column}.contribs{grid-template-columns:repeat(2,1fr)}.composer-panel{padding:20px}.feed{padding:16px}.feed-card{padding:18px 20px}.VPFeatures:not(#_) .items{grid-template-columns:1fr!important}.VPFeature:not(#_){height:auto!important;}}
