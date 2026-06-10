@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T17:29:06.090478",
+  "generated": "2026-06-10T17:43:19.641081",
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
@@ -9,7 +9,7 @@
         "rank": 1,
         "name": "diffusionstudio/lottie",
         "description": "Generate production-ready Lottie animations with Claude Code or Codex",
-        "stars": 1976,
+        "stars": 1977,
         "language": "TypeScript",
         "url": "https://github.com/diffusionstudio/lottie",
         "created": "2026-06-04"
@@ -18,7 +18,7 @@
         "rank": 2,
         "name": "NoopApp/noop",
         "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-        "stars": 1354,
+        "stars": 1355,
         "language": "Swift",
         "url": "https://github.com/NoopApp/noop",
         "created": "2026-06-07"
@@ -27,7 +27,7 @@
         "rank": 3,
         "name": "MSNightmare/RoguePlanet",
         "description": "RoguePlanet Windows Defender Vulnerability",
-        "stars": 776,
+        "stars": 785,
         "language": "C++",
         "url": "https://github.com/MSNightmare/RoguePlanet",
         "created": "2026-06-09"
@@ -36,7 +36,7 @@
         "rank": 4,
         "name": "GordenSun/GordenSuperPPTSkills",
         "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-        "stars": 720,
+        "stars": 721,
         "language": "Python",
         "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
         "created": "2026-06-07"
@@ -54,7 +54,7 @@
         "rank": 6,
         "name": "apple/coreai-models",
         "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-        "stars": 564,
+        "stars": 566,
         "language": "Python",
         "url": "https://github.com/apple/coreai-models",
         "created": "2026-06-08"
@@ -79,6 +79,15 @@
       },
       {
         "rank": 9,
+        "name": "shadcn/improve",
+        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "stars": 523,
+        "language": null,
+        "url": "https://github.com/shadcn/improve",
+        "created": "2026-06-10"
+      },
+      {
+        "rank": 10,
         "name": "jeff141/meatshell",
         "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
         "stars": 518,
@@ -87,22 +96,13 @@
         "created": "2026-06-04"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "name": "Jane-xiaoer/xiaoer-videolab",
         "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
         "stars": 501,
         "language": "JavaScript",
         "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
         "created": "2026-06-04"
-      },
-      {
-        "rank": 11,
-        "name": "shadcn/improve",
-        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-        "stars": 499,
-        "language": null,
-        "url": "https://github.com/shadcn/improve",
-        "created": "2026-06-10"
       },
       {
         "rank": 12,
@@ -124,21 +124,21 @@
       },
       {
         "rank": 14,
+        "name": "mysk-research/loupe",
+        "description": "A privacy-focused iOS app that raises awareness about what native apps can see",
+        "stars": 434,
+        "language": null,
+        "url": "https://github.com/mysk-research/loupe",
+        "created": "2026-06-04"
+      },
+      {
+        "rank": 15,
         "name": "xiaohuailabs/xiaohu-video-translate",
         "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
         "stars": 433,
         "language": "Python",
         "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
         "created": "2026-06-08"
-      },
-      {
-        "rank": 15,
-        "name": "mysk-research/loupe",
-        "description": "A privacy-focused iOS app that raises awareness about what native apps can see",
-        "stars": 433,
-        "language": null,
-        "url": "https://github.com/mysk-research/loupe",
-        "created": "2026-06-04"
       },
       {
         "rank": 16,
@@ -162,7 +162,7 @@
         "rank": 18,
         "name": "IvanSobolev/Neo3dEngine",
         "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time cha",
-        "stars": 379,
+        "stars": 382,
         "language": "C#",
         "url": "https://github.com/IvanSobolev/Neo3dEngine",
         "created": "2026-06-06"
