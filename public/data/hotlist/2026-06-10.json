@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T17:07:12.162112",
+  "generated": "2026-06-10T17:29:06.090478",
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
@@ -9,7 +9,7 @@
         "rank": 1,
         "name": "diffusionstudio/lottie",
         "description": "Generate production-ready Lottie animations with Claude Code or Codex",
-        "stars": 1972,
+        "stars": 1976,
         "language": "TypeScript",
         "url": "https://github.com/diffusionstudio/lottie",
         "created": "2026-06-04"
@@ -18,7 +18,7 @@
         "rank": 2,
         "name": "NoopApp/noop",
         "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-        "stars": 1352,
+        "stars": 1354,
         "language": "Swift",
         "url": "https://github.com/NoopApp/noop",
         "created": "2026-06-07"
@@ -27,7 +27,7 @@
         "rank": 3,
         "name": "MSNightmare/RoguePlanet",
         "description": "RoguePlanet Windows Defender Vulnerability",
-        "stars": 765,
+        "stars": 776,
         "language": "C++",
         "url": "https://github.com/MSNightmare/RoguePlanet",
         "created": "2026-06-09"
@@ -36,7 +36,7 @@
         "rank": 4,
         "name": "GordenSun/GordenSuperPPTSkills",
         "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-        "stars": 719,
+        "stars": 720,
         "language": "Python",
         "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
         "created": "2026-06-07"
@@ -45,7 +45,7 @@
         "rank": 5,
         "name": "JimLiu/baoyu-design",
         "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4",
-        "stars": 673,
+        "stars": 675,
         "language": "JavaScript",
         "url": "https://github.com/JimLiu/baoyu-design",
         "created": "2026-06-07"
@@ -54,7 +54,7 @@
         "rank": 6,
         "name": "apple/coreai-models",
         "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-        "stars": 562,
+        "stars": 564,
         "language": "Python",
         "url": "https://github.com/apple/coreai-models",
         "created": "2026-06-08"
@@ -81,7 +81,7 @@
         "rank": 9,
         "name": "jeff141/meatshell",
         "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
-        "stars": 516,
+        "stars": 518,
         "language": "Rust",
         "url": "https://github.com/jeff141/meatshell",
         "created": "2026-06-04"
@@ -97,21 +97,21 @@
       },
       {
         "rank": 11,
+        "name": "shadcn/improve",
+        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "stars": 499,
+        "language": null,
+        "url": "https://github.com/shadcn/improve",
+        "created": "2026-06-10"
+      },
+      {
+        "rank": 12,
         "name": "zenhosta/9drive",
         "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files",
         "stars": 488,
         "language": "TypeScript",
         "url": "https://github.com/zenhosta/9drive",
         "created": "2026-06-04"
-      },
-      {
-        "rank": 12,
-        "name": "shadcn/improve",
-        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-        "stars": 474,
-        "language": null,
-        "url": "https://github.com/shadcn/improve",
-        "created": "2026-06-10"
       },
       {
         "rank": 13,
@@ -124,21 +124,21 @@
       },
       {
         "rank": 14,
+        "name": "xiaohuailabs/xiaohu-video-translate",
+        "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+        "stars": 433,
+        "language": "Python",
+        "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+        "created": "2026-06-08"
+      },
+      {
+        "rank": 15,
         "name": "mysk-research/loupe",
         "description": "A privacy-focused iOS app that raises awareness about what native apps can see",
         "stars": 433,
         "language": null,
         "url": "https://github.com/mysk-research/loupe",
         "created": "2026-06-04"
-      },
-      {
-        "rank": 15,
-        "name": "xiaohuailabs/xiaohu-video-translate",
-        "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-        "stars": 431,
-        "language": "Python",
-        "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-        "created": "2026-06-08"
       },
       {
         "rank": 16,
@@ -162,7 +162,7 @@
         "rank": 18,
         "name": "IvanSobolev/Neo3dEngine",
         "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time cha",
-        "stars": 378,
+        "stars": 379,
         "language": "C#",
         "url": "https://github.com/IvanSobolev/Neo3dEngine",
         "created": "2026-06-06"
