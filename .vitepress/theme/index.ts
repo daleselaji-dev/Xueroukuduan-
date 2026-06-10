@@ -1,5 +1,7 @@
 ﻿import DefaultTheme from 'vitepress/theme'
+import CustomLayout from './Layout.vue'
 import CommunityWidget from './CommunityWidget.vue'
+import SubmissionsPanel from './SubmissionsPanel.vue'
 import MagazineShelf from './MagazineShelf.vue'
 import MagazineReader from './MagazineReader.vue'
 import HotList from './HotList.vue'
@@ -13,9 +15,11 @@ import './magazine.css'
 
 export default {
   ...DefaultTheme,
+  Layout: CustomLayout,
   enhanceApp({ app }) {
     app.component('CommunityWidget', CommunityWidget)
-        app.component('MagazineShelf', MagazineShelf)
+    app.component('SubmissionsPanel', SubmissionsPanel)
+    app.component('MagazineShelf', MagazineShelf)
     app.component('MagazineReader', MagazineReader)
     app.component('HotList', HotList)
     app.component('ForumLinks', ForumLinks)
@@ -25,4 +29,3 @@ export default {
     app.component('ContentFeed', ContentFeed)
   }
 }
-
