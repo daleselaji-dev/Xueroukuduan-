@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-06-10T17:02:19.104485",
+  "generated": "2026-06-10T17:07:12.162112",
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
@@ -9,7 +9,7 @@
         "rank": 1,
         "name": "diffusionstudio/lottie",
         "description": "Generate production-ready Lottie animations with Claude Code or Codex",
-        "stars": 1971,
+        "stars": 1972,
         "language": "TypeScript",
         "url": "https://github.com/diffusionstudio/lottie",
         "created": "2026-06-04"
@@ -18,7 +18,7 @@
         "rank": 2,
         "name": "NoopApp/noop",
         "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-        "stars": 1351,
+        "stars": 1352,
         "language": "Swift",
         "url": "https://github.com/NoopApp/noop",
         "created": "2026-06-07"
@@ -54,7 +54,7 @@
         "rank": 6,
         "name": "apple/coreai-models",
         "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-        "stars": 561,
+        "stars": 562,
         "language": "Python",
         "url": "https://github.com/apple/coreai-models",
         "created": "2026-06-08"
@@ -99,28 +99,28 @@
         "rank": 11,
         "name": "zenhosta/9drive",
         "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files",
-        "stars": 487,
+        "stars": 488,
         "language": "TypeScript",
         "url": "https://github.com/zenhosta/9drive",
         "created": "2026-06-04"
       },
       {
         "rank": 12,
+        "name": "shadcn/improve",
+        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "stars": 474,
+        "language": null,
+        "url": "https://github.com/shadcn/improve",
+        "created": "2026-06-10"
+      },
+      {
+        "rank": 13,
         "name": "wy51ai/edulab",
         "description": "",
         "stars": 472,
         "language": "HTML",
         "url": "https://github.com/wy51ai/edulab",
         "created": "2026-06-04"
-      },
-      {
-        "rank": 13,
-        "name": "shadcn/improve",
-        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-        "stars": 469,
-        "language": null,
-        "url": "https://github.com/shadcn/improve",
-        "created": "2026-06-10"
       },
       {
         "rank": 14,
@@ -180,7 +180,7 @@
         "rank": 20,
         "name": "FerroxLabs/wayland",
         "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-        "stars": 365,
+        "stars": 366,
         "language": "TypeScript",
         "url": "https://github.com/FerroxLabs/wayland",
         "created": "2026-06-05"
