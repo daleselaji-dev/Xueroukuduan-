@@ -372,7 +372,7 @@ function escapeHtml(value) {
 watch(() => props.issueId, async (id) => {
   if (!id) return
   try {
-    const res = await fetch(`/flesh-is-weak-seminar/data/magazine/${id}.json`)
+    const res = await fetch(`/data/magazine/${id}.json`)
     issue.value = await res.json()
     currentPage.value = 0
   } catch (e) {

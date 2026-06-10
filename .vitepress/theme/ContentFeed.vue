@@ -1,6 +1,5 @@
-<template>
+﻿<template>
   <div class="feed">
-    <!-- 发布入口 -->
     <div class="feed-compose">
       <button v-if="!composeOpen" class="feed-compose-btn" @click="composeOpen = true">
         ✏️ 发布{{ typeLabel }}
@@ -8,7 +7,6 @@
       <PostComposer v-if="composeOpen" :key="'c-'+type" @created="onCreated" />
     </div>
 
-    <!-- 过滤器 -->
     <div class="feed-filters">
       <button v-for="f in filters" :key="f.value"
         :class="['feed-filter', { active: activeFilter === f.value }]"
@@ -17,11 +15,9 @@
       </button>
     </div>
 
-    <!-- 状态 -->
     <div v-if="loading" class="loading">加载中...</div>
     <div v-else-if="items.length === 0 && !composeOpen" class="empty">暂无内容，点击上方按钮发布第一条</div>
 
-    <!-- 列表 -->
     <div v-else class="feed-list">
       <div v-for="item in items" :key="item.id" class="feed-card">
         <div class="feed-card-top">
@@ -51,7 +47,6 @@ const types = {
   news: { label: '新闻', active: 2, archive: 2 },
   tools: { label: '工具', active: 365, archive: 365 },
   discussions: { label: '讨论', active: 30, archive: 30 },
-  submissions: { label: '投稿', active: 365, archive: 365 },
 }
 const typeInfo = computed(() => types[props.type] || types.news)
 const typeLabel = computed(() => typeInfo.value.label)

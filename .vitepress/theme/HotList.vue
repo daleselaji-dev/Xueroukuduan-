@@ -81,7 +81,7 @@ function nextDay() { if (canNext.value) currentIndex.value-- }
 
 async function loadIndex() {
   try {
-    const res = await fetch('/flesh-is-weak-seminar/data/hotlist/index.json')
+    const res = await fetch('/data/hotlist/index.json')
     const index = await res.json()
     dates.value = index.dates || []
     currentIndex.value = 0
@@ -94,7 +94,7 @@ async function loadDate(date) {
   if (!date) return
   loading.value = true
   try {
-    const res = await fetch(`/flesh-is-weak-seminar/data/hotlist/${date}.json`)
+    const res = await fetch(`/data/hotlist/${date}.json`)
     data.value = await res.json()
   } catch (e) {
     console.error('Failed to load hotlist:', e)

@@ -17,7 +17,7 @@ GitHub 热门项目 + arXiv 最新论文，每日更新。
   display: flex; align-items: center; justify-content: center; font-size: 12px;
   transition: all 0.15s;
 }
-.nav-btn:hover:not(:disabled) { border-color: var(--cyan); color: var(--cyan); }
+.nav-btn:hover:not(:disabled) { border-color: var(--copper); color: var(--copper); }
 .nav-btn:disabled { opacity: 0.3; cursor: default; }
 .nav-date { font-size: 16px; font-weight: 600; color: var(--text); min-width: 100px; text-align: center; }
 
@@ -39,13 +39,13 @@ GitHub 热门项目 + arXiv 最新论文，每日更新。
   background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
   text-decoration: none; color: inherit; transition: all 0.2s;
 }
-.rank-item:hover { border-color: var(--cyan); transform: translateX(4px); }
+.rank-item:hover { border-color: var(--copper); transform: translateX(4px); }
 
 .rank-num {
   font-family: var(--font-display); font-size: 20px; font-weight: 900;
   color: var(--faint); min-width: 32px; text-align: center; line-height: 1.4;
 }
-.rank-num.top3 { color: var(--cyan); }
+.rank-num.top3 { color: var(--copper); }
 
 .rank-content { flex: 1; min-width: 0; }
 .rank-title { font-size: 15px; font-weight: 600; color: var(--text); margin-bottom: 4px; }
@@ -57,8 +57,8 @@ GitHub 热门项目 + arXiv 最新论文，每日更新。
 /* 论文特有 */
 .rank-item.paper .rank-title { font-size: 14px; }
 .rank-authors { font-family: var(--font-mono); font-size: 11px; color: var(--faint); margin-bottom: 4px; }
-.rank-cat { padding: 1px 6px; background: var(--cyan-dim); color: var(--cyan); border-radius: 4px; }
-.rank-pdf { color: var(--cyan); font-weight: 600; }
+.rank-cat { padding: 1px 6px; background: var(--copper-dim); color: var(--copper); border-radius: 4px; }
+.rank-pdf { color: var(--copper); font-weight: 600; }
 .rank-pdf:hover { text-decoration: underline; }
 
 .loading, .empty { text-align: center; padding: 60px; color: var(--faint); font-family: var(--font-mono); }

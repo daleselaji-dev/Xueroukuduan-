@@ -1,11 +1,11 @@
-import { defineConfig } from 'vitepress'
+﻿import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  appearance: false,
   title: '血肉苦短研讨班',
   description: '群友讨论与分享',
   base: '/',
   
-  srcExclude: ['submissions/**'],
   
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
@@ -17,13 +17,12 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '发布', link: '/create' },
-      { text: '投稿', link: '/submissions' },
-      { text: '杂志', link: '/pages/magazine' },
-      { text: '热榜', link: '/pages/hotlist' },
       { text: '新闻', link: '/news' },
       { text: '小工具', link: '/tools' },
       { text: '讨论', link: '/discussions' },
+      { text: '热榜', link: '/pages/hotlist' },
+      { text: '杂志', link: '/pages/magazine' },
+      { text: '发布', link: '/create' },
       { text: '贡献者', link: '/contributors' },
       { text: 'GitHub', link: 'https://github.com/daleselaji-dev/Xueroukuduan-' }
     ],

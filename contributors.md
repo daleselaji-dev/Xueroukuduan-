@@ -34,7 +34,7 @@ onMounted(async () => {
 <style>
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 16px; max-width: 800px; margin: 0 auto; padding: 40px 28px; }
 .card { display: flex; flex-direction: column; align-items: center; gap: 8px; padding: 20px; background: var(--surface); border: 1px solid var(--border); border-radius: 12px; text-decoration: none; color: inherit; transition: all 0.2s; }
-.card:hover { border-color: var(--cyan); transform: translateY(-2px); }
+.card:hover { border-color: var(--copper); transform: translateY(-2px); }
 .card img { width: 64px; height: 64px; border-radius: 50%; object-fit: cover; border: 3px solid var(--border); }
 .card .name { font-family: var(--font-mono); font-size: 14px; font-weight: 600; color: var(--text); }
 .card .count { font-family: var(--font-mono); font-size: 11px; color: var(--faint); }

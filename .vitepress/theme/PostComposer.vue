@@ -30,8 +30,6 @@
         <option v-if="activeTab === 'discussions'" value="share">分享</option>
         <option v-if="activeTab === 'tools'" value="self">自建</option>
         <option v-if="activeTab === 'tools'" value="third">第三方</option>
-        <option v-if="activeTab === 'submissions'" value="article">文章</option>
-        <option v-if="activeTab === 'submissions'" value="resource">资源</option>
       </select>
 
       <label>内容</label>
@@ -56,7 +54,6 @@ const tabs = [
   { value: 'news', label: '新闻', icon: '📰' },
   { value: 'tools', label: '小工具', icon: '🔧' },
   { value: 'discussions', label: '讨论', icon: '💬' },
-  { value: 'submissions', label: '投稿', icon: '✍️' },
 ]
 
 const activeTab = ref('news')
@@ -75,10 +72,14 @@ async function submit() {
     const payload = {
       type: activeTab.value,
       title: title.value,
-      body: body.value,
       category: category.value,
     }
-    if (activeTab.value === 'tools') payload.url = url.value
+    if (activeTab.value === 'tools') {
+      payload.description = body.value
+      payload.url = url.value
+    } else {
+      payload.body = body.value
+    }
     if (activeTab.value === 'news') { payload.source = source.value; payload.source_url = sourceUrl.value }
 
     const res = await fetch('/api/items', {
