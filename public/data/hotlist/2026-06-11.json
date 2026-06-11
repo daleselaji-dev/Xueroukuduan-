@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated": "2026-06-11T06:51:23.521291",
+  "generated": "2026-06-11T14:57:02.445740",
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
@@ -9,34 +9,34 @@
         "rank": 1,
         "name": "XiaomiMiMo/MiMo-Code",
         "description": "",
-        "stars": 1755,
+        "stars": 3729,
         "language": "TypeScript",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
         "created": "2026-06-10"
       },
       {
         "rank": 2,
-        "name": "NoopApp/noop",
-        "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-        "stars": 1414,
-        "language": "Swift",
-        "url": "https://github.com/NoopApp/noop",
-        "created": "2026-06-07"
-      },
-      {
-        "rank": 3,
         "name": "shadcn/improve",
         "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-        "stars": 1082,
+        "stars": 1522,
         "language": null,
         "url": "https://github.com/shadcn/improve",
         "created": "2026-06-10"
       },
       {
+        "rank": 3,
+        "name": "NoopApp/noop",
+        "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+        "stars": 1445,
+        "language": "Swift",
+        "url": "https://github.com/NoopApp/noop",
+        "created": "2026-06-07"
+      },
+      {
         "rank": 4,
         "name": "MSNightmare/RoguePlanet",
         "description": "RoguePlanet Windows Defender Vulnerability",
-        "stars": 969,
+        "stars": 1058,
         "language": "C++",
         "url": "https://github.com/MSNightmare/RoguePlanet",
         "created": "2026-06-09"
@@ -45,7 +45,7 @@
         "rank": 5,
         "name": "GordenSun/GordenSuperPPTSkills",
         "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-        "stars": 743,
+        "stars": 770,
         "language": "Python",
         "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
         "created": "2026-06-07"
@@ -54,7 +54,7 @@
         "rank": 6,
         "name": "JimLiu/baoyu-design",
         "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4",
-        "stars": 710,
+        "stars": 752,
         "language": "JavaScript",
         "url": "https://github.com/JimLiu/baoyu-design",
         "created": "2026-06-07"
@@ -63,7 +63,7 @@
         "rank": 7,
         "name": "apple/coreai-models",
         "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-        "stars": 646,
+        "stars": 687,
         "language": "Python",
         "url": "https://github.com/apple/coreai-models",
         "created": "2026-06-08"
@@ -72,7 +72,7 @@
         "rank": 8,
         "name": "vorpus/performativeUI",
         "description": "",
-        "stars": 579,
+        "stars": 589,
         "language": "TypeScript",
         "url": "https://github.com/vorpus/performativeUI",
         "created": "2026-06-07"
@@ -81,7 +81,7 @@
         "rank": 9,
         "name": "amElnagdy/guard-skills",
         "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-        "stars": 556,
+        "stars": 561,
         "language": null,
         "url": "https://github.com/amElnagdy/guard-skills",
         "created": "2026-06-06"
@@ -90,7 +90,7 @@
         "rank": 10,
         "name": "Tencent-Hunyuan/UniRL",
         "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
-        "stars": 469,
+        "stars": 509,
         "language": "Python",
         "url": "https://github.com/Tencent-Hunyuan/UniRL",
         "created": "2026-06-08"
@@ -99,7 +99,7 @@
         "rank": 11,
         "name": "xiaohuailabs/xiaohu-video-translate",
         "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-        "stars": 451,
+        "stars": 460,
         "language": "Python",
         "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
         "created": "2026-06-08"
@@ -108,7 +108,7 @@
         "rank": 12,
         "name": "IvanSobolev/Neo3dEngine",
         "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time cha",
-        "stars": 403,
+        "stars": 420,
         "language": "C#",
         "url": "https://github.com/IvanSobolev/Neo3dEngine",
         "created": "2026-06-06"
@@ -117,7 +117,7 @@
         "rank": 13,
         "name": "Parcle-AI/parcle-memory",
         "description": "",
-        "stars": 377,
+        "stars": 381,
         "language": "Python",
         "url": "https://github.com/Parcle-AI/parcle-memory",
         "created": "2026-06-06"
@@ -126,7 +126,7 @@
         "rank": 14,
         "name": "FerroxLabs/wayland",
         "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-        "stars": 372,
+        "stars": 378,
         "language": "TypeScript",
         "url": "https://github.com/FerroxLabs/wayland",
         "created": "2026-06-05"
@@ -135,52 +135,52 @@
         "rank": 15,
         "name": "jmmy9609-design/gpt-pp",
         "description": "",
-        "stars": 339,
+        "stars": 348,
         "language": "Python",
         "url": "https://github.com/jmmy9609-design/gpt-pp",
         "created": "2026-06-09"
       },
       {
         "rank": 16,
-        "name": "JFGAtlas/aethergate-pro",
-        "description": "",
-        "stars": 333,
-        "language": "Python",
-        "url": "https://github.com/JFGAtlas/aethergate-pro",
-        "created": "2026-06-07"
-      },
-      {
-        "rank": 17,
         "name": "ziqihe10-droid/xuefeng-agent",
         "description": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
-        "stars": 313,
+        "stars": 341,
         "language": "Python",
         "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
         "created": "2026-06-07"
       },
       {
-        "rank": 18,
-        "name": "secret-tools/secret-tool",
-        "description": "Secret-Tools — classified discord utilities. Star the repo.",
-        "stars": 299,
-        "language": null,
-        "url": "https://github.com/secret-tools/secret-tool",
-        "created": "2026-06-08"
+        "rank": 17,
+        "name": "JFGAtlas/aethergate-pro",
+        "description": "",
+        "stars": 337,
+        "language": "Python",
+        "url": "https://github.com/JFGAtlas/aethergate-pro",
+        "created": "2026-06-07"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "name": "jwangkun/claude-for-financial-services-cn",
         "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
-        "stars": 281,
+        "stars": 333,
         "language": "Python",
         "url": "https://github.com/jwangkun/claude-for-financial-services-cn",
         "created": "2026-06-07"
       },
       {
+        "rank": 19,
+        "name": "secret-tools/secret-tool",
+        "description": "Secret-Tools — classified discord utilities. Star the repo.",
+        "stars": 319,
+        "language": null,
+        "url": "https://github.com/secret-tools/secret-tool",
+        "created": "2026-06-08"
+      },
+      {
         "rank": 20,
         "name": "hoolulu/deep-research",
         "description": "深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages",
-        "stars": 272,
+        "stars": 280,
         "language": "Python",
         "url": "https://github.com/hoolulu/deep-research",
         "created": "2026-06-05"
