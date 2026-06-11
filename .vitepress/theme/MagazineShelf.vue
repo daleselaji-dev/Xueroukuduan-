@@ -39,6 +39,7 @@
 
 <script setup>
 import { ref, computed, onMounted } from 'vue'
+import { withBase } from 'vitepress'
 
 const emit = defineEmits(['open-issue'])
 
@@ -105,7 +106,7 @@ function openIssue(id) {
 
 onMounted(async () => {
   try {
-    const res = await fetch('/data/magazine/index.json')
+    const res = await fetch(withBase('/data/magazine/index.json'))
     const data = await res.json()
     issues.value = data.issues || []
 

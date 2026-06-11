@@ -1,25 +1,40 @@
 <template>
   <section class="content-reactions" @click.stop>
     <div class="cr-bar">
-      <button v-for="emoji in quickEmojis" :key="emoji"
+      <button
+        v-for="emoji in quickEmojis"
+        :key="emoji"
         :class="['cr-btn', { active: state.mine.includes(emoji) }]"
-        :disabled="busy" @click.prevent="toggle(emoji)">
+        :disabled="busy"
+        type="button"
+        @click.prevent="toggle(emoji)"
+      >
         <span>{{ emoji }}</span>
         <small>{{ state.counts[emoji] || 0 }}</small>
       </button>
-      <button :class="['cr-btn cr-picker-toggle', { active: pickerOpen }]" @click.prevent="pickerOpen = !pickerOpen">
-        <span>⋯</span>
+      <button
+        :class="['cr-btn cr-picker-toggle', { active: pickerOpen }]"
+        type="button"
+        aria-label="选择更多表情"
+        @click.prevent="pickerOpen = !pickerOpen"
+      >
+        <span>＋</span>
       </button>
-      <button class="cr-btn cr-exp-toggle" @click.prevent="expOpen = !expOpen">
-        <span>📝</span>
-        <small>经验</small>
+      <button class="cr-btn cr-exp-toggle" type="button" @click.prevent="expOpen = !expOpen">
+        <span>💬</span>
+        <small>评论 / 启发</small>
       </button>
     </div>
 
     <div v-if="pickerOpen" class="cr-picker">
-      <button v-for="emoji in allEmojis" :key="emoji"
+      <button
+        v-for="emoji in allEmojis"
+        :key="emoji"
         :class="['cr-pick', { active: state.mine.includes(emoji) }]"
-        :disabled="busy" @click.prevent="toggle(emoji)">
+        :disabled="busy"
+        type="button"
+        @click.prevent="toggle(emoji)"
+      >
         {{ emoji }}
       </button>
     </div>
@@ -37,11 +52,11 @@ const props = defineProps({
   itemId: { type: [String, Number], required: true },
 })
 
-const quickEmojis = ['👍', '❤️', '🔥', '🚀', '👀', '🧠']
+const quickEmojis = ['👍', '❤️', '🔥', '🚀', '👀', '💡']
 const allEmojis = [
-  '👍', '👎', '❤️', '😂', '😮', '😢', '😡', '👏',
-  '🙏', '🤔', '👀', '🔥', '🚀', '💯', '✨', '🎉',
-  '💡', '🧠', '🫡', '🤝', '☕', '🌊', '🧩', '🛠️',
+  '👍', '👎', '❤️', '😂', '😮', '🤔', '😢', '👏',
+  '🙏', '✨', '👀', '🔥', '🚀', '💯', '✅', '🎉',
+  '💡', '🧠', '📝', '🔗', '☕', '🌱', '🧪', '🛠️',
 ]
 
 const state = ref({ counts: {}, mine: [] })
@@ -68,10 +83,14 @@ async function toggle(emoji) {
     const csrf = document.cookie.match(/csrf_token=([^;]+)/)?.[1]
     if (csrf) headers['X-CSRF-Token'] = csrf
     const res = await fetch(`${itemPath()}/reactions`, {
-      method: 'POST', credentials: 'same-origin', headers,
+      method: 'POST',
+      credentials: 'same-origin',
+      headers,
       body: JSON.stringify({ emoji }),
     })
     if (res.ok) state.value = await res.json()
-  } catch {} finally { busy.value = false }
+  } catch {} finally {
+    busy.value = false
+  }
 }
 </script>

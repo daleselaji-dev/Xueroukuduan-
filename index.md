@@ -1,451 +1,221 @@
-﻿---
+---
 layout: home
-
-hero:
-  name: "血肉苦短研讨班"
-  text: " "
-  tagline: 群友讨论与分享 · 收集精彩内容
-  actions:
-    - theme: brand
-      text: 浏览讨论
-      link: /discussions
-    - theme: alt
-      text: GitHub
-      link: https://github.com/daleselaji-dev/Xueroukuduan-
-
-features:
-  - icon: 📰
-    title: 新闻
-    details: 群友分享的最新资讯
-  - icon: 🔧
-    title: 小工具
-    details: 群友开发的实用工具
-  - icon: 💬
-    title: 讨论
-    details: 热门话题与交流
 ---
 
 <script setup>
-import { onMounted, ref, computed } from 'vue'
+import { computed, onMounted, ref } from 'vue'
+import { withBase } from 'vitepress'
 
-const discussions = ref([])
 const contributors = ref([])
-const stats = ref({})
 const loading = ref(true)
-const activeCategory = ref("all")
+const loadError = ref('')
+const activeCategory = ref('all')
 const allItems = ref([])
+const heroVisual = ref(null)
+const dragging = ref(false)
+const blobOffset = ref({ x: 0, y: 0 })
 
 const categories = [
-  { id: "all", name: "全部", emoji: "🔥" },
-  { id: "Announcements", name: "新闻", emoji: "📰" },
-  { id: "Show and tell", name: "小工具", emoji: "🔧" },
-  { id: "General", name: "讨论", emoji: "💬" }
+  { id: 'all', name: '全部', kicker: 'All' },
+  { id: 'Announcements', name: '新闻', kicker: 'News' },
+  { id: 'Show and tell', name: '小工具', kicker: 'Tools' },
+  { id: 'General', name: '讨论', kicker: 'Talks' },
+  { id: 'Q&A', name: '问答', kicker: 'Q&A' },
 ]
 
-const filtered = computed(() => {
-  if (activeCategory.value === "all") return allItems.value
-  return allItems.value.filter(d => d.category === activeCategory.value)
+const featureLinks = [
+  {
+    title: '新闻',
+    eyebrow: 'News',
+    text: '把群友关心的新项目、技术变化和资料流放在同一条清晰时间线里。',
+    href: '/news',
+  },
+  {
+    title: '小工具',
+    eyebrow: 'Tools',
+    text: '展示群友做出的实用工具、脚本、实验和可复用的工作流。',
+    href: '/tools',
+  },
+  {
+    title: '讨论',
+    eyebrow: 'Discussions',
+    text: '把问题、经验和后续启发连起来，让内容可以被继续回应和归档。',
+    href: '/discussions',
+  },
+]
+
+const stats = computed(() => {
+  const items = allItems.value
+  return [
+    { label: '内容', value: items.length },
+    { label: '贡献者', value: contributors.value.length },
+    { label: '栏目', value: categories.length - 1 },
+  ]
 })
+
+const filtered = computed(() => {
+  if (activeCategory.value === 'all') return allItems.value
+  return allItems.value.filter((item) => item.category === activeCategory.value)
+})
+
+const blobStyle = computed(() => ({
+  '--blob-x': `${blobOffset.value.x}px`,
+  '--blob-y': `${blobOffset.value.y}px`,
+}))
 
 onMounted(async () => {
   try {
-    const res = await fetch("/flesh-is-weak-seminar/data/discussions.json")
+    const res = await fetch(withBase('/data/discussions.json'))
+    if (!res.ok) throw new Error(`HTTP ${res.status}`)
     const data = await res.json()
-    discussions.value = data.discussions || []
     contributors.value = data.contributors || []
-    stats.value = data.stats || {}
-
     allItems.value = (data.discussions || [])
+      .slice()
       .sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0))
-  } catch (e) {
-    console.error(e)
+  } catch (error) {
+    loadError.value = '内容暂时没有加载成功，请稍后再试。'
+    console.error(error)
   } finally {
     loading.value = false
   }
 })
 
-function setCategory(id) { activeCategory.value = id }
+function setCategory(id) {
+  activeCategory.value = id
+}
+
+function localPath(path) {
+  return withBase(path)
+}
+
+function startBlobDrag(event) {
+  dragging.value = true
+  event.currentTarget.setPointerCapture?.(event.pointerId)
+  moveBlobDrag(event)
+}
+
+function moveBlobDrag(event) {
+  if (!dragging.value || !heroVisual.value) return
+  const rect = heroVisual.value.getBoundingClientRect()
+  const x = event.clientX - rect.left - rect.width / 2
+  const y = event.clientY - rect.top - rect.height / 2
+  blobOffset.value = {
+    x: Math.max(-72, Math.min(72, x * 0.16)),
+    y: Math.max(-72, Math.min(72, y * 0.16)),
+  }
+}
+
+function endBlobDrag(event) {
+  dragging.value = false
+  event.currentTarget.releasePointerCapture?.(event.pointerId)
+  blobOffset.value = { x: 0, y: 0 }
+}
 </script>
 
-<section class="sec">
-  <div class="sec-head">
-    <span class="lab">Latest</span>
-    <h2>最新内容</h2>
+<section class="home-hero">
+  <div class="hero-meta">
+    <span>Community Lab</span>
+    <span>2026</span>
   </div>
-  <div class="cats">
-    <button v-for="cat in categories" :key="cat.id" :class="{ on: activeCategory === cat.id }" @click="setCategory(cat.id)">
-      {{ cat.emoji }} {{ cat.name }}
+  <div
+    ref="heroVisual"
+    :class="['hero-visual', { dragging }]"
+    :style="blobStyle"
+    role="img"
+    aria-label="可交互的液态金属视觉"
+    @pointerdown="startBlobDrag"
+    @pointermove="moveBlobDrag"
+    @pointerup="endBlobDrag"
+    @pointercancel="endBlobDrag"
+    @pointerleave="endBlobDrag"
+  >
+    <div class="blob blob-a"></div>
+    <div class="blob blob-b"></div>
+    <div class="blob blob-c"></div>
+    <div class="blob-core"></div>
+  </div>
+  <div class="hero-copy">
+    <p class="hero-kicker">血肉苦短研讨班</p>
+    <h1>把讨论、工具和经验整理成可以继续生长的现场。</h1>
+    <p class="hero-lede">群友在这里发布新闻、展示小工具、延伸讨论，也把新的灵感挂回原始内容，让每一次回应都能被看见。</p>
+    <div class="hero-actions">
+      <a :href="localPath('/discussions')" class="btn-main">浏览讨论</a>
+      <a :href="localPath('/create')" class="btn-ghost">发布内容</a>
+    </div>
+  </div>
+  <div class="hero-scroll">Scroll</div>
+</section>
+
+<section class="signal-strip" aria-label="站点状态">
+  <div v-for="item in stats" :key="item.label" class="signal-item">
+    <strong>{{ item.value }}</strong>
+    <span>{{ item.label }}</span>
+  </div>
+</section>
+
+<section class="section-shell feature-grid" aria-label="栏目入口">
+  <a v-for="feature in featureLinks" :key="feature.title" :href="localPath(feature.href)" class="feature-panel">
+    <span>{{ feature.eyebrow }}</span>
+    <h2>{{ feature.title }}</h2>
+    <p>{{ feature.text }}</p>
+  </a>
+</section>
+
+<section class="section-shell content-section">
+  <div class="section-head">
+    <div>
+      <span class="lab">Latest</span>
+      <h2>最新内容</h2>
+    </div>
+    <a :href="localPath('/discussions')" class="section-link">全部讨论</a>
+  </div>
+
+  <div class="category-rail" role="tablist" aria-label="内容分类">
+    <button
+      v-for="cat in categories"
+      :key="cat.id"
+      type="button"
+      :class="{ active: activeCategory === cat.id }"
+      @click="setCategory(cat.id)"
+    >
+      <span>{{ cat.kicker }}</span>
+      {{ cat.name }}
     </button>
   </div>
-  <div v-if="loading" class="empty">加载中...</div>
-  <div v-else-if="filtered.length === 0" class="empty">暂无内容</div>
-  <div v-else class="dlist">
-    <a v-for="item in filtered" :key="item.id" :href="item.url" target="_blank" rel="noopener noreferrer" class="dcard">
-      <div class="dcard-top">
-        <img v-if="item.avatar" :src="item.avatar" :alt="item.author" class="avatar" />
-        <div>
-          <h3>{{ item.title }}</h3>
-          <p>{{ item.body }}</p>
-        </div>
+
+  <div v-if="loading" class="empty-state">加载中...</div>
+  <div v-else-if="loadError" class="empty-state">{{ loadError }}</div>
+  <div v-else-if="filtered.length === 0" class="empty-state">暂无内容</div>
+  <div v-else class="editorial-feed">
+    <a v-for="item in filtered" :key="item.id" :href="item.url" target="_blank" rel="noopener noreferrer" class="feed-row">
+      <div class="feed-index">{{ item.category || 'General' }}</div>
+      <div class="feed-main">
+        <h3>{{ item.title }}</h3>
+        <p>{{ item.body }}</p>
       </div>
-      <div class="dcard-meta">
+      <div class="feed-meta">
         <span>{{ item.author }}</span>
-        <span>{{ item.dateFormatted }}</span>
-        <span v-if="item.comments">💬 {{ item.comments }}</span>
+        <time>{{ item.dateFormatted }}</time>
+        <span v-if="item.comments">{{ item.comments }} 回复</span>
       </div>
     </a>
   </div>
 </section>
 
-<section class="sec">
-  <div class="sec-head">
-    <span class="lab">Contributors</span>
-    <h2>贡献者</h2>
+<section class="section-shell contributors-section">
+  <div class="section-head">
+    <div>
+      <span class="lab">Contributors</span>
+      <h2>贡献者</h2>
+    </div>
+    <a :href="localPath('/contributors')" class="section-link">查看全部</a>
   </div>
-  <div v-if="loading" class="empty">加载中...</div>
-  <div v-else class="contribs">
+  <div v-if="loading" class="empty-state">加载中...</div>
+  <div v-else class="contributor-line">
     <a v-for="c in contributors" :key="c.login" :href="c.url" target="_blank" rel="noopener noreferrer" class="contrib">
       <img :src="c.avatar" :alt="c.login" />
       <span>{{ c.login }}</span>
-      <span class="count">{{ c.contributions }} commits</span>
+      <small>{{ c.contributions }} commits</small>
     </a>
   </div>
 </section>
-
-
-
-<style>
-/* === LIQUID METAL OVERRIDE - loads directly in HTML head === */
-/* This bypasses VitePress CSS import system for guaranteed application */
-
-/* TEST - if you see red background, CSS is loading */
-/* body { background: #ff0000 !important; } */
-
-/* ===== ROOT VARIABLES ===== */
-:root {
-  --chrome-1: #e8e4de; --chrome-2: #f5f2ed; --chrome-3: #d0cac2; --chrome-4: #b8b0a6; --chrome-dark: #5a5450;
-  --bg: #f5f3ef; --surface: #fbfaf8; --card: #ffffff; --border: #e2ddd6; --border-light: #ece8e2;
-  --text: #1a1815; --muted: #706960; --faint: #a89e94; --faintest: #cec8c0;
-  --metal-gradient: linear-gradient(135deg,#e8e4de 0%,#ffffff 20%,#c8c0b8 40%,#f0ece6 55%,#d4ccc4 70%,#ffffff 85%,#e0dad2 100%);
-  --text-chrome: linear-gradient(135deg,#c8c0b8 0%,#4a4440 20%,#e8e4de 40%,#1c1a17 50%,#b8b0a6 65%,#3a3632 80%,#d8d4cc 100%);
-  --accent-gradient: linear-gradient(135deg,#1a1815 0%,#5a5450 30%,#1a1815 60%,#3a3632 100%);
-  --font-display: 'Inter',Helvetica Neue,Arial,sans-serif;
-  --font-mono: 'JetBrains Mono',SF Mono,Consolas,monospace;
-}
-
-/* ===== DARK HERO (Thibaut-inspired #131313) ===== */
-.VPHero,
-.VPHomeHero,
-div.VPHero,
-div.VPHero.VPHomeHero {
-  background: #131313 !important;
-  border-bottom: 1px solid rgba(255,255,255,0.06) !important;
-  padding: 140px 24px 100px !important;
-  position: relative !important;
-  overflow: hidden !important;
-  margin-top: 0 !important;
-}
-
-/* Animated blob decoration */
-.VPHero::before {
-  content: '' !important;
-  position: absolute !important;
-  top: -40% !important;
-  right: -15% !important;
-  width: 700px !important;
-  height: 700px !important;
-  background: radial-gradient(circle at 30% 50%,rgba(200,200,200,0.04) 0%,rgba(255,255,255,0.02) 30%,transparent 60%) !important;
-  border-radius: 58% 42% 55% 45%/48% 40% 60% 52% !important;
-  pointer-events: none !important;
-  filter: blur(80px) !important;
-  animation: heroBlob 25s ease-in-out infinite alternate !important;
-}
-
-@keyframes heroBlob {
-  0%{transform:translate(0,0) scale(1)}
-  25%{transform:translate(80px,-60px) scale(1.1)}
-  50%{transform:translate(-40px,-100px) scale(0.95)}
-  75%{transform:translate(60px,-40px) scale(1.08)}
-  100%{transform:translate(-60px,0) scale(1.02)}
-}
-
-/* Chrome text with shimmer */
-.VPHero .name,
-.VPHero h1 .name {
-  display: block !important;
-  font-family: 'Inter',Helvetica Neue,Arial,sans-serif !important;
-  font-size: clamp(48px,8vw,112px) !important;
-  font-weight: 900 !important;
-  line-height: 0.85 !important;
-  letter-spacing: -0.04em !important;
-  text-transform: uppercase !important;
-  margin-bottom: 20px !important;
-  background: linear-gradient(135deg,#d8d4cc 0%,#8a8279 15%,#ffffff 35%,#4a4440 50%,#d8d4cc 65%,#706960 80%,#ffffff 100%) !important;
-  background-size: 300% 300% !important;
-  -webkit-background-clip: text !important;
-  -webkit-text-fill-color: transparent !important;
-  background-clip: text !important;
-  text-shadow: none !important;
-  animation: chromeShimmer 10s ease-in-out infinite !important;
-}
-
-@keyframes chromeShimmer {
-  0%{background-position:0% 50%}
-  50%{background-position:100% 50%}
-  100%{background-position:0% 50%}
-}
-
-/* Tagline */
-.VPHero .tagline {
-  color: rgba(255,255,255,0.4) !important;
-  font-size: 13px !important;
-  letter-spacing: 0.15em !important;
-  text-transform: uppercase !important;
-}
-
-/* Hero buttons */
-.VPHero .VPButton.brand {
-  background: linear-gradient(135deg,#ffffff,#e8e4de 30%,#d8d4cc 60%,#ffffff) !important;
-  color: #1a1815 !important;
-  border: none !important;
-  box-shadow: 0 4px 20px rgba(255,255,255,0.1) !important;
-}
-.VPHero .VPButton.brand:hover {
-  transform: translateY(-3px) !important;
-  box-shadow: 0 8px 30px rgba(255,255,255,0.15) !important;
-}
-.VPHero .VPButton.alt {
-  background: transparent !important;
-  color: rgba(255,255,255,0.7) !important;
-  border: 1px solid rgba(255,255,255,0.15) !important;
-}
-.VPHero .VPButton.alt:hover {
-  border-color: rgba(255,255,255,0.4) !important;
-  color: #fff !important;
-}
-
-/* ===== FEATURE CARDS (3 columns, liquid metal) ===== */
-.VPFeatures .items,
-.VPFeatures:not(#_) .items:not(#_) {
-  display: grid !important;
-  grid-template-columns: repeat(3, 1fr) !important;
-  gap: 1px !important;
-  background: var(--border-light) !important;
-  border-bottom: 1px solid var(--border-light) !important;
-}
-.VPFeatures .item,
-.VPFeatures:not(#_) .item:not(#_) {
-  padding: 0 !important;
-  background: transparent !important;
-  border: none !important;
-}
-.VPFeature,
-.VPFeature:not(#_),
-div.VPFeature.VPLink {
-  height: auto !important;
-  background: #ffffff !important;
-  padding: 48px 36px !important;
-  text-align: left !important;
-  border: none !important;
-  border-radius: 0 !important;
-  position: relative !important;
-  transition: all 0.35s cubic-bezier(.25,.46,.45,.94) !important;
-  display: block !important;
-}
-.VPFeature:hover {
-  transform: translateY(-4px) !important;
-  box-shadow: 0 8px 30px rgba(0,0,0,0.06) !important;
-  z-index: 2 !important;
-}
-.VPFeature .icon {
-  font-size: 36px !important;
-  margin-bottom: 20px !important;
-  display: block !important;
-}
-.VPFeature h2,
-.VPFeature .title {
-  font-family: 'Inter',Helvetica Neue,Arial,sans-serif !important;
-  font-weight: 900 !important;
-  font-size: clamp(18px,1.6vw,24px) !important;
-  letter-spacing: -0.02em !important;
-  margin-bottom: 10px !important;
-  color: #1a1815 !important;
-  text-transform: uppercase !important;
-  line-height: 1.0 !important;
-  background: none !important;
-  -webkit-text-fill-color: #1a1815 !important;
-}
-.VPFeature p,
-.VPFeature .details {
-  flex-grow: 1 !important;
-  padding-top: 0 !important;
-  font-family: 'JetBrains Mono',SF Mono,Consolas,monospace !important;
-  font-size: 12px !important;
-  color: #706960 !important;
-  line-height: 1.5 !important;
-  font-weight: 400 !important;
-}
-
-/* ===== FEATURE CARD SHINE ON HOVER ===== */
-.VPFeature::after {
-  content: '' !important;
-  position: absolute !important;
-  top: 0 !important;
-  left: 0 !important;
-  right: 0 !important;
-  height: 3px !important;
-  background: linear-gradient(135deg,#d8d4cc,#f0ece6,#c8c2b8,#e8e4de,#d4cfc8) !important;
-  opacity: 0 !important;
-  transition: opacity 0.3s !important;
-}
-.VPFeature:hover::after {
-  opacity: 1 !important;
-}
-.VPFeature::before {
-  content: '' !important;
-  position: absolute !important;
-  top: -50% !important;
-  left: -50% !important;
-  width: 200% !important;
-  height: 200% !important;
-  background: radial-gradient(ellipse at 50% 50%,rgba(255,255,255,0.06),transparent 50%) !important;
-  opacity: 0 !important;
-  transition: opacity 0.5s !important;
-  pointer-events: none !important;
-}
-.VPFeature:hover::before {
-  opacity: 1 !important;
-}
-
-/* ===== NOISE OVERLAY (Thibaut-inspired) ===== */
-body::before {
-  content: '' !important;
-  position: fixed !important;
-  top: 0 !important;
-  left: 0 !important;
-  width: 100% !important;
-  height: 100% !important;
-  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.035'/%3E%3C/svg%3E") !important;
-  pointer-events: none !important;
-  z-index: 9999 !important;
-  mix-blend-mode: overlay !important;
-  opacity: 0.5 !important;
-}
-
-/* ===== GRADIENT OVERLAY (from Thibaut) ===== */
-body::after {
-  content: '' !important;
-  position: fixed !important;
-  inset: 0 !important;
-  background: radial-gradient(closest-side, rgba(0,0,0,0.2) 50%, rgba(0,0,0,0)) !important;
-  pointer-events: none !important;
-  z-index: 0 !important;
-  opacity: 0.6 !important;
-}
-
-/* ===== NAVIGATION ===== */
-.VPNav {
-  border-bottom: 1px solid var(--border-light) !important;
-  background: rgba(19,19,19,0.95) !important;
-  backdrop-filter: blur(24px) saturate(1.2) !important;
-}
-.VPNavBarTitle .title {
-  font-weight: 900 !important;
-  font-size: 12px !important;
-  letter-spacing: 0.12em !important;
-  text-transform: uppercase !important;
-  background: var(--text-chrome) !important;
-  -webkit-background-clip: text !important;
-  -webkit-text-fill-color: transparent !important;
-  background-clip: text !important;
-}
-.VPNavBarMenuLink {
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  letter-spacing: 0.08em !important;
-  text-transform: uppercase !important;
-  color: rgba(255,255,255,0.5) !important;
-  padding: 0 18px !important;
-  position: relative !important;
-  transition: all 0.25s !important;
-}
-.VPNavBarMenuLink:hover {
-  color: #fff !important;
-}
-
-/* ===== VPFEATURES CONTAINER ===== */
-.VPFeatures {
-  background: #ffffff !important;
-  padding: 0 !important;
-}
-.VPFeatures .container {
-  max-width: 100% !important;
-  padding: 0 !important;
-}
-
-/* ===== CHROME GRADIENT ON ALL HEADINGS ===== */
-h1:not(.VPHero h1), h2, h3, h4, h5, h6 {
-  font-family: 'Inter',Helvetica Neue,Arial,sans-serif !important;
-  font-weight: 900 !important;
-  letter-spacing: -0.035em !important;
-  line-height: 1.0 !important;
-  background: linear-gradient(135deg,#c8c0b8 0%,#4a4440 20%,#e8e4de 40%,#1c1a17 50%,#b8b0a6 65%,#3a3632 80%,#d8d4cc 100%) !important;
-  -webkit-background-clip: text !important;
-  -webkit-text-fill-color: transparent !important;
-  background-clip: text !important;
-  text-transform: uppercase !important;
-}
-
-/* Responsive */
-@media(max-width:960px){.VPHero{padding:100px 20px 60px!important}}
-@media(max-width:640px){
-  .VPHero{padding:80px 16px 48px!important}
-  .VPHero .name{font-size:42px!important}
-  .VPHero .actions{flex-direction:column!important}
-  .VPButton{width:100%!important}
-}
-
-
-/* ===== MOBILE RESPONSIVE ===== */
-@media (max-width: 768px) {
-  /* Hero: smaller */
-  .VPHero:not(#_) { padding: 80px 16px 40px !important; }
-  .VPHero:not(#_) .name:not(#_) { font-size: 36px !important; letter-spacing: -0.02em !important; max-width: 100% !important; }
-  .VPHero:not(#_) .tagline:not(#_) { font-size: 11px !important; }
-  .VPHero:not(#_) .actions:not(#_) { flex-direction: column !important; gap: 8px !important; }
-  .VPHero:not(#_) .VPButton:not(#_) { width: 100% !important; text-align: center !important; }
-  
-  /* Feature cards: 1 column */
-  .VPFeatures:not(#_) .items:not(#_) { grid-template-columns: 1fr !important; }
-  .VPFeature:not(#_) { padding: 32px 24px !important; }
-  .VPFeature:not(#_) .icon:not(#_) { font-size: 28px !important; }
-  .VPFeature:not(#_) h2:not(#_), .VPFeature:not(#_) .title:not(#_) { font-size: 16px !important; }
-  .VPFeature:not(#_) p:not(#_), .VPFeature:not(#_) .details:not(#_) { font-size: 11px !important; }
-  
-  /* Sections */
-  .sec:not(#_) { padding: 40px 16px !important; }
-  .sec:not(#_) h2:not(#_) { font-size: 24px !important; }
-  .cats:not(#_) button:not(#_) { font-size: 10px !important; padding: 6px 12px !important; }
-  
-  /* Cards */
-  .dcard:not(#_) { padding: 16px !important; }
-  .dcard:not(#_) h3:not(#_) { font-size: 15px !important; }
-  .dcard:not(#_) .dcard-top:not(#_) { flex-direction: column !important; }
-  
-  /* Feed */
-  .feed:not(#_) { padding: 12px 16px !important; }
-  .feed-card:not(#_) { padding: 16px !important; }
-  
-  /* Composer */
-  .composer-panel:not(#_) { padding: 16px !important; }
-  
-  /* Touch targets */
-  .VPButton:not(#_) { min-height: 44px !important; }
-  .cr-btn:not(#_) { min-height: 36px !important; padding: 8px 12px !important; }
-  .cats:not(#_) button:not(#_) { min-height: 36px !important; }
-  
-  /* Show mobile nav (VitePress handles this) */
-  .VPNavScreen:not(#_) { display: block !important; }
-}
-
-</style>

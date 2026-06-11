@@ -1,21 +1,26 @@
 <template>
   <div class="composer-panel">
     <div class="composer-tabs" role="radiogroup">
-      <button v-for="tab in tabs" :key="tab.value" type="button"
-        :class="{ active: activeTab === tab.value }" @click="activeTab = tab.value">
+      <button
+        v-for="tab in tabs"
+        :key="tab.value"
+        type="button"
+        :class="{ active: activeTab === tab.value }"
+        @click="activeTab = tab.value"
+      >
         {{ tab.icon }} {{ tab.label }}
       </button>
     </div>
 
     <form class="composer-form" @submit.prevent="submit">
       <label>标题 *</label>
-      <input v-model.trim="title" maxlength="120" placeholder="一句话说清楚" />
+      <input v-model.trim="title" maxlength="120" placeholder="一句话说清楚这条内容" />
 
       <label v-if="activeTab === 'tools'">链接</label>
       <input v-if="activeTab === 'tools'" v-model.trim="url" maxlength="500" placeholder="https://..." />
 
       <label v-if="activeTab === 'news'">来源</label>
-      <input v-if="activeTab === 'news'" v-model.trim="source" maxlength="100" placeholder="来源名称" />
+      <input v-if="activeTab === 'news'" v-model.trim="source" maxlength="120" placeholder="来源名称" />
 
       <label v-if="activeTab === 'news'">来源链接</label>
       <input v-if="activeTab === 'news'" v-model.trim="sourceUrl" maxlength="500" placeholder="https://..." />
@@ -32,8 +37,8 @@
         <option v-if="activeTab === 'tools'" value="third">第三方</option>
       </select>
 
-      <label>内容</label>
-      <textarea v-model.trim="body" maxlength="8000" rows="6" placeholder="可选：Markdown 格式"></textarea>
+      <label>{{ activeTab === 'tools' ? '说明' : '内容' }}</label>
+      <textarea v-model.trim="body" maxlength="8000" rows="6" placeholder="可选：支持 Markdown。"></textarea>
 
       <div class="composer-actions">
         <button type="submit" :disabled="busy || !title" class="composer-primary">
@@ -46,17 +51,21 @@
 </template>
 
 <script setup>
-import { ref } from 'vue'
+import { ref, watch } from 'vue'
 
 const emit = defineEmits(['created'])
+const props = defineProps({
+  initialType: { type: String, default: 'news' },
+})
 
 const tabs = [
   { value: 'news', label: '新闻', icon: '📰' },
-  { value: 'tools', label: '小工具', icon: '🔧' },
+  { value: 'tools', label: '小工具', icon: '🛠️' },
   { value: 'discussions', label: '讨论', icon: '💬' },
 ]
 
-const activeTab = ref('news')
+const validTypes = tabs.map((tab) => tab.value)
+const activeTab = ref(validTypes.includes(props.initialType) ? props.initialType : 'news')
 const title = ref('')
 const body = ref('')
 const url = ref('')
@@ -66,8 +75,14 @@ const category = ref('general')
 const busy = ref(false)
 const notice = ref('')
 
+watch(activeTab, () => {
+  category.value = 'general'
+  notice.value = ''
+})
+
 async function submit() {
-  busy.value = true; notice.value = ''
+  busy.value = true
+  notice.value = ''
   try {
     const payload = {
       type: activeTab.value,
@@ -80,24 +95,42 @@ async function submit() {
     } else {
       payload.body = body.value
     }
-    if (activeTab.value === 'news') { payload.source = source.value; payload.source_url = sourceUrl.value }
+    if (activeTab.value === 'news') {
+      payload.summary = body.value.slice(0, 300)
+      payload.source = source.value
+      payload.source_url = sourceUrl.value
+    }
 
     const res = await fetch('/api/items', {
-      method: 'POST', credentials: 'same-origin',
-      headers: { 'Content-Type': 'application/json' },
+      method: 'POST',
+      credentials: 'same-origin',
+      headers: withCsrf(),
       body: JSON.stringify(payload),
     })
     if (res.ok) {
       const data = await res.json()
       notice.value = '发布成功'
-      title.value = ''; body.value = ''; url.value = ''; source.value = ''; sourceUrl.value = ''
+      title.value = ''
+      body.value = ''
+      url.value = ''
+      source.value = ''
+      sourceUrl.value = ''
       emit('created', data)
     } else {
       const err = await res.json()
       notice.value = err.error || '发布失败'
     }
-  } catch (e) {
+  } catch {
     notice.value = '网络错误'
-  } finally { busy.value = false }
+  } finally {
+    busy.value = false
+  }
+}
+
+function withCsrf() {
+  const headers = { 'Content-Type': 'application/json' }
+  const csrf = document.cookie.match(/csrf_token=([^;]+)/)?.[1]
+  if (csrf) headers['X-CSRF-Token'] = csrf
+  return headers
 }
 </script>

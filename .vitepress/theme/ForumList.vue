@@ -41,6 +41,7 @@
 
 <script setup>
 import { ref, computed, onMounted } from 'vue'
+import { withBase } from 'vitepress'
 
 const loading = ref(true)
 const githubItems = ref([])
@@ -66,7 +67,7 @@ onMounted(async () => {
   try {
     // 加载 config
     try {
-      const configRes = await fetch('/data/config.json')
+      const configRes = await fetch(withBase('/data/config.json'))
       const config = await configRes.json()
       remark42Enabled.value = config.remark42?.enabled || false
     } catch {
@@ -75,7 +76,7 @@ onMounted(async () => {
 
     // 加载 GitHub Discussions
     try {
-      const discRes = await fetch('/data/discussions.json')
+      const discRes = await fetch(withBase('/data/discussions.json'))
       const discData = await discRes.json()
       githubItems.value = (discData.discussions || []).map(d => ({
         ...d,
@@ -89,7 +90,7 @@ onMounted(async () => {
     // 加载 Remark42（仅在启用时）
     if (remark42Enabled.value) {
       try {
-        const r42Res = await fetch('/data/forum/remark42.json')
+        const r42Res = await fetch(withBase('/data/forum/remark42.json'))
         const r42Data = await r42Res.json()
         remark42Items.value = (r42Data.comments || []).map(c => ({
           id: 'r42-' + c.id,

@@ -159,6 +159,7 @@
 
 <script setup>
 import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
+import { withBase } from 'vitepress'
 import { renderMarkdown } from './markdown.js'
 
 const props = defineProps({ issueId: String })
@@ -372,7 +373,7 @@ function escapeHtml(value) {
 watch(() => props.issueId, async (id) => {
   if (!id) return
   try {
-    const res = await fetch(`/data/magazine/${id}.json`)
+    const res = await fetch(withBase(`/data/magazine/${id}.json`))
     issue.value = await res.json()
     currentPage.value = 0
   } catch (e) {

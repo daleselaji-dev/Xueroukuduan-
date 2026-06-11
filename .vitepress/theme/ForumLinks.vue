@@ -22,13 +22,14 @@
 
 <script setup>
 import { ref, onMounted } from 'vue'
+import { withBase } from 'vitepress'
 
 const remark42Enabled = ref(false)
 const remark42Url = ref('')
 
 onMounted(async () => {
   try {
-    const res = await fetch('/flesh-is-weak-seminar/data/config.json')
+    const res = await fetch(withBase('/data/config.json'))
     const config = await res.json()
     remark42Enabled.value = config.remark42?.enabled || false
     remark42Url.value = config.remark42?.url || ''

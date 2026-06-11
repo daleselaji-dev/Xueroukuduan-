@@ -46,7 +46,7 @@
         </header>
         <article class="md-body" v-html="renderedBody"></article>
         <footer class="md-footer">
-          <a v-if="selected.folder" :href="'https://github.com/BoHuYeShan/blob/main/submissions/' + selected.folder + '/index.md'" target="_blank" rel="noopener noreferrer">
+          <a v-if="selected.folder" :href="'https://github.com/BoHuYeShan/flesh-is-weak-seminar/blob/main/submissions/' + selected.folder + '/index.md'" target="_blank" rel="noopener noreferrer">
             在 GitHub 查看原始文件 →
           </a>
         </footer>
@@ -58,6 +58,7 @@
 
 <script setup>
 import { onMounted, ref, computed, nextTick } from 'vue'
+import { withBase } from 'vitepress'
 import { renderMarkdown, extractHeadings } from './markdown.js'
 
 const items = ref([])
@@ -69,7 +70,7 @@ const contentEl = ref(null)
 
 onMounted(async () => {
   try {
-    const res = await fetch('/data/discussions.json')
+    const res = await fetch(withBase('/data/discussions.json'))
     const data = await res.json()
     items.value = data.submissions || []
   } catch (e) {

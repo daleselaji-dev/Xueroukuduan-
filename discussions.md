@@ -2,4 +2,4 @@
 
 <ForumLinks />
 
-<ContentFeed type="disc" />
+<ContentFeed type="discussions" />

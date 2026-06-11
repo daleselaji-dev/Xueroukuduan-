@@ -1,7 +1,7 @@
 {
   "name": "flesh-is-weak-seminar",
   "version": "1.0.0",
-  "description": "血肉苦短研讨班👽 群友讨论与分享",
+  "description": "血肉苦短研讨班：群友讨论与分享",
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",

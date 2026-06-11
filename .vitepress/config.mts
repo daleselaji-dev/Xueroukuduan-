@@ -11,8 +11,7 @@ export default defineConfig({
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
-    ['link', { href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&family=JetBrains+Mono:wght@400;700;800&display=swap', rel: 'stylesheet' }],
-    ['link', { rel: 'stylesheet', href: '/override.css' }]
+    ['link', { href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&family=JetBrains+Mono:wght@400;700;800&display=swap', rel: 'stylesheet' }]
   ],
   
   themeConfig: {
@@ -32,9 +31,17 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/daleselaji-dev/Xueroukuduan-' }
     ],
     
-    footer: {
+  footer: {
       message: '由血肉苦短研讨班群友共同维护',
       copyright: 'MIT License'
+    }
+  },
+
+  vite: {
+    server: {
+      proxy: {
+        '/api': 'http://127.0.0.1:18082'
+      }
     }
   }
 })

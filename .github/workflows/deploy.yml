@@ -41,14 +41,10 @@ jobs:
           script: |
             const fs = require('fs');
             const path = require('path');
-            
-            // 确保 public/data 目录存在
+
             const dataDir = path.join(process.cwd(), 'public', 'data');
-            if (!fs.existsSync(dataDir)) {
-              fs.mkdirSync(dataDir, { recursive: true });
-            }
-            
-            // ========== 1. 获取 Discussions ==========
+            fs.mkdirSync(dataDir, { recursive: true });
+
             const query = `
               query {
                 repository(owner: "${context.repo.owner}", name: "${context.repo.repo}") {
@@ -68,23 +64,24 @@ jobs:
                 }
               }
             `;
-            
+
             const discResponse = await github.graphql(query);
             const discussions = discResponse.repository.discussions.nodes;
-            
+
             const categories = {
               'Announcements': { name: '新闻', emoji: '📰' },
-              'Show and tell': { name: '小工具', emoji: '🔧' },
+              'Show and tell': { name: '小工具', emoji: '🛠️' },
               'General': { name: '讨论', emoji: '💬' },
               'Q&A': { name: '问答', emoji: '🙏' }
             };
-            
-            const allDiscussions = discussions.map(d => ({
+
+            const allDiscussions = discussions.map((d) => ({
               id: d.number,
               title: d.title,
               body: d.body?.substring(0, 300) || '',
               category: d.category?.name || 'General',
               categoryEmoji: categories[d.category?.name]?.emoji || '💬',
+              categoryLabel: categories[d.category?.name]?.name || d.category?.name || '讨论',
               author: d.author?.login || 'Unknown',
               avatar: d.author?.avatarUrl || '',
               authorUrl: d.author?.url || '',
@@ -93,55 +90,50 @@ jobs:
               comments: d.comments?.totalCount || 0,
               url: d.url
             }));
-            
-            // ========== 2. 获取贡献者 ==========
+
             const contribsResponse = await github.rest.repos.listContributors({
               owner: context.repo.owner,
               repo: context.repo.repo,
               per_page: 100
             });
-            
-            const contributors = contribsResponse.data.map(c => ({
+
+            const contributors = contribsResponse.data.map((c) => ({
               login: c.login,
               avatar: c.avatar_url,
               contributions: c.contributions,
               url: c.html_url
             }));
-            
-            // ========== 3. 解析 submissions 目录 ==========
+
             const submissionsDir = path.join(process.cwd(), 'submissions');
             const submissions = [];
-            
+
             if (fs.existsSync(submissionsDir)) {
               const folders = fs.readdirSync(submissionsDir)
-                .filter(f => fs.statSync(path.join(submissionsDir, f)).isDirectory())
-                .filter(f => !f.startsWith('_'));  // 排除 _template 等
-                
+                .filter((folder) => fs.statSync(path.join(submissionsDir, folder)).isDirectory())
+                .filter((folder) => !folder.startsWith('_'));
+
               for (const folder of folders) {
                 const indexPath = path.join(submissionsDir, folder, 'index.md');
                 if (!fs.existsSync(indexPath)) continue;
-                
+
                 const content = fs.readFileSync(indexPath, 'utf-8');
-                
-                // 解析 frontmatter
                 const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
                 if (!frontmatterMatch) continue;
-                
+
                 const frontmatter = frontmatterMatch[1];
                 const body = content.replace(/^---\n[\s\S]*?\n---\n?/, '');
-                
-                // 提取字段
+
                 const getField = (name) => {
                   const match = frontmatter.match(new RegExp(`${name}:\\s*(.+)`));
                   return match ? match[1].trim().replace(/^["']|["']$/g, '') : '';
                 };
-                
+
                 const getArray = (name) => {
                   const match = frontmatter.match(new RegExp(`${name}:\\s*\\[([^\\]]+)\\]`));
                   if (!match) return [];
-                  return match[1].split(',').map(s => s.trim().replace(/^["']|["']$/g, ''));
+                  return match[1].split(',').map((item) => item.trim().replace(/^["']|["']$/g, ''));
                 };
-                
+
                 const title = getField('title');
                 const author = getField('author');
                 const date = getField('date');
@@ -149,88 +141,72 @@ jobs:
                 const cover = getField('cover');
                 const tags = getArray('tags');
                 const license = getField('license');
-                
-                // 处理封面图路径
-                let coverPath = '';
-                if (cover) {
-                  coverPath = `submissions/${folder}/${cover}`;
-                }
-                
-                // 获取 body 摘要
+                const coverPath = cover ? `submissions/${folder}/${cover}` : '';
+
                 const bodySummary = body
-                  .replace(/!\[.*?\]\(.*?\)/g, '')  // 移除图片
-                  .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')  // 移除链接
-                  .replace(/[#*_`~]/g, '')  // 移除 markdown 符号
+                  .replace(/!\[.*?\]\(.*?\)/g, '')
+                  .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+                  .replace(/[#*_`~]/g, '')
                   .replace(/\n+/g, ' ')
                   .trim()
                   .substring(0, 200);
-                
+
                 submissions.push({
-                  folder: folder,
+                  folder,
                   title: title || folder,
                   author: author || 'Unknown',
                   date: date || folder.match(/^\d{4}-\d{2}-\d{2}/)?.[0] || '',
-                  summary: summary || bodySummary + '...',
+                  summary: summary || `${bodySummary}...`,
                   cover: coverPath,
-                  tags: tags,
+                  tags,
                   license: license || '',
-                  body: body,
+                  body,
                   url: `/submissions/${folder}`
                 });
               }
             }
-            
-            // 按日期排序
+
             submissions.sort((a, b) => new Date(b.date) - new Date(a.date));
-            
-            // ========== 4. 下载头像到本地 ==========
+
             const avatarDir = path.join(process.cwd(), 'public', 'avatars');
-            if (!fs.existsSync(avatarDir)) {
-              fs.mkdirSync(avatarDir, { recursive: true });
-            }
-            
+            fs.mkdirSync(avatarDir, { recursive: true });
+
             const avatarUrls = new Set();
-            allDiscussions.forEach(d => { if (d.avatar) avatarUrls.add(d.avatar); });
-            contributors.forEach(c => { if (c.avatar) avatarUrls.add(c.avatar); });
-            
+            allDiscussions.forEach((d) => { if (d.avatar) avatarUrls.add(d.avatar); });
+            contributors.forEach((c) => { if (c.avatar) avatarUrls.add(c.avatar); });
+
             for (const url of avatarUrls) {
               try {
-                const filename = url.split('/').pop().split('?')[0] + '.png';
+                const filename = `${url.split('/').pop().split('?')[0]}.png`;
                 const response = await fetch(url);
-                if (response.ok) {
-                  const buffer = await response.arrayBuffer();
-                  fs.writeFileSync(path.join(avatarDir, filename), Buffer.from(buffer));
-                  const localPath = `./avatars/${filename}`;
-                  allDiscussions.forEach(d => { if (d.avatar === url) d.avatar = localPath; });
-                  contributors.forEach(c => { if (c.avatar === url) c.avatar = localPath; });
-                }
-              } catch (e) {
+                if (!response.ok) continue;
+                const buffer = await response.arrayBuffer();
+                fs.writeFileSync(path.join(avatarDir, filename), Buffer.from(buffer));
+                const localPath = `./avatars/${filename}`;
+                allDiscussions.forEach((d) => { if (d.avatar === url) d.avatar = localPath; });
+                contributors.forEach((c) => { if (c.avatar === url) c.avatar = localPath; });
+              } catch (error) {
                 console.log(`Failed to download avatar: ${url}`);
               }
             }
-            
-            // ========== 5. 保存数据 ==========
+
             const data = {
               discussions: allDiscussions,
-              submissions: submissions,
-              contributors: contributors,
+              submissions,
+              contributors,
               stats: {
                 discussions: allDiscussions.length,
                 submissions: submissions.length,
-                news: allDiscussions.filter(d => d.category === 'Announcements').length,
-                tools: allDiscussions.filter(d => d.category === 'Show and tell').length,
-                general: allDiscussions.filter(d => d.category === 'General').length,
+                news: allDiscussions.filter((d) => d.category === 'Announcements').length,
+                tools: allDiscussions.filter((d) => d.category === 'Show and tell').length,
+                general: allDiscussions.filter((d) => d.category === 'General').length,
                 contributors: contributors.length
               },
               updatedAt: new Date().toISOString()
             };
-            
-            fs.writeFileSync(
-              path.join(dataDir, 'discussions.json'),
-              JSON.stringify(data, null, 2)
-            );
-            
-            console.log(`Fetched: ${allDiscussions.length} discussions, ${submissions.length} submissions, ${contributors.length} contributors, ${avatarUrls.size} avatars`);
+
+            fs.writeFileSync(path.join(dataDir, 'discussions.json'), JSON.stringify(data, null, 2));
+            console.log(`Fetched ${allDiscussions.length} discussions, ${submissions.length} submissions, ${contributors.length} contributors, ${avatarUrls.size} avatars`);
 
       - name: Build Magazine JSON
         run: python scripts/magazine-build.py
@@ -239,16 +215,6 @@ jobs:
         run: |
           pip install requests
           python scripts/crawl-hotlist.py
-
-      # Remark42 邮箱论坛（可选）
-      # 启用方法：设置仓库 Secret REMARK42_URL 为你的 Remark42 地址
-      # 如 https://remark42.example.com
-      # 然后取消下面的注释
-      # - name: Fetch Remark42 Data
-      #   env:
-      #     REMARK42_URL: ${{ secrets.REMARK42_URL }}
-      #     REMARK42_SITE: ${{ secrets.REMARK42_SITE }}
-      #   run: python scripts/fetch-remark42.py
 
       - name: Generate Config
         env:
@@ -264,7 +230,7 @@ jobs:
           git pull --rebase origin main
           git stash pop || true
           git add public/data/
-          git diff --cached --quiet || git commit -m "📊 数据更新 $(date +%Y-%m-%d)"
+          git diff --cached --quiet || git commit -m "data: update generated site data $(date +%Y-%m-%d)"
           git push
 
       - name: Build
