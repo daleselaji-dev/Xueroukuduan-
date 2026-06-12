@@ -1,0 +1,584 @@
+{
+  "date": "2026-06-12",
+  "generated": "2026-06-12T06:44:20.378379",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "XiaomiMiMo/MiMo-Code",
+        "description": "",
+        "stars": 5278,
+        "language": "TypeScript",
+        "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+        "created": "2026-06-10"
+      },
+      {
+        "rank": 2,
+        "name": "shadcn/improve",
+        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "stars": 1994,
+        "language": null,
+        "url": "https://github.com/shadcn/improve",
+        "created": "2026-06-10"
+      },
+      {
+        "rank": 3,
+        "name": "NoopApp/noop",
+        "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+        "stars": 1488,
+        "language": "Swift",
+        "url": "https://github.com/NoopApp/noop",
+        "created": "2026-06-07"
+      },
+      {
+        "rank": 4,
+        "name": "MSNightmare/RoguePlanet",
+        "description": "RoguePlanet Windows Defender Vulnerability",
+        "stars": 1140,
+        "language": "C++",
+        "url": "https://github.com/MSNightmare/RoguePlanet",
+        "created": "2026-06-09"
+      },
+      {
+        "rank": 5,
+        "name": "GordenSun/GordenSuperPPTSkills",
+        "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+        "stars": 810,
+        "language": "Python",
+        "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+        "created": "2026-06-07"
+      },
+      {
+        "rank": 6,
+        "name": "JimLiu/baoyu-design",
+        "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4",
+        "stars": 793,
+        "language": "JavaScript",
+        "url": "https://github.com/JimLiu/baoyu-design",
+        "created": "2026-06-07"
+      },
+      {
+        "rank": 7,
+        "name": "apple/coreai-models",
+        "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+        "stars": 771,
+        "language": "Python",
+        "url": "https://github.com/apple/coreai-models",
+        "created": "2026-06-08"
+      },
+      {
+        "rank": 8,
+        "name": "vorpus/performativeUI",
+        "description": "",
+        "stars": 634,
+        "language": "TypeScript",
+        "url": "https://github.com/vorpus/performativeUI",
+        "created": "2026-06-07"
+      },
+      {
+        "rank": 9,
+        "name": "amElnagdy/guard-skills",
+        "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+        "stars": 573,
+        "language": null,
+        "url": "https://github.com/amElnagdy/guard-skills",
+        "created": "2026-06-06"
+      },
+      {
+        "rank": 10,
+        "name": "Tencent-Hunyuan/UniRL",
+        "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
+        "stars": 529,
+        "language": "Python",
+        "url": "https://github.com/Tencent-Hunyuan/UniRL",
+        "created": "2026-06-08"
+      },
+      {
+        "rank": 11,
+        "name": "xiaohuailabs/xiaohu-video-translate",
+        "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+        "stars": 469,
+        "language": "Python",
+        "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+        "created": "2026-06-08"
+      },
+      {
+        "rank": 12,
+        "name": "IvanSobolev/Neo3dEngine",
+        "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time cha",
+        "stars": 432,
+        "language": "C#",
+        "url": "https://github.com/IvanSobolev/Neo3dEngine",
+        "created": "2026-06-06"
+      },
+      {
+        "rank": 13,
+        "name": "Parcle-AI/parcle-memory",
+        "description": "",
+        "stars": 396,
+        "language": "Python",
+        "url": "https://github.com/Parcle-AI/parcle-memory",
+        "created": "2026-06-06"
+      },
+      {
+        "rank": 14,
+        "name": "jwangkun/claude-for-financial-services-cn",
+        "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
+        "stars": 396,
+        "language": "Python",
+        "url": "https://github.com/jwangkun/claude-for-financial-services-cn",
+        "created": "2026-06-07"
+      },
+      {
+        "rank": 15,
+        "name": "ziqihe10-droid/xuefeng-agent",
+        "description": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
+        "stars": 360,
+        "language": "HTML",
+        "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
+        "created": "2026-06-07"
+      },
+      {
+        "rank": 16,
+        "name": "jmmy9609-design/gpt-pp",
+        "description": "",
+        "stars": 358,
+        "language": "Python",
+        "url": "https://github.com/jmmy9609-design/gpt-pp",
+        "created": "2026-06-09"
+      },
+      {
+        "rank": 17,
+        "name": "JFGAtlas/aethergate-pro",
+        "description": "",
+        "stars": 341,
+        "language": "Python",
+        "url": "https://github.com/JFGAtlas/aethergate-pro",
+        "created": "2026-06-07"
+      },
+      {
+        "rank": 18,
+        "name": "secret-tools/secret-tool",
+        "description": "Secret-Tools — classified discord utilities. Star the repo.",
+        "stars": 329,
+        "language": null,
+        "url": "https://github.com/secret-tools/secret-tool",
+        "created": "2026-06-08"
+      },
+      {
+        "rank": 19,
+        "name": "MSNightmare/GreatXML",
+        "description": "GreatXML bitlocker bypass vulnerability",
+        "stars": 308,
+        "language": null,
+        "url": "https://github.com/MSNightmare/GreatXML",
+        "created": "2026-06-11"
+      },
+      {
+        "rank": 20,
+        "name": "yux1azhengye/BestSerenitySkillFromAT",
+        "description": "BestSerenityFromAT(AlphaTerminal On The Way)",
+        "stars": 303,
+        "language": null,
+        "url": "https://github.com/yux1azhengye/BestSerenitySkillFromAT",
+        "created": "2026-06-06"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+        "authors": [
+          "Zilin Xiao",
+          "Qi Ma",
+          "Chun-cheng Jason Chen",
+          "Xintao Chen",
+          "Avinash Atreya"
+        ],
+        "summary": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly suited for complex reasoning tasks: a semantically similar problem may demand an entirely different s",
+        "url": "http://arxiv.org/abs/2606.13680v1",
+        "pdf": "https://arxiv.org/pdf/2606.13680v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Mana: Dexterous Manipulation of Articulated Tools",
+        "authors": [
+          "Zhao-Heng Yin",
+          "Guanya Shi",
+          "Pieter Abbeel",
+          "C. Karen Liu"
+        ],
+        "summary": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focused on rigid objects, articulated tool use remains underexplored because of its physical complexity ",
+        "url": "http://arxiv.org/abs/2606.13677v1",
+        "pdf": "https://arxiv.org/pdf/2606.13677v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+        "authors": [
+          "Seokju Cho",
+          "Ryo Hachiuma",
+          "Abhishek Badki",
+          "Hang Su",
+          "Byung-Kwan Lee"
+        ],
+        "summary": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attempt to address this by augmenting VLMs with specialist perception modules, yet their effectiveness is ",
+        "url": "http://arxiv.org/abs/2606.13673v1",
+        "pdf": "https://arxiv.org/pdf/2606.13673v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Automated reproducibility assessments in the social and behavioral sciences using large language models",
+        "authors": [
+          "Tobias Holtdirk",
+          "Pietro Marcolongo",
+          "Anna Steinberg Schulten",
+          "Felix Henninger",
+          "Stefan Rose"
+        ],
+        "summary": "Reproducibility in the social and behavioral sciences is typically evaluated by independent researchers who reanalyze the original data to assess whether the published findings can be recovered. However, such approaches are resource-intensive and difficult to scale. Here, we show that large language",
+        "url": "http://arxiv.org/abs/2606.13670v1",
+        "pdf": "https://arxiv.org/pdf/2606.13670v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Agents-K1: Towards Agent-native Knowledge Orchestration",
+        "authors": [
+          "Zongsheng Cao",
+          "Bihao Zhan",
+          "Jinxin Shi",
+          "Jiong Wang",
+          "Fangchen Yu"
+        ],
+        "summary": "Current LLM-based research agents have advanced through agent orchestration, yet largely overlook scientific knowledge orchestration. Existing works often reduce papers to abstracts, surface mentions, and flat \\texttt{cites} edges, omitting key entities, claims, evidence, mechanisms, and method line",
+        "url": "http://arxiv.org/abs/2606.13669v1",
+        "pdf": "https://arxiv.org/pdf/2606.13669v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
+        "authors": [
+          "Amy Xin",
+          "Jiening Siow",
+          "Junjie Wang",
+          "Zijun Yao",
+          "Fanjin Zhang"
+        ],
+        "summary": "LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific solutions, and have produced results that outperform human-designed approaches. As model capabilities cont",
+        "url": "http://arxiv.org/abs/2606.13662v1",
+        "pdf": "https://arxiv.org/pdf/2606.13662v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization",
+        "authors": [
+          "Marianna Bergamaschi Ganapini",
+          "Massimo Chiriatti",
+          "Enrico Panai",
+          "Giuseppe Riva"
+        ],
+        "summary": "This paper examines three recent frameworks for understanding the cognitive and epistemic consequences of artificial intelligence: Tri-System Theory, Thinkframes, and System 0. It argues that while the first two capture important dimensions of AI's influence on individual reasoning and collective ep",
+        "url": "http://arxiv.org/abs/2606.13658v1",
+        "pdf": "https://arxiv.org/pdf/2606.13658v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation",
+        "authors": [
+          "Marek Šuppa",
+          "Andrej Ridzik",
+          "Daniel Hládek",
+          "Natália Kňažeková",
+          "Viktória Ondrejová"
+        ],
+        "summary": "We introduce SkMTEB, the first comprehensive MTEB-style text embedding benchmark for Slovak, a low-resource West Slavic language, comprising 31 datasets across 7 task types -- nearly 4$\\times$ the depth of existing multilingual benchmark coverage for Slovak. Our evaluation of 31 embedding models rev",
+        "url": "http://arxiv.org/abs/2606.13647v1",
+        "pdf": "https://arxiv.org/pdf/2606.13647v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Valid Inference with Synthetic Data via Task Exchangeability",
+        "authors": [
+          "Lezhi Tan",
+          "Tijana Zrnic"
+        ],
+        "summary": "There is a proliferation of work arguing for the use of synthetic data in scientific research. For example, social scientists are arguing for the use of LLM-generated \"silicon samples\" in pilot studies; AI evaluations increasingly rely on \"LLM-as-a-judge\" outputs; and proteomics research is accelera",
+        "url": "http://arxiv.org/abs/2606.13629v1",
+        "pdf": "https://arxiv.org/pdf/2606.13629v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Beyond Runtime Enforcement: Shield Synthesis as Defensibility Analysis for Adversarial Networks",
+        "authors": [
+          "Achraf Hsain",
+          "Sultan Almuhammadi"
+        ],
+        "summary": "Shielded reinforcement learning is typically presented as a runtime safety mechanism that compiles temporal-logic specifications into automata restricting an agent's actions. We argue this is the wrong product. The same automata-theoretic machinery -- specification compilation, product game construc",
+        "url": "http://arxiv.org/abs/2606.13621v1",
+        "pdf": "https://arxiv.org/pdf/2606.13621v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders",
+        "authors": [
+          "Minghao Luo",
+          "Liang Chen"
+        ],
+        "summary": "Search-augmented LLMs increasingly mediate everyday consumer recommendations by retrieving live web content. This creates a new risk: generative recommenders may consume polluted web content, such as fake reviews and promotional pages crafted to mislead recommendations. We ask: to what extent do sea",
+        "url": "http://arxiv.org/abs/2606.13610v1",
+        "pdf": "https://arxiv.org/pdf/2606.13610v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility",
+        "authors": [
+          "Xiaoyuan Liu",
+          "Jianhong Tu",
+          "Yuqi Chen",
+          "Siyuan Xie",
+          "Sihan Ren"
+        ],
+        "summary": "Agent systems are advancing quickly across domains, but their evaluation remains fragmented. Most benchmarks rely on fixed, LLM-centric harnesses that require heavy integration, create test-production mismatch, and limit fair comparison across diverse agent designs. The root problem is the lack of a",
+        "url": "http://arxiv.org/abs/2606.13608v1",
+        "pdf": "https://arxiv.org/pdf/2606.13608v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Reasoning as Pattern Matching: Shared Mechanisms in Human and LLM Everyday Reasoning",
+        "authors": [
+          "Zach Studdiford",
+          "Gary Lupyan"
+        ],
+        "summary": "When large language models (LLMs) fail to generalize or make haphazard errors in reasoning, it is often taken as evidence that LLMs are not truly reasoning, but rather performing a kind of pattern matching. The implication is that people's behavior does not exhibit the same types of failures because",
+        "url": "http://arxiv.org/abs/2606.13607v1",
+        "pdf": "https://arxiv.org/pdf/2606.13607v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Multi-Agent Reinforcement Learning from Delayed Marketplace Feedback for Objective-Weight Adaptation in Three-Sided Dispatch",
+        "authors": [
+          "Haochen Wu",
+          "Yi Hou",
+          "Shiguang Xie"
+        ],
+        "summary": "Dispatch in three-sided marketplaces provides a natural setting for reinforcement learning from world feedback: decisions are evaluated by delayed operational outcomes such as delivery speed, courier utilization, and merchant congestion. We present a deployed reinforcement learning system at DoorDas",
+        "url": "http://arxiv.org/abs/2606.13604v1",
+        "pdf": "https://arxiv.org/pdf/2606.13604v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Beyond the Commitment Boundary: Probing Epiphenomenal Chain-of-Thought in Large Reasoning Models",
+        "authors": [
+          "Daniel Scalena",
+          "Sara Candussio",
+          "Luca Bortolussi",
+          "Elisabetta Fersini",
+          "Malvina Nissim"
+        ],
+        "summary": "Chain-of-thought (CoT) reasoning is the dominant paradigm for inference-time scaling in language models, yet the causal influence of individual steps on the final answer poorly understood. We estimate each step's causal importance via early exit and use this measure to study how answers form across ",
+        "url": "http://arxiv.org/abs/2606.13603v1",
+        "pdf": "https://arxiv.org/pdf/2606.13603v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "EpiBench: Verifiable Evaluation of AI Agents on Epigenomics Analysis",
+        "authors": [
+          "Harihara Muralidharan",
+          "Reema Baskar",
+          "Soo Hee Lee",
+          "Tim Proctor",
+          "Kenny Workman"
+        ],
+        "summary": "We introduce EpiBench, a verifiable benchmark for short-horizon epigenomics analysis. EpiBench evaluates whether agents can make well-defined analysis decisions from realistic workflow states and return deterministically gradable answers. The benchmark includes 106 evaluations across CUT\\&Tag/CUT\\&R",
+        "url": "http://arxiv.org/abs/2606.13602v1",
+        "pdf": "https://arxiv.org/pdf/2606.13602v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Reward Modeling for Multi-Agent Orchestration",
+        "authors": [
+          "King Yeung Tsang",
+          "Zihao Zhao",
+          "Vishal Venkataramani",
+          "Haizhou Shi",
+          "Zixuan Ke"
+        ],
+        "summary": "Multi-Agent Systems (MAS) built on Large Language Models (LLMs) require effective orchestration to coordinate specialized agents, yet training such orchestrators is hindered by limited supervision and high computational cost. We propose Orchestration Reward Modeling (OrchRM), a self-supervised frame",
+        "url": "http://arxiv.org/abs/2606.13598v1",
+        "pdf": "https://arxiv.org/pdf/2606.13598v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Multiagent Protocols with Aggregated Confidence Signals",
+        "authors": [
+          "Ali Elahi",
+          "Barbara Di Eugenio"
+        ],
+        "summary": "Confidence is used for reliability, oversight, and a range of downstream decision tasks in Natural Language Processing (NLP), yet no existing method produces or evaluates a confidence for the output of a multiagent system. Prior work uses confidence within multiagent debate (MAD) to weight messages,",
+        "url": "http://arxiv.org/abs/2606.13591v1",
+        "pdf": "https://arxiv.org/pdf/2606.13591v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "EvTexture++: Event-Driven Texture Enhancement for Video Super-Resolution",
+        "authors": [
+          "Dachun Kai",
+          "Jiayao Lu",
+          "Yueyi Zhang",
+          "Xiaoyan Sun"
+        ],
+        "summary": "Event-based vision has drawn increasing attention owing to its distinctive properties, including ultra-high temporal resolution and extreme dynamic range. Recent works have introduced it to video super-resolution (VSR) to enhance flow estimation and temporal alignment. In contrast, this paper shifts",
+        "url": "http://arxiv.org/abs/2606.13580v1",
+        "pdf": "https://arxiv.org/pdf/2606.13580v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories",
+        "authors": [
+          "Baochang Ren",
+          "Xinjie Liu",
+          "Xi Chen",
+          "Yanshuo Liu",
+          "Chenxi Li"
+        ],
+        "summary": "Scientific laboratories increasingly rely on AI systems to reason about experiments, but the physical act of doing science remains largely outside their reach. AI can help read literature, generate hypotheses, and plan protocols, yet the execution of those protocols at the bench still requires a hum",
+        "url": "http://arxiv.org/abs/2606.13578v1",
+        "pdf": "https://arxiv.org/pdf/2606.13578v1",
+        "published": "2026-06-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Understanding Truncated Positional Encodings for Graph Neural Networks",
+        "authors": [
+          "James Flora",
+          "Mitchell Black",
+          "Weng-Keen Wong",
+          "Amir Nayyeri"
+        ],
+        "summary": "Positional encodings (PEs) enhance the power of graph neural networks (GNNs), both theoretically and empirically. Two of the most popular families of PEs - spectral (e.g., Laplacian eigenspaces, effective resistance) and walk-based (polynomials of the adjacency matrix) - are theoretically equivalent",
+        "url": "http://arxiv.org/abs/2606.13671v1",
+        "pdf": "https://arxiv.org/pdf/2606.13671v1",
+        "published": "2026-06-11",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation",
+        "authors": [
+          "Guo Yu",
+          "Wenlin Liu",
+          "Yulan Hu",
+          "Hao-Xuan Ma",
+          "Jun-Peng Jiang"
+        ],
+        "summary": "On-policy distillation (\\textsc{OPD}) has recently become a prominent post-training recipe as it combines two desirable ingredients: on-policy student trajectories and dense teacher supervision, yet how this hybrid changes a model's parameters remains unclear. Across several language and vision-lang",
+        "url": "http://arxiv.org/abs/2606.13657v1",
+        "pdf": "https://arxiv.org/pdf/2606.13657v1",
+        "published": "2026-06-11",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Operadic consistency: a label-free signal for compositional reasoning failures in LLMs",
+        "authors": [
+          "Nathaniel Bottman",
+          "Yinhong Liu",
+          "Kyle Richardson"
+        ],
+        "summary": "Detecting LLM reasoning failures at inference time without ground-truth labels has motivated a wide range of confidence baselines, including self-consistency, semantic entropy, and P(True), built on within-question sampling and self-evaluation. Operad theory, the formalism for systems built by itera",
+        "url": "http://arxiv.org/abs/2606.13649v1",
+        "pdf": "https://arxiv.org/pdf/2606.13649v1",
+        "published": "2026-06-11",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "The Stable Recovery Manifold: Geometric Principles Governing Recoverability in Continual Learning",
+        "authors": [
+          "Ayushman Trivedi",
+          "Bhavika Melwani"
+        ],
+        "summary": "Catastrophic forgetting is often viewed as the destruction of previously learned knowledge during sequential learning. Building on the Accessibility Collapse framework, we investigate the geometric structure of recoverability in continual learning. Using Split CIFAR-100 and a sequentially trained Re",
+        "url": "http://arxiv.org/abs/2606.13637v1",
+        "pdf": "https://arxiv.org/pdf/2606.13637v1",
+        "published": "2026-06-11",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Aerial Wildfire Suppression Planning with a Hybrid CNN-Cellular Automata Fire Model",
+        "authors": [
+          "Ion Matei",
+          "Maksym Zhenirovskyy",
+          "Takuya Kurihana",
+          "Rohit Vupala",
+          "Anthony Wong"
+        ],
+        "summary": "Aerial wildfire suppression requires not only predicting fire spread, but also designing effective intervention strategies under operational and environmental uncertainty. We present a modeling and optimization framework for aerial wildfire suppression that combines a hybrid neural-cellular automato",
+        "url": "http://arxiv.org/abs/2606.13633v1",
+        "pdf": "https://arxiv.org/pdf/2606.13633v1",
+        "published": "2026-06-11",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Generative Modeling of Bach-Style Symbolic Music: A Comparative Study of Autoregressive, Latent-Variable, and Adversarial Approaches",
+        "authors": [
+          "Kyuil Lee",
+          "Dezhi Yu",
+          "Yongkang Huang"
+        ],
+        "summary": "We study generative modeling of Bach-style symbolic piano music using a shared MIDI corpus and three model families: autoregressive LSTMs with attention, latent-variable models including recurrent VAEs and vector-quantized VAEs, and generative adversarial networks. We compare their ability to model ",
+        "url": "http://arxiv.org/abs/2606.13626v1",
+        "pdf": "https://arxiv.org/pdf/2606.13626v1",
+        "published": "2026-06-11",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
