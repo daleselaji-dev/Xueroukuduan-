@@ -1,0 +1,606 @@
+{
+  "date": "2026-06-15",
+  "generated": "2026-06-15T07:23:06.380732",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "DietrichGebert/ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "stars": 9717,
+        "language": "JavaScript",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 2,
+        "name": "XiaomiMiMo/MiMo-Code",
+        "description": "",
+        "stars": 8682,
+        "language": "TypeScript",
+        "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+        "created": "2026-06-10"
+      },
+      {
+        "rank": 3,
+        "name": "shadcn/improve",
+        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "stars": 4529,
+        "language": null,
+        "url": "https://github.com/shadcn/improve",
+        "created": "2026-06-10"
+      },
+      {
+        "rank": 4,
+        "name": "omnigent-ai/omnigent",
+        "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check",
+        "stars": 1359,
+        "language": "Python",
+        "url": "https://github.com/omnigent-ai/omnigent",
+        "created": "2026-06-11"
+      },
+      {
+        "rank": 5,
+        "name": "MSNightmare/RoguePlanet",
+        "description": "RoguePlanet Windows Defender Vulnerability",
+        "stars": 1279,
+        "language": "C++",
+        "url": "https://github.com/MSNightmare/RoguePlanet",
+        "created": "2026-06-09"
+      },
+      {
+        "rank": 6,
+        "name": "SkyBlue997/enableMacosAI",
+        "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+        "stars": 1238,
+        "language": "Shell",
+        "url": "https://github.com/SkyBlue997/enableMacosAI",
+        "created": "2026-06-10"
+      },
+      {
+        "rank": 7,
+        "name": "lenucksi/aur-malware-check",
+        "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+        "stars": 947,
+        "language": "Shell",
+        "url": "https://github.com/lenucksi/aur-malware-check",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 8,
+        "name": "tamnd/kage",
+        "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+        "stars": 943,
+        "language": "Go",
+        "url": "https://github.com/tamnd/kage",
+        "created": "2026-06-14"
+      },
+      {
+        "rank": 9,
+        "name": "plannotator/effective-html",
+        "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
+        "stars": 855,
+        "language": "HTML",
+        "url": "https://github.com/plannotator/effective-html",
+        "created": "2026-06-09"
+      },
+      {
+        "rank": 10,
+        "name": "levy-street/world-of-claudecraft",
+        "description": "",
+        "stars": 722,
+        "language": "TypeScript",
+        "url": "https://github.com/levy-street/world-of-claudecraft",
+        "created": "2026-06-10"
+      },
+      {
+        "rank": 11,
+        "name": "orange2ai/renwei-writing",
+        "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+        "stars": 628,
+        "language": null,
+        "url": "https://github.com/orange2ai/renwei-writing",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 12,
+        "name": "Danilaa1/slot-text",
+        "description": "Dependency-free text roll animation for vanilla JS, React, and Vue.",
+        "stars": 610,
+        "language": "TypeScript",
+        "url": "https://github.com/Danilaa1/slot-text",
+        "created": "2026-06-09"
+      },
+      {
+        "rank": 13,
+        "name": "joeseesun/qiaomu-goal-meta-skill",
+        "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+        "stars": 589,
+        "language": "Python",
+        "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+        "created": "2026-06-11"
+      },
+      {
+        "rank": 14,
+        "name": "khrisat/text-humanizer",
+        "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+        "stars": 580,
+        "language": "Python",
+        "url": "https://github.com/khrisat/text-humanizer",
+        "created": "2026-06-09"
+      },
+      {
+        "rank": 15,
+        "name": "alchaincyf/fanbox",
+        "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+        "stars": 541,
+        "language": "JavaScript",
+        "url": "https://github.com/alchaincyf/fanbox",
+        "created": "2026-06-10"
+      },
+      {
+        "rank": 16,
+        "name": "coder/boo",
+        "description": "A GNU screen style terminal multiplexer built on libghostty.",
+        "stars": 495,
+        "language": "Zig",
+        "url": "https://github.com/coder/boo",
+        "created": "2026-06-10"
+      },
+      {
+        "rank": 17,
+        "name": "MSNightmare/GreatXML",
+        "description": "GreatXML bitlocker bypass vulnerability",
+        "stars": 479,
+        "language": null,
+        "url": "https://github.com/MSNightmare/GreatXML",
+        "created": "2026-06-11"
+      },
+      {
+        "rank": 18,
+        "name": "loc567/loc567",
+        "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
+        "stars": 461,
+        "language": "C",
+        "url": "https://github.com/loc567/loc567",
+        "created": "2026-06-11"
+      },
+      {
+        "rank": 19,
+        "name": "EEliberto/IPA-Download",
+        "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+        "stars": 423,
+        "language": "Swift",
+        "url": "https://github.com/EEliberto/IPA-Download",
+        "created": "2026-06-13"
+      },
+      {
+        "rank": 20,
+        "name": "DanMcInerney/architect-loop",
+        "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+        "stars": 413,
+        "language": "HTML",
+        "url": "https://github.com/DanMcInerney/architect-loop",
+        "created": "2026-06-12"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning",
+        "authors": [
+          "Sicheng Yang",
+          "Hangjie Yuan",
+          "Wenjun Zhang",
+          "Jinwang Wang",
+          "Yichen Qian"
+        ],
+        "summary": "Building trustworthy medical multimodal large language models (MLLMs) is critical for reliable clinical decision support. Existing medical hallucination benchmarks mainly focus on data collection, but often ignore where hallucinations originate within the reasoning process. We find that hallucinatio",
+        "url": "http://arxiv.org/abs/2606.14697v1",
+        "pdf": "https://arxiv.org/pdf/2606.14697v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning",
+        "authors": [
+          "Pengxin Wang",
+          "Lihao Guo",
+          "Yi Xie",
+          "Bo Liu",
+          "Siyang Cao"
+        ],
+        "summary": "Cooperative multi-objective multi-agent reinforcement learning (MOMARL) models team decision making under multiple, potentially conflicting objectives. In this setting, conflicts arise not only across objectives but also across agents with different observations, roles, and contributions. We propose",
+        "url": "http://arxiv.org/abs/2606.14693v1",
+        "pdf": "https://arxiv.org/pdf/2606.14693v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit",
+        "authors": [
+          "Xiaoyu Li",
+          "Andi Han",
+          "Dai Shi",
+          "Zheng Gao",
+          "Jiaojiao Jiang"
+        ],
+        "summary": "AI systems coupled to proof assistants now generate formal mathematics at scale, and the gap between what a checker can verify and what a mathematician would value has become the binding constraint. We model the generation of valuable mathematics as nested language generation in the limit: a verifia",
+        "url": "http://arxiv.org/abs/2606.14688v1",
+        "pdf": "https://arxiv.org/pdf/2606.14688v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification",
+        "authors": [
+          "Rafi Ahamed",
+          "Md. Abir Rahman",
+          "Tasnia Tarannum Roza",
+          "Munaia Jannat Easha",
+          "Md. Asif Khan"
+        ],
+        "summary": "Globally, cotton is a highly economically beneficial crop, as the textile industry heavily depends on it. So, the precise identification and detection of cotton leaf disease is crucial for economic stability. The development goal of \"CottonLeafVision\" is to accurately classify and detect cotton leaf",
+        "url": "http://arxiv.org/abs/2606.14686v1",
+        "pdf": "https://arxiv.org/pdf/2606.14686v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows",
+        "authors": [
+          "Shikun Liu",
+          "Mufei Li",
+          "Dongqi Fu",
+          "Haoyu Wang",
+          "Yinglong Xia"
+        ],
+        "summary": "Large language models increasingly serve as execution engines for agentic systems, yet they still consume context through a sequential text interface. This creates a mismatch with modern structured agent workflows, in which independent branches explore subtasks, retrieve evidence, or generate candid",
+        "url": "http://arxiv.org/abs/2606.14672v1",
+        "pdf": "https://arxiv.org/pdf/2606.14672v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Giving AI a Headache: Acoustic Adversarial Attacks to Computer Vision Applications",
+        "authors": [
+          "Nicole Villavicencio-Garduño",
+          "Maksim Ekin Eren",
+          "Milo Prisbrey",
+          "Ben Migliori",
+          "Michael Teti"
+        ],
+        "summary": "Artificial Intelligence (AI) is increasingly used to automate a variety of real-world computer vision (CV) applications, such as autonomous vehicle control, facial recognition, and security cameras. Recent research has shown that acoustic vibration can induce real physical motion in cameras, interfe",
+        "url": "http://arxiv.org/abs/2606.14658v1",
+        "pdf": "https://arxiv.org/pdf/2606.14658v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
+        "authors": [
+          "Gaurav Verma",
+          "Scott Counts"
+        ],
+        "summary": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful insights into people's work. Such insights are essential for improving digital products in ways grounded in real-world user interactions. Prior",
+        "url": "http://arxiv.org/abs/2606.14654v1",
+        "pdf": "https://arxiv.org/pdf/2606.14654v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Listening with Attention: Entropy-Guided Explainability for Transformer-Based Audio Models",
+        "authors": [
+          "Ravi Ranjan",
+          "Utkarsh Grover",
+          "Xiaomin Lin",
+          "Agoritsa Polyzou"
+        ],
+        "summary": "Transformer-based automatic speech recognition (ASR) models such as Whisper are highly accurate, but their predictions remain difficult to interpret. Existing explainable AI (XAI) methods often lack faithfulness and precise temporal grounding. We propose Listening with Entropy-guided Attention for F",
+        "url": "http://arxiv.org/abs/2606.14647v1",
+        "pdf": "https://arxiv.org/pdf/2606.14647v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "From Self-Supervised Speech Models to Mixture-of-Experts for Robust Anti-Spoofing",
+        "authors": [
+          "Hugo Daumain",
+          "Driss Matrouf",
+          "Khaled Khelif",
+          "Mickael Rouvier"
+        ],
+        "summary": "Recent advances in speech generation have significantly improved the naturalness of synthetic speech, making spoofing detection increasingly challenging. A key limitation of current anti-spoofing systems is their limited robustness to unseen synthesis methods. In this work, we transform a self-super",
+        "url": "http://arxiv.org/abs/2606.14639v1",
+        "pdf": "https://arxiv.org/pdf/2606.14639v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks",
+        "authors": [
+          "Jianzhe Lin"
+        ],
+        "summary": "Verifier-driven self-DPO is a common recipe for self-improving production visual-language models. In this setup, a frozen verifier scores candidate generations, the top- and bottom-scoring candidates form a preference example, and DPO updates the learner. The deployment-time assumption is monotone: ",
+        "url": "http://arxiv.org/abs/2606.14629v1",
+        "pdf": "https://arxiv.org/pdf/2606.14629v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Moonlight in Latent Space: Chirality and Structural Correspondence Between Beethoven's Op. 27 No. 2 and Machine Learning Mechanisms",
+        "authors": [
+          "Chen Ying Claude",
+          "Zhihan Luo"
+        ],
+        "summary": "We show that the three movements of Beethoven's \"Moonlight Sonata\" (Op. 27 No. 2) instantiate three distinct machine learning architectures -- not by analogy, but by structural correspondence. Through computational analysis of the score (entropy, Jensen-Shannon divergence, dissonance, hand distribut",
+        "url": "http://arxiv.org/abs/2606.14612v1",
+        "pdf": "https://arxiv.org/pdf/2606.14612v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Expert-Driven Survival Machines: Improving Stratification and Interpretability in Multiple Clinical Cohorts",
+        "authors": [
+          "Farica Zhuang",
+          "Zixuan Wen",
+          "Christos Davatzikos",
+          "Li Shen"
+        ],
+        "summary": "Survival prediction plays a central role for healthcare providers and clinical researchers. Accurate risk stratification enables early intervention and improved patient management. Most existing deep survival models learn one common feature representation for all patients, which may hide important d",
+        "url": "http://arxiv.org/abs/2606.14608v1",
+        "pdf": "https://arxiv.org/pdf/2606.14608v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "A Comparative Study of Deep Learning Architectures for Multi-Horizon Behavioural Forecasting for Mobile Health",
+        "authors": [
+          "Pavlos Nicolaou",
+          "Kleanthis Malialis",
+          "Artemis Kontou",
+          "Panayiotis Kolios"
+        ],
+        "summary": "Wearable devices and smartphones generate rich behavioural time series that can support proactive health interventions, yet systematic comparisons of modern forecasting architectures for these data are lacking. In particular, it remains unclear how models generalise across populations, how different",
+        "url": "http://arxiv.org/abs/2606.14604v1",
+        "pdf": "https://arxiv.org/pdf/2606.14604v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Regulating the Machine Contributor: Governance and Policy Alignment in Open Source",
+        "authors": [
+          "Jassem Manita",
+          "Aziz Amari"
+        ],
+        "summary": "AI-assisted software development has moved from line-level autocomplete to agents that can plan changes, edit files, and submit pull requests with limited human supervision. Open-source software, however, evolves through a process designed for humans: contributor agreements, codes of conduct, and re",
+        "url": "http://arxiv.org/abs/2606.14594v1",
+        "pdf": "https://arxiv.org/pdf/2606.14594v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "AudioDER: A Deduplication-Enhanced Reasoning Dataset for Post-Training Large Audio-Language Models",
+        "authors": [
+          "Hui Geng",
+          "Yi Su",
+          "Han Yin",
+          "Tianjiao Wan",
+          "Qisheng Xu"
+        ],
+        "summary": "Large Audio-Language Models (LALMs) have shown strong performance on a wide range of audio understanding tasks, yet they still struggle with complex audio reasoning. A practical way to improve such capabilities is post-training, whose effectiveness critically depends on the quality and diversity of ",
+        "url": "http://arxiv.org/abs/2606.14591v1",
+        "pdf": "https://arxiv.org/pdf/2606.14591v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime",
+        "authors": [
+          "Wei Wu"
+        ],
+        "summary": "LLM agent systems increasingly run as long-lived autonomous runtimes: scheduling jobs, calling tools, maintaining memory, and pushing results to humans. We present a longitudinal study of silent failures in one such system: a personal-assistant agent runtime in continuous production since March 2026",
+        "url": "http://arxiv.org/abs/2606.14589v1",
+        "pdf": "https://arxiv.org/pdf/2606.14589v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Sensitivity Shaping for Latent Modeling",
+        "authors": [
+          "Hongzhan Yu",
+          "Chenghao Li",
+          "Ruipeng Zhang",
+          "Henrik Christensen",
+          "Sicun Gao"
+        ],
+        "summary": "Generative dynamics models enable planning in challenging robotic systems, but safe deployment requires reliably detecting policy-induced out-of-distribution (OOD) transitions. Existing methods typically treat the learned dynamics as fixed and attach post hoc support surrogates. We show that these s",
+        "url": "http://arxiv.org/abs/2606.14585v1",
+        "pdf": "https://arxiv.org/pdf/2606.14585v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "A Temporal Planning Framework for Disruption Aware Dynamic Route Optimization in Heterogeneous Railway Systems",
+        "authors": [
+          "Pollob Chandra Ray",
+          "Sabah Binte Noor",
+          "Fazlul Hasan Siddiqui"
+        ],
+        "summary": "Efficient route optimization play a vital role in ensuring both safety and punctuality in railway operations. It is very crucial particularly in heterogeneous multi-gauge railway networks with varying train speed, stopping pattern, infrastructure compatibility constraints increase coordination compl",
+        "url": "http://arxiv.org/abs/2606.14582v1",
+        "pdf": "https://arxiv.org/pdf/2606.14582v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "CARE: Controlling LLM-Generated Policies through Auditable Review of Evidence in Scientific Experimentation",
+        "authors": [
+          "Guanyu Liu",
+          "Weiyi Kong",
+          "Zeyu Wang",
+          "Boer Zhang",
+          "Baiqing Li"
+        ],
+        "summary": "Granting LLMs direct control over costly, irreversible scientific experiments leads to unsafe exploration and unstable performance, but discarding LLM creativity entirely sacrifices significant optimization potential. We introduce CARE (Controlling LLM-Generated Policies through Auditable Review of ",
+        "url": "http://arxiv.org/abs/2606.14581v1",
+        "pdf": "https://arxiv.org/pdf/2606.14581v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "VISTA: View-Consistent Self-Verified Training for GUI Grounding",
+        "authors": [
+          "Xinyu Qiu",
+          "Yunzhu Zhang",
+          "Heng Jia",
+          "Shuheng Shen",
+          "Changhua Meng"
+        ],
+        "summary": "When applying Group Relative Policy Optimization (GRPO) for GUI Grounding, rollouts are sampled from a single screenshot view; groups often become either all failures on difficult instances or all successes on easy ones, yielding no useful relative advantage. We propose VISTA (View-Consistent Self-V",
+        "url": "http://arxiv.org/abs/2606.14579v1",
+        "pdf": "https://arxiv.org/pdf/2606.14579v1",
+        "published": "2026-06-12",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Gaze Heads: How VLMs Look at What They Describe",
+        "authors": [
+          "Rohit Gandikota",
+          "David Bau"
+        ],
+        "summary": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its language-model backbone, which we call gaze heads, whose attention tracks the image region the model",
+        "url": "http://arxiv.org/abs/2606.14703v1",
+        "pdf": "https://arxiv.org/pdf/2606.14703v1",
+        "published": "2026-06-12",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
+        "authors": [
+          "Jinsu Kim",
+          "Jihoon Tack",
+          "Noah Lee",
+          "Jongheon Jeong"
+        ],
+        "summary": "Language Models (LMs) have shown remarkable potential as role-playing chatbots, delivering consistent, stylized interactions when given a specification of a character or user persona. However, applying these capabilities to real-world applications (e.g., ecosystems with numerous NPCs interacting sim",
+        "url": "http://arxiv.org/abs/2606.14695v1",
+        "pdf": "https://arxiv.org/pdf/2606.14695v1",
+        "published": "2026-06-12",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "A Complexity Measure for Active Learning in Multi-group Mean Estimation",
+        "authors": [
+          "Abdellah Aznag",
+          "Rachel Cummings",
+          "Adam N. Elmachtoub"
+        ],
+        "summary": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samples across $d$ groups to minimize the worst-case uncertainty index $\\max_{k\\in[d]}σ_k^2/n_k$, where $σ_k$ is the standard deviation of the d",
+        "url": "http://arxiv.org/abs/2606.14690v1",
+        "pdf": "https://arxiv.org/pdf/2606.14690v1",
+        "published": "2026-06-12",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification",
+        "authors": [
+          "Mohammed Arif Mainuddin",
+          "Najifa Tabassum",
+          "Omar Ibne Shahid",
+          "Riasat Khan"
+        ],
+        "summary": "Real-time fire classification systems require models that are simultaneously accurate, computationally efficient, and deployable on resource-constrained hardware. This work proposes \\textbf{HumP-KD}, a Hybrid Uncertainty-aware Multi-stage Progressive Knowledge Distillation framework for efficient fi",
+        "url": "http://arxiv.org/abs/2606.14684v1",
+        "pdf": "https://arxiv.org/pdf/2606.14684v1",
+        "published": "2026-06-12",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Optimal Hidden-Target Learning for Online Inventory Optimization on General Convex Sets",
+        "authors": [
+          "Anthony Pineci",
+          "Yunzong Xu"
+        ],
+        "summary": "Online inventory optimization (OIO) is online convex optimization with physical memory: inventory carryover makes the feasible action set depend on the past. A natural principle, used in stochastic inventory learning and recently in OIO under a single linear capacity constraint, is to maintain a hid",
+        "url": "http://arxiv.org/abs/2606.14679v1",
+        "pdf": "https://arxiv.org/pdf/2606.14679v1",
+        "published": "2026-06-12",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Compressed Computation is (probably) not Computation in Superposition",
+        "authors": [
+          "Jai Bhagat",
+          "Sara Molas-Medina",
+          "Giorgi Giglemiani",
+          "Stefan Heimersheim"
+        ],
+        "summary": "We study whether the Compressed Computation (CC) toy model (Braun et al., 2025) is an instance of computation in superposition. The CC model appears to compute 100 ReLU functions with just 50 neurons, achieving a better loss than expected from only representing 50 ReLU functions. We show that the mo",
+        "url": "http://arxiv.org/abs/2606.14673v1",
+        "pdf": "https://arxiv.org/pdf/2606.14673v1",
+        "published": "2026-06-12",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "When to Write and When to Suppress: Route-Specialized Dual Adapters for Memory-Assisted Knowledge Editing",
+        "authors": [
+          "Yining Huang"
+        ],
+        "summary": "Knowledge editing systems must update selected facts while preserving nearby but irrelevant behavior. This paper studies this problem in a memory-assisted setting where an edit memory is retrieved at inference time and a parameter-efficient adapter corrects the model's object preference. We argue th",
+        "url": "http://arxiv.org/abs/2606.14668v1",
+        "pdf": "https://arxiv.org/pdf/2606.14668v1",
+        "published": "2026-06-12",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Beyond task performance: Decoding bioacoustic embeddings with speech features",
+        "authors": [
+          "Ines Nolasco",
+          "Jules Cauzinille",
+          "Marius Miron",
+          "Gagan Narula",
+          "Milad Alizadeh"
+        ],
+        "summary": "Pretrained audio embeddings are standard in bioacoustics, yet little is known about which acoustic features these models encode, nor which are useful for a given task. This hinders transparency and limits extension to rare species or data-scarce domains. Here we reveal which speech-like features are",
+        "url": "http://arxiv.org/abs/2606.14662v1",
+        "pdf": "https://arxiv.org/pdf/2606.14662v1",
+        "published": "2026-06-12",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
