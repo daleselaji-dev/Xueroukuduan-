@@ -1,0 +1,598 @@
+{
+  "date": "2026-06-16",
+  "generated": "2026-06-16T07:29:23.438968",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "DietrichGebert/ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "stars": 18337,
+        "language": "JavaScript",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 2,
+        "name": "XiaomiMiMo/MiMo-Code",
+        "description": "",
+        "stars": 9145,
+        "language": "TypeScript",
+        "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+        "created": "2026-06-10"
+      },
+      {
+        "rank": 3,
+        "name": "shadcn/improve",
+        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "stars": 4917,
+        "language": null,
+        "url": "https://github.com/shadcn/improve",
+        "created": "2026-06-10"
+      },
+      {
+        "rank": 4,
+        "name": "omnigent-ai/omnigent",
+        "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check",
+        "stars": 2098,
+        "language": "Python",
+        "url": "https://github.com/omnigent-ai/omnigent",
+        "created": "2026-06-11"
+      },
+      {
+        "rank": 5,
+        "name": "tamnd/kage",
+        "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+        "stars": 1624,
+        "language": "Go",
+        "url": "https://github.com/tamnd/kage",
+        "created": "2026-06-14"
+      },
+      {
+        "rank": 6,
+        "name": "SkyBlue997/enableMacosAI",
+        "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+        "stars": 1304,
+        "language": "Shell",
+        "url": "https://github.com/SkyBlue997/enableMacosAI",
+        "created": "2026-06-10"
+      },
+      {
+        "rank": 7,
+        "name": "lenucksi/aur-malware-check",
+        "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+        "stars": 1218,
+        "language": "Shell",
+        "url": "https://github.com/lenucksi/aur-malware-check",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 8,
+        "name": "levy-street/world-of-claudecraft",
+        "description": "",
+        "stars": 812,
+        "language": "TypeScript",
+        "url": "https://github.com/levy-street/world-of-claudecraft",
+        "created": "2026-06-10"
+      },
+      {
+        "rank": 9,
+        "name": "orange2ai/renwei-writing",
+        "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+        "stars": 687,
+        "language": null,
+        "url": "https://github.com/orange2ai/renwei-writing",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 10,
+        "name": "loc567/loc567",
+        "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
+        "stars": 679,
+        "language": "C",
+        "url": "https://github.com/loc567/loc567",
+        "created": "2026-06-11"
+      },
+      {
+        "rank": 11,
+        "name": "joeseesun/qiaomu-goal-meta-skill",
+        "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+        "stars": 620,
+        "language": "Python",
+        "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+        "created": "2026-06-11"
+      },
+      {
+        "rank": 12,
+        "name": "coder/boo",
+        "description": "A GNU screen style terminal multiplexer built on libghostty.",
+        "stars": 614,
+        "language": "Zig",
+        "url": "https://github.com/coder/boo",
+        "created": "2026-06-10"
+      },
+      {
+        "rank": 13,
+        "name": "alchaincyf/fanbox",
+        "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+        "stars": 585,
+        "language": "JavaScript",
+        "url": "https://github.com/alchaincyf/fanbox",
+        "created": "2026-06-10"
+      },
+      {
+        "rank": 14,
+        "name": "EEliberto/IPA-Download",
+        "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+        "stars": 525,
+        "language": "Swift",
+        "url": "https://github.com/EEliberto/IPA-Download",
+        "created": "2026-06-13"
+      },
+      {
+        "rank": 15,
+        "name": "nolangz/pixel2motion",
+        "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+        "stars": 523,
+        "language": "Python",
+        "url": "https://github.com/nolangz/pixel2motion",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 16,
+        "name": "MSNightmare/GreatXML",
+        "description": "GreatXML bitlocker bypass vulnerability",
+        "stars": 499,
+        "language": null,
+        "url": "https://github.com/MSNightmare/GreatXML",
+        "created": "2026-06-11"
+      },
+      {
+        "rank": 17,
+        "name": "DanMcInerney/architect-loop",
+        "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+        "stars": 465,
+        "language": "HTML",
+        "url": "https://github.com/DanMcInerney/architect-loop",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 18,
+        "name": "vorssaint/vorssaint-utils",
+        "description": "",
+        "stars": 425,
+        "language": "Swift",
+        "url": "https://github.com/vorssaint/vorssaint-utils",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 19,
+        "name": "mrtooher/fable-mode",
+        "description": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+        "stars": 416,
+        "language": null,
+        "url": "https://github.com/mrtooher/fable-mode",
+        "created": "2026-06-13"
+      },
+      {
+        "rank": 20,
+        "name": "SunJaycy/GoldenEye-Recomp",
+        "description": "",
+        "stars": 400,
+        "language": "C++",
+        "url": "https://github.com/SunJaycy/GoldenEye-Recomp",
+        "created": "2026-06-12"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers",
+        "authors": [
+          "Alper Yıldırım"
+        ],
+        "summary": "Oppenheim and Lim (1981) showed that natural images stay recognizable when reconstructed from their Fourier phase alone, while the magnitude carries little of their identity. We ask whether trained image classifiers reproduce this asymmetry inside their hidden layers, and we test it causally: given ",
+        "url": "http://arxiv.org/abs/2606.17037v1",
+        "pdf": "https://arxiv.org/pdf/2606.17037v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "HAMON: Passive Optical Sequence Mixing for Long-Horizon Forecasting",
+        "authors": [
+          "Alper Yıldırım"
+        ],
+        "summary": "Simple linear and frequency-domain models remain surprisingly competitive in long-horizon time-series forecasting, and recent mechanistic evidence suggests that standard forecasting benchmarks may not require the dense superposed representations that make transformers powerful in other domains. This",
+        "url": "http://arxiv.org/abs/2606.17028v1",
+        "pdf": "https://arxiv.org/pdf/2606.17028v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models",
+        "authors": [
+          "Jiaju Han",
+          "Ben Zhang",
+          "Xuemeng Sun",
+          "Qike Zhang",
+          "Yuxian Dong"
+        ],
+        "summary": "Remote sensing vision-language models have advanced Earth observation understanding, but most existing work remains centered on RGB imagery, leaving the complementary information in infrared data underexplored. Infrared images provide distinctive cues, including thermal intensity structures, object ",
+        "url": "http://arxiv.org/abs/2606.17020v1",
+        "pdf": "https://arxiv.org/pdf/2606.17020v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "TokenPilot: Cache-Efficient Context Management for LLM Agents",
+        "authors": [
+          "Buqiang Xu",
+          "Zirui Xue",
+          "Dianmou Chen",
+          "Chenyang Fu",
+          "Chiyu Wu"
+        ],
+        "summary": "As LLM agents are deployed in long-horizon sessions, context accumulation drives up inference costs. Existing approaches utilize text pruning or dynamic memory eviction to minimize token footprints; however, their unconstrained sequence mutations alter layouts, introducing prefix mismatches and cach",
+        "url": "http://arxiv.org/abs/2606.17016v1",
+        "pdf": "https://arxiv.org/pdf/2606.17016v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "TuneJury: An Open Metric for Improving Music Generation Preference Alignment",
+        "authors": [
+          "Yonghyun Kim",
+          "Junwon Lee",
+          "Haiwen Xia",
+          "Yinghao Ma",
+          "Junghyun Koo"
+        ],
+        "summary": "We introduce TuneJury, an open, instance-level pairwise reward model for text-to-music that predicts a music preference score from a text prompt and an audio clip. The released checkpoint is trained on publicly available human-preference labels covering arena-style (A vs. B) votes, metric-alignment ",
+        "url": "http://arxiv.org/abs/2606.17006v1",
+        "pdf": "https://arxiv.org/pdf/2606.17006v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Bayesian Inference and Decision Audits for Public Archives of Frontier AI Evaluations",
+        "authors": [
+          "Yanan Long"
+        ],
+        "summary": "Public AI evaluations are often read as terminal leaderboards, yet the underlying evidence is a selective time series shaped by reporting rules, benchmark revisions, and missingness. Repeated public archives for LiveBench and Open LLM Leaderboard v2 serve as the primary longitudinal record; LMArena ",
+        "url": "http://arxiv.org/abs/2606.17005v1",
+        "pdf": "https://arxiv.org/pdf/2606.17005v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation",
+        "authors": [
+          "Tran Dinh Tien",
+          "Zhiqiang Shen"
+        ],
+        "summary": "Segment Anything Model 3 (SAM 3) provides a strong frozen backbone for concept-prompted segmentation, but applying it directly to open-vocabulary semantic segmentation (OVSS) is inefficient: full-resolution decoding is typically run over the entire dataset vocabulary, whereas each image contains onl",
+        "url": "http://arxiv.org/abs/2606.16996v1",
+        "pdf": "https://arxiv.org/pdf/2606.16996v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "When in Doubt, Plan It Out: Committed Small Language Model Deliberation for Reactive Reinforcement Learning",
+        "authors": [
+          "Nathan Gavenski",
+          "Juarez Monteiro",
+          "Francisco Galuppo",
+          "Adriano Veloso",
+          "Odinaldo Rodrigues"
+        ],
+        "summary": "Reinforcement Learning (RL) policies often degrade in unfamiliar environments because they lack explicit deliberation. We propose Plan, Align, Commit, Think (PACT), a hybrid architecture that combines a fast, reactive RL policy with a slow, deliberative Small Language Model (SLM) planner. PACT invok",
+        "url": "http://arxiv.org/abs/2606.16995v1",
+        "pdf": "https://arxiv.org/pdf/2606.16995v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Stable Menus of Public Goods: AI-Enabled Progress",
+        "authors": [
+          "Sara Fish"
+        ],
+        "summary": "Using an open problem from the EC 2025 paper \"Stable Menus of Public Goods\" as a testbed, we conduct experiments to understand the effectiveness of different AI-for-EconCS research workflows. Specifically, we study three questions: Does providing human intuition in the prompt help? Does automated mu",
+        "url": "http://arxiv.org/abs/2606.16989v1",
+        "pdf": "https://arxiv.org/pdf/2606.16989v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Consensus-based Agentic Large Language Model Framework for Harmonized Tariff Schedule Code Classification",
+        "authors": [
+          "Truong Thanh Hung Nguyen",
+          "Khanh Van Quynh Nguyen",
+          "Hoang-Loc Cao",
+          "Tri Duong",
+          "Phuc Ho"
+        ],
+        "summary": "Accurate Harmonized Tariff Schedule (HTS) code classification is essential for customs clearance, duty assessment, trade statistics, and regulatory compliance in maritime logistics. However, exact HTS classification remains challenging because product descriptions are often short, incomplete, or amb",
+        "url": "http://arxiv.org/abs/2606.16987v1",
+        "pdf": "https://arxiv.org/pdf/2606.16987v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "The embrace of open science: An analysis of a decade of AI research and 56 800 conference papers",
+        "authors": [
+          "Kevin L Coakley",
+          "Thijs Snelleman",
+          "Holger Hoos",
+          "Odd Erik Gundersen"
+        ],
+        "summary": "The reproducibility crisis has directed the AI research community toward improving documentation practices. Several studies have identified methodological issues, and in response, the most impactful venues in the field have introduced reproducibility checklists. We seek to understand whether documen",
+        "url": "http://arxiv.org/abs/2606.16974v1",
+        "pdf": "https://arxiv.org/pdf/2606.16974v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "How Much Do Reviews Really Contribute? A Study on Text-Enriched Matrix Factorization for Recommendations",
+        "authors": [
+          "Eduardo Ferreira da Silva",
+          "Mayki dos Santos Oliveira",
+          "Joel Machado Pires Denis Dantas Boaventura",
+          "Frederico Araújo Durão"
+        ],
+        "summary": "Incorporating textual reviews into a Recommender System has become a prominent strategy for enriching collaborative signals with semantic information. However, the actual contribution of review-derived representations remains an open question, particularly when strong collaborative baselines are emp",
+        "url": "http://arxiv.org/abs/2606.16973v1",
+        "pdf": "https://arxiv.org/pdf/2606.16973v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Probing Low Frame Rate Degradation in Neural Audio Codecs",
+        "authors": [
+          "Alex Gichamba",
+          "Moise Busogi"
+        ],
+        "summary": "Low frame rates in neural audio codecs are attractive for autoregressive speech synthesis, where the generation cost scales linearly with the sequence length. Recent work has demonstrated that codecs can operate at 12.5 Hz and below, but the mechanisms underlying low frame rate degradation remain in",
+        "url": "http://arxiv.org/abs/2606.16969v1",
+        "pdf": "https://arxiv.org/pdf/2606.16969v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data",
+        "authors": [
+          "Kareem Amin",
+          "Rudrajit Das",
+          "Alessandro Epasto",
+          "Adel Javanmard",
+          "Dennis Kraft"
+        ],
+        "summary": "The rapid adoption of generative AI and Large Language Models (LLMs) has spurred interest in synthetic data as a privacy-preserving alternative to sensitive real-world datasets. However, generating high-utility synthetic data often carries the risk of memorizing and regurgitating private information",
+        "url": "http://arxiv.org/abs/2606.16952v1",
+        "pdf": "https://arxiv.org/pdf/2606.16952v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "A Causal Model of Theory of Mind in Conflict for Artificial Intelligence",
+        "authors": [
+          "Nikolos Gurney"
+        ],
+        "summary": "Theory of mind (ToM), the capacity to ascribe mental states to others and use those ascriptions for prediction and inference, is widely assumed to be essential for effective human-machine integration. Existing AI-ToM models address \\emph{how} to mentalize, but leave the question of when largely unad",
+        "url": "http://arxiv.org/abs/2606.16944v1",
+        "pdf": "https://arxiv.org/pdf/2606.16944v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Scalable Circuit Learning for Interpreting Large Language Models",
+        "authors": [
+          "Naiyu Yin",
+          "Dennis Wei",
+          "Tian Gao",
+          "Amit Dhurandhar",
+          "Karthikeyan Natesan Ramamurthy"
+        ],
+        "summary": "A prominent research direction in mechanistic interpretability is learning sparse circuits over LLM components to reveal how they jointly produce model behavior. However, raw neurons are polysemantic, making learned circuits hard to interpret. Sparse autoencoder (SAE) features alleviate this, but th",
+        "url": "http://arxiv.org/abs/2606.16939v1",
+        "pdf": "https://arxiv.org/pdf/2606.16939v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation",
+        "authors": [
+          "Jan-Niklas Klein",
+          "Sona Ghahremani",
+          "Christian Medeiros Adriano",
+          "Holger Giese"
+        ],
+        "summary": "Rovers rely on perception to maintain spatial maps that encode both objects and sensor quality (e.g., range reliability, lighting artifacts, data density), guiding data fusion, embedding updates, and navigation under partial observability. To study these coupled perception-navigation processes, we p",
+        "url": "http://arxiv.org/abs/2606.16935v1",
+        "pdf": "https://arxiv.org/pdf/2606.16935v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "A Unified Causal-Origin Taxonomy of Distributional Shifts in Reinforcement Learning",
+        "authors": [
+          "Ardianto Wibowo",
+          "Paulo E Santos",
+          "Amer Baghdadi",
+          "Matthew Stephenson",
+          "Karl Sammut"
+        ],
+        "summary": "Reinforcement learning (RL) systems often degrade when operating conditions differ from those previously encountered, reflecting distributional shifts in the underlying data-generating process. Such shifts may occur between training and evaluation, as in In-Distribution (ID) and Out-of-Distribution ",
+        "url": "http://arxiv.org/abs/2606.16933v1",
+        "pdf": "https://arxiv.org/pdf/2606.16933v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "RAID: Semantic Graph Diffusion for True Cold-Start and Cross-Lingual Forecasting",
+        "authors": [
+          "Arunkumar V",
+          "Manoranjan Gandhudi",
+          "Gangadharan G. R.",
+          "Arun Prakash",
+          "S. Senthilkumar"
+        ],
+        "summary": "Time-series foundation models show strong transfer performance when given a non-empty history window. However, true cold-start scenarios, where a new item has no prior observations, violate this assumption. We propose RAID (Retrieval-Augmented Iterative Diffusion) a framework, which replaces history",
+        "url": "http://arxiv.org/abs/2606.16925v1",
+        "pdf": "https://arxiv.org/pdf/2606.16925v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "MA-SBI: Misspecification-Aware Simulation-Based Inference via Side-Channel Guidance",
+        "authors": [
+          "Arunkumar V",
+          "Manoranjan Gandhudi",
+          "Gangadharan G. R.",
+          "Arun Prakash",
+          "S. Senthilkumar"
+        ],
+        "summary": "Simulation-based inference (SBI) of latent parameters is often hindered by simulator misspecification, the mismatch between simulated and real-world observations caused by inherent modeling simplifications. RoPE, the recent state-of-the-art for robust SBI, addresses this through optimal transport be",
+        "url": "http://arxiv.org/abs/2606.16923v1",
+        "pdf": "https://arxiv.org/pdf/2606.16923v1",
+        "published": "2026-06-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Exact Posterior Score Estimation for Solving Linear Inverse Problems",
+        "authors": [
+          "Abbas Mammadov",
+          "Ozgur Kara",
+          "Kaan Oktay",
+          "Iskander Azangulov",
+          "Adil Kaan Akan"
+        ],
+        "summary": "Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the posterior, but the score that the prior provides is the unconditional score, not the posterior score. Ex",
+        "url": "http://arxiv.org/abs/2606.17048v1",
+        "pdf": "https://arxiv.org/pdf/2606.17048v1",
+        "published": "2026-06-15",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Geometric Action Model for Robot Policy Learning",
+        "authors": [
+          "Jisang Han",
+          "Seonghu Jeon",
+          "Jaewoo Jung",
+          "René Zurbrügg",
+          "Honggyu An"
+        ],
+        "summary": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and video world-action models (WAMs) inherit strong semantic or temporal priors from large-scale founda",
+        "url": "http://arxiv.org/abs/2606.17046v1",
+        "pdf": "https://arxiv.org/pdf/2606.17046v1",
+        "published": "2026-06-15",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes",
+        "authors": [
+          "Tongyan Fang",
+          "Siyuan Huang",
+          "Naiyu Fang",
+          "Ganlong Zhao",
+          "Zhongjin Luo"
+        ],
+        "summary": "When pretrained VLA policies are fine-tuned through online RL, each rollout episode produces only a single binary outcome (success or failure), yet the actor update requires per-transition supervision. Existing approaches commonly reduce this sparse outcome to a single scalar reward or advantage sig",
+        "url": "http://arxiv.org/abs/2606.17043v1",
+        "pdf": "https://arxiv.org/pdf/2606.17043v1",
+        "published": "2026-06-15",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning",
+        "authors": [
+          "Xiaolin Li",
+          "Ning Wang",
+          "Ninghui Li",
+          "Wenhai Sun"
+        ],
+        "summary": "Prior research suggests that differential privacy (DP) inherently enhances the robustness of federated learning (FL) against backdoor attacks. In this paper, we challenge this assumption. Through an empirical analysis of two baseline attack strategies, we uncover a fundamental tension in DP-FL: whil",
+        "url": "http://arxiv.org/abs/2606.17035v1",
+        "pdf": "https://arxiv.org/pdf/2606.17035v1",
+        "published": "2026-06-15",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing",
+        "authors": [
+          "Mufei Li",
+          "Shikun Liu",
+          "Dongqi Fu",
+          "Haoyu Wang",
+          "Yinglong Xia"
+        ],
+        "summary": "Post-hoc context erasing over the KV cache is challenging because a local edit has a global consequence: once a span has been processed, its influence propagates into the cached states of all subsequent tokens. This issue arises naturally in long-context LLM applications, where stale retrieved facts",
+        "url": "http://arxiv.org/abs/2606.17034v1",
+        "pdf": "https://arxiv.org/pdf/2606.17034v1",
+        "published": "2026-06-15",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "ExpRL: Exploratory RL for LLM Mid-Training",
+        "authors": [
+          "Violet Xiang",
+          "Amrith Setlur",
+          "Chase Blagden",
+          "Nick Haber",
+          "Aviral Kumar"
+        ],
+        "summary": "Sparse reward reinforcement learning (RL) has become a standard tool for improving LLM reasoning, but its success depends critically on the coverage present in the base model. In practice, models are often primed for RL through \\emph{mid-training} on curated reasoning traces that teach useful primit",
+        "url": "http://arxiv.org/abs/2606.17024v1",
+        "pdf": "https://arxiv.org/pdf/2606.17024v1",
+        "published": "2026-06-15",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Learning the Geometry of Data: A Mathematical Review of Shape Space Analysis",
+        "authors": [
+          "Gary P. T. Choi",
+          "Khanh Dao Duc",
+          "Shira Faigenbaum-Golovin",
+          "Karen Habermann",
+          "Emmanuel Hartman"
+        ],
+        "summary": "A central objective of machine learning is to identify structure and patterns in data. Advances in data acquisition have increasingly produced datasets whose observations possess rich geometric form, giving rise to shape spaces that encode variability in object geometry. Such datasets arise across a",
+        "url": "http://arxiv.org/abs/2606.17022v1",
+        "pdf": "https://arxiv.org/pdf/2606.17022v1",
+        "published": "2026-06-15",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
