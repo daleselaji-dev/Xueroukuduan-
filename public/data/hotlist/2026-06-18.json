@@ -1,0 +1,623 @@
+{
+  "date": "2026-06-18",
+  "generated": "2026-06-18T06:54:31.382302",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "DietrichGebert/ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "stars": 33100,
+        "language": "JavaScript",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 2,
+        "name": "tamnd/kage",
+        "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+        "stars": 1879,
+        "language": "Go",
+        "url": "https://github.com/tamnd/kage",
+        "created": "2026-06-14"
+      },
+      {
+        "rank": 3,
+        "name": "lenucksi/aur-malware-check",
+        "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+        "stars": 1478,
+        "language": "Shell",
+        "url": "https://github.com/lenucksi/aur-malware-check",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 4,
+        "name": "EEliberto/IPA-Download",
+        "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+        "stars": 1037,
+        "language": "Swift",
+        "url": "https://github.com/EEliberto/IPA-Download",
+        "created": "2026-06-13"
+      },
+      {
+        "rank": 5,
+        "name": "vercel/eve",
+        "description": "The Framework for Building Agents",
+        "stars": 919,
+        "language": "TypeScript",
+        "url": "https://github.com/vercel/eve",
+        "created": "2026-06-16"
+      },
+      {
+        "rank": 6,
+        "name": "orange2ai/renwei-writing",
+        "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+        "stars": 788,
+        "language": null,
+        "url": "https://github.com/orange2ai/renwei-writing",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 7,
+        "name": "nolangz/pixel2motion",
+        "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+        "stars": 744,
+        "language": "Python",
+        "url": "https://github.com/nolangz/pixel2motion",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 8,
+        "name": "alchaincyf/loop-engineering-orange-book",
+        "description": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+        "stars": 647,
+        "language": null,
+        "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+        "created": "2026-06-15"
+      },
+      {
+        "rank": 9,
+        "name": "vorssaint/vorssaint-utils",
+        "description": "Vorssaint macOS app",
+        "stars": 612,
+        "language": "Swift",
+        "url": "https://github.com/vorssaint/vorssaint-utils",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 10,
+        "name": "SunJaycy/GoldenEye-Recomp",
+        "description": "",
+        "stars": 542,
+        "language": "C",
+        "url": "https://github.com/SunJaycy/GoldenEye-Recomp",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 11,
+        "name": "Plaer1/junction",
+        "description": "VS Code chat sidebar for local AI coding agents",
+        "stars": 504,
+        "language": "TypeScript",
+        "url": "https://github.com/Plaer1/junction",
+        "created": "2026-06-17"
+      },
+      {
+        "rank": 12,
+        "name": "DanMcInerney/architect-loop",
+        "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+        "stars": 503,
+        "language": "HTML",
+        "url": "https://github.com/DanMcInerney/architect-loop",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 13,
+        "name": "fguzman82/gateGPT",
+        "description": "Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second.",
+        "stars": 488,
+        "language": "Verilog",
+        "url": "https://github.com/fguzman82/gateGPT",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 14,
+        "name": "mrtooher/fable-mode",
+        "description": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+        "stars": 477,
+        "language": null,
+        "url": "https://github.com/mrtooher/fable-mode",
+        "created": "2026-06-13"
+      },
+      {
+        "rank": 15,
+        "name": "royalbhati/sqltoerdiagram",
+        "description": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
+        "stars": 454,
+        "language": "JavaScript",
+        "url": "https://github.com/royalbhati/sqltoerdiagram",
+        "created": "2026-06-14"
+      },
+      {
+        "rank": 16,
+        "name": "fivetaku/fablize",
+        "description": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
+        "stars": 448,
+        "language": "Shell",
+        "url": "https://github.com/fivetaku/fablize",
+        "created": "2026-06-14"
+      },
+      {
+        "rank": 17,
+        "name": "NO6KIKO/gorest-2d-animation-spritesheet-generator",
+        "description": "Codex-assisted local 2D animation spritesheet generator and scene compositing workspace.",
+        "stars": 393,
+        "language": "TypeScript",
+        "url": "https://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 18,
+        "name": "Waishnav/devspace",
+        "description": "Turn ChatGPT into Codex",
+        "stars": 384,
+        "language": "TypeScript",
+        "url": "https://github.com/Waishnav/devspace",
+        "created": "2026-06-14"
+      },
+      {
+        "rank": 19,
+        "name": "skydoves/compose-nav-graph",
+        "description": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
+        "stars": 384,
+        "language": "Kotlin",
+        "url": "https://github.com/skydoves/compose-nav-graph",
+        "created": "2026-06-12"
+      },
+      {
+        "rank": 20,
+        "name": "Nanako0129/coralline",
+        "description": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
+        "stars": 360,
+        "language": "Shell",
+        "url": "https://github.com/Nanako0129/coralline",
+        "created": "2026-06-12"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning",
+        "authors": [
+          "Mohamed Nabail",
+          "Leo Cheng",
+          "Jingmin Wang",
+          "Nicholas Rhinehart"
+        ],
+        "summary": "Preference-based RL provides an approach to learning reward models from pairwise comparisons of behaviors, bypassing the need for explicit reward design. However, existing methods typically rely on passive data collection and suffer from poor sample efficiency, especially during the early stages of ",
+        "url": "http://arxiv.org/abs/2606.19328v1",
+        "pdf": "https://arxiv.org/pdf/2606.19328v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation",
+        "authors": [
+          "Siyi Gu",
+          "Jialin Chen",
+          "Sophia Zhou",
+          "Arman Cohan",
+          "Rex Ying"
+        ],
+        "summary": "Post-training of reasoning language models is commonly driven by supervised distillation and reinforcement learning with verifiable rewards. Distillation often relies on chain-of-thought annotations that are expensive to obtain and may themselves be noisy, incomplete, or partially incorrect; even wh",
+        "url": "http://arxiv.org/abs/2606.19327v1",
+        "pdf": "https://arxiv.org/pdf/2606.19327v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors",
+        "authors": [
+          "Michael Finkelson",
+          "Daniel Segal",
+          "Eitan Richardson",
+          "Shahar Armon",
+          "Nani Goldring"
+        ],
+        "summary": "Existing multi-speaker dialogue systems bind speakers to utterances through structured supervision: per-turn tags, multi-stream transcriptions, or learnable speaker embeddings. These systems operate within speech-only pipelines that produce clean vocal sequences without the ambient texture of real c",
+        "url": "http://arxiv.org/abs/2606.19325v1",
+        "pdf": "https://arxiv.org/pdf/2606.19325v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents",
+        "authors": [
+          "Anoushka Vyas",
+          "Aarushi Dhanuka",
+          "Sina Khoshfetrat Pakazad",
+          "Henrik Ohlsson"
+        ],
+        "summary": "Production data integration is bottlenecked by repeated, lossy handoffs between data owners, engineers, and analysts who must collaboratively discover, structure, and query enterprise data. We present Data Intelligence Agents (DIA), a system of three agents (Data Interpreter, Schema Creator, and Que",
+        "url": "http://arxiv.org/abs/2606.19319v1",
+        "pdf": "https://arxiv.org/pdf/2606.19319v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Explaining Attention with Program Synthesis",
+        "authors": [
+          "Amiri Hayes",
+          "Belinda Li",
+          "Jacob Andreas"
+        ],
+        "summary": "A longstanding goal of research on interpretable deep learning is to replace opaque neural computations with human-meaningful symbolic descriptions. In this paper, we propose an approach for approximating the behavior of components of deep networks with executable programs. We focus on attention hea",
+        "url": "http://arxiv.org/abs/2606.19317v1",
+        "pdf": "https://arxiv.org/pdf/2606.19317v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots",
+        "authors": [
+          "Biswadeep Sen",
+          "Yi-Chieh Lee"
+        ],
+        "summary": "When social chatbots make mistakes, and they do, how they recover determines whether users trust them again. Social chatbots are increasingly integrated into everyday life, yet they remain prone to generating convincing but inaccurate information. The social connection they build with users makes su",
+        "url": "http://arxiv.org/abs/2606.19286v1",
+        "pdf": "https://arxiv.org/pdf/2606.19286v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "NeSyCat Torch: A Differentiable Tensor Implementation of Categorical Semantics for Neurosymbolic Learning",
+        "authors": [
+          "Daniel Romero Schellhorn",
+          "Till Mossakowski",
+          "Björn Gehrke"
+        ],
+        "summary": "Neurosymbolic semantics is fragmented: classical, fuzzy, probabilistic and neural systems each define truth by their own inductive rules. NeSyCat, extending ULLER, subsumes them under a single inductive definition of truth, parametric in a strong monad and an aggregation structure on truth-values. N",
+        "url": "http://arxiv.org/abs/2606.19279v1",
+        "pdf": "https://arxiv.org/pdf/2606.19279v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Trade-offs in Medical LLM Adaptation: An Empirical Study in French QA",
+        "authors": [
+          "Ikram Belmadani",
+          "Oumaima El Khettari",
+          "Carlos Ramisch",
+          "Frederic Bechet",
+          "Richard Dufour"
+        ],
+        "summary": "The development of large language models (LLMs) has led to an increased focus on their adaptation to specialized domains and languages, yet the effectiveness of domain adaptation strategies remains unclear. We present a study of medical domain adaptation using French medical question-answering (QA) ",
+        "url": "http://arxiv.org/abs/2606.19266v1",
+        "pdf": "https://arxiv.org/pdf/2606.19266v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "A Multi-Domain Benchmark for Detecting AI-Generated Text-Rich Images from GPT-Image-2",
+        "authors": [
+          "Yijin Wang",
+          "Shuyi Wang",
+          "Wenhan Zhang",
+          "Yuqi Ouyang"
+        ],
+        "summary": "Text-rich images often contain privacy-sensitive, transactional, or decision-relevant information. As recent multimodal image generation models become increasingly capable of synthesizing realistic textual content and structured visual designs, detecting AI-generated text-rich images has become an i",
+        "url": "http://arxiv.org/abs/2606.19259v1",
+        "pdf": "https://arxiv.org/pdf/2606.19259v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "X+Slides: Benchmarking Audience-Conditioned Slide Generation",
+        "authors": [
+          "Haodong Chen",
+          "Xuanhe Zhou",
+          "Wei Zhou",
+          "Xinyue Shao",
+          "Yanbing Zhu"
+        ],
+        "summary": "Automatically generating slide decks from source documents is an important application of large language models (LLMs). Existing benchmarks primarily assess slide completeness and technical depth, while overlooking the target audience as a critical real-world factor. For instance, specialists demand",
+        "url": "http://arxiv.org/abs/2606.19256v1",
+        "pdf": "https://arxiv.org/pdf/2606.19256v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "OneCanvas: 3D Scene Understanding via Panoramic Reprojection",
+        "authors": [
+          "Bartłomiej Baranowski",
+          "Dave Zhenyu Chen",
+          "Matthias Nießner"
+        ],
+        "summary": "Existing approaches to 3D scene understanding in Vision-Language Models (VLMs) either rely on complex, model-specific geometry encoders or large training budgets in pursuit of spatial reasoning. Instead, OneCanvas aggregates patch features from all views onto a single equirectangular panoramic canva",
+        "url": "http://arxiv.org/abs/2606.19253v1",
+        "pdf": "https://arxiv.org/pdf/2606.19253v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers",
+        "authors": [
+          "Keran Wang",
+          "Drishti Goel",
+          "Jiayue Melissa Shi",
+          "Violeta J. Rodriguez",
+          "Daniel S. Brown"
+        ],
+        "summary": "Family members caring for individuals with Alzheimer's disease and related dementias (AD/ADRD) provide the foundation of long-term care worldwide. In 2023, more than 11 million U.S. family and friends contributed 18 billion hours of unpaid care, often at the cost of their own physical and mental hea",
+        "url": "http://arxiv.org/abs/2606.19247v1",
+        "pdf": "https://arxiv.org/pdf/2606.19247v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "TxBench-PP: Analyzing AI Agent Performance on Small-Molecule Preclinical Pharmacology",
+        "authors": [
+          "Hannah Le",
+          "Ramesh Ramasamy",
+          "Alex Urrutia",
+          "Mahsa Yazdani",
+          "Tim Proctor"
+        ],
+        "summary": "Artificial intelligence (AI) agents promise to accelerate drug discovery by compressing interpretation and decision-making loops, but practical deployment requires trusted evaluation on realistic program decisions. We introduce TherapeuticsBench Preclinical Pharmacology (TxBench-PP), a verifiable be",
+        "url": "http://arxiv.org/abs/2606.19245v1",
+        "pdf": "https://arxiv.org/pdf/2606.19245v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "STARE: Surprisal-Guided Token-Level Advantage Reweighting for Policy Entropy Stability",
+        "authors": [
+          "Haipeng Luo",
+          "Qingfeng Sun",
+          "Songli Wu",
+          "Can Xu",
+          "Wenfeng Deng"
+        ],
+        "summary": "Reinforcement Learning with Verifiable Rewards algorithms like GRPO have emerged as the dominant post-training paradigm for complex reasoning in LLMs, yet commonly suffer from policy entropy collapse during training. We conduct a first-order gradient analysis of token-level entropy dynamics under GR",
+        "url": "http://arxiv.org/abs/2606.19236v1",
+        "pdf": "https://arxiv.org/pdf/2606.19236v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Mechanism-Guided Selective Unlearning for RLVR-Induced Reasoning",
+        "authors": [
+          "Chenyu Zhou",
+          "Qiliang Jiang",
+          "Shuning Wu",
+          "Xu Zhou"
+        ],
+        "summary": "We propose MAST (Mechanism-Aligned Selective Targeting), a mechanism-guided method for unlearning RLVR-induced reasoning with substantially lower collateral damage than standard full-parameter updates. In matched SFT/RLVR checkpoints on Qwen2.5-Math-1.5B and Qwen3-1.7B-Base, the SFT-to-RLVR incremen",
+        "url": "http://arxiv.org/abs/2606.19222v1",
+        "pdf": "https://arxiv.org/pdf/2606.19222v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Machine Unlearning for the XGBoost Model with Network Intrusion Datasets",
+        "authors": [
+          "Diana Magalhães",
+          "Eva Maia",
+          "João Vitorino",
+          "Isabel Praça"
+        ],
+        "summary": "Machine Unlearning (MU) has emerged as an important technique for removing specific data points from trained models without requiring full retraining. However, most existing MU research focuses on deep learning and image data, leaving a gap in the domain of network intrusion detection, which relies ",
+        "url": "http://arxiv.org/abs/2606.19220v1",
+        "pdf": "https://arxiv.org/pdf/2606.19220v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Forecasting what Matters: Decision-Focused RL for Controlled EV Charging with Unknown Departure Times",
+        "authors": [
+          "Giuseppe Gabriele",
+          "Fabio Pavirani",
+          "Seyed Soroush Karimi Madahi",
+          "Chris Develder"
+        ],
+        "summary": "The recent growth of EV adoption poses challenges for power systems, including increased peak demand and potential grid instability. Smart control of EV charging -- e.g., based on reinforcement learning (RL) -- can alleviate these issues by learning temporal and contextual patterns from historical d",
+        "url": "http://arxiv.org/abs/2606.19199v1",
+        "pdf": "https://arxiv.org/pdf/2606.19199v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "The More the Merrier: Combining Properties for ABox Abduction under Repair Semantics for ELbot",
+        "authors": [
+          "Anselm Haak",
+          "Patrick Koopmann",
+          "Yasir Mahmood",
+          "Anni-Yasmin Turhan"
+        ],
+        "summary": "Abduction is a central approach to explain missing entailments from a knowledge base by providing a hypothesis, that would, if added to the knowledge base, make the missing entailment become true. Abduction under repair semantics has recently been investigated in detail, where several desirable prop",
+        "url": "http://arxiv.org/abs/2606.19197v1",
+        "pdf": "https://arxiv.org/pdf/2606.19197v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Language Models as Interfaces, Not Oracles: A Hybrid LLM-ML System for Pediatric Appendicitis",
+        "authors": [
+          "Soheyl Bateni",
+          "Maryam Abdolali"
+        ],
+        "summary": "Large language models (LLMs) can make clinical decision support more accessible by interpreting free-text documentation, but their direct use as diagnostic engines is limited by sensitivity to prompts, information order, and plausible but incorrect outputs. Structured machine-learning models offer m",
+        "url": "http://arxiv.org/abs/2606.19183v1",
+        "pdf": "https://arxiv.org/pdf/2606.19183v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Compute Efficiency and Serial Runtime Tradeoffs for Stochastic Momentum Methods",
+        "authors": [
+          "Depen Morwani",
+          "Alexandru Meterez",
+          "Pranav Nair",
+          "Sham Kakade"
+        ],
+        "summary": "Stochastic momentum methods such as heavy ball (HB), Nesterov momentum, and variants of Accelerated SGD (ASGD) [Kidambi et al., 2018] are widely used in modern training, but their stochastic benefits depend on two distinct quantities: serial runtime, the number of iterations needed to reach a target",
+        "url": "http://arxiv.org/abs/2606.19179v1",
+        "pdf": "https://arxiv.org/pdf/2606.19179v1",
+        "published": "2026-06-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+        "authors": [
+          "Denis Peskoff",
+          "Joe Barrow",
+          "Christopher Vu",
+          "Diag Davenport"
+        ],
+        "summary": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable corpora: local ordinances. Local codes govern zoning, housing, business licensing, public health, n",
+        "url": "http://arxiv.org/abs/2606.19334v1",
+        "pdf": "https://arxiv.org/pdf/2606.19334v1",
+        "published": "2026-06-17",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning",
+        "authors": [
+          "V. Samuel Pérez-Díaz",
+          "Vinay L. Kashyap",
+          "Joshua D. Ingram",
+          "David Fouhey",
+          "Juan Rafael Martínez-Galarza"
+        ],
+        "summary": "We present a framework to cross-match sources from the Chandra Source Catalog (CSC v2.1) with optical sources from Gaia Data Release 3. Unlike purely spatial approaches, we use source properties such as magnitudes, colors, and distances to identify true counterparts, detect chance coincidences, and ",
+        "url": "http://arxiv.org/abs/2606.19329v1",
+        "pdf": "https://arxiv.org/pdf/2606.19329v1",
+        "published": "2026-06-17",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation",
+        "authors": [
+          "Ruida Wang",
+          "Rui Pan",
+          "Pengcheng Wang",
+          "Shizhe Diao",
+          "Tong Zhang"
+        ],
+        "summary": "Enhancing the formal math reasoning capabilities of Large Language Models (LLMs) has become a key focus in both mathematical and computer science communities in recent years. While significant progress has been made in using state-of-the-art Auto-Regressive (AR) LLMs for formal theorem proving, thes",
+        "url": "http://arxiv.org/abs/2606.19315v1",
+        "pdf": "https://arxiv.org/pdf/2606.19315v1",
+        "published": "2026-06-17",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "P-K-GCN: Physics-augmented Koopman-enhanced Graph Convolutional Network for Deep Spatiotemporal Super-resolution",
+        "authors": [
+          " Xizhuo",
+          " Zhang",
+          "Zekai Wang",
+          "Fei Liu",
+          "Bing Yao"
+        ],
+        "summary": "High-fidelity simulation of spatiotemporal dynamics is computationally prohibitive, necessitating efficient super-resolution techniques to reconstruct high-resolution data from coarse-grained inputs. Traditional data-driven methods often lack physical constraints, and simple physics-informed learnin",
+        "url": "http://arxiv.org/abs/2606.19303v1",
+        "pdf": "https://arxiv.org/pdf/2606.19303v1",
+        "published": "2026-06-17",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Optimal scenario design for climate emulation",
+        "authors": [
+          "Christopher B. Womack",
+          "Shahine Bouabid",
+          "Andrei Sokolov",
+          "Popat Salunke",
+          "Glenn Flierl"
+        ],
+        "summary": "As deep learning for physical systems continues to grow in popularity, efforts to improve generalizability have primarily focused on designing architectures that embed physical constraints. However, for machine-learning surrogate climate models (emulators), we show that the low structural diversity ",
+        "url": "http://arxiv.org/abs/2606.19302v1",
+        "pdf": "https://arxiv.org/pdf/2606.19302v1",
+        "published": "2026-06-17",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Confidence is Not Reliability: Rethinking MC Dropout in Brain Tumour Segmentation",
+        "authors": [
+          "Xin Ci Wong",
+          "Duygu Sarikaya",
+          "Kieran Zucker",
+          "Marc De Kamps",
+          "Nishant Ravikumar"
+        ],
+        "summary": "Glioma segmentation in multiparametric MRI is a critical component of treatment planning. A segmentation model that fails silently on treatment-critical sub-regions represents a patient safety risk that overlap-based metrics such as Dice scores cannot expose. We ask whether voxel-level uncertainty e",
+        "url": "http://arxiv.org/abs/2606.19300v1",
+        "pdf": "https://arxiv.org/pdf/2606.19300v1",
+        "published": "2026-06-17",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models",
+        "authors": [
+          "Nikita Kachaev",
+          "Andrey Moskalenko",
+          "Matvey Skripkin",
+          "Nikita Kurlaev",
+          "Daria Pugacheva"
+        ],
+        "summary": "Embodied Vision-Language-Action (VLA) models are typically obtained by fine-tuning powerful pretrained VLMs on robotics data, yet it is unclear how much commonsense and factual knowledge they retain after adaptation. Failures on knowledge-sensitive tasks are ambiguous, conflating missing knowledge w",
+        "url": "http://arxiv.org/abs/2606.19297v1",
+        "pdf": "https://arxiv.org/pdf/2606.19297v1",
+        "published": "2026-06-17",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Risk Stratification for ICU Delirium using Pervasive Ambient Sensing Information",
+        "authors": [
+          "Jiaqing Zhang",
+          "Sabyasachi Bandyopadhyay",
+          "Miguel Contreras",
+          "Jessica Sena",
+          "Yuanfang Ren"
+        ],
+        "summary": "Delirium is a common and serious complication in the Intensive Care Unit (ICU), associated with increased morbidity, prolonged hospital stays, and higher healthcare costs. Despite its prevalence, early prediction and prevention remain challenging. Environmental factors such as ambient sound and ligh",
+        "url": "http://arxiv.org/abs/2606.19292v1",
+        "pdf": "https://arxiv.org/pdf/2606.19292v1",
+        "published": "2026-06-17",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
