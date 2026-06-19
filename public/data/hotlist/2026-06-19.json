@@ -1,0 +1,581 @@
+{
+  "date": "2026-06-19",
+  "generated": "2026-06-19T07:08:35.374898",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "tamnd/kage",
+        "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+        "stars": 2022,
+        "language": "Go",
+        "url": "https://github.com/tamnd/kage",
+        "created": "2026-06-14"
+      },
+      {
+        "rank": 2,
+        "name": "vercel/eve",
+        "description": "The Framework for Building Agents",
+        "stars": 1449,
+        "language": "TypeScript",
+        "url": "https://github.com/vercel/eve",
+        "created": "2026-06-16"
+      },
+      {
+        "rank": 3,
+        "name": "EEliberto/IPA-Download",
+        "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+        "stars": 1077,
+        "language": "Swift",
+        "url": "https://github.com/EEliberto/IPA-Download",
+        "created": "2026-06-13"
+      },
+      {
+        "rank": 4,
+        "name": "Waishnav/devspace",
+        "description": "Turn ChatGPT into Codex",
+        "stars": 1003,
+        "language": "TypeScript",
+        "url": "https://github.com/Waishnav/devspace",
+        "created": "2026-06-14"
+      },
+      {
+        "rank": 5,
+        "name": "alchaincyf/loop-engineering-orange-book",
+        "description": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+        "stars": 676,
+        "language": null,
+        "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+        "created": "2026-06-15"
+      },
+      {
+        "rank": 6,
+        "name": "Plaer1/junction",
+        "description": "VS Code chat sidebar for local AI coding agents",
+        "stars": 510,
+        "language": "TypeScript",
+        "url": "https://github.com/Plaer1/junction",
+        "created": "2026-06-17"
+      },
+      {
+        "rank": 7,
+        "name": "mrtooher/fable-mode",
+        "description": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+        "stars": 503,
+        "language": null,
+        "url": "https://github.com/mrtooher/fable-mode",
+        "created": "2026-06-13"
+      },
+      {
+        "rank": 8,
+        "name": "fivetaku/fablize",
+        "description": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
+        "stars": 487,
+        "language": "Python",
+        "url": "https://github.com/fivetaku/fablize",
+        "created": "2026-06-14"
+      },
+      {
+        "rank": 9,
+        "name": "royalbhati/sqltoerdiagram",
+        "description": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
+        "stars": 468,
+        "language": "JavaScript",
+        "url": "https://github.com/royalbhati/sqltoerdiagram",
+        "created": "2026-06-14"
+      },
+      {
+        "rank": 10,
+        "name": "rebel0789/codexpro",
+        "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+        "stars": 407,
+        "language": "TypeScript",
+        "url": "https://github.com/rebel0789/codexpro",
+        "created": "2026-06-16"
+      },
+      {
+        "rank": 11,
+        "name": "dzcmemory-web/bazi-ziwei-skill",
+        "description": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。",
+        "stars": 400,
+        "language": "TypeScript",
+        "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
+        "created": "2026-06-13"
+      },
+      {
+        "rank": 12,
+        "name": "duolahypercho/fusion-fable",
+        "description": "Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill.",
+        "stars": 370,
+        "language": "Shell",
+        "url": "https://github.com/duolahypercho/fusion-fable",
+        "created": "2026-06-13"
+      },
+      {
+        "rank": 13,
+        "name": "privatenumber/mac-ocr",
+        "description": "macOS CLI for OCR and searchable PDFs using Apple's Vision framework.",
+        "stars": 367,
+        "language": "Swift",
+        "url": "https://github.com/privatenumber/mac-ocr",
+        "created": "2026-06-13"
+      },
+      {
+        "rank": 14,
+        "name": "bjarneo/ku",
+        "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. ",
+        "stars": 340,
+        "language": "Go",
+        "url": "https://github.com/bjarneo/ku",
+        "created": "2026-06-13"
+      },
+      {
+        "rank": 15,
+        "name": "ApothecarySeize/Maya-2026-Animation-Workflow",
+        "description": "",
+        "stars": 319,
+        "language": null,
+        "url": "https://github.com/ApothecarySeize/Maya-2026-Animation-Workflow",
+        "created": "2026-06-17"
+      },
+      {
+        "rank": 16,
+        "name": "baskduf/FableCodex",
+        "description": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+        "stars": 309,
+        "language": "Python",
+        "url": "https://github.com/baskduf/FableCodex",
+        "created": "2026-06-14"
+      },
+      {
+        "rank": 17,
+        "name": "dongshuyan/compass-skills",
+        "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+        "stars": 308,
+        "language": "Python",
+        "url": "https://github.com/dongshuyan/compass-skills",
+        "created": "2026-06-15"
+      },
+      {
+        "rank": 18,
+        "name": "eli-labz/Third-Eye",
+        "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+        "stars": 303,
+        "language": "TypeScript",
+        "url": "https://github.com/eli-labz/Third-Eye",
+        "created": "2026-06-13"
+      },
+      {
+        "rank": 19,
+        "name": "joeseesun/qiaomu-novel-generator",
+        "description": "Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
+        "stars": 300,
+        "language": "Python",
+        "url": "https://github.com/joeseesun/qiaomu-novel-generator",
+        "created": "2026-06-13"
+      },
+      {
+        "rank": 20,
+        "name": "majidmanzarpour/threejs-game-skills",
+        "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+        "stars": 296,
+        "language": "Python",
+        "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+        "created": "2026-06-14"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "How Transparent is DiffusionGemma?",
+        "authors": [
+          "Joshua Engels",
+          "Callum McDougall",
+          "Bilal Chughtai",
+          "Janos Kramar",
+          "Senthoran Rajamanoharan"
+        ],
+        "summary": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a larger fraction of its computation in a continuous latent space; does this make its reasoning less t",
+        "url": "http://arxiv.org/abs/2606.20560v1",
+        "pdf": "https://arxiv.org/pdf/2606.20560v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
+        "authors": [
+          "Ruizhong Qiu",
+          "Yinglong Xia",
+          "Dongqi Fu",
+          "Hanqing Zeng",
+          "Ren Chen"
+        ],
+        "summary": "Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interactions from their historical behaviors. At the core of generative recommendation lies item tokenization, which bridges item semantics and recommendation ",
+        "url": "http://arxiv.org/abs/2606.20554v1",
+        "pdf": "https://arxiv.org/pdf/2606.20554v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+        "authors": [
+          "Gina Wong",
+          "Drew Prinster",
+          "Suchi Saria",
+          "Rama Chellappa",
+          "Anqi Liu"
+        ],
+        "summary": "Calibration aligns a model's predictive uncertainty with the frequencies of its empirical outcomes and is important for understanding and trusting reported probabilities. Recent work shows that enforcing calibration at the level of individual predictors can improve ensemble accuracy and calibration,",
+        "url": "http://arxiv.org/abs/2606.20544v1",
+        "pdf": "https://arxiv.org/pdf/2606.20544v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech",
+        "authors": [
+          "Nityanand Mathur",
+          "Hamees Sayed",
+          "Wasim Madha",
+          "Apoorv Singh",
+          "Sameer Khurana"
+        ],
+        "summary": "Style-captioned text-to-speech systems use natural language to control voice characteristics, but how individual words influence acoustic output remains unclear. Understanding this is critical for diagnosing failure modes and improving controllability in expressive TTS. We propose cross-attention at",
+        "url": "http://arxiv.org/abs/2606.20532v1",
+        "pdf": "https://arxiv.org/pdf/2606.20532v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
+        "authors": [
+          "Md Nayem Uddin",
+          "Amir Saeidi",
+          "Eduardo Blanco",
+          "Chitta Baral"
+        ],
+        "summary": "Policy-adherent tool-calling agents in customer-service domains must maintain task states across turns while calling tools and obeying domain policies. Task states consist of relevant facts, identifiers, constraints, and conditions observed through user interaction and tool calls. In standard agents",
+        "url": "http://arxiv.org/abs/2606.20529v1",
+        "pdf": "https://arxiv.org/pdf/2606.20529v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs",
+        "authors": [
+          "Saimun Habib",
+          "Vaishak Belle",
+          "Fengxiang He"
+        ],
+        "summary": "Neurosymbolic systems such as DeepProbLog combine neural perception with probabilistic logic, but standard inference is associational. Counterfactual reasoning additionally requires a causal semantics for interventions and evidence. We introduce DeepSWIP, a single-world counterfactual semantics for ",
+        "url": "http://arxiv.org/abs/2606.20526v1",
+        "pdf": "https://arxiv.org/pdf/2606.20526v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "SARLO-80: Worldwide Slant SAR Language Optic Dataset 80cm",
+        "authors": [
+          "Solène Debuysère",
+          "Nicolas Trouvé",
+          "Nathan Letheule",
+          "Elise Colin",
+          "Georgia Channing"
+        ],
+        "summary": "Multimodal foundation models have advanced rapidly thanks to large optical benchmarks, but comparable resources for synthetic aperture radar (SAR) remain limited. Existing SAR--optical datasets largely rely on low-resolution, intensity-only Ground Range Detected~(GRD) products and do not preserve co",
+        "url": "http://arxiv.org/abs/2606.20523v1",
+        "pdf": "https://arxiv.org/pdf/2606.20523v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Sovereign Execution Brokers: Enforcing Certificate-Bound Authority in Agentic Control Planes",
+        "authors": [
+          "Jun He",
+          "Deying Yu"
+        ],
+        "summary": "Autonomous agents are increasingly connected to cloud, deployment, and data-control workflows, but production mutation authority should not reside inside non-deterministic reasoning processes. Existing access-control mechanisms authorize identities, while assurance layers certify proposed actions; n",
+        "url": "http://arxiv.org/abs/2606.20520v1",
+        "pdf": "https://arxiv.org/pdf/2606.20520v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS",
+        "authors": [
+          "Harshit Singh",
+          "Ayush Pratap Singh",
+          "Nityanand Mathur"
+        ],
+        "summary": "Flow-matching text-to-speech systems achieve remarkable zero-shot quality but remain static after deployment: pronunciation errors on out-of-vocabulary proper nouns persist unless the model is retrained. We introduce FlowEdit, a life-long adaptation framework for frozen flow-matching TTS that learns",
+        "url": "http://arxiv.org/abs/2606.20518v1",
+        "pdf": "https://arxiv.org/pdf/2606.20518v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
+        "authors": [
+          "Maria Ivanova",
+          "Pavel Zadorozhny",
+          "Rodion Levichev",
+          "Ivan Petrov",
+          "Adamenko Pavel"
+        ],
+        "summary": "LiveCodeBench (LCB) has recently become a widely adopted benchmark for evaluating large language models (LLMs) on code-generation tasks. By curating competitive programming problems, constantly adding fresh problems to the set, and filtering them by release dates, LCB provides contamination-aware ev",
+        "url": "http://arxiv.org/abs/2606.20517v1",
+        "pdf": "https://arxiv.org/pdf/2606.20517v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Efficient and Sound Probabilistic Verification for AI Agents",
+        "authors": [
+          "Alaia Solko-Breslin",
+          "Pramod Kaushik Mudrakarta",
+          "Mihai Christodorescu",
+          "Somesh Jha",
+          "Krishnamurthy Dj Dvijotham"
+        ],
+        "summary": "Securing AI agents that operate in complex digital environments has become a critical need, and runtime monitoring approaches that formulate and enforce policies expressed in a formal language like Datalog offer a promising solution. However, existing approaches are restricted to deterministic polic",
+        "url": "http://arxiv.org/abs/2606.20510v1",
+        "pdf": "https://arxiv.org/pdf/2606.20510v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?",
+        "authors": [
+          "Sihui Dai",
+          "Mann Patel"
+        ],
+        "summary": "Prior work has shown that in-context demonstrations can jailbreak language models, but it remains unclear how models interpret different types of compliance demonstrations. We study this by mixing benign compliance demonstrations (non-harmful request, helpful response) with harmful compliance demons",
+        "url": "http://arxiv.org/abs/2606.20508v1",
+        "pdf": "https://arxiv.org/pdf/2606.20508v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "FreeStyle: Free Control of Style-Content Dual-Reference Generation from Community LoRA Mining",
+        "authors": [
+          "Jinghong Lan",
+          "Wei Cheng",
+          "Yunuo Chen",
+          "Ziqi Ye",
+          "Peng Xing"
+        ],
+        "summary": "Style-content dual-reference generation aims to synthesize an image that preserves the structure and semantics of a content reference while adopting the style of a separate style reference.Despite recent progress, this setting remains challenging because models must balance content fidelity, style a",
+        "url": "http://arxiv.org/abs/2606.20506v1",
+        "pdf": "https://arxiv.org/pdf/2606.20506v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Calibration Without Comprehension: Diagnosing the Limits of Fine-Tuning LLMs for Vulnerability Detection in Systems Software",
+        "authors": [
+          "Arastoo Zibaeirad",
+          "Marco Vieira"
+        ],
+        "summary": "Whether LLMs scoring well on vulnerability benchmarks genuinely reason about security or merely pattern-match on contaminated data remains unresolved. We present CWE-Trace, a framework for LLM vulnerability detection built from 834 manually curated Linux kernel samples spanning 74 CWEs. The framewor",
+        "url": "http://arxiv.org/abs/2606.20502v1",
+        "pdf": "https://arxiv.org/pdf/2606.20502v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Contagion Networks: Evaluator Bias Propagation in Multi-Agent LLM Systems",
+        "authors": [
+          "Zewen Liu"
+        ],
+        "summary": "When large language models serve as evaluators in multi-agent systems, their systematic evaluation biases propagate through the agent network. We introduce Contagion Networks, a formal framework for measuring how evaluator biases spread across interacting LLM agents. In a controlled 3-agent experime",
+        "url": "http://arxiv.org/abs/2606.20493v1",
+        "pdf": "https://arxiv.org/pdf/2606.20493v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Optimal Order of Multi-Agent and General Many-Body Systems",
+        "authors": [
+          "Jake J. Xia"
+        ],
+        "summary": "This paper develops a general framework for analyzing multi-agent systems with feedback loops between agents actions and collective observations. The framework is built on two fundamental agent-level variables: power, which measures agent influence on collective outcomes, and response functions, whi",
+        "url": "http://arxiv.org/abs/2606.20485v1",
+        "pdf": "https://arxiv.org/pdf/2606.20485v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "UltraQuant: 4-bit KV Caching for Context-Heavy Agents",
+        "authors": [
+          "Inesh Chakrabarti",
+          "David Limpus",
+          "Aditi Ghai Rana",
+          "Bowen Bao",
+          "Spandan Tiwari"
+        ],
+        "summary": "Context-heavy agents place unusual pressure on the key-value (KV) cache: long prefixes are reused across many short turns, while concurrency determines whether the serving system can keep GPUs utilized. We study 4-bit KV-cache compression for this setting, using TurboQuant-style rotation and codeboo",
+        "url": "http://arxiv.org/abs/2606.20474v1",
+        "pdf": "https://arxiv.org/pdf/2606.20474v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems",
+        "authors": [
+          "Reza Soosahabi",
+          "Vivek Namsani"
+        ],
+        "summary": "Agentic AI systems increasingly rely on language-model components to interpret instructions, process external data, invoke tools, and coordinate with other agents. These capabilities make prompt-injection and jailbreak attacks more consequential, especially as attackers adopt model-guided automation",
+        "url": "http://arxiv.org/abs/2606.20470v1",
+        "pdf": "https://arxiv.org/pdf/2606.20470v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Context-Aware Hierarchical Bayesian Modeling of IVF Laboratory Environmental Conditions",
+        "authors": [
+          "Zahra Asghari Varzaneh",
+          "Reza Khoshkangini",
+          "Pia Saldeen",
+          "Lars Johansson",
+          "Thomas Ebner"
+        ],
+        "summary": "IVF pregnancy rates are routinely modeled using patient-level variables, while high-resolution laboratory environmental data remain underutilized. We show that this is a missed opportunity. Rather than relying on raw sensor averages, we engineer 55 context-aware temporal features, including rolling ",
+        "url": "http://arxiv.org/abs/2606.20459v1",
+        "pdf": "https://arxiv.org/pdf/2606.20459v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Repurposing a Speech Classifier for Guided Diffusion-Based Speech Generation",
+        "authors": [
+          "Rostislav Makarov",
+          "Timo Gerkmann"
+        ],
+        "summary": "Classifier guidance is a way to control diffusion generation by using a noise-conditioned classifier to steer the sampling process toward a target class. One drawback of classifier guidance is that it requires two separately trained models: a classifier and a diffusion model. We therefore study a mo",
+        "url": "http://arxiv.org/abs/2606.20457v1",
+        "pdf": "https://arxiv.org/pdf/2606.20457v1",
+        "published": "2026-06-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
+        "authors": [
+          "Wenhao Chi",
+          "Arkaprava Sinha",
+          "Dominick Reilly",
+          "Hieu Le",
+          "Srijan Das"
+        ],
+        "summary": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human action. We argue that a truly expressive egocentric representation must subsume complementary knowledge ",
+        "url": "http://arxiv.org/abs/2606.20559v1",
+        "pdf": "https://arxiv.org/pdf/2606.20559v1",
+        "published": "2026-06-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Optimal Deterministic Multicalibration and Omniprediction",
+        "authors": [
+          "Georgy Noarov",
+          "Aaron Roth"
+        ],
+        "summary": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each $g \\in G$. It is a useful property for many downstream applications and is a basic desideratum of t",
+        "url": "http://arxiv.org/abs/2606.20557v1",
+        "pdf": "https://arxiv.org/pdf/2606.20557v1",
+        "published": "2026-06-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
+        "authors": [
+          "Przemyslaw Musialski"
+        ],
+        "summary": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $ρ(g)$ carrying it. To our knowledge this is the first attention construction whose tokens are bare matrix Lie group elements: the",
+        "url": "http://arxiv.org/abs/2606.20547v1",
+        "pdf": "https://arxiv.org/pdf/2606.20547v1",
+        "published": "2026-06-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Predictability as a Fine-Grained Measure for Privacy",
+        "authors": [
+          "Linda Lu",
+          "Karthik Sridharan"
+        ],
+        "summary": "Differential privacy (DP) ensures rigorous individual-level privacy guarantees against even the most knowledgeable attackers, but its worst-case nature can impose a costly privacy-accuracy tradeoff. We introduce privacy via predictability, a fine-grained framework that explicitly incorporates the at",
+        "url": "http://arxiv.org/abs/2606.20546v1",
+        "pdf": "https://arxiv.org/pdf/2606.20546v1",
+        "published": "2026-06-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Multi-Task Bayesian In-Context Learning",
+        "authors": [
+          "Qingyang Zhu",
+          "Eric Karl Oermann",
+          "Kyunghyun Cho"
+        ],
+        "summary": "Bayesian predictive inference provides a principled framework for uncertainty quantification, data efficiency, and robust generalization. However, exact inference is often intractable, and scalable approximations may remain computationally expensive or require restrictive modeling assumptions that d",
+        "url": "http://arxiv.org/abs/2606.20538v1",
+        "pdf": "https://arxiv.org/pdf/2606.20538v1",
+        "published": "2026-06-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
+        "authors": [
+          "Liang Su"
+        ],
+        "summary": "Mainstream LLM serving systems reuse prefix work mainly through paged or radix key-value (KV) caches. This is highly effective for high-throughput, high-concurrency serving, but it manages only one positional fragment of execution state: the KV cache. We study the opposite regime: low-latency, small",
+        "url": "http://arxiv.org/abs/2606.20537v1",
+        "pdf": "https://arxiv.org/pdf/2606.20537v1",
+        "published": "2026-06-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Probe-and-Refine Tuning of Repository Guidance for Coding Agents",
+        "authors": [
+          "Asa Shepard",
+          "Jeannie Albrecht"
+        ],
+        "summary": "LLM-based coding agents need higher-level operational knowledge about a repository (which files house which subsystems, how to run the test suite, which workflows have historically led to wrong fixes) that does not exist in the code itself. Engineers typically maintain \\texttt{AGENTS.md} files to su",
+        "url": "http://arxiv.org/abs/2606.20512v1",
+        "pdf": "https://arxiv.org/pdf/2606.20512v1",
+        "published": "2026-06-18",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
