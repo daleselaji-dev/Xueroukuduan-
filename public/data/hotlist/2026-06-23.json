@@ -1,0 +1,568 @@
+{
+  "date": "2026-06-23",
+  "generated": "2026-06-23T06:08:55.884282",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "zhongerxin/Cowart",
+        "description": "",
+        "stars": 2112,
+        "language": "JavaScript",
+        "url": "https://github.com/zhongerxin/Cowart",
+        "created": "2026-06-18"
+      },
+      {
+        "rank": 2,
+        "name": "baidu/Unlimited-OCR",
+        "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+        "stars": 837,
+        "language": "Python",
+        "url": "https://github.com/baidu/Unlimited-OCR",
+        "created": "2026-06-18"
+      },
+      {
+        "rank": 3,
+        "name": "lyra81604/zhengxi-views",
+        "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+        "stars": 731,
+        "language": "Python",
+        "url": "https://github.com/lyra81604/zhengxi-views",
+        "created": "2026-06-20"
+      },
+      {
+        "rank": 4,
+        "name": "Forsy-AI/agent-apprenticeship",
+        "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
+        "stars": 709,
+        "language": null,
+        "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+        "created": "2026-06-19"
+      },
+      {
+        "rank": 5,
+        "name": "aidenybai/cnfast",
+        "description": "Fast drop in replacement for `cn`",
+        "stars": 684,
+        "language": "TypeScript",
+        "url": "https://github.com/aidenybai/cnfast",
+        "created": "2026-06-19"
+      },
+      {
+        "rank": 6,
+        "name": "kanavtwtgg/birds.cafe",
+        "description": "",
+        "stars": 602,
+        "language": "JavaScript",
+        "url": "https://github.com/kanavtwtgg/birds.cafe",
+        "created": "2026-06-21"
+      },
+      {
+        "rank": 7,
+        "name": "Plaer1/junction",
+        "description": "VS Code chat sidebar for local AI coding agents",
+        "stars": 526,
+        "language": "TypeScript",
+        "url": "https://github.com/Plaer1/junction",
+        "created": "2026-06-17"
+      },
+      {
+        "rank": 8,
+        "name": "sums001/Windows-Copilot-API",
+        "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+        "stars": 404,
+        "language": "Python",
+        "url": "https://github.com/sums001/Windows-Copilot-API",
+        "created": "2026-06-19"
+      },
+      {
+        "rank": 9,
+        "name": "cloudflare/security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "stars": 403,
+        "language": "JavaScript",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "created": "2026-06-18"
+      },
+      {
+        "rank": 10,
+        "name": "MstKail/polymarket-trading-bot-services-polyedge365",
+        "description": "polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polyma",
+        "stars": 402,
+        "language": null,
+        "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
+        "created": "2026-06-18"
+      },
+      {
+        "rank": 11,
+        "name": "nnecrkvenuOX/formcms",
+        "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
+        "stars": 386,
+        "language": "C#",
+        "url": "https://github.com/nnecrkvenuOX/formcms",
+        "created": "2026-06-17"
+      },
+      {
+        "rank": 12,
+        "name": "ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
+        "description": "A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore",
+        "stars": 386,
+        "language": null,
+        "url": "https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
+        "created": "2026-06-17"
+      },
+      {
+        "rank": 13,
+        "name": "raiyanyahya/recall",
+        "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+        "stars": 341,
+        "language": "Python",
+        "url": "https://github.com/raiyanyahya/recall",
+        "created": "2026-06-19"
+      },
+      {
+        "rank": 14,
+        "name": "overflowy/make-look-scanned",
+        "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
+        "stars": 339,
+        "language": "Go",
+        "url": "https://github.com/overflowy/make-look-scanned",
+        "created": "2026-06-20"
+      },
+      {
+        "rank": 15,
+        "name": "MstKail/wc2026-crypto-sportsbook",
+        "description": "2026 FIFA World Cup crypto sportsbook | soccer football betting platform | React TypeScript Vite | MetaMask wallet EIP-191 | live WebSocket odds scores | bet settlement engine | world cup 2026 betting",
+        "stars": 330,
+        "language": "TypeScript",
+        "url": "https://github.com/MstKail/wc2026-crypto-sportsbook",
+        "created": "2026-06-19"
+      },
+      {
+        "rank": 16,
+        "name": "yo-WASSUP/Good-Badminton",
+        "description": "🏸  AI Badminton Hawk-Eye System",
+        "stars": 324,
+        "language": "Python",
+        "url": "https://github.com/yo-WASSUP/Good-Badminton",
+        "created": "2026-06-20"
+      },
+      {
+        "rank": 17,
+        "name": "rpanigrahi222/intruth-factcheck",
+        "description": "",
+        "stars": 314,
+        "language": "JavaScript",
+        "url": "https://github.com/rpanigrahi222/intruth-factcheck",
+        "created": "2026-06-17"
+      },
+      {
+        "rank": 18,
+        "name": "eooce/transfer-api",
+        "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+        "stars": 301,
+        "language": "JavaScript",
+        "url": "https://github.com/eooce/transfer-api",
+        "created": "2026-06-19"
+      },
+      {
+        "rank": 19,
+        "name": "HKUDS/AgentSpace",
+        "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+        "stars": 263,
+        "language": "TypeScript",
+        "url": "https://github.com/HKUDS/AgentSpace",
+        "created": "2026-06-22"
+      },
+      {
+        "rank": 20,
+        "name": "Tyxy-R/codex-referral-risk-research",
+        "description": "",
+        "stars": 229,
+        "language": "Python",
+        "url": "https://github.com/Tyxy-R/codex-referral-risk-research",
+        "created": "2026-06-17"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
+        "authors": [
+          "Sikai Li",
+          "Shuning Li",
+          "Zhenyu Wei",
+          "Yunchao Yao",
+          "Chenran Li"
+        ],
+        "summary": "Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomotion. It also commonly relies on low degree-of-freedom (DoF) end effectors that behave like an open-close grasp primitive. We introduce CoorDex, a learn",
+        "url": "http://arxiv.org/abs/2606.23680v1",
+        "pdf": "https://arxiv.org/pdf/2606.23680v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Semantic Browsing: Controllable Diversity for Image Generation",
+        "authors": [
+          "Sara Dorfman",
+          "Maya Vishnevsky",
+          "Omer Dahary",
+          "Or Patashnik",
+          "Daniel Cohen-Or"
+        ],
+        "summary": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interpretation. Existing methods to improve diversity produce outputs driven by incidental variations rath",
+        "url": "http://arxiv.org/abs/2606.23679v1",
+        "pdf": "https://arxiv.org/pdf/2606.23679v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "AIR: Adaptive Interleaved Reasoning with Code in MLLMs",
+        "authors": [
+          "Cong Han",
+          "Xiaohan Lan",
+          "Haibo Qiu",
+          "Yujie Zhong"
+        ],
+        "summary": "Following the paradigm shift initiated by OpenAI o3, interleaved reasoning with code to enhance multimodal large language models (MLLMs) has become a pivotal research frontier. The existing literature focuses primarily on tool-use within vision-perception tasks. However, such approaches typically re",
+        "url": "http://arxiv.org/abs/2606.23678v1",
+        "pdf": "https://arxiv.org/pdf/2606.23678v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
+        "authors": [
+          "Dingzhi Yu",
+          "Hongyi Tao",
+          "Yuanyu Wan",
+          "Luo Luo",
+          "Lijun Zhang"
+        ],
+        "summary": "AdamW is the de facto optimizer for training large language models (LLMs), yet the theory behind it still lives mostly in finite-variance regimes. This is increasingly unsatisfying, as empirical evidence indicates that stochastic gradient noise in LLM pretraining is typically heavy-tailed. Recent wo",
+        "url": "http://arxiv.org/abs/2606.23676v1",
+        "pdf": "https://arxiv.org/pdf/2606.23676v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support",
+        "authors": [
+          "Sunil Wanjari",
+          "Manish Thakre",
+          "Aayushi Asole",
+          "Sharwari Raut",
+          "Kwabena Adu-Duodu"
+        ],
+        "summary": "Mental health assessment commonly relies on isolated screening instruments or data-driven models that often lack interpretability and multi-dimensional integration. Existing approaches frequently focus on individual indicators such as depression or anxiety while providing limited support for compreh",
+        "url": "http://arxiv.org/abs/2606.23673v1",
+        "pdf": "https://arxiv.org/pdf/2606.23673v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Teaching LLMs String Matching, Backtracking, and Error Recovery to Deduce Bases and Truth Tables for the Combinatorially Exploding Bit Manipulation Puzzles",
+        "authors": [
+          "Prateek Agnihotri",
+          "Sanchit Jain",
+          "Prabhat Agnihotri",
+          "Aditya Prasad",
+          "Shubham Jain"
+        ],
+        "summary": "This paper presents our algorithmic innovations for the NVIDIA Nemotron Model Reasoning Challenge, focusing on Bit Manipulation Puzzles. In this task, the objective is to discover a hidden logical rule transforming input binary strings to outputs, then apply it to unseen inputs. Large Language Model",
+        "url": "http://arxiv.org/abs/2606.23672v1",
+        "pdf": "https://arxiv.org/pdf/2606.23672v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Tapered Language Models",
+        "authors": [
+          "Reza Bayat",
+          "Ali Behrouz",
+          "Aaron Courville"
+        ],
+        "summary": "Modern language models, including transformer, recurrent, and memory-based variants, share a common chassis: a stack of identical layers in which parameters are allocated uniformly across depth. This is a default inherited from the original transformer and largely unchanged since, yet a growing body",
+        "url": "http://arxiv.org/abs/2606.23670v1",
+        "pdf": "https://arxiv.org/pdf/2606.23670v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "TailorMind: Towards Preference-Aligned Multimodal Content Generation",
+        "authors": [
+          "Hengji Zhou",
+          "Ye Liu",
+          "Yufeng Liu",
+          "Si Wu",
+          "Lianghao Xia"
+        ],
+        "summary": "Personalized content systems depend on available UGC and struggle when suitable content is absent, delayed, or costly to create. Although multimodal generators can synthesize content on demand, how to translate behavioral traces into generation-ready preferences remains underexplored. We study perso",
+        "url": "http://arxiv.org/abs/2606.23643v1",
+        "pdf": "https://arxiv.org/pdf/2606.23643v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Learning Process Rewards via Success Visitation Matching for Efficient RL",
+        "authors": [
+          "Raymond Tsao",
+          "Andrew Wagenmaker",
+          "Sergey Levine"
+        ],
+        "summary": "In many modern applications of reinforcement learning (RL), the natural reward for a task of interest is inherently sparse: a reward of 0 is given everywhere except when the task is completed, when a reward of +1 is given. Training a policy to maximize such a sparse reward requires solving a challen",
+        "url": "http://arxiv.org/abs/2606.23640v1",
+        "pdf": "https://arxiv.org/pdf/2606.23640v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "AI Exposure Scores: what they measure, what they miss, and what comes next",
+        "authors": [
+          "Campbell Lund",
+          "Thomas Euyang",
+          "Zanele Munyikwa",
+          "Marzieh Fadaee"
+        ],
+        "summary": "A set of exposure scores calculated in 2023 has become a central empirical input to the future of work debate. Produced by Eloundou et al. (2023) and referred to here as the GPTs are GPTs scores, they define exposure as the share of occupational tasks a large language model can assist with. This wor",
+        "url": "http://arxiv.org/abs/2606.23633v1",
+        "pdf": "https://arxiv.org/pdf/2606.23633v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "AI-driven Optimisation of Quality of Recovery (QoR) in Remote Patient Monitoring",
+        "authors": [
+          "Yansong Liu",
+          " Li-Hsi",
+          " Lin",
+          "Pramit Khetrapal",
+          "Ronnie Stafford"
+        ],
+        "summary": "Remote patient monitoring depends on patient-reported data to capture the subjective dimension of recovery that devices cannot measure. The Quality of Recovery (QoR-15) survey is the gold-standard instrument for this purpose. It was designed and validated for occasional in-hospital assessment, yet r",
+        "url": "http://arxiv.org/abs/2606.23631v1",
+        "pdf": "https://arxiv.org/pdf/2606.23631v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "DiT-Reward: Generative Representations for Text-to-Image Reward Modeling",
+        "authors": [
+          "Yuanming Yang",
+          "Guoqing Ma",
+          "Bo Wang",
+          "Yuan Zhang",
+          "Wei Tang"
+        ],
+        "summary": "Can representations learned for image generation also support the evaluation of generated images? We study text-to-image reward prediction as a downstream task of generative representation learning. To this end, we introduce DiT-Reward, which converts a pretrained text-to-image Diffusion Transformer",
+        "url": "http://arxiv.org/abs/2606.23626v1",
+        "pdf": "https://arxiv.org/pdf/2606.23626v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "RECALL: Recovery Experience Collection for Active Lifelong Learning in Vision-Language-Action Models",
+        "authors": [
+          "Ulas Berk Karli",
+          "Tesca Fitzgerald"
+        ],
+        "summary": "Vision-Language-Action (VLA) models are commonly fine-tuned through passive imitation learning, where additional demonstrations are collected for tasks where the policy performs poorly. This approach incurs several downsides: it requires the robot to fail before data collection is triggered, provide",
+        "url": "http://arxiv.org/abs/2606.23617v1",
+        "pdf": "https://arxiv.org/pdf/2606.23617v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Data Selection Through Iterative Self-Filtering for Vision-Language Settings",
+        "authors": [
+          "Andrei Liviu Nicolicioiu",
+          "Sarvjeet Singh Ghotra",
+          "Morgane M. Moss",
+          "Aaron Courville"
+        ],
+        "summary": "The availability of large amounts of clean data is paramount to training neural networks. However, at large scales, manual oversight is impractical, resulting in sizeable datasets that can be very noisy. Attempts to mitigate this obstacle to producing performant vision-language models have so far in",
+        "url": "http://arxiv.org/abs/2606.23611v1",
+        "pdf": "https://arxiv.org/pdf/2606.23611v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Discovering Latent Groups for Robust Classification",
+        "authors": [
+          "Ankur Garg",
+          "Ulrich Aïvodji",
+          "Samira Ebrahimi Kahou",
+          "Vincent Michalski"
+        ],
+        "summary": "Machine learning models exploit spurious correlations, achieving high average accuracy but failing disproportionately on underrepresented subgroups. Existing methods address this by adjusting network parameters, guided either by subgroup annotations or inferred pseudo-group labels. Yet at inference,",
+        "url": "http://arxiv.org/abs/2606.23609v1",
+        "pdf": "https://arxiv.org/pdf/2606.23609v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Causal Discovery in the Era of Agents",
+        "authors": [
+          "Yujia Zheng",
+          "Vishal Verma",
+          "Mantej Gill",
+          "Haoyue Dai",
+          "Peter Spirtes"
+        ],
+        "summary": "Recent attempts to combine large language models (LLMs) with causal discovery ask models to infer pairwise directions, propose graph structures, or inject language-model outputs as priors and constraints. These approaches promise faster analysis, but they also obscure whether a causal evidence is su",
+        "url": "http://arxiv.org/abs/2606.23608v1",
+        "pdf": "https://arxiv.org/pdf/2606.23608v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Scaling Linear Mode Connectivity and Merging to Billion Parameter Pretrained Transformers",
+        "authors": [
+          "Tianyi Li",
+          "Zhiqiang Shen"
+        ],
+        "summary": "Linear mode connectivity (LMC) provides a promising foundation for understanding and merging independently trained neural networks, but existing methods typically optimize the interpolation path from only one model endpoint, limiting their scalability and effectiveness for large pretrained transform",
+        "url": "http://arxiv.org/abs/2606.23607v1",
+        "pdf": "https://arxiv.org/pdf/2606.23607v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Polycepta: Object-Centric Appearance Estimation for Multi-Object Tracking",
+        "authors": [
+          "Mohamed Nagy",
+          "Naoufel Werghi",
+          "Jorge Dias",
+          "Majid Khonji"
+        ],
+        "summary": "The tracking-by-detection paradigm in multi-object tracking (MOT) typically relies on static appearance descriptors to complement motion estimation. However, these descriptors are frame-independent, limiting their robustness as visual cues. Since such descriptors are often obtained from computationa",
+        "url": "http://arxiv.org/abs/2606.23604v1",
+        "pdf": "https://arxiv.org/pdf/2606.23604v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Against Proxy Optimization",
+        "authors": [
+          "Sven Neth"
+        ],
+        "summary": "I discuss conditions under which maximizing a proxy utility function is harmful and suggest this poses problems for applying decision theory.",
+        "url": "http://arxiv.org/abs/2606.23597v1",
+        "pdf": "https://arxiv.org/pdf/2606.23597v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "SPIRAL: Learning to Search and Aggregate",
+        "authors": [
+          "Jubayer Ibn Hamid",
+          "Ifdita Hasan Orney",
+          "Michael Y. Li",
+          "Omar Shaikh",
+          "Yoonho Lee"
+        ],
+        "summary": "Language model reasoning can be substantially improved at test time via scaffolds that scale inference compute across different primitives -- sequential reasoning within a trace, independently sampled parallel traces, and aggregation of multiple reasoning traces into a final response. During post-tr",
+        "url": "http://arxiv.org/abs/2606.23595v1",
+        "pdf": "https://arxiv.org/pdf/2606.23595v1",
+        "published": "2026-06-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection",
+        "authors": [
+          "Mingi Choi",
+          "Gunhee Kim",
+          "Jisoo Kim",
+          "Taeksoo Kim",
+          "Taeyun Ha"
+        ],
+        "summary": "Learning robust dexterous grasping requires real-world data that records the physical outcomes of grasp attempts. Such data is hard to obtain at scale: teleoperation yields valid physical outcomes but is slow and operator-biased, while simulation-based generation is cheap and scalable but cannot cer",
+        "url": "http://arxiv.org/abs/2606.23689v1",
+        "pdf": "https://arxiv.org/pdf/2606.23689v1",
+        "published": "2026-06-22",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "On the Limits of Prompt-Conditioned Language Models as General-Purpose Learners",
+        "authors": [
+          "David Mguni",
+          "Julian Ma",
+          "Jun Wang"
+        ],
+        "summary": "Large Language Models (LLMs) are frequently portrayed as general-purpose solvers capable of solving arbitrary tasks. We argue that this view overlooks a fundamental constraint: language is a compressed and capacity-limited interface for conveying task information. Modelling User--System interaction ",
+        "url": "http://arxiv.org/abs/2606.23668v1",
+        "pdf": "https://arxiv.org/pdf/2606.23668v1",
+        "published": "2026-06-22",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM Systems?",
+        "authors": [
+          "Juyang Bai",
+          "Laixi Shi"
+        ],
+        "summary": "Multi-agent systems (MAS) offer a scalable path forward for agentic AI, comprising multiple LLM-based agents, each assigned a system prompt and a position within a workflow that governs inter-agent coordination and output aggregation. System prompts thus form a critical and accessible optimization s",
+        "url": "http://arxiv.org/abs/2606.23664v1",
+        "pdf": "https://arxiv.org/pdf/2606.23664v1",
+        "published": "2026-06-22",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Action-BED: Task-Driven Bayesian Experimental Design with Singly Intractable Objectives",
+        "authors": [
+          "Tom Rossa",
+          "Angus Phillips",
+          "Tom Rainforth"
+        ],
+        "summary": "Bayesian experimental design (BED) has traditionally been based on maximising expected uncertainty reductions from prior to posterior. A major shortfall of this approach is that it leads to doubly intractable objectives that are difficult to optimise, while customising them to particular downstream ",
+        "url": "http://arxiv.org/abs/2606.23662v1",
+        "pdf": "https://arxiv.org/pdf/2606.23662v1",
+        "published": "2026-06-22",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Dynamic estimation of slowly varying sequences",
+        "authors": [
+          "Prashant Gokhale",
+          "Mikhail Khodak",
+          "Sandeep Silwal"
+        ],
+        "summary": "We consider the problem of sequentially approximating functions of each element in a slowly-varying sequence, i.e. one where the magnitude $α_i$ of the difference between the elements at positions $i$ and $i-1$ is small. Recent work on implicit trace estimation shows that when $α_t$ is small, reusin",
+        "url": "http://arxiv.org/abs/2606.23655v1",
+        "pdf": "https://arxiv.org/pdf/2606.23655v1",
+        "published": "2026-06-22",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
