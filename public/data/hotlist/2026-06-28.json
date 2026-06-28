@@ -1,0 +1,562 @@
+{
+  "date": "2026-06-28",
+  "generated": "2026-06-28T06:20:23.660203",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "bozhouDev/codex-orange-book",
+        "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+        "stars": 2224,
+        "language": "HTML",
+        "url": "https://github.com/bozhouDev/codex-orange-book",
+        "created": "2026-06-23"
+      },
+      {
+        "rank": 2,
+        "name": "deepseek-ai/DeepSpec",
+        "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+        "stars": 1557,
+        "language": "Python",
+        "url": "https://github.com/deepseek-ai/DeepSpec",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 3,
+        "name": "bikini/exploitarium",
+        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed ",
+        "stars": 1387,
+        "language": "Python",
+        "url": "https://github.com/bikini/exploitarium",
+        "created": "2026-06-23"
+      },
+      {
+        "rank": 4,
+        "name": "Yu9191/wloc",
+        "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+        "stars": 715,
+        "language": "JavaScript",
+        "url": "https://github.com/Yu9191/wloc",
+        "created": "2026-06-24"
+      },
+      {
+        "rank": 5,
+        "name": "BohemiaInteractive/CWR",
+        "description": "Arma: Cold War Assault Remastered Source Code Repository.",
+        "stars": 664,
+        "language": "C++",
+        "url": "https://github.com/BohemiaInteractive/CWR",
+        "created": "2026-06-22"
+      },
+      {
+        "rank": 6,
+        "name": "winsznx/theeleven",
+        "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+        "stars": 652,
+        "language": "TypeScript",
+        "url": "https://github.com/winsznx/theeleven",
+        "created": "2026-06-25"
+      },
+      {
+        "rank": 7,
+        "name": "QwenLM/Qwen-AgentWorld",
+        "description": "Qwen-AgentWorld: Language World Models for General Agents",
+        "stars": 599,
+        "language": "Python",
+        "url": "https://github.com/QwenLM/Qwen-AgentWorld",
+        "created": "2026-06-22"
+      },
+      {
+        "rank": 8,
+        "name": "benchflow-ai/awesome-evals",
+        "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+        "stars": 539,
+        "language": null,
+        "url": "https://github.com/benchflow-ai/awesome-evals",
+        "created": "2026-06-24"
+      },
+      {
+        "rank": 9,
+        "name": "HKUDS/AgentSpace",
+        "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+        "stars": 486,
+        "language": "TypeScript",
+        "url": "https://github.com/HKUDS/AgentSpace",
+        "created": "2026-06-22"
+      },
+      {
+        "rank": 10,
+        "name": "AlexandrosGounis/pdfx",
+        "description": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
+        "stars": 377,
+        "language": "TypeScript",
+        "url": "https://github.com/AlexandrosGounis/pdfx",
+        "created": "2026-06-24"
+      },
+      {
+        "rank": 11,
+        "name": "goehou/tabbit-toy",
+        "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+        "stars": 369,
+        "language": "JavaScript",
+        "url": "https://github.com/goehou/tabbit-toy",
+        "created": "2026-06-23"
+      },
+      {
+        "rank": 12,
+        "name": "WangJunqing-coder/huasheng13-skill",
+        "description": "基于花生十三公开教学体系、课程资料、历年正题整理得到的skill。",
+        "stars": 359,
+        "language": null,
+        "url": "https://github.com/WangJunqing-coder/huasheng13-skill",
+        "created": "2026-06-22"
+      },
+      {
+        "rank": 13,
+        "name": "playPlumtown/Plumtown",
+        "description": "The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.",
+        "stars": 355,
+        "language": "JavaScript",
+        "url": "https://github.com/playPlumtown/Plumtown",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 14,
+        "name": "Pluviobyte/video-production-skills",
+        "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+        "stars": 346,
+        "language": "Python",
+        "url": "https://github.com/Pluviobyte/video-production-skills",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 15,
+        "name": "samasante/liquid-glass",
+        "description": "Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies.",
+        "stars": 342,
+        "language": "TypeScript",
+        "url": "https://github.com/samasante/liquid-glass",
+        "created": "2026-06-22"
+      },
+      {
+        "rank": 16,
+        "name": "amplifthq/opentag",
+        "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+        "stars": 336,
+        "language": "TypeScript",
+        "url": "https://github.com/amplifthq/opentag",
+        "created": "2026-06-24"
+      },
+      {
+        "rank": 17,
+        "name": "krea-ai/krea-2",
+        "description": "Official inference code for Krea 2",
+        "stars": 335,
+        "language": "Python",
+        "url": "https://github.com/krea-ai/krea-2",
+        "created": "2026-06-22"
+      },
+      {
+        "rank": 18,
+        "name": "PMTraderAdam/pm-adam-trader",
+        "description": "",
+        "stars": 310,
+        "language": "TypeScript",
+        "url": "https://github.com/PMTraderAdam/pm-adam-trader",
+        "created": "2026-06-24"
+      },
+      {
+        "rank": 19,
+        "name": "nova452/ComfyUI-Conditioning-Rebalance",
+        "description": "Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a",
+        "stars": 279,
+        "language": "Python",
+        "url": "https://github.com/nova452/ComfyUI-Conditioning-Rebalance",
+        "created": "2026-06-23"
+      },
+      {
+        "rank": 20,
+        "name": "iebb/mithka",
+        "description": "",
+        "stars": 279,
+        "language": "Dart",
+        "url": "https://github.com/iebb/mithka",
+        "created": "2026-06-22"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Autoregressive Boltzmann Generators",
+        "authors": [
+          "Danyal Rehman",
+          "Charlie B. Tan",
+          "Yoshua Bengio",
+          "Avishek Joey Bose",
+          "Alexander Tong"
+        ],
+        "summary": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allow rapid generation of uncorrelated equilibrium samples by combining a generative model with exact li",
+        "url": "http://arxiv.org/abs/2606.27361v1",
+        "pdf": "https://arxiv.org/pdf/2606.27361v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Error-Conditioned Neural Solvers",
+        "authors": [
+          "Haina Jiang",
+          "Liam Wang",
+          "Peng-Chen Chen",
+          "Min Seop Kwak",
+          "Seungryong Kim"
+        ],
+        "summary": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their own constraint violations and extrapolate beyond the training distribution. Recent hybrid methods prom",
+        "url": "http://arxiv.org/abs/2606.27354v1",
+        "pdf": "https://arxiv.org/pdf/2606.27354v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching",
+        "authors": [
+          "Nicholas Pulsone",
+          "Gregory Goren",
+          "Roee Shraga"
+        ],
+        "summary": "Entity Matching (EM) is a core operation in the data integration pipeline, where records from different sources are compared to determine whether they refer to the same real-world entity. Recent work has incorporated domain information and low-resource learning techniques to better adapt EM systems ",
+        "url": "http://arxiv.org/abs/2606.27342v1",
+        "pdf": "https://arxiv.org/pdf/2606.27342v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Language-Based Digital Twins for Elderly Cognitive Assistance",
+        "authors": [
+          "Mohammad Mehdi Hosseini",
+          "Mohammad H. Mahoor",
+          "Hiroko H. Dodge"
+        ],
+        "summary": "Digital twins have emerged as a promising paradigm for personalized healthcare, enabling modeling of individual behavior and health trajectories. In cognitive health, early detection of Mild Cognitive Impairment (MCI) remains challenging, where language and conversational patterns serve as non-invas",
+        "url": "http://arxiv.org/abs/2606.27334v1",
+        "pdf": "https://arxiv.org/pdf/2606.27334v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning",
+        "authors": [
+          "Tianyi Men",
+          "Zhuoran Jin",
+          "Pengfei Cao",
+          "Yubo Chen",
+          "Kang Liu"
+        ],
+        "summary": "Multimodal web agents can assist humans in operating repetitive GUI tasks, where effective task planning is essential for decomposing complex tasks into executable actions. While small open source MLLMs are cost efficient and privacy preserving compared with commercial large models, they suffer from",
+        "url": "http://arxiv.org/abs/2606.27330v1",
+        "pdf": "https://arxiv.org/pdf/2606.27330v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders",
+        "authors": [
+          "Nathanaël Jacquier",
+          "Maria Vakalopoulou",
+          "Mahdi S. Hosseini"
+        ],
+        "summary": "Sparse autoencoders (SAEs) have become a leading tool for interpreting the representations of vision foundation models, decomposing their polysemantic activations into a larger set of sparse, more monosemantic features. The Top-$k$ SAE, a now-standard variant, enforces sparsity architecturally throu",
+        "url": "http://arxiv.org/abs/2606.27321v1",
+        "pdf": "https://arxiv.org/pdf/2606.27321v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "AI Healthcare Chatbots as Information Infrastructure: A Large-Scale Study of User-Reported Breakdowns",
+        "authors": [
+          "Muhammad Hassan",
+          "Ramazan Yener",
+          "Ece Gumusel",
+          "Masooda Bashir"
+        ],
+        "summary": "AI healthcare chatbots are increasingly used to support health information seeking and self-management, yet their performance and impact on users remains to be studied. This study examines over 15,000 user reviews from 59 AI healthcare chatbot apps to explore how these systems function in everyday i",
+        "url": "http://arxiv.org/abs/2606.27302v1",
+        "pdf": "https://arxiv.org/pdf/2606.27302v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
+        "authors": [
+          "Josef Chen"
+        ],
+        "summary": "Multi-model LLM systems such as routing, voting, cascades, fusion, and mixture-of-agents are used to beat single-model accuracy. We show that their gain is capped by a quantity the field rarely reports. For any policy whose output is one member model answer, accuracy cannot exceed one minus beta, wh",
+        "url": "http://arxiv.org/abs/2606.27288v1",
+        "pdf": "https://arxiv.org/pdf/2606.27288v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings",
+        "authors": [
+          "Preet Baxi",
+          "Jiannan Xu",
+          "Jane Yi Jiang",
+          "Stefanus Jasin"
+        ],
+        "summary": "Large language models (LLMs) are increasingly used to screen and rank job applicants, creating incentives for candidates to strategically manipulate algorithmic hiring systems. We study prompt injection in automated résumé screening, defined as subtle self-promotional text that introduces no new qua",
+        "url": "http://arxiv.org/abs/2606.27287v1",
+        "pdf": "https://arxiv.org/pdf/2606.27287v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Simulation-based inference for rapid Bayesian parameter estimation in epidemiological models: a comparison with MCMC",
+        "authors": [
+          "Alina Bazarova",
+          "Johann Fredrik Jadebeck",
+          "Henrik Zunker",
+          "Carolina J. Klett-Tammen",
+          "Torben Heinsohn"
+        ],
+        "summary": "Mechanistic epidemiological models are widely used to support infectious disease forecasting and public-health decision making. Bayesian calibration of such models is commonly performed using Markov chain Monte Carlo (MCMC), which can become computationally expensive for high-dimensional nonlinear s",
+        "url": "http://arxiv.org/abs/2606.27286v1",
+        "pdf": "https://arxiv.org/pdf/2606.27286v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
+        "authors": [
+          "Junwei Luo",
+          "Shuai Yuan",
+          "Zhenya Yang",
+          "Yansheng Li",
+          "Zhe Liu"
+        ],
+        "summary": "Earth Observation (EO) forecasting aims to predict future Earth surface dynamics from satellite observations under changing meteorological conditions. In this paper, we view this task as a partially observed, weather-driven world modeling problem, in which weather acts as a conditioning signal, whil",
+        "url": "http://arxiv.org/abs/2606.27277v1",
+        "pdf": "https://arxiv.org/pdf/2606.27277v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation",
+        "authors": [
+          "Wen Ye",
+          "Peiyan Li",
+          "Tingyu Yuan",
+          "Yuan Xu",
+          "Xiangnan Wu"
+        ],
+        "summary": "Recently, a few works have made early attempts to study test-time scaling for embodied tasks. However, two major challenges remain unsolved: (1) reasoning can effectively improve the performance of the policy, but its scaling mechanism has seldom been studied; (2) historical information is essential",
+        "url": "http://arxiv.org/abs/2606.27268v1",
+        "pdf": "https://arxiv.org/pdf/2606.27268v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy",
+        "authors": [
+          "Junhao Shi",
+          "Zezheng Huai",
+          "Siyin Wang",
+          "Jia Chen",
+          "Yubang Wang"
+        ],
+        "summary": "Building persistent embodied agents in unstructured environments demands unified orchestration of heterogeneous tools spanning both cyber (APIs, IoT) and physical (manipulation, navigation) domains, coupled with autonomous recovery from physical failures that inevitably arise over extended operation",
+        "url": "http://arxiv.org/abs/2606.27251v1",
+        "pdf": "https://arxiv.org/pdf/2606.27251v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "From Celebrities to Anyone: Characterizing AI Nudification Content, Technology, and Community Dynamics on 4chan",
+        "authors": [
+          "Chi Cui",
+          "Yixin Wu",
+          "Yang Zhang"
+        ],
+        "summary": "AI nudification uses generative models to create synthetic non-consensual sexually explicit imagery (SNEACI) of real individuals. Prior work has examined dedicated nudification platforms and model repositories, finding that most targets are female celebrities. However, the anonymous content communit",
+        "url": "http://arxiv.org/abs/2606.27234v1",
+        "pdf": "https://arxiv.org/pdf/2606.27234v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Bridging Talk and Thought: Understanding Dialogue Dynamics Across Collaborative Problem-Solving Contexts",
+        "authors": [
+          "Zhengyuan Liu",
+          "Stella Xin Yin",
+          "Min-Yen Kan",
+          "Nancy F. Chen"
+        ],
+        "summary": "We present a conceptual framework for analyzing dialogue in collaborative problem-solving contexts, with an emphasis on the emerging dynamics of human-AI and multi-agent collaboration. As intelligent systems become active agents capable of autonomous reasoning and strategic cooperation, understandin",
+        "url": "http://arxiv.org/abs/2606.27233v1",
+        "pdf": "https://arxiv.org/pdf/2606.27233v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention",
+        "authors": [
+          "Sayak Dutta"
+        ],
+        "summary": "Recurrent models must forget in order to remember, yet the state of the art decides what to erase without consulting what is stored -- the gate sees only the arriving token, not the memory it is about to modify. This memory-blind gating is one of three coupled defects in the leading delta-rule archi",
+        "url": "http://arxiv.org/abs/2606.27229v1",
+        "pdf": "https://arxiv.org/pdf/2606.27229v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation and Self-Improvement",
+        "authors": [
+          "Sangwoo Cho",
+          "Kushal Chawla",
+          "Pengshan Cai",
+          "Zefang Liu",
+          "Chenyang Zhu"
+        ],
+        "summary": "Evaluating LLM outputs remains a major bottleneck in NLP: human evaluation is expensive and slow, lexical metrics correlate poorly with human judgments on open-ended generation, and holistic LLM judges often produce opaque scores that are hard to debug. We propose BINEVAL, a framework that decompose",
+        "url": "http://arxiv.org/abs/2606.27226v1",
+        "pdf": "https://arxiv.org/pdf/2606.27226v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Vulnerability of Natural Language Classifiers to Evolutionary Generated Adversarial Text",
+        "authors": [
+          "Manjinder Singh",
+          "Alexander E. I. Brownlee",
+          "Mohamed Elawady"
+        ],
+        "summary": "Deep learning models have achieved impressive performance across various fields but remain vulnerable to adversarial inputs, particularly in NLP, where such attacks can have significant real-world consequences. Adversarial attacks often involve small, semantically similar token replacements to fool ",
+        "url": "http://arxiv.org/abs/2606.27215v1",
+        "pdf": "https://arxiv.org/pdf/2606.27215v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "A Process Harness for Uplifting Legacy Workflows to Agentic BPM: Design and Realization in CUGA FLO",
+        "authors": [
+          "Fabiana Fournier",
+          "Lior Limonad"
+        ],
+        "summary": "We introduce the process harness, a new mechanism for uplifting legacy workflows into Agentic Business Process Management (Agentic BPM) without replacing the underlying workflow engine. A process harness places a policy-governed agentic layer around a deterministic workflow engine, intercepting desi",
+        "url": "http://arxiv.org/abs/2606.27188v1",
+        "pdf": "https://arxiv.org/pdf/2606.27188v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Automating Potential-based Reward Shaping with Vision Language Model Guidance",
+        "authors": [
+          "Henrik Müller",
+          "Daniel Kudenko"
+        ],
+        "summary": "Sparse rewards are inherently challenging for reinforcement learning agents as they lack intermediate feedback to guide exploration and to correctly attribute the sparse success rewards to relevant parts of the trajectory. Naive reward shaping can induce reward hacking, yielding policies that exploi",
+        "url": "http://arxiv.org/abs/2606.27180v1",
+        "pdf": "https://arxiv.org/pdf/2606.27180v1",
+        "published": "2026-06-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "DanceOPD: On-Policy Generative Field Distillation",
+        "authors": [
+          "Wei Zhou",
+          "Xiongwei Zhu",
+          "Zelin Xu",
+          "Bo Dong",
+          "Lixue Gong"
+        ],
+        "summary": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally aligned and often conflict. For instance, editing tends to degrade T2I performance, while global and lo",
+        "url": "http://arxiv.org/abs/2606.27377v1",
+        "pdf": "https://arxiv.org/pdf/2606.27377v1",
+        "published": "2026-06-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+        "authors": [
+          "Yingyu Lin",
+          "Qiyue Gao",
+          "Nikki Lijing Kuang",
+          "Xunpeng Huang",
+          "Kun Zhou"
+        ],
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution is unknown. We introduce a \\textbf{R}anking-\\textbf{i}nduced \\textbf{VER}ifiable framework (RiVER) t",
+        "url": "http://arxiv.org/abs/2606.27369v1",
+        "pdf": "https://arxiv.org/pdf/2606.27369v1",
+        "published": "2026-06-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
+        "authors": [
+          "Johannes Zenn",
+          "Jonas Geiping"
+        ],
+        "summary": "Many decoding methods for large language models can be understood as shifting probability mass toward outputs that are more likely under the model, either locally at the token level or globally at the sequence level. Therefore, their success depends on a fundamental question: when does sequence prob",
+        "url": "http://arxiv.org/abs/2606.27359v1",
+        "pdf": "https://arxiv.org/pdf/2606.27359v1",
+        "published": "2026-06-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Hallucination in World Models is Predictable and Preventable",
+        "authors": [
+          "Nicklas Hansen",
+          "Xiaolong Wang"
+        ],
+        "summary": "Modern generative world models render increasingly realistic action-controllable futures, yet they frequently hallucinate: rollouts remain visually fluent while drifting from the ground-truth dynamics. We hypothesize that hallucination concentrates in low-coverage regions of the state-action space, ",
+        "url": "http://arxiv.org/abs/2606.27326v1",
+        "pdf": "https://arxiv.org/pdf/2606.27326v1",
+        "published": "2026-06-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Blackwell Approachability and Gradient Equilibrium are Equivalent",
+        "authors": [
+          "Brian W. Lee",
+          "Nika Haghtalab",
+          "Michael I. Jordan",
+          "Ryan J. Tibshirani"
+        ],
+        "summary": "Gradient equilibrium (GEQ) is a recently introduced online optimization framework that generalizes first-order stationarity from offline optimization and abstracts problems like online conformal prediction. While GEQ has curious similarities with known online learning frameworks, namely regret minim",
+        "url": "http://arxiv.org/abs/2606.27315v1",
+        "pdf": "https://arxiv.org/pdf/2606.27315v1",
+        "published": "2026-06-25",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
