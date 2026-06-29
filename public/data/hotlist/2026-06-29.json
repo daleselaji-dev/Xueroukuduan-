@@ -1,0 +1,583 @@
+{
+  "date": "2026-06-29",
+  "generated": "2026-06-29T06:50:29.629720",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "bikini/exploitarium",
+        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed ",
+        "stars": 2711,
+        "language": "Python",
+        "url": "https://github.com/bikini/exploitarium",
+        "created": "2026-06-23"
+      },
+      {
+        "rank": 2,
+        "name": "deepseek-ai/DeepSpec",
+        "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+        "stars": 2551,
+        "language": "Python",
+        "url": "https://github.com/deepseek-ai/DeepSpec",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 3,
+        "name": "bozhouDev/codex-orange-book",
+        "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+        "stars": 2308,
+        "language": "HTML",
+        "url": "https://github.com/bozhouDev/codex-orange-book",
+        "created": "2026-06-23"
+      },
+      {
+        "rank": 4,
+        "name": "Yu9191/wloc",
+        "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+        "stars": 1231,
+        "language": "JavaScript",
+        "url": "https://github.com/Yu9191/wloc",
+        "created": "2026-06-24"
+      },
+      {
+        "rank": 5,
+        "name": "winsznx/theeleven",
+        "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+        "stars": 707,
+        "language": "TypeScript",
+        "url": "https://github.com/winsznx/theeleven",
+        "created": "2026-06-25"
+      },
+      {
+        "rank": 6,
+        "name": "benchflow-ai/awesome-evals",
+        "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+        "stars": 569,
+        "language": null,
+        "url": "https://github.com/benchflow-ai/awesome-evals",
+        "created": "2026-06-24"
+      },
+      {
+        "rank": 7,
+        "name": "AlexandrosGounis/pdfx",
+        "description": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
+        "stars": 502,
+        "language": "TypeScript",
+        "url": "https://github.com/AlexandrosGounis/pdfx",
+        "created": "2026-06-24"
+      },
+      {
+        "rank": 8,
+        "name": "Krishnagangwal/CS-Fundamentals",
+        "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+        "stars": 425,
+        "language": null,
+        "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
+        "created": "2026-06-28"
+      },
+      {
+        "rank": 9,
+        "name": "goehou/tabbit-toy",
+        "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+        "stars": 383,
+        "language": "JavaScript",
+        "url": "https://github.com/goehou/tabbit-toy",
+        "created": "2026-06-23"
+      },
+      {
+        "rank": 10,
+        "name": "Pluviobyte/video-production-skills",
+        "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+        "stars": 376,
+        "language": "Python",
+        "url": "https://github.com/Pluviobyte/video-production-skills",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 11,
+        "name": "playPlumtown/Plumtown",
+        "description": "The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.",
+        "stars": 358,
+        "language": "JavaScript",
+        "url": "https://github.com/playPlumtown/Plumtown",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 12,
+        "name": "amplifthq/opentag",
+        "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+        "stars": 357,
+        "language": "TypeScript",
+        "url": "https://github.com/amplifthq/opentag",
+        "created": "2026-06-24"
+      },
+      {
+        "rank": 13,
+        "name": "downclash/clash",
+        "description": "",
+        "stars": 352,
+        "language": "JavaScript",
+        "url": "https://github.com/downclash/clash",
+        "created": "2026-06-27"
+      },
+      {
+        "rank": 14,
+        "name": "CopilotKit/OpenTag",
+        "description": "OpenTag",
+        "stars": 342,
+        "language": "TypeScript",
+        "url": "https://github.com/CopilotKit/OpenTag",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 15,
+        "name": "PMTraderAdam/pm-adam-trader",
+        "description": "",
+        "stars": 328,
+        "language": "TypeScript",
+        "url": "https://github.com/PMTraderAdam/pm-adam-trader",
+        "created": "2026-06-24"
+      },
+      {
+        "rank": 16,
+        "name": "slimopump/sillygoose",
+        "description": "",
+        "stars": 307,
+        "language": null,
+        "url": "https://github.com/slimopump/sillygoose",
+        "created": "2026-06-24"
+      },
+      {
+        "rank": 17,
+        "name": "cclank/lanshu-animated-architecture-diagram",
+        "description": "Premium hand-drawn animated architecture diagram Codex skill",
+        "stars": 303,
+        "language": "Python",
+        "url": "https://github.com/cclank/lanshu-animated-architecture-diagram",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 18,
+        "name": "nova452/ComfyUI-Conditioning-Rebalance",
+        "description": "Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a",
+        "stars": 303,
+        "language": "Python",
+        "url": "https://github.com/nova452/ComfyUI-Conditioning-Rebalance",
+        "created": "2026-06-23"
+      },
+      {
+        "rank": 19,
+        "name": "PMTraderAdam/pm-copy-trader",
+        "description": "",
+        "stars": 299,
+        "language": "TypeScript",
+        "url": "https://github.com/PMTraderAdam/pm-copy-trader",
+        "created": "2026-06-24"
+      },
+      {
+        "rank": 20,
+        "name": "abundantbeing/hermes-browser-extension",
+        "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+        "stars": 297,
+        "language": "JavaScript",
+        "url": "https://github.com/abundantbeing/hermes-browser-extension",
+        "created": "2026-06-24"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
+        "authors": [
+          "Dihong Huang",
+          "Zhenyu Wei",
+          "Zhuxiu Xu",
+          "Yunchao Yao",
+          "Sikai Li"
+        ],
+        "summary": "Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation skill often imposes conflicting demands on overlapping fingers and contact modes, causing destructive",
+        "url": "http://arxiv.org/abs/2606.28323v1",
+        "pdf": "https://arxiv.org/pdf/2606.28323v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes",
+        "authors": [
+          "Luis Leal"
+        ],
+        "summary": "Many two-player zero-sum games admit not a unique Nash equilibrium but a convex set of them: a polytope of profiles that all share the minimax value V* yet prescribe different behaviour. Standard solvers each converge to some equilibrium and are treated as interchangeable. We ask whether they instea",
+        "url": "http://arxiv.org/abs/2606.28308v1",
+        "pdf": "https://arxiv.org/pdf/2606.28308v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Agentic Hardware Design as Repository-Level Code Evolution",
+        "authors": [
+          "Cunxi Yu",
+          "Chenhui Deng",
+          "Nathaniel Pinckney",
+          "Brucek Khailany"
+        ],
+        "summary": "We present HORIZON, a self-evolving agent framework that treats hardware design as repository-level code evolution. A Markdown harness is compiled into a project pack containing domain knowledge, an executable evaluator, an acceptance predicate, and a git/runtime policy; a hands-free agent loop then",
+        "url": "http://arxiv.org/abs/2606.28279v1",
+        "pdf": "https://arxiv.org/pdf/2606.28279v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Towards Automating Scientific Review with Google's Paper Assistant Tool",
+        "authors": [
+          "Rajesh Jayaram",
+          "Drew Tyler",
+          "David Woodruff",
+          "Corinna Cortes",
+          "Yossi Matias"
+        ],
+        "summary": "Artificial intelligence is driving a revolution in scientific discovery, accelerating everything from hypothesis generation to mathematical theorem proving. However, this rapid acceleration is creating a systemic challenge: traditional human peer review cannot scale to match the influx of AI-assiste",
+        "url": "http://arxiv.org/abs/2606.28277v1",
+        "pdf": "https://arxiv.org/pdf/2606.28277v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration",
+        "authors": [
+          "Abdolazim Rezaei",
+          "Mehdi Sookhak",
+          "Mahboobeh Haghparast"
+        ],
+        "summary": "Accurate network traffic prediction is a critical element for efficient resource allocation in dynamic urban cellular networks. However, prediction remains challenging because network demand is influenced by complex mobility patterns, congestion dynamics, and heterogeneous user behavior. This paper ",
+        "url": "http://arxiv.org/abs/2606.28274v1",
+        "pdf": "https://arxiv.org/pdf/2606.28274v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
+        "authors": [
+          "Bo Shen",
+          "Lifeng Chang",
+          "Tianyuan Wei",
+          "Yunpeng Li",
+          "Feng Shi"
+        ],
+        "summary": "The transition from static chat bots to autonomous agents--equipped with persistent memory, tool-use protocols, and multi-agent collaboration--has fundamentally expanded the AI threat landscape. Current defense mechanisms, such as perimeter security and training-time alignment, remain external to th",
+        "url": "http://arxiv.org/abs/2606.28270v1",
+        "pdf": "https://arxiv.org/pdf/2606.28270v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation",
+        "authors": [
+          "Ali Zia",
+          "Usman Ali",
+          "Abdul Rehman",
+          "Umer Ramzan",
+          "Kang Han"
+        ],
+        "summary": "Test-time adaptation (TTA) has emerged as a promising paradigm for mitigating distribution shifts in deep models. However, existing TTA approaches for anomaly segmentation remain limited by their reliance on pixel-level heuristics, such as confidence thresholding or entropy minimisation, which fail ",
+        "url": "http://arxiv.org/abs/2606.28268v1",
+        "pdf": "https://arxiv.org/pdf/2606.28268v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "How Width and Data Shape Generalization Scaling Laws in Quadratic Neural Networks",
+        "authors": [
+          "Julius Girardin",
+          "Emanuele Troiani",
+          "Yizhou Xu",
+          "Vittorio Erba",
+          "Florent Krzakala"
+        ],
+        "summary": "Understanding how performance scales jointly with model size and data is a central problem in modern machine learning. Existing theoretical works on scaling laws typically describe generalization as a function of data or compute, often in fixed-feature or infinite-width regimes and for online SGD. H",
+        "url": "http://arxiv.org/abs/2606.28242v1",
+        "pdf": "https://arxiv.org/pdf/2606.28242v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Govern the Repository, Not the Agent: Measuring Ecosystem-Level Risk in AI-Native Software",
+        "authors": [
+          "Daniel Russo"
+        ],
+        "summary": "Autonomous coding agents now open and merge pull requests in shared repositories at scale, and the field evaluates them the way it has always evaluated components, one agent at a time, on isolated benchmark tasks. Yet agents that each pass their own tests still leave repositories that accumulate pro",
+        "url": "http://arxiv.org/abs/2606.28235v1",
+        "pdf": "https://arxiv.org/pdf/2606.28235v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Exposure Bias Can Alleviate Itself via Directional and Frequency Rectification in Flow Matching",
+        "authors": [
+          "Guanbo Huang",
+          "Jingjia Mao",
+          "Fanding Huang",
+          "Fengkai Liu",
+          "Xiangyang Luo"
+        ],
+        "summary": "Flow Matching (FM) has achieved remarkable generative performance, yet it suffers from exposure bias due to discrepancies between training and inference. Existing mitigation strategies typically rely on static constraints or external heuristics. In this work, we propose that exposure bias itself inh",
+        "url": "http://arxiv.org/abs/2606.28226v1",
+        "pdf": "https://arxiv.org/pdf/2606.28226v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Towards Value-Constrained Credit Assignment in Fully Delegated AI Cooperatives",
+        "authors": [
+          "Young Yoon",
+          "Jimin Kim",
+          "Soyeon Park"
+        ],
+        "summary": "We propose a framework for reward allocation in fully delegated AI cooperatives where humans are represented by agents that contribute data and participate in model updates under heterogeneous value constraints. The key idea is to credit only those updates that remain admissible after screening them",
+        "url": "http://arxiv.org/abs/2606.28217v1",
+        "pdf": "https://arxiv.org/pdf/2606.28217v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "HAT-4D: Lifting Monocular Video for 4D Multi-Object Interactions via Human-Agent Collaboration",
+        "authors": [
+          "Jiaxin Li",
+          "Yuxiang Wu",
+          "Zhenkai Zhang",
+          "Xinrui Shi",
+          "Haoyuan Wang"
+        ],
+        "summary": "Extracting dynamic 4D object interactions from massive, in-the-wild monocular videos offers a highly efficient data collection pathway for scaling Embodied AI and training VLAs. However, existing monocular 4D reconstruction methods primarily focus on isolated objects, often failing under the severe ",
+        "url": "http://arxiv.org/abs/2606.28215v1",
+        "pdf": "https://arxiv.org/pdf/2606.28215v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "The Remittance Blueprint: Data-driven Intelligence for Sri Lanka",
+        "authors": [
+          "Dhinanjaya Fernando",
+          "Dinura Ginige",
+          "Kalana Lakshan",
+          "Chanupa Gurusinghe",
+          "Lasana Pahanga"
+        ],
+        "summary": "This study analyzes Sri Lankan migration and remittances over 32 years (1994-2025). Using a 384-month harmonized dataset, we apply exploratory data analysis, stationarity corrected time-series modeling (ADF, Johansen, VAR/VECM), and supervised learning. Results reveal remittance inflows are primaril",
+        "url": "http://arxiv.org/abs/2606.28190v1",
+        "pdf": "https://arxiv.org/pdf/2606.28190v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction",
+        "authors": [
+          "Chenguang Wang",
+          "Ming Li",
+          "Xinyue Zeng",
+          "Zhuochun Li",
+          "Hong Jiao"
+        ],
+        "summary": "Predicting human item difficulty is central to educational assessment, where reliable estimates support fairness and effective test construction. Existing methods often depend on costly human calibration or item-level textual representations, providing limited evidence about the cognitive processes ",
+        "url": "http://arxiv.org/abs/2606.28186v1",
+        "pdf": "https://arxiv.org/pdf/2606.28186v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior",
+        "authors": [
+          "Qinhong Zhou",
+          "Chuang Gan",
+          "Anoop Cherian"
+        ],
+        "summary": "Embodied agents operating in decentralized and partially observable environments have attracted growing attention in recent years. However, existing large language model (LLM)-based agents often exhibit behaviors that are misaligned with their partners or inconsistent with the environment state, lea",
+        "url": "http://arxiv.org/abs/2606.28182v1",
+        "pdf": "https://arxiv.org/pdf/2606.28182v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "CPAgents: Agentic Composite Phenotype Generation for Cardiac Disease Association",
+        "authors": [
+          "Zuoou Li",
+          "Wenlong Zhao",
+          "Kelly Yu",
+          "Weitong Zhang",
+          "Paul M. Matthews"
+        ],
+        "summary": "Identifying robust associations between cardiac imaging phenotypes and clinical diseases is fundamental to population-scale cardiovascular research and reliable risk stratification. However, current phenome-wide association studies rely on pre-defined, single-variable phenotypes or expert-crafted fe",
+        "url": "http://arxiv.org/abs/2606.28179v1",
+        "pdf": "https://arxiv.org/pdf/2606.28179v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Tandem Reinforcement Learning with Verifiable Rewards",
+        "authors": [
+          "Difan Jiao",
+          "Raghav Singhal",
+          "Robert West",
+          "Ashton Anderson"
+        ],
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) has significantly improved the reasoning capability of large language models, reaching expert or even superhuman performance in domains such as competition math. However, whether weaker agents and humans can actually harness this capability is fa",
+        "url": "http://arxiv.org/abs/2606.28166v1",
+        "pdf": "https://arxiv.org/pdf/2606.28166v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models",
+        "authors": [
+          "Yanchen Yin",
+          "Dongqi Han",
+          "Linghui Li"
+        ],
+        "summary": "Jailbreak attacks bypass LLM safety alignment, yet their mechanisms remain poorly understood. We provide evidence that attacks do not comprehensively eliminate safety features, but instead selectively suppress specific attention heads. We identify two functionally differentiated types: Adversarially",
+        "url": "http://arxiv.org/abs/2606.28153v1",
+        "pdf": "https://arxiv.org/pdf/2606.28153v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Toward Robust In-Context Segmentation via Concept Guidance",
+        "authors": [
+          "Zhigang Chen",
+          "Xiawu Zheng",
+          "Rongrong Ji"
+        ],
+        "summary": "In-context segmentation (ICS) requires a model to segment target regions in a query image using only a few reference images and their corresponding masks, without updating any parameters. Despite recent progress, prior ICS studies have largely overlooked a critical aspect: system robustness, ie, whe",
+        "url": "http://arxiv.org/abs/2606.28149v1",
+        "pdf": "https://arxiv.org/pdf/2606.28149v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Beyond Sparse Supervision: Diffusion-Guided Learning for Few-Shot Graph Fraud Detection",
+        "authors": [
+          "Liming Liu",
+          "Chao Hu",
+          "Mingfei Lu",
+          "Yiwei Ge",
+          "Xingle Li"
+        ],
+        "summary": "Graph-based fraud detection is essential for safeguarding large-scale transaction systems, where undetected anomalies may lead to substantial financial losses and security risks. Real-world fraud graphs pose two coupled challenges: sparse and imbalanced supervision, where verified fraudulent labels ",
+        "url": "http://arxiv.org/abs/2606.28134v1",
+        "pdf": "https://arxiv.org/pdf/2606.28134v1",
+        "published": "2026-06-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Surprises in Proper Positive-Only Learning",
+        "authors": [
+          "Shai Ben-David",
+          "Farnam Mansouri",
+          "Anay Mehrotra",
+          "Manolis Zampetakis"
+        ],
+        "summary": "Binary classification from positive-only samples is a variant of PAC learning in which the learner receives i.i.d. samples from the positive region of an unknown target concept, but is evaluated under the original distribution (which places mass on both positive and negative regions). This model dat",
+        "url": "http://arxiv.org/abs/2606.28309v1",
+        "pdf": "https://arxiv.org/pdf/2606.28309v1",
+        "published": "2026-06-26",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization",
+        "authors": [
+          "Shuang Li",
+          "Zhihui Zhu",
+          "Qiuwei Li"
+        ],
+        "summary": "We analyze Bregman ADMM for nonconvex linearly constrained problems under two-sided relative smoothness, a condition that replaces the standard Lipschitz gradient assumption with a Hessian comparison relative to a Bregman kernel. This setting covers polynomial objectives arising in matrix and tensor",
+        "url": "http://arxiv.org/abs/2606.28307v1",
+        "pdf": "https://arxiv.org/pdf/2606.28307v1",
+        "published": "2026-06-26",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing",
+        "authors": [
+          "Kijung Jeon",
+          "Thuy-Duong Vuong",
+          "Molei Tao"
+        ],
+        "summary": "Inference-time scaling is a promising paradigm to improve generative models, especially when outputs must satisfy structural constraints or optimize downstream rewards. We consider Masked Diffusion Model (MDM) and introduce MDM-VGB, a discrete diffusion sampler that augments unmasking generation wit",
+        "url": "http://arxiv.org/abs/2606.28301v1",
+        "pdf": "https://arxiv.org/pdf/2606.28301v1",
+        "published": "2026-06-26",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Democratic ICAI: Debating Our Way to Steering Principles from Preferences",
+        "authors": [
+          "Kevin Kingslin",
+          "Anish Natekar",
+          "Ashutosh Ranjan",
+          "Vivek Srivastava",
+          "Savita Bhat"
+        ],
+        "summary": "Preference-based alignment often struggles to capture the reasoning that underlies human judgments. Many evaluations rely on multiple interacting criteria, yet pairwise labels reveal only the final choice rather than the considerations that shape preferences. Inverse Constitutional AI (ICAI) improve",
+        "url": "http://arxiv.org/abs/2606.28294v1",
+        "pdf": "https://arxiv.org/pdf/2606.28294v1",
+        "published": "2026-06-26",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks",
+        "authors": [
+          "Phong Dang",
+          "Evander Espinoza",
+          "Xiaoliang Wan",
+          "Michela Negro",
+          "Jerry P. Draayer"
+        ],
+        "summary": "Ab initio modeling has established Wigner's SU(4) and Elliott's SU(3) as dominant symmetries of the nuclear force in light and intermediate-mass nuclei. We ask whether they also govern nuclear binding across the entire chart. Our aim is not high-precision prediction but physical insight, through int",
+        "url": "http://arxiv.org/abs/2606.28287v1",
+        "pdf": "https://arxiv.org/pdf/2606.28287v1",
+        "published": "2026-06-26",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "PAC-Bayesian Certificates for Quadratic Closed-Loop Control",
+        "authors": [
+          "Domagoj Herceg"
+        ],
+        "summary": "PAC-Bayesian bounds provide finite-sample guarantees for data-dependent randomized predictors, but applying them to learning-based control is difficult because the natural objective is a quadratic trajectory cost. Such losses are unbounded, non-Lipschitz , and lead to response-dependent Chernoff ter",
+        "url": "http://arxiv.org/abs/2606.28281v1",
+        "pdf": "https://arxiv.org/pdf/2606.28281v1",
+        "published": "2026-06-26",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
