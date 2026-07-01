@@ -1,0 +1,577 @@
+{
+  "date": "2026-07-01",
+  "generated": "2026-07-01T06:35:23.079411",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "deepseek-ai/DeepSpec",
+        "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+        "stars": 5473,
+        "language": "Python",
+        "url": "https://github.com/deepseek-ai/DeepSpec",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 2,
+        "name": "baairon/torlink",
+        "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
+        "stars": 1858,
+        "language": "TypeScript",
+        "url": "https://github.com/baairon/torlink",
+        "created": "2026-06-25"
+      },
+      {
+        "rank": 3,
+        "name": "Krishnagangwal/CS-Fundamentals",
+        "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+        "stars": 1250,
+        "language": null,
+        "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
+        "created": "2026-06-28"
+      },
+      {
+        "rank": 4,
+        "name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+        "description": "",
+        "stars": 894,
+        "language": "Python",
+        "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
+        "created": "2026-06-28"
+      },
+      {
+        "rank": 5,
+        "name": "winsznx/theeleven",
+        "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+        "stars": 693,
+        "language": "TypeScript",
+        "url": "https://github.com/winsznx/theeleven",
+        "created": "2026-06-25"
+      },
+      {
+        "rank": 6,
+        "name": "TianhangZhuzth/Fundamental-Ava",
+        "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+        "stars": 648,
+        "language": "Python",
+        "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+        "created": "2026-06-30"
+      },
+      {
+        "rank": 7,
+        "name": "Pluviobyte/video-production-skills",
+        "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+        "stars": 486,
+        "language": "Python",
+        "url": "https://github.com/Pluviobyte/video-production-skills",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 8,
+        "name": "CopilotKit/OpenTag",
+        "description": "OpenTag",
+        "stars": 471,
+        "language": "TypeScript",
+        "url": "https://github.com/CopilotKit/OpenTag",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 9,
+        "name": "tdeverx/contained-app",
+        "description": "A native macOS app for Apple's Container CLI",
+        "stars": 439,
+        "language": "Swift",
+        "url": "https://github.com/tdeverx/contained-app",
+        "created": "2026-06-25"
+      },
+      {
+        "rank": 10,
+        "name": "cclank/lanshu-animated-architecture-diagram",
+        "description": "Premium hand-drawn animated architecture diagram Codex skill",
+        "stars": 390,
+        "language": "Python",
+        "url": "https://github.com/cclank/lanshu-animated-architecture-diagram",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 11,
+        "name": "wlzh/dji-4g-vohive-mac",
+        "description": "在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤",
+        "stars": 369,
+        "language": null,
+        "url": "https://github.com/wlzh/dji-4g-vohive-mac",
+        "created": "2026-06-27"
+      },
+      {
+        "rank": 12,
+        "name": "lycorp-jp/sim-use",
+        "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+        "stars": 357,
+        "language": "Swift",
+        "url": "https://github.com/lycorp-jp/sim-use",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 13,
+        "name": "ricccrd/dd",
+        "description": "",
+        "stars": 356,
+        "language": "C",
+        "url": "https://github.com/ricccrd/dd",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 14,
+        "name": "Jia-Ethan/codex-keysmith",
+        "description": "Codex CLI instruction-file installer for local configuration",
+        "stars": 355,
+        "language": "Python",
+        "url": "https://github.com/Jia-Ethan/codex-keysmith",
+        "created": "2026-06-28"
+      },
+      {
+        "rank": 15,
+        "name": "diinki/linux-antiquity",
+        "description": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.",
+        "stars": 353,
+        "language": "QML",
+        "url": "https://github.com/diinki/linux-antiquity",
+        "created": "2026-06-27"
+      },
+      {
+        "rank": 16,
+        "name": "downclash/clash",
+        "description": "",
+        "stars": 350,
+        "language": "JavaScript",
+        "url": "https://github.com/downclash/clash",
+        "created": "2026-06-27"
+      },
+      {
+        "rank": 17,
+        "name": "Einsia/Browser-BC",
+        "description": "Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting.",
+        "stars": 345,
+        "language": "TypeScript",
+        "url": "https://github.com/Einsia/Browser-BC",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 18,
+        "name": "blknoiz0632/CandyDrop",
+        "description": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill.",
+        "stars": 341,
+        "language": "JavaScript",
+        "url": "https://github.com/blknoiz0632/CandyDrop",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 19,
+        "name": "xxniiinxx/coinflip-casino-game",
+        "description": "A full-stack, peer-to-peer coinflip betting casino game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time ",
+        "stars": 338,
+        "language": "TypeScript",
+        "url": "https://github.com/xxniiinxx/coinflip-casino-game",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 20,
+        "name": "offchainthoughts/Amber",
+        "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+        "stars": 325,
+        "language": "Python",
+        "url": "https://github.com/offchainthoughts/Amber",
+        "created": "2026-06-28"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
+        "authors": [
+          "Zifan Carl Guo",
+          "Laura Ruis",
+          "Jacob Andreas",
+          "Belinda Z. Li"
+        ],
+        "summary": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified inputs a",
+        "url": "http://arxiv.org/abs/2606.32038v1",
+        "pdf": "https://arxiv.org/pdf/2606.32038v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
+        "authors": [
+          "Sergio Hernández-Gutiérrez",
+          "Matteo Merler",
+          "Ilze Amanda Auzina",
+          "Joschka Strüber",
+          "Ameya Prabhu"
+        ],
+        "summary": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to inform the model about the goodness of intermediate actions. Dense supervision methods aim to solve ",
+        "url": "http://arxiv.org/abs/2606.32034v1",
+        "pdf": "https://arxiv.org/pdf/2606.32034v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
+        "authors": [
+          "Gabrielle Kaili-May Liu",
+          "Avi Caciularu",
+          "Gal Yona",
+          "Idan Szpektor",
+          "Arman Cohan"
+        ],
+        "summary": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive faculties: they hallucinate with high confidence, fail to recognize knowledge boundaries, and misreprese",
+        "url": "http://arxiv.org/abs/2606.32032v1",
+        "pdf": "https://arxiv.org/pdf/2606.32032v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
+        "authors": [
+          "Yuqing Yang",
+          "Qi Zhu",
+          "Zhen Han",
+          "Boran Han",
+          "Zhengyuan Shen"
+        ],
+        "summary": "While large language models (LLMs) perform well on table tasks, they still make data referencing errors (DREs), i.e., incorrectly citing or omitting table values, despite understanding the table structure. Beyond final-answer accuracy, DREs directly compromise the correctness and reliability of inte",
+        "url": "http://arxiv.org/abs/2606.32029v1",
+        "pdf": "https://arxiv.org/pdf/2606.32029v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Freeform Preference Learning for Robotic Manipulation",
+        "authors": [
+          "Marcel Torne",
+          "Anubha Mahajan",
+          "Abhijnya Bhat",
+          "Chelsea Finn"
+        ],
+        "summary": "Reward design remains a central bottleneck for autonomous robot policy improvement, especially in long-horizon manipulation tasks where sparse success labels provide too little signal and binary preferences collapse many competing notions of quality into one ambiguous signal. We introduce Freeform P",
+        "url": "http://arxiv.org/abs/2606.32027v1",
+        "pdf": "https://arxiv.org/pdf/2606.32027v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "AdaJEPA: An Adaptive Latent World Model",
+        "authors": [
+          "Ying Wang",
+          "Oumayma Bounou",
+          "Yann LeCun",
+          "Mengye Ren"
+        ],
+        "summary": "Latent world models enable planning from high-dimensional observations by predicting future states in a compact latent space. However, these models are typically kept frozen at test time: when their predictions become inaccurate, planning can fail, especially under test-time distribution shift. To a",
+        "url": "http://arxiv.org/abs/2606.32026v1",
+        "pdf": "https://arxiv.org/pdf/2606.32026v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data",
+        "authors": [
+          "Emilie Vautier",
+          "Clément Mallet",
+          "Cédric Vega"
+        ],
+        "summary": "Forest attributes are essential for national-scale resource monitoring. Airborne LiDAR metrics are among the auxiliary variables most strongly correlated with forest attributes used in National Forest Inventory (NFI) estimates. However, producing wall-to-wall predictions remains challenging when LiD",
+        "url": "http://arxiv.org/abs/2606.32023v1",
+        "pdf": "https://arxiv.org/pdf/2606.32023v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning",
+        "authors": [
+          "Yuanda Xu",
+          "Zhengze Zhou",
+          "Hejian Sang",
+          "Xiaomin Li",
+          "Jiaxin Zhang"
+        ],
+        "summary": "Agentic reinforcement learning requires assigning credit to environment-facing actions such as searches, clicks, edits, navigation commands, and object interactions. Standard GRPO uses the final verifier outcome as a uniform advantage over all action tokens. This outcome signal is useful but structu",
+        "url": "http://arxiv.org/abs/2606.32017v1",
+        "pdf": "https://arxiv.org/pdf/2606.32017v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "AxDafny: Agentic Verified Code Generation in Dafny",
+        "authors": [
+          "Benjamin Breen",
+          "Austin Letson",
+          "Borja Requena Pozo",
+          "Leopoldo Sarra"
+        ],
+        "summary": "We study agentic code generation in Dafny, where a model must generate both executable code and the proof artifacts for verification. We present AxDafny, a verifier-guided repair framework that iteratively generates implementations, invariants, assertions, and termination arguments. We also introduc",
+        "url": "http://arxiv.org/abs/2606.32007v1",
+        "pdf": "https://arxiv.org/pdf/2606.32007v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "PolicyGuard: From Organizational Policies to Neuro-SymbolicCompliance Review Engines",
+        "authors": [
+          "Sameer Malik",
+          "Ayush Singh",
+          "Amar Prakash Azad"
+        ],
+        "summary": "Policy-grounded document review requires determining whether a target document complies with organization-specific policies, guidelines, or playbooks. While large language models can assist with policy interpretation and document analysis, end-to-end prompting leaves the applied policy logic implici",
+        "url": "http://arxiv.org/abs/2606.32004v1",
+        "pdf": "https://arxiv.org/pdf/2606.32004v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Self-Study Reconsidered: The Hidden Fragility of Learning from Self-Generated QA",
+        "authors": [
+          "Ekaterina Alimaskina",
+          "Denis Shveykin",
+          "Gleb Molodtsov",
+          "Igor Shalygin",
+          "Alexey Kadeishvili"
+        ],
+        "summary": "Language models are increasingly taught from synthetic question--answer (QA) supervision: a model generates questions about a document, answers them from the same text, and the resulting pairs are used to fine-tune, distill, or compress knowledge into another model. We show that this generation step",
+        "url": "http://arxiv.org/abs/2606.32002v1",
+        "pdf": "https://arxiv.org/pdf/2606.32002v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Radial Suppression Accelerates Algorithmic Generalization: A Geometric Analysis of Delayed Generalization",
+        "authors": [
+          "Srijan Tiwari",
+          "Aditya Chauhan",
+          "Manjot Singh"
+        ],
+        "summary": "Why do neural networks memorize algorithmic training data long before they generalize? We present a geometric case study demonstrating that, on tasks where generalization requires discovering structured low-dimensional circuits, the memorization-generalization delay is driven by radial inflation of ",
+        "url": "http://arxiv.org/abs/2606.32000v1",
+        "pdf": "https://arxiv.org/pdf/2606.32000v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Amplifying Membership Signal Through Chained Regeneration",
+        "authors": [
+          "Wojciech Łapacz",
+          "Stanisław Pawlak"
+        ],
+        "summary": "The tendency of large generative models to memorize training data makes sample verification critical for privacy auditing and copyright enforcement. Current membership (MIA) and dataset inference (DI) attacks often rely on one-shot generations, which yield weak signals and limited sensitivity across",
+        "url": "http://arxiv.org/abs/2606.31991v1",
+        "pdf": "https://arxiv.org/pdf/2606.31991v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "GR2 Technical Report",
+        "authors": [
+          "Yufei Li",
+          "Zaiwei Zhang",
+          "Mingfu Liang",
+          "Kavosh Asadi",
+          "Jay Xu"
+        ],
+        "summary": "Industrial recommendation systems serve billions of users through a multi-stage funnel -- retrieval, early-stage ranking, and re-ranking -- where the final re-ranking step disproportionately shapes user engagement and downstream performance, particularly for carousel and grid display formats. Despit",
+        "url": "http://arxiv.org/abs/2606.31984v1",
+        "pdf": "https://arxiv.org/pdf/2606.31984v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "LUNA: Learning Universal 3D Human Animation Beyond Skinning",
+        "authors": [
+          "Peng Li",
+          "Rawal Khirodkar",
+          "Junxuan Li",
+          "Yuan Dong",
+          "Chen Cao"
+        ],
+        "summary": "Creating photorealistic, animatable 3D human avatars from monocular images still largely depends on Linear Blend Skinning (LBS) and parametric body models, which constrain expressivity and often introduce artifacts due to imperfect fitting. We propose LUNA, an LBS-free universal neural animation mod",
+        "url": "http://arxiv.org/abs/2606.31981v1",
+        "pdf": "https://arxiv.org/pdf/2606.31981v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "TreeAgent: A Generalizable Multi-Agent Framework for Automated Bias Labeling in Forestry via Compiled Expert Rules and Vision-Language Models",
+        "authors": [
+          "Shiyi Chen",
+          "Nicholas Saban",
+          "Collin Hargreaves",
+          "Huiqi Wang"
+        ],
+        "summary": "Human-labeled data are widely used as reference annotations in ML, despite known variability across annotators in many expert-driven domains. In addition, expert annotation is slow, inconsistent, and remains a major bottleneck for scaling tasks like tree height bias classification in forestry remote",
+        "url": "http://arxiv.org/abs/2606.31976v1",
+        "pdf": "https://arxiv.org/pdf/2606.31976v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments",
+        "authors": [
+          "Qingyun Liu",
+          "Jiwen Zhang",
+          "Jingyi Hu",
+          "Siyuan Wang",
+          "Zhongyu Wei"
+        ],
+        "summary": "Recent multimodal large language models (MLLMs) have strong potential as embodied agents, but their ability to collaborate in visually grounded environments remains underexplored. To address this gap, we introduce MECoBench, a multimodal embodied cooperation benchmark with an evaluation platform spa",
+        "url": "http://arxiv.org/abs/2606.31966v1",
+        "pdf": "https://arxiv.org/pdf/2606.31966v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "LeCropFollow: Latent Space Planning for Navigation in Unstructured Crop Fields",
+        "authors": [
+          "Felipe Tommaselli",
+          "Francisco Affonso",
+          "Arthur Pompeu",
+          "Gianluca Capezzuto",
+          "Arun Narenthiran Sivakumar"
+        ],
+        "summary": "Unstructured navigational features, such as irregular planting or discontinuities, remain the primary failure mode for under-canopy agricultural robots. Existing geometric approaches often fail in these scenarios because they compress high-dimensional visual data into deterministic spatial reference",
+        "url": "http://arxiv.org/abs/2606.31941v1",
+        "pdf": "https://arxiv.org/pdf/2606.31941v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "MVP-Nav: Multi-layer Value Map Planner Navigator",
+        "authors": [
+          "Wenyuan Xie",
+          "Shaokai Wu",
+          "Yijin Zhou",
+          "Yanbiao Ji",
+          "Guodong Zhang"
+        ],
+        "summary": "Zero-shot Object Goal Navigation (ZSON) with RGB-only perception poses a fundamental challenge for embodied agents, as the absence of explicit depth information introduces severe physical uncertainty and semantic-physical misalignment. Existing approaches either rely on high-level semantic reasoning",
+        "url": "http://arxiv.org/abs/2606.31919v1",
+        "pdf": "https://arxiv.org/pdf/2606.31919v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Attend, Transform, or Silence: Operator-Level Visual Skipping for Efficient Multimodal LLM Inference",
+        "authors": [
+          "Zhaoyang Luo",
+          "Runmin Dong",
+          "Miao Yang",
+          "Fan Wei",
+          "Yushan Lai"
+        ],
+        "summary": "Multimodal large language models (MLLMs) increasingly process long visual-token sequences, increasing the overall inference computation. Existing acceleration methods usually remove visual tokens or skip visual-token updates in entire layers, but these coarse strategies may discard fine-grained evid",
+        "url": "http://arxiv.org/abs/2606.31903v1",
+        "pdf": "https://arxiv.org/pdf/2606.31903v1",
+        "published": "2026-06-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models",
+        "authors": [
+          "Jian Gu",
+          "Aldeida Aleti",
+          "Chunyang Chen",
+          "Hongyu Zhang"
+        ],
+        "summary": "Residual-stream analysis asks how language-model computation evolves across depth, but intermediate decoding requires comparable readout coordinates across layers. If embedding anchors and unembedding readout disagree on the chosen span, apparent motion may reflect measurement drift rather than comp",
+        "url": "http://arxiv.org/abs/2606.32022v1",
+        "pdf": "https://arxiv.org/pdf/2606.32022v1",
+        "published": "2026-06-30",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Automated Background Swapping for Robustness against Spurious Backgrounds",
+        "authors": [
+          "Cesar Roder",
+          "Kajetan Schweighofer"
+        ],
+        "summary": "Classifiers based on Deep Neural Networks exhibit strong performance across domains, yet can fail catastrophically if they rely on spurious correlations, i.e., features that are predictive of the target label in the training data but are not causally linked and thus fail to generalize. For the visio",
+        "url": "http://arxiv.org/abs/2606.32018v1",
+        "pdf": "https://arxiv.org/pdf/2606.32018v1",
+        "published": "2026-06-30",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "FedLAB: Traceable Semantic Codebooks for Federated Multimodal Graph Foundation Learning",
+        "authors": [
+          "Zekai Chen",
+          "Kairui Yang",
+          "Xuaner Chen",
+          "Xunkai Li",
+          "Xun Wu"
+        ],
+        "summary": "Multimodal graph foundation models aim to learn reusable knowledge from graphs enriched with text, images, attributes, and relational topology, thereby supporting diverse graph-centric and modality-centric tasks. In practice, however, such multimodal graphs are often distributed across decentralized",
+        "url": "http://arxiv.org/abs/2606.32016v1",
+        "pdf": "https://arxiv.org/pdf/2606.32016v1",
+        "published": "2026-06-30",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "CoMet: Context and Multiplicity Decomposition for Multimodal Uncertainty Estimation",
+        "authors": [
+          "Sanghyuk Chun",
+          "William Yang",
+          "Amaya Dharmasiri",
+          "Olga Russakovsky"
+        ],
+        "summary": "Uncertainty estimation has been a long-standing challenge in AI models; it amounts to \"knowing what you don't know,\" and metacognition is notoriously difficult even for humans (cf. the Dunning-Kruger effect). Although it is still far from solved even in simpler classification systems, tackling it in",
+        "url": "http://arxiv.org/abs/2606.32012v1",
+        "pdf": "https://arxiv.org/pdf/2606.32012v1",
+        "published": "2026-06-30",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Surrogate Fidelity: When Can Open LLMs Explain Closed Ones?",
+        "authors": [
+          "Philippe Chlenski",
+          "Zachariah Carmichael",
+          "Ayush Warikoo",
+          "Chia-Tse Shao",
+          "Yingxiao Ye"
+        ],
+        "summary": "Mechanistic interpretability (MI) requires full access to model internals, yet the APIs for most widely deployed language models at best expose log-probabilities over output tokens. This creates a surrogate problem: when do measurements made on open models allow us to make claims about a closed mode",
+        "url": "http://arxiv.org/abs/2606.32008v1",
+        "pdf": "https://arxiv.org/pdf/2606.32008v1",
+        "published": "2026-06-30",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
