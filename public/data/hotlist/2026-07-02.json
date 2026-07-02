@@ -1,0 +1,553 @@
+{
+  "date": "2026-07-02",
+  "generated": "2026-07-02T06:01:16.794933",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "deepseek-ai/DeepSpec",
+        "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+        "stars": 5794,
+        "language": "Python",
+        "url": "https://github.com/deepseek-ai/DeepSpec",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 2,
+        "name": "Krishnagangwal/CS-Fundamentals",
+        "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+        "stars": 1355,
+        "language": null,
+        "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
+        "created": "2026-06-28"
+      },
+      {
+        "rank": 3,
+        "name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+        "description": "",
+        "stars": 1043,
+        "language": "Python",
+        "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
+        "created": "2026-06-28"
+      },
+      {
+        "rank": 4,
+        "name": "mekos2772/ios-location-spoofer",
+        "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+        "stars": 819,
+        "language": "JavaScript",
+        "url": "https://github.com/mekos2772/ios-location-spoofer",
+        "created": "2026-06-30"
+      },
+      {
+        "rank": 5,
+        "name": "Kulaxyz/self-learning-skills",
+        "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
+        "stars": 779,
+        "language": null,
+        "url": "https://github.com/Kulaxyz/self-learning-skills",
+        "created": "2026-06-28"
+      },
+      {
+        "rank": 6,
+        "name": "TianhangZhuzth/Fundamental-Ava",
+        "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+        "stars": 727,
+        "language": "Python",
+        "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+        "created": "2026-06-30"
+      },
+      {
+        "rank": 7,
+        "name": "aquace/CVE-2026-41940-PoC",
+        "description": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
+        "stars": 571,
+        "language": "Python",
+        "url": "https://github.com/aquace/CVE-2026-41940-PoC",
+        "created": "2026-06-28"
+      },
+      {
+        "rank": 8,
+        "name": "CopilotKit/OpenTag",
+        "description": "OpenTag",
+        "stars": 497,
+        "language": "TypeScript",
+        "url": "https://github.com/CopilotKit/OpenTag",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 9,
+        "name": "Pluviobyte/video-production-skills",
+        "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+        "stars": 493,
+        "language": "Python",
+        "url": "https://github.com/Pluviobyte/video-production-skills",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 10,
+        "name": "diinki/linux-antiquity",
+        "description": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.",
+        "stars": 448,
+        "language": "QML",
+        "url": "https://github.com/diinki/linux-antiquity",
+        "created": "2026-06-27"
+      },
+      {
+        "rank": 11,
+        "name": "cclank/lanshu-animated-architecture-diagram",
+        "description": "Premium hand-drawn animated architecture diagram Codex skill",
+        "stars": 426,
+        "language": "Python",
+        "url": "https://github.com/cclank/lanshu-animated-architecture-diagram",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 12,
+        "name": "Leron-X/leronx",
+        "description": "LeronX — AI Image & Video Generation Platform",
+        "stars": 418,
+        "language": "Python",
+        "url": "https://github.com/Leron-X/leronx",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 13,
+        "name": "lycorp-jp/sim-use",
+        "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+        "stars": 407,
+        "language": "Swift",
+        "url": "https://github.com/lycorp-jp/sim-use",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 14,
+        "name": "wlzh/dji-4g-vohive-mac",
+        "description": "在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤",
+        "stars": 388,
+        "language": null,
+        "url": "https://github.com/wlzh/dji-4g-vohive-mac",
+        "created": "2026-06-27"
+      },
+      {
+        "rank": 15,
+        "name": "Jia-Ethan/codex-keysmith",
+        "description": "Codex CLI instruction-file installer for local configuration",
+        "stars": 383,
+        "language": "Python",
+        "url": "https://github.com/Jia-Ethan/codex-keysmith",
+        "created": "2026-06-28"
+      },
+      {
+        "rank": 16,
+        "name": "ricccrd/dd",
+        "description": "",
+        "stars": 358,
+        "language": "C",
+        "url": "https://github.com/ricccrd/dd",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 17,
+        "name": "Einsia/Browser-BC",
+        "description": "Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting.",
+        "stars": 358,
+        "language": "TypeScript",
+        "url": "https://github.com/Einsia/Browser-BC",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 18,
+        "name": "xxniiinxx/coinflip-casino-game",
+        "description": "A full-stack, peer-to-peer coinflip betting casino game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time ",
+        "stars": 350,
+        "language": "TypeScript",
+        "url": "https://github.com/xxniiinxx/coinflip-casino-game",
+        "created": "2026-06-26"
+      },
+      {
+        "rank": 19,
+        "name": "downclash/clash",
+        "description": "",
+        "stars": 343,
+        "language": "JavaScript",
+        "url": "https://github.com/downclash/clash",
+        "created": "2026-06-27"
+      },
+      {
+        "rank": 20,
+        "name": "tryOpenRAM/OpenRAM",
+        "description": "Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned. ",
+        "stars": 334,
+        "language": "Vue",
+        "url": "https://github.com/tryOpenRAM/OpenRAM",
+        "created": "2026-06-26"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Measuring the Gap Between Human and LLM Research Ideas",
+        "authors": [
+          "Ziyu Chen",
+          "Yilun Zhao",
+          "Arman Cohan"
+        ],
+        "summary": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-generated ideas from human researchers? To characterize this gap, we build a large-scale evaluation f",
+        "url": "http://arxiv.org/abs/2607.01233v1",
+        "pdf": "https://arxiv.org/pdf/2607.01233v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Language-Critique Imitation Learning from Suboptimal Demonstrations",
+        "authors": [
+          "Chih-Han Yang",
+          "Dai-Jie Wu",
+          "Yun-Ping Huang",
+          "Ping-Chun Hsieh",
+          "Kenneth Marino"
+        ],
+        "summary": "Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discriminator scores, or importance weights. These scalar signals are inherently limited, as they cannot explicitly express intermediate reasoning about ta",
+        "url": "http://arxiv.org/abs/2607.01225v1",
+        "pdf": "https://arxiv.org/pdf/2607.01225v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
+        "authors": [
+          "Shengguang Wu",
+          "Hao Zhu",
+          "Yuhui Zhang",
+          "Xiaohan Wang",
+          "Serena Yeung-Levy"
+        ],
+        "summary": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by treating memory management as a trainable skill. We promote file-system operations to first-class me",
+        "url": "http://arxiv.org/abs/2607.01224v1",
+        "pdf": "https://arxiv.org/pdf/2607.01224v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
+        "authors": [
+          "Ben Slivinski",
+          "Michael Saldivar"
+        ],
+        "summary": "When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that cannot be audited after the fact and are subject to the same coherence issues as any LLM. We presen",
+        "url": "http://arxiv.org/abs/2607.01223v1",
+        "pdf": "https://arxiv.org/pdf/2607.01223v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "The State-Prediction Separation Hypothesis",
+        "authors": [
+          "Giovanni Monea",
+          "Nathan Godey",
+          "Kianté Brantley",
+          "Yoav Artzi"
+        ],
+        "summary": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the \\emph{state-prediction separation hypothesis}: disentangling the two roles yields better language modeling performance. We design a Transformer va",
+        "url": "http://arxiv.org/abs/2607.01218v1",
+        "pdf": "https://arxiv.org/pdf/2607.01218v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model",
+        "authors": [
+          "Chenyang Ma",
+          "Yue Yang",
+          "Radu Corcodel",
+          "Siddarth Jain",
+          "Andrew Wu"
+        ],
+        "summary": "Current work on robot furniture assembly mostly focuses on toy-scale settings or single-arm manipulation. We introduce FurnitureVLA, the first systematic study of real-scale bimanual furniture assembly using Vision-Language-Action models (VLAs). We formalize the task, develop a scalable simulation p",
+        "url": "http://arxiv.org/abs/2607.01212v1",
+        "pdf": "https://arxiv.org/pdf/2607.01212v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?",
+        "authors": [
+          "Zhi Chen",
+          "Zhensu Sun",
+          "Yuling Shi",
+          "David Lo",
+          "Lingxiao Jiang"
+        ],
+        "summary": "Repository-level performance-optimization benchmarks such as GSO, SWE-Perf and SWE-fficiency evaluate coding agents by applying patches to real repositories and comparing runtime against unoptimized baselines and official reference patches. Their leaderboard scores are increasingly used as evidence ",
+        "url": "http://arxiv.org/abs/2607.01211v1",
+        "pdf": "https://arxiv.org/pdf/2607.01211v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation",
+        "authors": [
+          "Shayan Talaei",
+          "Abhinav Chinta",
+          "Devvrit Khatri",
+          "Amin Karbasi",
+          "Azalia Mirhoseini"
+        ],
+        "summary": "Language models deployed in high-stakes roles can potentially favor certain entities, brands, or viewpoints, steering user decisions at scale. Such preferential biases can be introduced by any actor in the model's supply chain and are most dangerous when the model reveals its preference only on the ",
+        "url": "http://arxiv.org/abs/2607.01208v1",
+        "pdf": "https://arxiv.org/pdf/2607.01208v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "GPU-Parallel Linearization Error Bounds for Real-Time Robust Optimal Control of Nonlinear and Neural Network Dynamics",
+        "authors": [
+          "Jeffrey Fang",
+          "Keyi Shen",
+          "Anutam Srinivasan",
+          "Glen Chou"
+        ],
+        "summary": "This paper studies real-time robust optimal control for uncertain nonlinear systems, where linear time-varying (LTV) approximations make planning tractable but require sound linearization error bounds (LEBs) to guarantee robust constraint satisfaction. We develop tight, differentiable, GPU-parallel ",
+        "url": "http://arxiv.org/abs/2607.01203v1",
+        "pdf": "https://arxiv.org/pdf/2607.01203v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video",
+        "authors": [
+          "Liyuan Zhu",
+          "Shengyu Huang",
+          "Amrita Mazumdar",
+          "Tianye Li",
+          "Zan Gojcic"
+        ],
+        "summary": "We present World from Motion, a method for generating freely renderable dynamic 3D Gaussian representations from monocular videos. Our approach conditions a video model on dense, pixel-aligned renderings that encode appearance, geometry, and 3D scene motion along both input and target camera traject",
+        "url": "http://arxiv.org/abs/2607.01202v1",
+        "pdf": "https://arxiv.org/pdf/2607.01202v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Optimal Resource Utilization for Autonomous Laboratory Orchestrators",
+        "authors": [
+          "Austin McDannald",
+          "Julia Tisaranni",
+          "Howie Joress"
+        ],
+        "summary": "In autonomous laboratories, AI agents suggest the next batch of experiments to do. However, planning and executing those tasks taking full advantage of the available resources is a completely different question. This can be challenging when dealing with real-world hardware constraints, especially so",
+        "url": "http://arxiv.org/abs/2607.01188v1",
+        "pdf": "https://arxiv.org/pdf/2607.01188v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Right in the Right Way: LM Training with Verifiable Rewards and Human Demonstrations",
+        "authors": [
+          "Mehul Damani",
+          "Isha Puri",
+          "Idan Shenfeld",
+          "Jacob Andreas"
+        ],
+        "summary": "RL with verifiable rewards (RLVR) has emerged as a powerful paradigm for training LMs on tasks with well-defined success metrics, such as code generation and mathematical reasoning. However, current RLVR methods optimize only what can be objectively scored, often neglecting subjective, non-verifiabl",
+        "url": "http://arxiv.org/abs/2607.01181v1",
+        "pdf": "https://arxiv.org/pdf/2607.01181v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Diffusion-GR2: Diffusion Generative Reasoning Re-ranker",
+        "authors": [
+          "Zhuoxuan Zhang",
+          "Kangqi Ni",
+          "Yuhang Chen",
+          "Mingfu Liang",
+          "Xiaohan Wei"
+        ],
+        "summary": "Generative reasoning re-rankers achieve strong recommendation accuracy by emitting a chain-of-thought before re-ordering a candidate list, but they are slow at inference: an autoregressive (AR) decoder spends one sequential forward pass per reasoning token, and the reasoning trace far exceeds the ra",
+        "url": "http://arxiv.org/abs/2607.01170v1",
+        "pdf": "https://arxiv.org/pdf/2607.01170v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Adversarial Pragmatics for AI Safety Evaluation: A Benchmark for Instruction Conflict, Embedded Commands, and Policy Ambiguity",
+        "authors": [
+          "Brett Reynolds"
+        ],
+        "summary": "Safety evaluations for language models increasingly depend on judgments about ambiguous natural-language behaviour: whether a model has followed an instruction, refused appropriately, complied with a policy, resisted an embedded command, or misreported progress in an agentic task. Existing benchmark",
+        "url": "http://arxiv.org/abs/2607.01153v1",
+        "pdf": "https://arxiv.org/pdf/2607.01153v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Sequentially-Controlled Interactive Multi-Particle Flow-Maps for Online Feedback-Driven Search",
+        "authors": [
+          "Binglin Ji",
+          "Anindya Sarkar",
+          "Hengchang Lu",
+          "Jens Sjölund",
+          "Yevgeniy Vorobeychik"
+        ],
+        "summary": "While generative models have enabled training-free reward alignment, current methods typically excel in local exploration within narrow regions of the underlying distribution. These approaches struggle when preferences are unknown a priori and only revealed through sequential feedback-a scenario dem",
+        "url": "http://arxiv.org/abs/2607.01144v1",
+        "pdf": "https://arxiv.org/pdf/2607.01144v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Skills Are Not Islands: Measuring Dependency and Risk in Agent Skill Supply Chains",
+        "authors": [
+          "Changguo Jia",
+          "Tianqi Zhao",
+          "Runzhi He",
+          "Minghui Zhou"
+        ],
+        "summary": "Agent skills package reusable operational knowledge for Large Language Model (LLM) agents, yet as they grow in scope, they become dependency-bearing artifacts whose identities, versions, and provenance remain implicit. This opacity already causes duplicated dependencies and inconsistent installation",
+        "url": "http://arxiv.org/abs/2607.01136v1",
+        "pdf": "https://arxiv.org/pdf/2607.01136v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Autonomous Scientific Discovery via Iterative Meta-Reflection",
+        "authors": [
+          "Bingchen Zhao",
+          "Sara Beery",
+          "Oisin Mac Aodha"
+        ],
+        "summary": "Autonomous scientific discovery systems offer the potential to accelerate research by automating the process of hypothesis generation and validation. However, current systems operate within constrained search spaces or require predefined research questions, limiting their capacity for true open-ende",
+        "url": "http://arxiv.org/abs/2607.01131v1",
+        "pdf": "https://arxiv.org/pdf/2607.01131v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Muon as a Residual Connection",
+        "authors": [
+          "Hao Huang"
+        ],
+        "summary": "Muon has recently emerged as one of the most effective optimizers for training large neural networks, yet its empirical success has been explained from several different perspectives. In this paper, we propose a simple mechanistic interpretation: Muon can be understood as an implicit residual connec",
+        "url": "http://arxiv.org/abs/2607.01124v1",
+        "pdf": "https://arxiv.org/pdf/2607.01124v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Towards Developing a Multimodal Chat Assistant for University Stakeholders: RAG-based Approach",
+        "authors": [
+          "Md Abu Hanif Shaikh",
+          "Abdullah Al Shafi"
+        ],
+        "summary": "University stakeholders often face difficulties in accessing timely and reliable information, especially in developing countries, where there are very few intelligent support systems. Existing rule-based chatbots are unable to handle complex, domain-specific queries and are not well-equipped to adap",
+        "url": "http://arxiv.org/abs/2607.01115v1",
+        "pdf": "https://arxiv.org/pdf/2607.01115v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "FAR: Failure-Aware Retry for Test-Time Recovery and Continual Policy Improvement",
+        "authors": [
+          "Haoran Hao",
+          "Shahram Najam Syed",
+          "Jeffrey Ichnowski",
+          "Jeff Schneider"
+        ],
+        "summary": "Robot policies inevitably encounter failures when deployed in real environments. Naive retries often repeat the same mistakes, while many existing recovery methods rely on human intervention. In this paper, we propose Failure-Aware Retry (FAR), a framework that enables robots to learn from previous ",
+        "url": "http://arxiv.org/abs/2607.01111v1",
+        "pdf": "https://arxiv.org/pdf/2607.01111v1",
+        "published": "2026-07-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
+        "authors": [
+          "Zijian Zhang",
+          "Rizhen Hu",
+          "Athanasios Glentis",
+          "Dawei Li",
+          "Chung-Yiu Yau"
+        ],
+        "summary": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Existing approaches typically update all model parameters uniformly, implicitly assuming that every lay",
+        "url": "http://arxiv.org/abs/2607.01232v1",
+        "pdf": "https://arxiv.org/pdf/2607.01232v1",
+        "published": "2026-07-01",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "TiRex-2: Generalizing TiRex to Multivariate Data and Streaming",
+        "authors": [
+          "Patrick Podest",
+          "Marco Pichler",
+          "Elias Bürger",
+          "Levente Zólyomi",
+          "Bernhard Voggenberger"
+        ],
+        "summary": "We introduce TiRex-2, a recurrent xLSTM-based time series foundation model that generalizes the univariate TiRex to multivariate forecasting with both past and future covariates. Real-world forecasting is inherently sequential: observations arrive continuously, variables evolve jointly, and a subset",
+        "url": "http://arxiv.org/abs/2607.01204v1",
+        "pdf": "https://arxiv.org/pdf/2607.01204v1",
+        "published": "2026-07-01",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Quantum vs. Classical Machine Learning: A Unified Empirical Comparison",
+        "authors": [
+          "Chuanming Yu",
+          "Jiaming Liu",
+          "Zihao Ge",
+          "Xiongfei Wu",
+          "Lulu Zhu"
+        ],
+        "summary": "Quantum computing has emerged as a promising computational paradigm for machine learning (ML), with the potential to offer computational advantages over classical approaches. At this stage, the evidence supporting the performance and advantages of quantum machine learning (QML) models relative to cl",
+        "url": "http://arxiv.org/abs/2607.01197v1",
+        "pdf": "https://arxiv.org/pdf/2607.01197v1",
+        "published": "2026-07-01",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Neural Certificate Pricing for Combinatorial Optimization Problems",
+        "authors": [
+          "Jingyi Chen",
+          "Xinyuan Zhang",
+          "Xinwu Qian"
+        ],
+        "summary": "Combinatorial optimization (CO) problems are difficult because certifiable discrete structure induces exponential search. One needs to search over the set exponentially many candidates to certify optimality, however, the structural feasibility of a path, packing, or cover can be verified in polynomi",
+        "url": "http://arxiv.org/abs/2607.01185v1",
+        "pdf": "https://arxiv.org/pdf/2607.01185v1",
+        "published": "2026-07-01",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
