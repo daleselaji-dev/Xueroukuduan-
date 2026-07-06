@@ -1,0 +1,527 @@
+{
+  "date": "2026-07-06",
+  "generated": "2026-07-06T06:38:06.981274",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "elder-plinius/T3MP3ST",
+        "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+        "stars": 1903,
+        "language": "TypeScript",
+        "url": "https://github.com/elder-plinius/T3MP3ST",
+        "created": "2026-07-02"
+      },
+      {
+        "rank": 2,
+        "name": "mekos2772/ios-location-spoofer",
+        "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+        "stars": 1351,
+        "language": "JavaScript",
+        "url": "https://github.com/mekos2772/ios-location-spoofer",
+        "created": "2026-06-30"
+      },
+      {
+        "rank": 3,
+        "name": "HUANGCHIHHUNGLeo/claude-real-video",
+        "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+        "stars": 1052,
+        "language": "Python",
+        "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+        "created": "2026-06-30"
+      },
+      {
+        "rank": 4,
+        "name": "jamesob/local-llm",
+        "description": "Everything I know about running LLMs locally",
+        "stars": 942,
+        "language": "Shell",
+        "url": "https://github.com/jamesob/local-llm",
+        "created": "2026-07-03"
+      },
+      {
+        "rank": 5,
+        "name": "ammaarreshi/Generals-Mac-iOS-iPad",
+        "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
+        "stars": 883,
+        "language": "C++",
+        "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
+        "created": "2026-07-04"
+      },
+      {
+        "rank": 6,
+        "name": "xuchonglang/investing-for-beginners",
+        "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+        "stars": 721,
+        "language": null,
+        "url": "https://github.com/xuchonglang/investing-for-beginners",
+        "created": "2026-07-03"
+      },
+      {
+        "rank": 7,
+        "name": "jmerelnyc/Talos",
+        "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+        "stars": 687,
+        "language": "Python",
+        "url": "https://github.com/jmerelnyc/Talos",
+        "created": "2026-07-02"
+      },
+      {
+        "rank": 8,
+        "name": "uzairansaruzi/hermex",
+        "description": "Native iPhone app for your Hermes agent",
+        "stars": 627,
+        "language": "Swift",
+        "url": "https://github.com/uzairansaruzi/hermex",
+        "created": "2026-07-02"
+      },
+      {
+        "rank": 9,
+        "name": "Kulaxyz/token-diet",
+        "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
+        "stars": 591,
+        "language": "Shell",
+        "url": "https://github.com/Kulaxyz/token-diet",
+        "created": "2026-07-03"
+      },
+      {
+        "rank": 10,
+        "name": "LinXiaoTao/FuckClaude",
+        "description": "",
+        "stars": 555,
+        "language": "TypeScript",
+        "url": "https://github.com/LinXiaoTao/FuckClaude",
+        "created": "2026-07-02"
+      },
+      {
+        "rank": 11,
+        "name": "CalmNoteDepot/MECCHA-VISION-ULTIMATE",
+        "description": "🎯 Meccha Vision Ultimate — Ultimate Enhancement Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint · Speed Hack · No Recoil",
+        "stars": 533,
+        "language": null,
+        "url": "https://github.com/CalmNoteDepot/MECCHA-VISION-ULTIMATE",
+        "created": "2026-07-04"
+      },
+      {
+        "rank": 12,
+        "name": "TianhangZhuzth/Fundamental-Ava",
+        "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+        "stars": 525,
+        "language": "Python",
+        "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+        "created": "2026-06-30"
+      },
+      {
+        "rank": 13,
+        "name": "asz798838958/FrciblyK12",
+        "description": "多线程全自动注册free 强上K12空间",
+        "stars": 459,
+        "language": "Python",
+        "url": "https://github.com/asz798838958/FrciblyK12",
+        "created": "2026-07-02"
+      },
+      {
+        "rank": 14,
+        "name": "HKUDS/OpenOPC",
+        "description": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
+        "stars": 418,
+        "language": "Python",
+        "url": "https://github.com/HKUDS/OpenOPC",
+        "created": "2026-07-01"
+      },
+      {
+        "rank": 15,
+        "name": "lingbol088-spec/reverse-flow-skill",
+        "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+        "stars": 402,
+        "language": "Python",
+        "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+        "created": "2026-06-30"
+      },
+      {
+        "rank": 16,
+        "name": "dzhng/skills",
+        "description": "",
+        "stars": 356,
+        "language": "JavaScript",
+        "url": "https://github.com/dzhng/skills",
+        "created": "2026-07-02"
+      },
+      {
+        "rank": 17,
+        "name": "Archive228/loopkit",
+        "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
+        "stars": 334,
+        "language": "JavaScript",
+        "url": "https://github.com/Archive228/loopkit",
+        "created": "2026-06-30"
+      },
+      {
+        "rank": 18,
+        "name": "yynxxxxx/Codex-X",
+        "description": "Codex Switch & Instruct desktop manager",
+        "stars": 323,
+        "language": "Rust",
+        "url": "https://github.com/yynxxxxx/Codex-X",
+        "created": "2026-07-04"
+      },
+      {
+        "rank": 19,
+        "name": "xt4d/GameBlocks",
+        "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
+        "stars": 302,
+        "language": "JavaScript",
+        "url": "https://github.com/xt4d/GameBlocks",
+        "created": "2026-07-01"
+      },
+      {
+        "rank": 20,
+        "name": "514-labs/dnsglobe",
+        "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+        "stars": 282,
+        "language": "Rust",
+        "url": "https://github.com/514-labs/dnsglobe",
+        "created": "2026-07-05"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Distributed Attacks in Persistent-State AI Control",
+        "authors": [
+          "Josh Hills",
+          "Ida Caspary",
+          "Asa Cooper Stickland"
+        ],
+        "summary": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt-injected agent can distribute attacks across pull requests (PRs) and time its payload for the PR wi",
+        "url": "http://arxiv.org/abs/2607.02514v1",
+        "pdf": "https://arxiv.org/pdf/2607.02514v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+        "authors": [
+          "Matteo Boglioni",
+          "Thibault Rousset",
+          "Siva Reddy",
+          "Marius Mosbach",
+          "Verna Dankers"
+        ],
+        "summary": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising solution, with state-of-the-art(SOTA) methods often following a localize-first, unlearn-second paradigm th",
+        "url": "http://arxiv.org/abs/2607.02513v1",
+        "pdf": "https://arxiv.org/pdf/2607.02513v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+        "authors": [
+          "Wentao Zhang",
+          "Liliana Hotsko",
+          "Woojeong Kim",
+          "Pengyu Nie",
+          "Stuart Shieber"
+        ],
+        "summary": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly outsourced to large language model APIs at the cost of locality, reproducibility, and price. We propose",
+        "url": "http://arxiv.org/abs/2607.02512v1",
+        "pdf": "https://arxiv.org/pdf/2607.02512v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Online Safety Monitoring for LLMs",
+        "authors": [
+          "Mona Schirmer",
+          "Metod Jazbec",
+          "Alexander Timans",
+          "Christian Naesseth",
+          "Maja Waldron"
+        ],
+        "summary": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical. We study a simple real-time monitor that turns a verifier signal from an external model into an al",
+        "url": "http://arxiv.org/abs/2607.02510v1",
+        "pdf": "https://arxiv.org/pdf/2607.02510v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+        "authors": [
+          "Yanjun Zhao",
+          "Ruizhong Qiu",
+          "Tianxin Wei",
+          "Yuanchen Bei",
+          "Zhining Liu"
+        ],
+        "summary": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context windows, they often fail to use relevant evidence that is already present in the input, revealing a",
+        "url": "http://arxiv.org/abs/2607.02509v1",
+        "pdf": "https://arxiv.org/pdf/2607.02509v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+        "authors": [
+          "Arman Ghaffarizadeh",
+          "Danyal Mohaddes",
+          "Aliakbar Izadkhah",
+          "Shahriar Noroozizadeh"
+        ],
+        "summary": "LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, without any explicit objective in the prompt, changes what an agent expresses publicly relative to an",
+        "url": "http://arxiv.org/abs/2607.02507v1",
+        "pdf": "https://arxiv.org/pdf/2607.02507v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
+        "authors": [
+          "Yuxuan Li",
+          "Lingxi Xie",
+          "Xinyue Huo",
+          "Jihao Qiu",
+          "Jiacheng Shao"
+        ],
+        "summary": "Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deciphering complex storyline often relies on \\textbf{speaker recognition}, the task of accurately attributing each spoken utterance to its respective character. In this paper, we advance this field throu",
+        "url": "http://arxiv.org/abs/2607.02504v1",
+        "pdf": "https://arxiv.org/pdf/2607.02504v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+        "authors": [
+          "Yunhe Li",
+          "Hao Shi",
+          "Wenhao Liu",
+          "Mengzhe Ruan",
+          "Hanxu Hou"
+        ],
+        "summary": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different levels of information access. However, recent studies have found that the teacher's dense token-level",
+        "url": "http://arxiv.org/abs/2607.02502v1",
+        "pdf": "https://arxiv.org/pdf/2607.02502v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+        "authors": [
+          "Gil Harari",
+          "Yoel Zimmermann",
+          "Ola Tangen Kulseng",
+          "Laura Zichi",
+          "Chuin Wei Tan"
+        ],
+        "summary": "Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for scientific simulation. While efforts on new architectures and datasets have led to increasingly accurate and general models, the choice of optimizer for training has largely remained unexplored, defaulting to Adam and i",
+        "url": "http://arxiv.org/abs/2607.02499v1",
+        "pdf": "https://arxiv.org/pdf/2607.02499v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models",
+        "authors": [
+          "Timo Bertram",
+          "Sidhant Bhavnani",
+          "Richard Freinschlag",
+          "Erich Kobler",
+          "Andreas Mayr"
+        ],
+        "summary": "In this work, we focus on SE-RRMs, a symbol-equivariant instantiation of RRMs that exhibits improved extrapolation to larger problem sizes. We propose a neuro-symbolic approach, ``Guiding with Recurrent Reasoning Models'' (G-RRM), which integrates SE-RRMs with symbolic solvers for constraint satisfa",
+        "url": "http://arxiv.org/abs/2607.02491v1",
+        "pdf": "https://arxiv.org/pdf/2607.02491v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning",
+        "authors": [
+          "Xuehui Wang",
+          "Xuankun Yang",
+          "Wei Shen"
+        ],
+        "summary": "Visual token pruning is a crucial strategy for accelerating VLMs by compressing redundant image patches, yet existing methods often fail to preserve critical cues under dense instructions and fine-grained queries. In this paper, we investigate this failure and identify two underlying bottlenecks: th",
+        "url": "http://arxiv.org/abs/2607.02484v1",
+        "pdf": "https://arxiv.org/pdf/2607.02484v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "TestEvo-Bench: An Executable and Live Benchmark for Test and Code Co-Evolution",
+        "authors": [
+          "Jiale Amber Wang",
+          "Kaiyuan Wang",
+          "Pengyu Nie"
+        ],
+        "summary": "Software tests and code evolve together: a code change should be followed by new or updated tests that record the new software behavior. Yet existing test generation and update benchmarks often isolate the test from the code change, and rely on static metadata that does not verify whether a test is ",
+        "url": "http://arxiv.org/abs/2607.02469v1",
+        "pdf": "https://arxiv.org/pdf/2607.02469v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Human Capital, Not Model Benchmarks, Predicts Hybrid Intelligence in Forecasting",
+        "authors": [
+          "Vivienne Ming"
+        ],
+        "summary": "Whether pairing people with AI helps or hurts is usually reported as a single average effect. Using a real-money prediction market (Polymarket) as an objective, externally resolved benchmark, this pilot shows that the value of human-AI collaboration depends on a specific, measurable form of human ca",
+        "url": "http://arxiv.org/abs/2607.02467v1",
+        "pdf": "https://arxiv.org/pdf/2607.02467v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs",
+        "authors": [
+          "Junhao Shi",
+          "Siyin Wang",
+          "Xiaopeng Yu",
+          "Li Ji",
+          "Jingjing Gong"
+        ],
+        "summary": "Vision-Language-Action (VLA) models are fundamentally bottlenecked by the scarcity of expert demonstrations -- triplets of observations, instructions, and actions that are costly to collect at scale. We argue that this bottleneck stems from conflating two distinct learning objectives: acquiring phys",
+        "url": "http://arxiv.org/abs/2607.02466v1",
+        "pdf": "https://arxiv.org/pdf/2607.02466v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers",
+        "authors": [
+          "Donghyun Lee",
+          "Jitesh Chavan",
+          "Duy Nguyen",
+          "Sam Huang",
+          "Liming Jiang"
+        ],
+        "summary": "Diffusion transformers (DiTs) achieve state-of-the-art image and video generation, but their multi-step sampling and growing parameter count make inference expensive. Post-training quantization (PTQ) is the natural remedy, yet DiT activations shift across timesteps, prompts, and guidance branches, f",
+        "url": "http://arxiv.org/abs/2607.02461v1",
+        "pdf": "https://arxiv.org/pdf/2607.02461v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation",
+        "authors": [
+          "Zhuowei Chen",
+          "Xiang Lorraine Li"
+        ],
+        "summary": "Post-training large language models (LLMs) without real-world interaction feedback or human-labeled supervision remains challenging, particularly in specialized domains where expert annotations are costly to obtain. Recent annotation-free self-evolution methods address this by using the model's own ",
+        "url": "http://arxiv.org/abs/2607.02460v1",
+        "pdf": "https://arxiv.org/pdf/2607.02460v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments",
+        "authors": [
+          "Zhilin Wang",
+          "Han Song",
+          "Runzhe Zhan",
+          "Jusen Du",
+          "Jiacheng Chen"
+        ],
+        "summary": "Autonomous agents are increasingly expected to improve executable policies through feedback, yet existing evaluations often collapse this process into a final score or confound it with open-ended software-engineering progress. We introduce Autonomous Policy Evolution, a controlled evaluation setting",
+        "url": "http://arxiv.org/abs/2607.02440v1",
+        "pdf": "https://arxiv.org/pdf/2607.02440v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Reasoning effort, not tool access, buys first-try reliability in agentic code generation: an observational study",
+        "authors": [
+          "Achint Mehta"
+        ],
+        "summary": "Agentic coding assistants are increasingly given extra capabilities, such as browser based testing tools and design oriented system prompts, on the assumption that more capability yields better software. This study tested that assumption directly. Ninety independent agent runs built the same applica",
+        "url": "http://arxiv.org/abs/2607.02436v1",
+        "pdf": "https://arxiv.org/pdf/2607.02436v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach",
+        "authors": [
+          "Manuel Alonso-Carracedo",
+          "Ruben Fernandez-Boullon",
+          "Pedro Celard",
+          "Francisco J. Rodriguez-Martinez",
+          "Lorena Otero-Cerdeira"
+        ],
+        "summary": "Scalable and reliable grading of command-line examinations remains a challenge in computing education, where rising enrolments make manual marking difficult and rule-based autograders cannot handle partial credit, equivalent solutions, or syntactic variation. This paper evaluates whether four fronti",
+        "url": "http://arxiv.org/abs/2607.02432v1",
+        "pdf": "https://arxiv.org/pdf/2607.02432v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "WorldSample: Closed-loop Real-robot RL with World Modelling",
+        "authors": [
+          "Yuquan Xue",
+          "Le Xu",
+          "Zeyi Liu",
+          "Zhenyu Wu",
+          "Zhengyi Gu"
+        ],
+        "summary": "Reinforcement learning (RL) can overcome the demonstration-coverage limitation of imitation learning (IL) by allowing robots to improve through trial-and-error interaction beyond the states observed in demonstrations. However, deploying RL on real robots remains constrained by high interaction costs",
+        "url": "http://arxiv.org/abs/2607.02431v1",
+        "pdf": "https://arxiv.org/pdf/2607.02431v1",
+        "published": "2026-07-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Controllable Sim Agents with Behavior Latents",
+        "authors": [
+          "Juanwu Lu",
+          "Junyu Zhu",
+          "Ziran Wang"
+        ],
+        "summary": "Realistic traffic simulation requires agents that imitate logged behavior and can also be steered along interpretable axes. Such controllability enables engineers to isolate variables, reproduce specific edge cases, and test autonomous systems without real-world risk. We introduce Controllable Neura",
+        "url": "http://arxiv.org/abs/2607.02496v1",
+        "pdf": "https://arxiv.org/pdf/2607.02496v1",
+        "published": "2026-07-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Understanding the Robustness of Distributed Self-Supervised Learning Frameworks Against Non-IID Data",
+        "authors": [
+          "Xuanyu Chen",
+          "Nan Yang",
+          "Shuai Wang",
+          "Dong Yuan"
+        ],
+        "summary": "Recent research has introduced distributed self-supervised learning (D-SSL) approaches to leverage vast amounts of unlabeled decentralized data. However, D-SSL faces the critical challenge of data heterogeneity, and there is limited theoretical understanding of how different D-SSL frameworks respond",
+        "url": "http://arxiv.org/abs/2607.02447v1",
+        "pdf": "https://arxiv.org/pdf/2607.02447v1",
+        "published": "2026-07-02",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
