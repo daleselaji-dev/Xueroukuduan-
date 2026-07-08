@@ -1,0 +1,566 @@
+{
+  "date": "2026-07-08",
+  "generated": "2026-07-08T05:23:06.621035",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "elder-plinius/T3MP3ST",
+        "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+        "stars": 3403,
+        "language": "TypeScript",
+        "url": "https://github.com/elder-plinius/T3MP3ST",
+        "created": "2026-07-02"
+      },
+      {
+        "rank": 2,
+        "name": "synthetic-sciences/openscience",
+        "description": "The open-source AI workbench for scientific research",
+        "stars": 1451,
+        "language": "TypeScript",
+        "url": "https://github.com/synthetic-sciences/openscience",
+        "created": "2026-07-03"
+      },
+      {
+        "rank": 3,
+        "name": "ammaarreshi/Generals-Mac-iOS-iPad",
+        "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
+        "stars": 1307,
+        "language": "C++",
+        "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
+        "created": "2026-07-04"
+      },
+      {
+        "rank": 4,
+        "name": "jamesob/local-llm",
+        "description": "Everything I know about running LLMs locally",
+        "stars": 1204,
+        "language": "Shell",
+        "url": "https://github.com/jamesob/local-llm",
+        "created": "2026-07-03"
+      },
+      {
+        "rank": 5,
+        "name": "Shpigford/knockoff",
+        "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+        "stars": 1098,
+        "language": "JavaScript",
+        "url": "https://github.com/Shpigford/knockoff",
+        "created": "2026-07-06"
+      },
+      {
+        "rank": 6,
+        "name": "MaximeRivest/riddle",
+        "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+        "stars": 1081,
+        "language": "Rust",
+        "url": "https://github.com/MaximeRivest/riddle",
+        "created": "2026-07-05"
+      },
+      {
+        "rank": 7,
+        "name": "x4gKing/X4G",
+        "description": "",
+        "stars": 1040,
+        "language": "Python",
+        "url": "https://github.com/x4gKing/X4G",
+        "created": "2026-07-04"
+      },
+      {
+        "rank": 8,
+        "name": "xuchonglang/investing-for-beginners",
+        "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+        "stars": 893,
+        "language": null,
+        "url": "https://github.com/xuchonglang/investing-for-beginners",
+        "created": "2026-07-03"
+      },
+      {
+        "rank": 9,
+        "name": "jmerelnyc/Talos",
+        "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+        "stars": 725,
+        "language": "Python",
+        "url": "https://github.com/jmerelnyc/Talos",
+        "created": "2026-07-02"
+      },
+      {
+        "rank": 10,
+        "name": "514-labs/dnsglobe",
+        "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+        "stars": 683,
+        "language": "Rust",
+        "url": "https://github.com/514-labs/dnsglobe",
+        "created": "2026-07-05"
+      },
+      {
+        "rank": 11,
+        "name": "uzairansaruzi/hermex",
+        "description": "Native iPhone app for your Hermes agent",
+        "stars": 682,
+        "language": "Swift",
+        "url": "https://github.com/uzairansaruzi/hermex",
+        "created": "2026-07-02"
+      },
+      {
+        "rank": 12,
+        "name": "LinXiaoTao/FuckClaude",
+        "description": "",
+        "stars": 663,
+        "language": "TypeScript",
+        "url": "https://github.com/LinXiaoTao/FuckClaude",
+        "created": "2026-07-02"
+      },
+      {
+        "rank": 13,
+        "name": "anthropics/jacobian-lens",
+        "description": " Companion code for the global workspace interpretability paper",
+        "stars": 646,
+        "language": "Python",
+        "url": "https://github.com/anthropics/jacobian-lens",
+        "created": "2026-07-02"
+      },
+      {
+        "rank": 14,
+        "name": "Kulaxyz/token-diet",
+        "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
+        "stars": 611,
+        "language": "Shell",
+        "url": "https://github.com/Kulaxyz/token-diet",
+        "created": "2026-07-03"
+      },
+      {
+        "rank": 15,
+        "name": "dzhng/skills",
+        "description": "",
+        "stars": 534,
+        "language": "JavaScript",
+        "url": "https://github.com/dzhng/skills",
+        "created": "2026-07-02"
+      },
+      {
+        "rank": 16,
+        "name": "yynxxxxx/Codex-X",
+        "description": "Codex Switch & Instruct desktop manager",
+        "stars": 532,
+        "language": "Rust",
+        "url": "https://github.com/yynxxxxx/Codex-X",
+        "created": "2026-07-04"
+      },
+      {
+        "rank": 17,
+        "name": "asz798838958/FrciblyK12",
+        "description": "多线程全自动注册free 强上K12空间",
+        "stars": 497,
+        "language": "Python",
+        "url": "https://github.com/asz798838958/FrciblyK12",
+        "created": "2026-07-02"
+      },
+      {
+        "rank": 18,
+        "name": "simonlin1212/Vibe-Research",
+        "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+        "stars": 475,
+        "language": "TypeScript",
+        "url": "https://github.com/simonlin1212/Vibe-Research",
+        "created": "2026-07-05"
+      },
+      {
+        "rank": 19,
+        "name": "pocket-stack/pocketjs",
+        "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
+        "stars": 391,
+        "language": "TypeScript",
+        "url": "https://github.com/pocket-stack/pocketjs",
+        "created": "2026-07-03"
+      },
+      {
+        "rank": 20,
+        "name": "nagisanzenin/engram",
+        "description": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+        "stars": 386,
+        "language": "Python",
+        "url": "https://github.com/nagisanzenin/engram",
+        "created": "2026-07-05"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+        "authors": [
+          "Tianjiao Yu",
+          "Xinzhuo Li",
+          "Yifan Shen",
+          "Onkar Susladkar",
+          "Yuanzhe Liu"
+        ],
+        "summary": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatenate text and 3D tokens into a flat sequence and rely on self-attention, collapsing coarse structural ",
+        "url": "http://arxiv.org/abs/2607.06565v1",
+        "pdf": "https://arxiv.org/pdf/2607.06565v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
+        "authors": [
+          "Shervin Khalafi",
+          "Igor Krawczuk",
+          "Sergio Rozada",
+          "Charilaos Kanatsoulis",
+          "Antonio G Marques"
+        ],
+        "summary": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoising graphs. However, our principled understanding of attention-based graph denoising remains limite",
+        "url": "http://arxiv.org/abs/2607.06546v1",
+        "pdf": "https://arxiv.org/pdf/2607.06546v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
+        "authors": [
+          "Aparna Madva",
+          "Sharath Srivatsa",
+          "Srinath Srinivasa",
+          "Tulika Saha"
+        ],
+        "summary": "As Artificial Intelligence (AI) makes inroads into different parts of the Indian subcontinent, there is significant interest in studying how AI impacts the linguistic and cultural foundations of this civilization. AI is seen as a ''double-edged sword'' where on the one hand, it can enable access and",
+        "url": "http://arxiv.org/abs/2607.06544v1",
+        "pdf": "https://arxiv.org/pdf/2607.06544v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
+        "authors": [
+          "Ghassen Marrakchi",
+          "Basarab Matei"
+        ],
+        "summary": "- Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. To address this inflexibility, we propose the Large Cancer Assistant (LCA), a model-agnostic, post-ho",
+        "url": "http://arxiv.org/abs/2607.06531v1",
+        "pdf": "https://arxiv.org/pdf/2607.06531v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation",
+        "authors": [
+          "Sambaran Bandyopadhyay",
+          "Ananth Muppidi"
+        ],
+        "summary": "Multi-hop Question Answering over Knowledge Graphs faces a critical challenge: traditional retrieve-then-read pipelines break differentiability, preventing the retriever from learning to bridge the semantic gap where intermediate nodes lack lexical overlap with the query. To address this, we propose",
+        "url": "http://arxiv.org/abs/2607.06527v1",
+        "pdf": "https://arxiv.org/pdf/2607.06527v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression",
+        "authors": [
+          "Anna Cordoba",
+          "Adam Puente Tercero",
+          "Nerea Angulo Hijo",
+          "Mar Linares Tercero",
+          "Julia Barrientos"
+        ],
+        "summary": "Long-context language model inference is increasingly limited by the memory bandwidth and capacity required to store key-value caches, yet existing compression methods often apply uniform budgets across layers or tokens and degrade retrieval when lexical cues and semantic states require different pr",
+        "url": "http://arxiv.org/abs/2607.06523v1",
+        "pdf": "https://arxiv.org/pdf/2607.06523v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Reasoning Alignment",
+        "authors": [
+          "Han-Jun Ko",
+          "Jr-Jen Chen",
+          "Haobo Yuan",
+          "Hsin-Ying Lee",
+          "Tiancheng Shen"
+        ],
+        "summary": "Vision-language models (VLMs) struggle to generalize in interactive physical reasoning, particularly under unseen tasks and environments. Two key failure modes are prominent: hallucinated chain-of-thought (CoT) reasoning that contradicts physical reality, and misalignment between the model's reasoni",
+        "url": "http://arxiv.org/abs/2607.06522v1",
+        "pdf": "https://arxiv.org/pdf/2607.06522v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "FreqDepthKV: Frequency-Guided Depth Sharing for Robust KV Cache Compression in Long-Context LLM Inference",
+        "authors": [
+          "Anna Córdoba",
+          "Adam Puente Tercero",
+          "Nerea Angulo Hijo",
+          "Mar Linares Tercero",
+          "Julia Barrientos"
+        ],
+        "summary": "Long-context LLM inference is increasingly limited by the memory and bandwidth cost of KV caches, yet aggressive compression can remove the layer-specific evidence needed for retrieval and multi-step reasoning. We introduce FreqDepthKV, an inference-time cache compression method that factorizes adja",
+        "url": "http://arxiv.org/abs/2607.06519v1",
+        "pdf": "https://arxiv.org/pdf/2607.06519v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "FootsiesGym: A Fighting Game Benchmark for Two-Player Zero-Sum Imperfect-Information Games",
+        "authors": [
+          "Chase McDonald",
+          "Nathan Tsang",
+          "Wesley N. Kerr"
+        ],
+        "summary": "We present FootsiesGym, an open-source environment for learning in a non-trivial two-player, zero-sum, imperfect-information game. Built on HiFight's minimalist 2D fighting game Footsies, it isolates the cyclic, non-transitive strategic interactions of fighting game neutral play while remaining simp",
+        "url": "http://arxiv.org/abs/2607.06514v1",
+        "pdf": "https://arxiv.org/pdf/2607.06514v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Industry Classification of GitHub Repositories Using the North American Industry Classification System (NAICS)",
+        "authors": [
+          "Kevin Xu",
+          "Alexander Quispe"
+        ],
+        "summary": "GitHub hosts hundreds of millions of public repositories, but the platform exposes no native mapping from repositories to standardized industry sectors. This gap limits empirical work on the geography of innovation, the industrial composition of open-source production, and the diffusion of new techn",
+        "url": "http://arxiv.org/abs/2607.06505v1",
+        "pdf": "https://arxiv.org/pdf/2607.06505v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "RMISC: A Large-scale Real-world Multivariate Corpus for Time Series Foundation Models",
+        "authors": [
+          "Qian Sun",
+          "Yong-Ming Tian",
+          "Jia-Wei Huang",
+          "Cheng Feng",
+          "Shao-Qun Zhang"
+        ],
+        "summary": "Recent years have witnessed the emergence of multivariate modeling using time series foundation models (TSFMs), which achieve advanced zero-shot generalization. Modern multivariate TSFMs are predominantly pretrained on multivariate synthetic data, which is easier to scale but may fail to capture the",
+        "url": "http://arxiv.org/abs/2607.06504v1",
+        "pdf": "https://arxiv.org/pdf/2607.06504v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade",
+        "authors": [
+          "Kai Ruan",
+          "Zihe Huang",
+          "Ziqi Zhou",
+          "Qianshan Wei",
+          "Xuan Wang"
+        ],
+        "summary": "Large language model (LLM) agents solving multi-step tasks frequently commit to trajectories that are doomed to fail, yet continue to consume substantial inference compute before the failure becomes observable. We show that failure is predictable early from the agent's internal representations: ligh",
+        "url": "http://arxiv.org/abs/2607.06503v1",
+        "pdf": "https://arxiv.org/pdf/2607.06503v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Pitwall: Faithful Natural-Language Race-Strategy Briefings from a Calibrated Real-Time Monte Carlo Engine",
+        "authors": [
+          "Juan S. Santillana"
+        ],
+        "summary": "Live sports commentary is grounded generation under a deadline: statements concern real, named athletes, the grounding state changes every few seconds, and no reference text exists at generation time. We present Pitwall, a production system that generates natural-language Formula 1 strategy briefing",
+        "url": "http://arxiv.org/abs/2607.06495v1",
+        "pdf": "https://arxiv.org/pdf/2607.06495v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Multi-Agent Deep Reinforcement Learning for Multi Objective Battery Management in Dairy Farms",
+        "authors": [
+          "Marcos Eduardo Cruz Victorio",
+          "Karl Mason"
+        ],
+        "summary": "The dairy industry in Ireland has a large potential for the integration of renewable energy and the reduction of carbon emissions. However, researchers of distributed generation control are mainly focused on residential and commercial applications. To contribute to the effective integration of renew",
+        "url": "http://arxiv.org/abs/2607.06489v1",
+        "pdf": "https://arxiv.org/pdf/2607.06489v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "AirflowAttack: Thermal-Airflow Adversarial Perturbations against Infrared Remote-Sensing Vision-Language Models",
+        "authors": [
+          "Cong Su",
+          "Jiaju Han",
+          "Xuemeng Sun",
+          "Chengyin Hu",
+          "Qike Zhang"
+        ],
+        "summary": "Vision-language models (VLMs) are increasingly deployed on infrared (IR) remote sensing imagery in security-critical settings, yet their adversarial robustness remains unexamined. We present AirflowAttack, to our knowledge the first adversarial attack for IR remote-sensing VLMs and the first to weap",
+        "url": "http://arxiv.org/abs/2607.06485v1",
+        "pdf": "https://arxiv.org/pdf/2607.06485v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Data Analysis in the Wild: Benchmarking Large Language Models Against Real-World Data Complexities",
+        "authors": [
+          "So Hasegawa",
+          "Shailaja Keyur Sampat",
+          "Lei Liu",
+          "Wei-Peng Chen"
+        ],
+        "summary": "Current benchmarks for evaluating Large Language Models (LLMs) in data analysis often fail to reflect real-world settings. They typically focus on fact retrieval from small tables and overlook the challenges of large multi-tabular datasets, external knowledge integration, and exploratory insight dis",
+        "url": "http://arxiv.org/abs/2607.06482v1",
+        "pdf": "https://arxiv.org/pdf/2607.06482v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Prompt-Adapter Context Routing for Parameter-Efficient Multi-Shot Long Video Extrapolation",
+        "authors": [
+          "Anna Córdoba",
+          "Adam Puente Tercero",
+          "Nerea Angulo Hijo",
+          "Mar Linares Tercero",
+          "Julia Barrientos"
+        ],
+        "summary": "We present PACR-Video, a parameter-efficient framework for multi-shot long video extrapolation that preserves recurring entities, scene structure, visual style, and causal progression without full generator fine-tuning. PACR-Video keeps a text-to-video diffusion transformer frozen and augments it wi",
+        "url": "http://arxiv.org/abs/2607.06481v1",
+        "pdf": "https://arxiv.org/pdf/2607.06481v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "A Physics-Informed Neural Network Framework for Elastodynamic Wave Propagation in Bimaterial Systems",
+        "authors": [
+          "Sonal Ankush Chibire",
+          "Jenn-Terng Gau",
+          "Bo Zhang"
+        ],
+        "summary": "Physics-informed neural networks (PINNs) provide a promising framework for solving partial differential equations while embedding the underlying physical laws directly into the learning process. This study presents a PINN-based framework for modeling transient elastodynamic wave propagation in bimat",
+        "url": "http://arxiv.org/abs/2607.06479v1",
+        "pdf": "https://arxiv.org/pdf/2607.06479v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Provable learning separation for predicting time-evolution of quantum many-body systems",
+        "authors": [
+          "Rahul Bandyopadhyay",
+          "Riccardo Molteni",
+          "Jens Eisert",
+          "Vedran Dunjko",
+          "Sofiene Jerbi"
+        ],
+        "summary": "Given that quantum computers are naturally suited to simulate the behavior of quantum many-body systems, an immediate question arises: can one formulate physically motivated quantum machine learning (QML) tasks that exhibit learning separations? We address this problem by studying the learnability o",
+        "url": "http://arxiv.org/abs/2607.06472v1",
+        "pdf": "https://arxiv.org/pdf/2607.06472v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "From Voting to Agent Collaboration: Answer-Type-Aware LLM Pipelines for BioASQ 14b",
+        "authors": [
+          "Taeyun Roh",
+          "Eunha Lee",
+          "Wonjune Jang",
+          "Sohyun Chung",
+          "Junha Jung"
+        ],
+        "summary": "Biomedical question answering requires not only accurate extraction of information from scientific literature but also reliable integration of evidence across multiple documents. This study presents a question-type-specific large language model (LLM) framework for BioASQ 14b Task B, designed to impr",
+        "url": "http://arxiv.org/abs/2607.06452v1",
+        "pdf": "https://arxiv.org/pdf/2607.06452v1",
+        "published": "2026-07-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "GraphBU: MILP Instance Generation with Graph-Native Block Units",
+        "authors": [
+          "Xiaolei Guo",
+          "Chenyu Zhou",
+          "Jianghao Lin",
+          "Dongdong Ge"
+        ],
+        "summary": "Mixed-integer linear programming (MILP) instances used for solver development are hard to obtain when models come from private or application-specific pipelines. A generator must keep the structure that solvers and learned policies rely on. Existing general generators usually choose their generation",
+        "url": "http://arxiv.org/abs/2607.06532v1",
+        "pdf": "https://arxiv.org/pdf/2607.06532v1",
+        "published": "2026-07-07",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "EntroPath: Maximum Entropy Path Ensemble Embedding for Manifold Learning",
+        "authors": [
+          "Przemysław Rola"
+        ],
+        "summary": "We introduce EntroPath, a manifold learning method that recovers geodesic geometry from data graphs through ensembles of diffusion paths. Many existing graph-based embeddings rely either on locally normalised random walks or on shortest-path distances. The former can concentrate diffusion in densely",
+        "url": "http://arxiv.org/abs/2607.06497v1",
+        "pdf": "https://arxiv.org/pdf/2607.06497v1",
+        "published": "2026-07-07",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles",
+        "authors": [
+          "Marwan Lazrag",
+          "Badis Hammi",
+          "Lorena Gonzalez-Manzano",
+          "Joaquin Garcia-Alfaro"
+        ],
+        "summary": "Poisoning attacks against public datasets lead to major concerns, such as (i) misclassification of perceived objects when the poisoned data is used for training and (ii) embedding of backdoors that may eventually be triggered later on, when specific conditions in the system apply over the learned mo",
+        "url": "http://arxiv.org/abs/2607.06484v1",
+        "pdf": "https://arxiv.org/pdf/2607.06484v1",
+        "published": "2026-07-07",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "TILDE: TILt-based Distributional Erasure for Concept Unlearning",
+        "authors": [
+          "Naveen George",
+          "Naoki Murata",
+          "Yuhta Takida",
+          "Konda Reddy Mopuri",
+          "Yuki Mitsufuji"
+        ],
+        "summary": "Concept unlearning in text-to-image diffusion models is critical for safe and practical deployment: with rising privacy concerns, copyright disputes, trademark constraints, and safety regulations, deployed systems must be able to suppress unwanted concepts after training. Existing methods often remo",
+        "url": "http://arxiv.org/abs/2607.06432v1",
+        "pdf": "https://arxiv.org/pdf/2607.06432v1",
+        "published": "2026-07-07",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "What Images Cannot Say: Language-Guided Olfactory Representation Learning",
+        "authors": [
+          "Eleftherios Tsonis",
+          "Xi Wang",
+          "Vicky Kalogeiton"
+        ],
+        "summary": "Images tell us what a scene looks like, but rarely what it would feel like to be there. While recent datasets pair visual scenes with electronic-nose measurements, aligning smell signals with images remains challenging because many olfactory cues arise from contextual environmental factors that are ",
+        "url": "http://arxiv.org/abs/2607.06402v1",
+        "pdf": "https://arxiv.org/pdf/2607.06402v1",
+        "published": "2026-07-07",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
