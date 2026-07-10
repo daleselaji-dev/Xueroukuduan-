@@ -1,0 +1,591 @@
+{
+  "date": "2026-07-10",
+  "generated": "2026-07-10T06:05:42.873638",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "x4gKing/X4G",
+        "description": "",
+        "stars": 3442,
+        "language": "Python",
+        "url": "https://github.com/x4gKing/X4G",
+        "created": "2026-07-04"
+      },
+      {
+        "rank": 2,
+        "name": "withmarbleapp/os-taxonomy",
+        "description": "",
+        "stars": 1618,
+        "language": "JavaScript",
+        "url": "https://github.com/withmarbleapp/os-taxonomy",
+        "created": "2026-07-08"
+      },
+      {
+        "rank": 3,
+        "name": "Shpigford/knockoff",
+        "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+        "stars": 1584,
+        "language": "JavaScript",
+        "url": "https://github.com/Shpigford/knockoff",
+        "created": "2026-07-06"
+      },
+      {
+        "rank": 4,
+        "name": "ammaarreshi/Generals-Mac-iOS-iPad",
+        "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
+        "stars": 1395,
+        "language": "C++",
+        "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
+        "created": "2026-07-04"
+      },
+      {
+        "rank": 5,
+        "name": "MaximeRivest/riddle",
+        "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+        "stars": 1293,
+        "language": "Rust",
+        "url": "https://github.com/MaximeRivest/riddle",
+        "created": "2026-07-05"
+      },
+      {
+        "rank": 6,
+        "name": "514-labs/dnsglobe",
+        "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+        "stars": 775,
+        "language": "Rust",
+        "url": "https://github.com/514-labs/dnsglobe",
+        "created": "2026-07-05"
+      },
+      {
+        "rank": 7,
+        "name": "wouterdebie/davit",
+        "description": "A native macOS UI for Apple's platform",
+        "stars": 749,
+        "language": "Swift",
+        "url": "https://github.com/wouterdebie/davit",
+        "created": "2026-07-04"
+      },
+      {
+        "rank": 8,
+        "name": "yynxxxxx/Codex-X",
+        "description": "Codex Switch & Instruct desktop manager",
+        "stars": 716,
+        "language": "Rust",
+        "url": "https://github.com/yynxxxxx/Codex-X",
+        "created": "2026-07-04"
+      },
+      {
+        "rank": 9,
+        "name": "Robbyant/lingbot-world-v2",
+        "description": "Infinite Worlds with Versatile Interactions",
+        "stars": 623,
+        "language": "Python",
+        "url": "https://github.com/Robbyant/lingbot-world-v2",
+        "created": "2026-07-08"
+      },
+      {
+        "rank": 10,
+        "name": "simonlin1212/Vibe-Research",
+        "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+        "stars": 599,
+        "language": "TypeScript",
+        "url": "https://github.com/simonlin1212/Vibe-Research",
+        "created": "2026-07-05"
+      },
+      {
+        "rank": 11,
+        "name": "Robbyant/lingbot-video",
+        "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+        "stars": 595,
+        "language": "Python",
+        "url": "https://github.com/Robbyant/lingbot-video",
+        "created": "2026-07-08"
+      },
+      {
+        "rank": 12,
+        "name": "Robbyant/lingbot-vision",
+        "description": "Self-supervised learning for spatial perception",
+        "stars": 592,
+        "language": "Python",
+        "url": "https://github.com/Robbyant/lingbot-vision",
+        "created": "2026-07-06"
+      },
+      {
+        "rank": 13,
+        "name": "op7418/guizang-material-illustration",
+        "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+        "stars": 489,
+        "language": null,
+        "url": "https://github.com/op7418/guizang-material-illustration",
+        "created": "2026-07-07"
+      },
+      {
+        "rank": 14,
+        "name": "nagisanzenin/engram",
+        "description": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+        "stars": 487,
+        "language": "Python",
+        "url": "https://github.com/nagisanzenin/engram",
+        "created": "2026-07-05"
+      },
+      {
+        "rank": 15,
+        "name": "oso95/scroll-world",
+        "description": "A skill that turn any brand into a scrollable 3D world",
+        "stars": 466,
+        "language": "JavaScript",
+        "url": "https://github.com/oso95/scroll-world",
+        "created": "2026-07-06"
+      },
+      {
+        "rank": 16,
+        "name": "V4bel/Januscape",
+        "description": "",
+        "stars": 445,
+        "language": "C",
+        "url": "https://github.com/V4bel/Januscape",
+        "created": "2026-07-06"
+      },
+      {
+        "rank": 17,
+        "name": "x4gKing/3x-ui",
+        "description": "",
+        "stars": 401,
+        "language": "Dockerfile",
+        "url": "https://github.com/x4gKing/3x-ui",
+        "created": "2026-07-04"
+      },
+      {
+        "rank": 18,
+        "name": "Pluviobyte/rnskill",
+        "description": "雪踏乌云的 AI Agent Skills 集合",
+        "stars": 392,
+        "language": "Python",
+        "url": "https://github.com/Pluviobyte/rnskill",
+        "created": "2026-07-04"
+      },
+      {
+        "rank": 19,
+        "name": "x4gKing/3x-ui-Upgrade",
+        "description": "",
+        "stars": 388,
+        "language": "Dockerfile",
+        "url": "https://github.com/x4gKing/3x-ui-Upgrade",
+        "created": "2026-07-08"
+      },
+      {
+        "rank": 20,
+        "name": "Robbyant/lingbot-vla-v2",
+        "description": "From Foundation to Application",
+        "stars": 381,
+        "language": "Python",
+        "url": "https://github.com/Robbyant/lingbot-vla-v2",
+        "created": "2026-07-07"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "OpenCoF: Learning to Reason Through Video Generation",
+        "authors": [
+          "Xinyan Chen",
+          "Ziyu Guo",
+          "Renrui Zhang",
+          "Dongzhi Jiang",
+          "Hongsheng Li"
+        ],
+        "summary": "Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): reasoning can unfold through temporally connected frames, known",
+        "url": "http://arxiv.org/abs/2607.08763v1",
+        "pdf": "https://arxiv.org/pdf/2607.08763v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+        "authors": [
+          "Yifan Zhou",
+          "Qihao Yang",
+          "Yan Li",
+          "Donggang Li",
+          "Xiru Hu"
+        ],
+        "summary": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say little about whether AI systems can follow this inheritance structure. We present IdeaGene-Bench (IG-Be",
+        "url": "http://arxiv.org/abs/2607.08758v1",
+        "pdf": "https://arxiv.org/pdf/2607.08758v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "SLORR: Simple and Efficient In-Training Low-Rank Regularization",
+        "authors": [
+          "David González-Martínez",
+          "Shiwei Liu"
+        ],
+        "summary": "Low-rank factorization is widely used to compress neural networks, but modern models are often not naturally amenable to aggressive factorization without significant accuracy loss. Existing training-time low-rank regularizers can improve compressibility, but they often require SVDs of large weight m",
+        "url": "http://arxiv.org/abs/2607.08754v1",
+        "pdf": "https://arxiv.org/pdf/2607.08754v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis",
+        "authors": [
+          "Kristina Schaaff",
+          "Quintus Stierstorfer",
+          "Valerie Heckel"
+        ],
+        "summary": "In this study, we present a large-scale descriptive analysis of the use of an AI-based learning assistant (Syntea) in higher education. Based on objective log data from 77,543 students enrolled in distance studies, we examine usage patterns across gender, age group, study cluster, degree, and study ",
+        "url": "http://arxiv.org/abs/2607.08748v1",
+        "pdf": "https://arxiv.org/pdf/2607.08748v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph",
+        "authors": [
+          "Duen Horng Chau",
+          "Donghao Ren",
+          "Fred Hohman",
+          "Dominik Moritz"
+        ],
+        "summary": "While UMAP is widely used for exploring high-dimensional data, typical workflows focus on its lower-dimensional embedding, largely overlooking the rich k-nearest-neighbor (kNN) graph that UMAP constructs internally. This graph encodes the data manifold in its original high-dimensional space, before ",
+        "url": "http://arxiv.org/abs/2607.08746v1",
+        "pdf": "https://arxiv.org/pdf/2607.08746v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding",
+        "authors": [
+          "Siddharth Damodharan",
+          "Radhika Gupta",
+          "Ali Alshami",
+          "Ryan Rabinowitz",
+          "Jugal Kalita"
+        ],
+        "summary": "Recent advances in Vision-Language Models, Large Language Models, and Multimodal Large Language Models have improved autonomous driving tasks such as scene understanding, decision making, trajectory prediction, and visual question answering. However, evaluating whether these models can reliably reas",
+        "url": "http://arxiv.org/abs/2607.08745v1",
+        "pdf": "https://arxiv.org/pdf/2607.08745v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows",
+        "authors": [
+          "Emanuele Quinto",
+          "Carlo Andrea Rozzi",
+          "Francesco Zanitti"
+        ],
+        "summary": "Large language model (LLM) applications increasingly use explicit workflows for tool use, retrieval, branching, checkpointing, and human approval. Existing workflow systems already address many execution concerns. This paper proposes a Lisp-inspired but language-independent conceptual model: symboli",
+        "url": "http://arxiv.org/abs/2607.08740v1",
+        "pdf": "https://arxiv.org/pdf/2607.08740v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs",
+        "authors": [
+          "Baha Rababah",
+          "Cuneyt Gurcan Akcora",
+          "Carson K. Leung"
+        ],
+        "summary": "Post-training quantization is widely used to deploy large language models in resource-constrained settings, yet its evaluation relies almost exclusively on accuracy and perplexity. We show that these metrics fail to capture behavioral changes induced by quantization. We introduce correctness agreeme",
+        "url": "http://arxiv.org/abs/2607.08734v1",
+        "pdf": "https://arxiv.org/pdf/2607.08734v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Validity of LLMs as data annotators: AMALIA on authority",
+        "authors": [
+          "Manuel Pita"
+        ],
+        "summary": "A national language model offers a linguistic community its own instrument for measuring what its citizens say and value. Portugal's AMALIA, a publicly funded 9B-parameter model for European Portuguese, appears competitive on agreement alone: asked to code the moral foundation of authority, it agree",
+        "url": "http://arxiv.org/abs/2607.08731v1",
+        "pdf": "https://arxiv.org/pdf/2607.08731v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction",
+        "authors": [
+          "Ayda Eghbalian",
+          "Kevin Desai"
+        ],
+        "summary": "Recent progress in 3D human pose estimation has made markerless recovery of skeletal motion increasingly accurate and scalable. However, most pose estimators remain optimized for geometric keypoint accuracy, while many real-world applications in rehabilitation, sports science, ergonomics, and clinic",
+        "url": "http://arxiv.org/abs/2607.08725v1",
+        "pdf": "https://arxiv.org/pdf/2607.08725v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
+        "authors": [
+          "Yifan Wu",
+          "Lizhu Zhang",
+          "Yuhang Zhou",
+          "Mingyi Wang",
+          "Bo Peng"
+        ],
+        "summary": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed bey",
+        "url": "http://arxiv.org/abs/2607.08716v1",
+        "pdf": "https://arxiv.org/pdf/2607.08716v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "ProjAgent: Procedural Similarity Retrieval for Repository-Level Code Generation",
+        "authors": [
+          "QiHong Chen",
+          "Aaron Imani",
+          "Iftekhar Ahmed"
+        ],
+        "summary": "Repository-level code generation requires implementing target functions while accounting for complex cross-file dependencies and project-specific conventions. Existing retrieval methods predominantly rely on lexical, structural, or semantic similarity, often overlooking repository functions that imp",
+        "url": "http://arxiv.org/abs/2607.08691v1",
+        "pdf": "https://arxiv.org/pdf/2607.08691v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "A Practical Investigation of Training-free Relaxed Speculative Decoding",
+        "authors": [
+          "Guoxuan Xia",
+          "Luka Ribar",
+          "Paul Balanca"
+        ],
+        "summary": "Speculative decoding accelerates sampling from an autoregressive LLM by using a faster auxiliary model to draft tokens which are then verified in parallel by the LLM. Standard speculative decoding is lossless: its rejection and resampling steps exactly preserve the LLM's sampling distribution. Recen",
+        "url": "http://arxiv.org/abs/2607.08690v1",
+        "pdf": "https://arxiv.org/pdf/2607.08690v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets",
+        "authors": [
+          "Shilin Ou",
+          "Yifan Xu",
+          "Luyao Zhang"
+        ],
+        "summary": "As agentic AI systems are increasingly applied to cyber-physical environments, their evaluation requires assessment of both task performance and trustworthiness. In decentralized energy markets, autonomous agents may improve market utility, but may also exploit invalid physical data, create artifici",
+        "url": "http://arxiv.org/abs/2607.08681v1",
+        "pdf": "https://arxiv.org/pdf/2607.08681v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search",
+        "authors": [
+          "Xiaoshuai Song",
+          "Liancheng Zhang",
+          "Kangzhi Zhao",
+          "Yutao Zhu",
+          "Zhongyuan Wang"
+        ],
+        "summary": "Large language model (LLM)-based web search agents are transforming information seeking from simple factoid question answering into complex, deep-and-wide search and research-oriented tasks. A single ReAct-style agent is constrained by one long trajectory and limited context, making it difficult to ",
+        "url": "http://arxiv.org/abs/2607.08662v1",
+        "pdf": "https://arxiv.org/pdf/2607.08662v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Formal Mechanisms for Market Stability in Self-Interested Agent Societies: A Marketplace Simulation Study",
+        "authors": [
+          "Eugene Ng Yi Sheng",
+          "Bingquan Shen"
+        ],
+        "summary": "Self-interested agents, left unconstrained, tend toward defection in repeated social dilemmas, causing cooperative gains from trade to collapse. This paper investigates what formal mechanisms, layered on top of unrestricted communication, are sufficient for a society of such agents to maintain marke",
+        "url": "http://arxiv.org/abs/2607.08652v1",
+        "pdf": "https://arxiv.org/pdf/2607.08652v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Multi-Modal, Multi-Environment Machine Teaching for Robust Reward Learning",
+        "authors": [
+          "Ali Larian",
+          "Qian Lin",
+          "Chang Zong Wu",
+          "Daniel S. Brown"
+        ],
+        "summary": "As autonomous agents are increasingly deployed across diverse operational contexts, aligning their behavior with human intent demands reward functions that remain robust to such changes rather than overfitting to any single environment. Inverse reinforcement learning (IRL) provides a principled way ",
+        "url": "http://arxiv.org/abs/2607.08647v1",
+        "pdf": "https://arxiv.org/pdf/2607.08647v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing",
+        "authors": [
+          "Xinlong Zhao",
+          "Dongsheng Liu",
+          "Hengyu Zhao",
+          "Zixuan Fu",
+          "Zheng Wang"
+        ],
+        "summary": "As available training data approaches its physical limit, gains from Scaling Laws have begun to diminish. Consequently, improving Large Language Models (LLMs) now depends less on data expansion and more on higher-quality data utilization. However, in the context of large-scale corpora, existing refi",
+        "url": "http://arxiv.org/abs/2607.08646v1",
+        "pdf": "https://arxiv.org/pdf/2607.08646v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "The complexities of patient-centred conversational artificial intelligence",
+        "authors": [
+          "João Matos",
+          "Olivia Buege",
+          "Donny Cheung",
+          "Gary S. Collins",
+          "Paula Dhiman"
+        ],
+        "summary": "Consumer-facing health chatbots powered by large language models (LLMs) are increasingly used for symptom assessment. However, chatbot development and evaluation often rely on cooperative, articulate, simulated patients. We analysed 2,053 real patient-chatbot conversations and found that communicati",
+        "url": "http://arxiv.org/abs/2607.08625v1",
+        "pdf": "https://arxiv.org/pdf/2607.08625v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities",
+        "authors": [
+          "Weiduo Liao",
+          "Yunqiao Yang",
+          "Ying Wei"
+        ],
+        "summary": "Sparse autoencoders (SAEs) have emerged as a promising technique for mechanistic interpretability by learning a set of sparse latent features in large models, each of which encodes a distinct concept. However, in vision-language models (VLMs), vanilla SAEs struggle to learn modality-consistent conce",
+        "url": "http://arxiv.org/abs/2607.08605v1",
+        "pdf": "https://arxiv.org/pdf/2607.08605v1",
+        "published": "2026-07-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling",
+        "authors": [
+          "Yiwei Zhou"
+        ],
+        "summary": "Score matching controls average error under the forward marginals, but a discretized reverse-time sampler evaluates the learned score along its own trajectory. We show that small forward-marginal error does not guarantee numerical stability. We construct a single smooth score field with arbitrarily ",
+        "url": "http://arxiv.org/abs/2607.08757v1",
+        "pdf": "https://arxiv.org/pdf/2607.08757v1",
+        "published": "2026-07-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "MulTTiPop: A Multitrack Transcription Dataset for Pop Music",
+        "authors": [
+          "Nathan Pruyne",
+          "Benjamin Stoler",
+          "William Chen",
+          "Chien-yu Huang",
+          "Shinji Watanabe"
+        ],
+        "summary": "We present MulTTiPop, a dataset of pop music segments and their associated multitrack MIDI recordings for the evaluation of automatic music transcription models. MulTTiPop contains 572 segments of popular music totaling 3.5 hours of audio, and contains songs from diverse genres and decades from the ",
+        "url": "http://arxiv.org/abs/2607.08756v1",
+        "pdf": "https://arxiv.org/pdf/2607.08756v1",
+        "published": "2026-07-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
+        "authors": [
+          "Kaifeng Zhao",
+          "Mathis Petrovich",
+          "Haotian Zhang",
+          "Tingwu Wang",
+          "Siyu Tang"
+        ],
+        "summary": "Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer precise control via text and kinematic constraints, they lack the inference speed required for interacti",
+        "url": "http://arxiv.org/abs/2607.08741v1",
+        "pdf": "https://arxiv.org/pdf/2607.08741v1",
+        "published": "2026-07-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Super Weights in LLMs and the Failure of Selective Training",
+        "authors": [
+          "Shreyas Subramanian",
+          "Adewale Akinfaderin",
+          "Akarsha Sehwag"
+        ],
+        "summary": "Recent work identified Super Weights, individual parameters whose removal degrades model performance by orders of magnitude. We show that this degradation due to pruning Super Weights does not universally apply to all LLMs. Furthermore, if these parameters are so important, Super Weight-aware traini",
+        "url": "http://arxiv.org/abs/2607.08733v1",
+        "pdf": "https://arxiv.org/pdf/2607.08733v1",
+        "published": "2026-07-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference",
+        "authors": [
+          "Chuning Zhu",
+          "Eva Xu",
+          "Jose Barreiros",
+          "Krishnan Srinivasan",
+          "Paarth Shah"
+        ],
+        "summary": "Human decision-making is highly flexible -- some actions are taken immediately; others require longer deliberation. Language models have exhibited a similar capacity for adaptive \"reasoning.\" However, transferring this capability to continuous control policies has been challenging, as directly reaso",
+        "url": "http://arxiv.org/abs/2607.08724v1",
+        "pdf": "https://arxiv.org/pdf/2607.08724v1",
+        "published": "2026-07-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Deep Learning for Joint Narrowband Interference Cancellation and Soft Demodulation in OFDM Systems",
+        "authors": [
+          "Emmanouil Kavvousanos",
+          "Francky Catthoor",
+          "Vassilis Paliouras"
+        ],
+        "summary": "Narrowband interference (NBI) severely degrades orthogonal frequency-division multiplexing (OFDM) systems by corrupting subcarriers and rendering classical soft demodulation ineffective. Conventional compressed-sensing (CS) mitigation exhibits high sequential latency and leaves structured, non-Gauss",
+        "url": "http://arxiv.org/abs/2607.08717v1",
+        "pdf": "https://arxiv.org/pdf/2607.08717v1",
+        "published": "2026-07-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "LTM: Large-scale Terrain Model for Wildfire-prone Landscapes",
+        "authors": [
+          "Xiao Fu",
+          "Yue Hu",
+          "Meida Chen",
+          "Peter Anthony Beerel",
+          "Barath Raghavan"
+        ],
+        "summary": "Accurate 3D terrain maps are essential for emergency response when assessing wildfire hazards. However, wildfire-prone regions often span vast areas where conventional reconstruction methods underperform. Airborne LiDAR systems provide high-resolution terrain data, but they are expensive and infrequ",
+        "url": "http://arxiv.org/abs/2607.08711v1",
+        "pdf": "https://arxiv.org/pdf/2607.08711v1",
+        "published": "2026-07-09",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
