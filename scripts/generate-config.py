@@ -13,9 +13,9 @@ import urllib.request
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).parent.parent
-SCAN_REQUEST_ID = "ldxp-live-headed-20260712-1108-sgt"
+SCAN_REQUEST_ID = "ldxp-plus-diagnostic-20260712-1112-sgt"
 SCAN_RESULT = REPO_ROOT / "public" / "data" / "ldxp-live.json"
-SCANNER_URL = "https://raw.githubusercontent.com/daleselaji-dev/-/main/ldxp_live_scan.py"
+SCANNER_URL = "https://raw.githubusercontent.com/daleselaji-dev/-/main/ldxp_plus_diagnostic.py"
 
 
 def save_failure(message):
@@ -24,7 +24,7 @@ def save_failure(message):
         "captured_at": None,
         "finished_at": None,
         "shop_count": 136,
-        "products": [],
+        "all_plus": [],
         "errors": [{"stage": "runner", "error": message}],
         "execution_note": "Headed Chromium diagnostic run",
     }
@@ -37,12 +37,12 @@ def run_one_time_ldxp_scan():
         try:
             previous = json.loads(SCAN_RESULT.read_text(encoding="utf-8"))
             if previous.get("request_id") == SCAN_REQUEST_ID:
-                print("  LDXP live scan already completed for this request")
+                print("  LDXP diagnostic scan already completed for this request")
                 return
         except Exception:
             pass
 
-    scanner_path = REPO_ROOT / ".tmp_ldxp_live_scan.py"
+    scanner_path = REPO_ROOT / ".tmp_ldxp_plus_diagnostic.py"
     try:
         print("  Installing Playwright and Chromium...")
         subprocess.run(
@@ -56,9 +56,7 @@ def run_one_time_ldxp_scan():
             timeout=420,
         )
         urllib.request.urlretrieve(SCANNER_URL, scanner_path)
-        source = scanner_path.read_text(encoding="utf-8").replace("headless=True", "headless=False")
-        scanner_path.write_text(source, encoding="utf-8")
-        print("  Running direct LDXP scan in headed Chromium under Xvfb...")
+        print("  Exporting every live ChatGPT Plus listing in headed Chromium...")
         proc = subprocess.run(
             ["xvfb-run", "-a", sys.executable, str(scanner_path)],
             cwd=REPO_ROOT,
@@ -66,15 +64,15 @@ def run_one_time_ldxp_scan():
             text=True,
             timeout=900,
         )
-        print(proc.stdout[-5000:])
+        print(proc.stdout[-10000:])
         if proc.returncode != 0:
-            raise RuntimeError(f"scanner exit {proc.returncode}: {proc.stderr[-5000:]}")
+            raise RuntimeError(f"scanner exit {proc.returncode}: {proc.stderr[-10000:]}")
         generated = REPO_ROOT / "results" / "latest.json"
         payload = json.loads(generated.read_text(encoding="utf-8"))
         payload["request_id"] = SCAN_REQUEST_ID
-        payload["execution_note"] = "Direct calls to pay.ldxp.cn public Shop APIs after executing anti-bot JavaScript in headed Chromium under Xvfb"
+        payload["execution_note"] = "Unfiltered live Plus export from pay.ldxp.cn public Shop APIs after JavaScript challenge in headed Chromium"
         SCAN_RESULT.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-        print(f"  LDXP result saved to {SCAN_RESULT}")
+        print(f"  LDXP diagnostic result saved to {SCAN_RESULT}")
     except Exception as exc:
         diagnostic = f"{type(exc).__name__}: {exc}\n{traceback.format_exc()}"
         print(diagnostic)
