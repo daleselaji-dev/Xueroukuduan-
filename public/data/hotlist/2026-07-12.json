@@ -1,6 +1,10 @@
 {
   "date": "2026-07-12",
+<<<<<<< Updated upstream
   "generated": "2026-07-12T03:15:09.367062",
+=======
+  "generated": "2026-07-12T03:15:50.153906",
+>>>>>>> Stashed changes
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
