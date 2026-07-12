@@ -12,7 +12,7 @@ import urllib.request
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).parent.parent
-SCAN_REQUEST_ID = "ldxp-live-browser-20260712-1100-sgt"
+SCAN_REQUEST_ID = "ldxp-live-playwright-20260712-1104-sgt"
 SCAN_RESULT = REPO_ROOT / "public" / "data" / "ldxp-live.json"
 SCANNER_URL = "https://raw.githubusercontent.com/daleselaji-dev/-/main/ldxp_live_scan.py"
 
@@ -28,26 +28,21 @@ def run_one_time_ldxp_scan():
             pass
 
     scanner_path = REPO_ROOT / ".tmp_ldxp_live_scan.py"
-    print("  Installing browser-fingerprint HTTP client...")
+    print("  Installing Playwright browser controller...")
     subprocess.run(
-        [sys.executable, "-m", "pip", "install", "--quiet", "curl_cffi"],
+        [sys.executable, "-m", "pip", "install", "--quiet", "playwright"],
         check=True,
         timeout=180,
     )
-    print("  Running direct LDXP public-API inventory scan with Chrome TLS fingerprint...")
+    print("  Running direct LDXP scan inside headless Chrome...")
     urllib.request.urlretrieve(SCANNER_URL, scanner_path)
-    source = scanner_path.read_text(encoding="utf-8")
-    source = source.replace("retries=3", "retries=1")
-    source = source.replace("timeout=30", "timeout=12")
-    source = source.replace("max_workers=4", "max_workers=8")
-    scanner_path.write_text(source, encoding="utf-8")
 
     try:
-        subprocess.run([sys.executable, str(scanner_path)], cwd=REPO_ROOT, check=True, timeout=700)
+        subprocess.run([sys.executable, str(scanner_path)], cwd=REPO_ROOT, check=True, timeout=900)
         generated = REPO_ROOT / "results" / "latest.json"
         payload = json.loads(generated.read_text(encoding="utf-8"))
         payload["request_id"] = SCAN_REQUEST_ID
-        payload["execution_note"] = "Direct calls to pay.ldxp.cn public Shop APIs using Chrome TLS fingerprint from GitHub Actions"
+        payload["execution_note"] = "Direct calls to pay.ldxp.cn public Shop APIs after executing anti-bot JavaScript in headless Chrome"
         SCAN_RESULT.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
         print(f"  LDXP result saved to {SCAN_RESULT}")
     finally:
