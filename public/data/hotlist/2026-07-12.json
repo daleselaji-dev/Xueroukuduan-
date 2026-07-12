@@ -1,10 +1,6 @@
 {
   "date": "2026-07-12",
-<<<<<<< Updated upstream
-  "generated": "2026-07-12T03:15:09.367062",
-=======
-  "generated": "2026-07-12T03:15:50.153906",
->>>>>>> Stashed changes
+  "generated": "2026-07-12T05:30:14.819631",
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
@@ -13,7 +9,7 @@
         "rank": 1,
         "name": "withmarbleapp/os-taxonomy",
         "description": "",
-        "stars": 2439,
+        "stars": 2471,
         "language": "JavaScript",
         "url": "https://github.com/withmarbleapp/os-taxonomy",
         "created": "2026-07-08"
@@ -22,7 +18,7 @@
         "rank": 2,
         "name": "Shpigford/knockoff",
         "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
-        "stars": 1774,
+        "stars": 1780,
         "language": "JavaScript",
         "url": "https://github.com/Shpigford/knockoff",
         "created": "2026-07-06"
@@ -31,7 +27,7 @@
         "rank": 3,
         "name": "oso95/scroll-world",
         "description": "A skill that turn any brand into a scrollable 3D world",
-        "stars": 906,
+        "stars": 928,
         "language": "JavaScript",
         "url": "https://github.com/oso95/scroll-world",
         "created": "2026-07-06"
@@ -40,7 +36,7 @@
         "rank": 4,
         "name": "Robbyant/lingbot-world-v2",
         "description": "Infinite Worlds with Versatile Interactions",
-        "stars": 802,
+        "stars": 820,
         "language": "Python",
         "url": "https://github.com/Robbyant/lingbot-world-v2",
         "created": "2026-07-08"
@@ -49,7 +45,7 @@
         "rank": 5,
         "name": "x4gKing/3x-ui-Upgrade",
         "description": "",
-        "stars": 801,
+        "stars": 805,
         "language": "HTML",
         "url": "https://github.com/x4gKing/3x-ui-Upgrade",
         "created": "2026-07-08"
@@ -58,7 +54,7 @@
         "rank": 6,
         "name": "Robbyant/lingbot-video",
         "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-        "stars": 682,
+        "stars": 686,
         "language": "Python",
         "url": "https://github.com/Robbyant/lingbot-video",
         "created": "2026-07-08"
@@ -67,7 +63,7 @@
         "rank": 7,
         "name": "Robbyant/lingbot-vision",
         "description": "Self-supervised learning for spatial perception",
-        "stars": 638,
+        "stars": 639,
         "language": "Python",
         "url": "https://github.com/Robbyant/lingbot-vision",
         "created": "2026-07-06"
@@ -76,7 +72,7 @@
         "rank": 8,
         "name": "op7418/guizang-material-illustration",
         "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
-        "stars": 563,
+        "stars": 569,
         "language": null,
         "url": "https://github.com/op7418/guizang-material-illustration",
         "created": "2026-07-07"
@@ -94,7 +90,7 @@
         "rank": 10,
         "name": "xiaotianfotos/homerail",
         "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
-        "stars": 453,
+        "stars": 454,
         "language": "TypeScript",
         "url": "https://github.com/xiaotianfotos/homerail",
         "created": "2026-07-07"
@@ -103,7 +99,7 @@
         "rank": 11,
         "name": "Robbyant/lingbot-vla-v2",
         "description": "From Foundation to Application",
-        "stars": 452,
+        "stars": 453,
         "language": "Python",
         "url": "https://github.com/Robbyant/lingbot-vla-v2",
         "created": "2026-07-07"
@@ -121,7 +117,7 @@
         "rank": 13,
         "name": "nexu-io/motion-anything",
         "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-        "stars": 395,
+        "stars": 399,
         "language": "JavaScript",
         "url": "https://github.com/nexu-io/motion-anything",
         "created": "2026-07-06"
@@ -130,7 +126,7 @@
         "rank": 14,
         "name": "jiguang132/storyai-3d-director-desk",
         "description": "A browser-based 3D director desk demo built with React, Vite, and Three.js.",
-        "stars": 388,
+        "stars": 389,
         "language": "TypeScript",
         "url": "https://github.com/jiguang132/storyai-3d-director-desk",
         "created": "2026-07-06"
@@ -139,7 +135,7 @@
         "rank": 15,
         "name": "Nanako0129/pilotfish",
         "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-        "stars": 358,
+        "stars": 364,
         "language": null,
         "url": "https://github.com/Nanako0129/pilotfish",
         "created": "2026-07-08"
@@ -148,7 +144,7 @@
         "rank": 16,
         "name": "Doriandarko/texts-to-transformer",
         "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-        "stars": 352,
+        "stars": 354,
         "language": "Python",
         "url": "https://github.com/Doriandarko/texts-to-transformer",
         "created": "2026-07-08"
@@ -157,7 +153,7 @@
         "rank": 17,
         "name": "gostonx/uninstally",
         "description": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.",
-        "stars": 347,
+        "stars": 353,
         "language": "Swift",
         "url": "https://github.com/gostonx/uninstally",
         "created": "2026-07-08"
@@ -175,7 +171,7 @@
         "rank": 19,
         "name": "ronak-create/FableCut",
         "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
-        "stars": 339,
+        "stars": 342,
         "language": "JavaScript",
         "url": "https://github.com/ronak-create/FableCut",
         "created": "2026-07-06"
@@ -184,7 +180,7 @@
         "rank": 20,
         "name": "yusukebe/ax",
         "description": "The AI-era curl",
-        "stars": 336,
+        "stars": 341,
         "language": "TypeScript",
         "url": "https://github.com/yusukebe/ax",
         "created": "2026-07-06"
