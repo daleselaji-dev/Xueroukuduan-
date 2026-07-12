@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "generated": "2026-07-12T02:37:56.865080",
+  "generated": "2026-07-12T02:40:12.180705",
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
@@ -117,7 +117,7 @@
         "rank": 13,
         "name": "nexu-io/motion-anything",
         "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-        "stars": 394,
+        "stars": 395,
         "language": "JavaScript",
         "url": "https://github.com/nexu-io/motion-anything",
         "created": "2026-07-06"
