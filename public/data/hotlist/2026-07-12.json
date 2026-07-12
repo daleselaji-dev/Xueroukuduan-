@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "generated": "2026-07-12T02:48:34.828426",
+  "generated": "2026-07-12T02:54:44.460954",
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
@@ -9,7 +9,7 @@
         "rank": 1,
         "name": "withmarbleapp/os-taxonomy",
         "description": "",
-        "stars": 2428,
+        "stars": 2429,
         "language": "JavaScript",
         "url": "https://github.com/withmarbleapp/os-taxonomy",
         "created": "2026-07-08"
@@ -27,27 +27,27 @@
         "rank": 3,
         "name": "oso95/scroll-world",
         "description": "A skill that turn any brand into a scrollable 3D world",
-        "stars": 901,
+        "stars": 903,
         "language": "JavaScript",
         "url": "https://github.com/oso95/scroll-world",
         "created": "2026-07-06"
       },
       {
         "rank": 4,
+        "name": "Robbyant/lingbot-world-v2",
+        "description": "Infinite Worlds with Versatile Interactions",
+        "stars": 801,
+        "language": "Python",
+        "url": "https://github.com/Robbyant/lingbot-world-v2",
+        "created": "2026-07-08"
+      },
+      {
+        "rank": 5,
         "name": "x4gKing/3x-ui-Upgrade",
         "description": "",
         "stars": 801,
         "language": "HTML",
         "url": "https://github.com/x4gKing/3x-ui-Upgrade",
-        "created": "2026-07-08"
-      },
-      {
-        "rank": 5,
-        "name": "Robbyant/lingbot-world-v2",
-        "description": "Infinite Worlds with Versatile Interactions",
-        "stars": 799,
-        "language": "Python",
-        "url": "https://github.com/Robbyant/lingbot-world-v2",
         "created": "2026-07-08"
       },
       {
@@ -72,7 +72,7 @@
         "rank": 8,
         "name": "op7418/guizang-material-illustration",
         "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
-        "stars": 562,
+        "stars": 563,
         "language": null,
         "url": "https://github.com/op7418/guizang-material-illustration",
         "created": "2026-07-07"
@@ -135,7 +135,7 @@
         "rank": 15,
         "name": "Nanako0129/pilotfish",
         "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-        "stars": 357,
+        "stars": 358,
         "language": null,
         "url": "https://github.com/Nanako0129/pilotfish",
         "created": "2026-07-08"
@@ -153,7 +153,7 @@
         "rank": 17,
         "name": "gostonx/uninstally",
         "description": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.",
-        "stars": 345,
+        "stars": 346,
         "language": "Swift",
         "url": "https://github.com/gostonx/uninstally",
         "created": "2026-07-08"
@@ -180,7 +180,7 @@
         "rank": 20,
         "name": "yusukebe/ax",
         "description": "The AI-era curl",
-        "stars": 334,
+        "stars": 335,
         "language": "TypeScript",
         "url": "https://github.com/yusukebe/ax",
         "created": "2026-07-06"
