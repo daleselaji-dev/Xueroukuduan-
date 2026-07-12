@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "generated": "2026-07-12T03:07:03.042811",
+  "generated": "2026-07-12T03:15:09.367062",
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
@@ -9,7 +9,7 @@
         "rank": 1,
         "name": "withmarbleapp/os-taxonomy",
         "description": "",
-        "stars": 2435,
+        "stars": 2439,
         "language": "JavaScript",
         "url": "https://github.com/withmarbleapp/os-taxonomy",
         "created": "2026-07-08"
@@ -27,7 +27,7 @@
         "rank": 3,
         "name": "oso95/scroll-world",
         "description": "A skill that turn any brand into a scrollable 3D world",
-        "stars": 904,
+        "stars": 906,
         "language": "JavaScript",
         "url": "https://github.com/oso95/scroll-world",
         "created": "2026-07-06"
