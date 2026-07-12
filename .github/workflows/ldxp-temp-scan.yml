@@ -1,0 +1,31 @@
+name: Temporary LDXP Live Scan
+on:
+  push:
+    paths:
+      - '.github/workflows/ldxp-temp-scan.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  scan:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Download scanner
+        run: curl -fsSL 'https://raw.githubusercontent.com/daleselaji-dev/-/main/ldxp_live_scan.py' -o /tmp/ldxp_live_scan.py
+      - name: Scan live inventory
+        env:
+          TZ: Asia/Singapore
+        run: python /tmp/ldxp_live_scan.py
+      - name: Commit scan output
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add results/latest.json results/latest.md
+          git diff --cached --quiet || git commit -m 'chore: temporary LDXP live result [skip ci]'
+          git push
