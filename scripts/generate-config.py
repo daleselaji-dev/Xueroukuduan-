@@ -8,13 +8,28 @@ import json
 import os
 import subprocess
 import sys
+import traceback
 import urllib.request
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).parent.parent
-SCAN_REQUEST_ID = "ldxp-live-playwright-20260712-1104-sgt"
+SCAN_REQUEST_ID = "ldxp-live-headed-20260712-1108-sgt"
 SCAN_RESULT = REPO_ROOT / "public" / "data" / "ldxp-live.json"
 SCANNER_URL = "https://raw.githubusercontent.com/daleselaji-dev/-/main/ldxp_live_scan.py"
+
+
+def save_failure(message):
+    payload = {
+        "request_id": SCAN_REQUEST_ID,
+        "captured_at": None,
+        "finished_at": None,
+        "shop_count": 136,
+        "products": [],
+        "errors": [{"stage": "runner", "error": message}],
+        "execution_note": "Headed Chromium diagnostic run",
+    }
+    SCAN_RESULT.parent.mkdir(parents=True, exist_ok=True)
+    SCAN_RESULT.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def run_one_time_ldxp_scan():
@@ -28,23 +43,42 @@ def run_one_time_ldxp_scan():
             pass
 
     scanner_path = REPO_ROOT / ".tmp_ldxp_live_scan.py"
-    print("  Installing Playwright browser controller...")
-    subprocess.run(
-        [sys.executable, "-m", "pip", "install", "--quiet", "playwright"],
-        check=True,
-        timeout=180,
-    )
-    print("  Running direct LDXP scan inside headless Chrome...")
-    urllib.request.urlretrieve(SCANNER_URL, scanner_path)
-
     try:
-        subprocess.run([sys.executable, str(scanner_path)], cwd=REPO_ROOT, check=True, timeout=900)
+        print("  Installing Playwright and Chromium...")
+        subprocess.run(
+            [sys.executable, "-m", "pip", "install", "--quiet", "playwright"],
+            check=True,
+            timeout=180,
+        )
+        subprocess.run(
+            [sys.executable, "-m", "playwright", "install", "chromium"],
+            check=True,
+            timeout=420,
+        )
+        urllib.request.urlretrieve(SCANNER_URL, scanner_path)
+        source = scanner_path.read_text(encoding="utf-8").replace("headless=True", "headless=False")
+        scanner_path.write_text(source, encoding="utf-8")
+        print("  Running direct LDXP scan in headed Chromium under Xvfb...")
+        proc = subprocess.run(
+            ["xvfb-run", "-a", sys.executable, str(scanner_path)],
+            cwd=REPO_ROOT,
+            capture_output=True,
+            text=True,
+            timeout=900,
+        )
+        print(proc.stdout[-5000:])
+        if proc.returncode != 0:
+            raise RuntimeError(f"scanner exit {proc.returncode}: {proc.stderr[-5000:]}")
         generated = REPO_ROOT / "results" / "latest.json"
         payload = json.loads(generated.read_text(encoding="utf-8"))
         payload["request_id"] = SCAN_REQUEST_ID
-        payload["execution_note"] = "Direct calls to pay.ldxp.cn public Shop APIs after executing anti-bot JavaScript in headless Chrome"
+        payload["execution_note"] = "Direct calls to pay.ldxp.cn public Shop APIs after executing anti-bot JavaScript in headed Chromium under Xvfb"
         SCAN_RESULT.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
         print(f"  LDXP result saved to {SCAN_RESULT}")
+    except Exception as exc:
+        diagnostic = f"{type(exc).__name__}: {exc}\n{traceback.format_exc()}"
+        print(diagnostic)
+        save_failure(diagnostic)
     finally:
         scanner_path.unlink(missing_ok=True)
 
