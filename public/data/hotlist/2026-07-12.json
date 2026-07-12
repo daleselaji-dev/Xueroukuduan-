@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "generated": "2026-07-12T02:54:44.460954",
+  "generated": "2026-07-12T02:56:37.036387",
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
@@ -9,7 +9,7 @@
         "rank": 1,
         "name": "withmarbleapp/os-taxonomy",
         "description": "",
-        "stars": 2429,
+        "stars": 2431,
         "language": "JavaScript",
         "url": "https://github.com/withmarbleapp/os-taxonomy",
         "created": "2026-07-08"
@@ -27,7 +27,7 @@
         "rank": 3,
         "name": "oso95/scroll-world",
         "description": "A skill that turn any brand into a scrollable 3D world",
-        "stars": 903,
+        "stars": 904,
         "language": "JavaScript",
         "url": "https://github.com/oso95/scroll-world",
         "created": "2026-07-06"
@@ -153,7 +153,7 @@
         "rank": 17,
         "name": "gostonx/uninstally",
         "description": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.",
-        "stars": 346,
+        "stars": 347,
         "language": "Swift",
         "url": "https://github.com/gostonx/uninstally",
         "created": "2026-07-08"
