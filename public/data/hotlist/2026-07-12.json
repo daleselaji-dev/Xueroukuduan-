@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "generated": "2026-07-12T02:56:37.036387",
+  "generated": "2026-07-12T03:03:24.207060",
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
@@ -9,7 +9,7 @@
         "rank": 1,
         "name": "withmarbleapp/os-taxonomy",
         "description": "",
-        "stars": 2431,
+        "stars": 2434,
         "language": "JavaScript",
         "url": "https://github.com/withmarbleapp/os-taxonomy",
         "created": "2026-07-08"
@@ -63,7 +63,7 @@
         "rank": 7,
         "name": "Robbyant/lingbot-vision",
         "description": "Self-supervised learning for spatial perception",
-        "stars": 637,
+        "stars": 638,
         "language": "Python",
         "url": "https://github.com/Robbyant/lingbot-vision",
         "created": "2026-07-06"
@@ -90,7 +90,7 @@
         "rank": 10,
         "name": "xiaotianfotos/homerail",
         "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
-        "stars": 452,
+        "stars": 453,
         "language": "TypeScript",
         "url": "https://github.com/xiaotianfotos/homerail",
         "created": "2026-07-07"
