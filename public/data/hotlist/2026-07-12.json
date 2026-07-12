@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "generated": "2026-07-12T02:42:16.313215",
+  "generated": "2026-07-12T02:48:34.828426",
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
@@ -27,7 +27,7 @@
         "rank": 3,
         "name": "oso95/scroll-world",
         "description": "A skill that turn any brand into a scrollable 3D world",
-        "stars": 899,
+        "stars": 901,
         "language": "JavaScript",
         "url": "https://github.com/oso95/scroll-world",
         "created": "2026-07-06"
@@ -72,7 +72,7 @@
         "rank": 8,
         "name": "op7418/guizang-material-illustration",
         "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
-        "stars": 561,
+        "stars": 562,
         "language": null,
         "url": "https://github.com/op7418/guizang-material-illustration",
         "created": "2026-07-07"
@@ -180,7 +180,7 @@
         "rank": 20,
         "name": "yusukebe/ax",
         "description": "The AI-era curl",
-        "stars": 333,
+        "stars": 334,
         "language": "TypeScript",
         "url": "https://github.com/yusukebe/ax",
         "created": "2026-07-06"
