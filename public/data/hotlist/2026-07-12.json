@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "generated": "2026-07-12T03:03:24.207060",
+  "generated": "2026-07-12T03:07:03.042811",
   "github": {
     "title": "GitHub 热门项目",
     "description": "最近7天新建的高星项目",
@@ -9,7 +9,7 @@
         "rank": 1,
         "name": "withmarbleapp/os-taxonomy",
         "description": "",
-        "stars": 2434,
+        "stars": 2435,
         "language": "JavaScript",
         "url": "https://github.com/withmarbleapp/os-taxonomy",
         "created": "2026-07-08"
@@ -36,7 +36,7 @@
         "rank": 4,
         "name": "Robbyant/lingbot-world-v2",
         "description": "Infinite Worlds with Versatile Interactions",
-        "stars": 801,
+        "stars": 802,
         "language": "Python",
         "url": "https://github.com/Robbyant/lingbot-world-v2",
         "created": "2026-07-08"
@@ -54,7 +54,7 @@
         "rank": 6,
         "name": "Robbyant/lingbot-video",
         "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-        "stars": 681,
+        "stars": 682,
         "language": "Python",
         "url": "https://github.com/Robbyant/lingbot-video",
         "created": "2026-07-08"
@@ -99,7 +99,7 @@
         "rank": 11,
         "name": "Robbyant/lingbot-vla-v2",
         "description": "From Foundation to Application",
-        "stars": 451,
+        "stars": 452,
         "language": "Python",
         "url": "https://github.com/Robbyant/lingbot-vla-v2",
         "created": "2026-07-07"
@@ -180,7 +180,7 @@
         "rank": 20,
         "name": "yusukebe/ax",
         "description": "The AI-era curl",
-        "stars": 335,
+        "stars": 336,
         "language": "TypeScript",
         "url": "https://github.com/yusukebe/ax",
         "created": "2026-07-06"
