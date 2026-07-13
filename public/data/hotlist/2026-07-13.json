@@ -1,0 +1,588 @@
+{
+  "date": "2026-07-13",
+  "generated": "2026-07-13T05:39:24.282586",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "withmarbleapp/os-taxonomy",
+        "description": "",
+        "stars": 2763,
+        "language": "JavaScript",
+        "url": "https://github.com/withmarbleapp/os-taxonomy",
+        "created": "2026-07-08"
+      },
+      {
+        "rank": 2,
+        "name": "Robbyant/lingbot-world-v2",
+        "description": "Infinite Worlds with Versatile Interactions",
+        "stars": 955,
+        "language": "Python",
+        "url": "https://github.com/Robbyant/lingbot-world-v2",
+        "created": "2026-07-08"
+      },
+      {
+        "rank": 3,
+        "name": "x4gKing/3x-ui-Upgrade",
+        "description": "",
+        "stars": 895,
+        "language": "HTML",
+        "url": "https://github.com/x4gKing/3x-ui-Upgrade",
+        "created": "2026-07-08"
+      },
+      {
+        "rank": 4,
+        "name": "Robbyant/lingbot-video",
+        "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+        "stars": 719,
+        "language": "Python",
+        "url": "https://github.com/Robbyant/lingbot-video",
+        "created": "2026-07-08"
+      },
+      {
+        "rank": 5,
+        "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+        "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+        "stars": 691,
+        "language": "Python",
+        "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+        "created": "2026-07-09"
+      },
+      {
+        "rank": 6,
+        "name": "mereyabdenbekuly-ctrl/clodex-ide",
+        "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+        "stars": 666,
+        "language": "TypeScript",
+        "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+        "created": "2026-07-12"
+      },
+      {
+        "rank": 7,
+        "name": "op7418/guizang-material-illustration",
+        "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+        "stars": 599,
+        "language": null,
+        "url": "https://github.com/op7418/guizang-material-illustration",
+        "created": "2026-07-07"
+      },
+      {
+        "rank": 8,
+        "name": "xiaotianfotos/homerail",
+        "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
+        "stars": 491,
+        "language": "TypeScript",
+        "url": "https://github.com/xiaotianfotos/homerail",
+        "created": "2026-07-07"
+      },
+      {
+        "rank": 9,
+        "name": "Robbyant/lingbot-vla-v2",
+        "description": "From Foundation to Application",
+        "stars": 482,
+        "language": "Python",
+        "url": "https://github.com/Robbyant/lingbot-vla-v2",
+        "created": "2026-07-07"
+      },
+      {
+        "rank": 10,
+        "name": "gostonx/uninstally",
+        "description": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.",
+        "stars": 433,
+        "language": "Swift",
+        "url": "https://github.com/gostonx/uninstally",
+        "created": "2026-07-08"
+      },
+      {
+        "rank": 11,
+        "name": "Raymondhou0917/speak-human-tw",
+        "description": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
+        "stars": 411,
+        "language": null,
+        "url": "https://github.com/Raymondhou0917/speak-human-tw",
+        "created": "2026-07-08"
+      },
+      {
+        "rank": 12,
+        "name": "CoscoAI/luxy-aisre",
+        "description": "AISRE for Cosco",
+        "stars": 408,
+        "language": "Python",
+        "url": "https://github.com/CoscoAI/luxy-aisre",
+        "created": "2026-07-10"
+      },
+      {
+        "rank": 13,
+        "name": "Nanako0129/pilotfish",
+        "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+        "stars": 393,
+        "language": null,
+        "url": "https://github.com/Nanako0129/pilotfish",
+        "created": "2026-07-08"
+      },
+      {
+        "rank": 14,
+        "name": "Doriandarko/texts-to-transformer",
+        "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+        "stars": 372,
+        "language": "Python",
+        "url": "https://github.com/Doriandarko/texts-to-transformer",
+        "created": "2026-07-08"
+      },
+      {
+        "rank": 15,
+        "name": "cosmtrek/mindwalk",
+        "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+        "stars": 344,
+        "language": "Go",
+        "url": "https://github.com/cosmtrek/mindwalk",
+        "created": "2026-07-09"
+      },
+      {
+        "rank": 16,
+        "name": "yetone/kill-ai-slop",
+        "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+        "stars": 340,
+        "language": "TypeScript",
+        "url": "https://github.com/yetone/kill-ai-slop",
+        "created": "2026-07-10"
+      },
+      {
+        "rank": 17,
+        "name": "WeZZard/jlens-qwen36",
+        "description": "J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX",
+        "stars": 313,
+        "language": "Python",
+        "url": "https://github.com/WeZZard/jlens-qwen36",
+        "created": "2026-07-07"
+      },
+      {
+        "rank": 18,
+        "name": "bkingfilm/lapian-notes",
+        "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+        "stars": 293,
+        "language": "TypeScript",
+        "url": "https://github.com/bkingfilm/lapian-notes",
+        "created": "2026-07-08"
+      },
+      {
+        "rank": 19,
+        "name": "Liquid4All/antidoom",
+        "description": "",
+        "stars": 285,
+        "language": "Python",
+        "url": "https://github.com/Liquid4All/antidoom",
+        "created": "2026-07-07"
+      },
+      {
+        "rank": 20,
+        "name": "AlayaLab/AlayaWorld",
+        "description": "Full-stack open-source interactive long-horizon world model.",
+        "stars": 277,
+        "language": null,
+        "url": "https://github.com/AlayaLab/AlayaWorld",
+        "created": "2026-07-07"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
+        "authors": [
+          "Ren Takahashi",
+          "Emre Yusuf",
+          "Jayabrata Bhaduri"
+        ],
+        "summary": "Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating characteristic curve (AUC) of approximately 0.70 on the DREAM database (Wong et al., 2025, Nature Communic",
+        "url": "http://arxiv.org/abs/2607.09662v1",
+        "pdf": "https://arxiv.org/pdf/2607.09662v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Scalable Visual Pretraining for Language Intelligence",
+        "authors": [
+          "Yiming Zhang",
+          "Zhonghan Zhao",
+          "Wenwei Zhang",
+          "Haiteng Zhao",
+          "Tianyang Lin"
+        ],
+        "summary": "The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, where figures, typeset equations, and page layouts carry rich information that cannot be faithfully or",
+        "url": "http://arxiv.org/abs/2607.09657v1",
+        "pdf": "https://arxiv.org/pdf/2607.09657v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models",
+        "authors": [
+          "Shravan Murlidaran",
+          "Miguel P. Eckstein"
+        ],
+        "summary": "Vision language models (VLMs) have made remarkable progress in visual reasoning during the last decade. Most evaluations have used simple scenes (MS-COCO) that do not showcase complex human interactions or behaviors, only a handful of non-curated human descriptions as a benchmark, and have not focus",
+        "url": "http://arxiv.org/abs/2607.09654v1",
+        "pdf": "https://arxiv.org/pdf/2607.09654v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
+        "authors": [
+          "Katherine Swinea",
+          "Kshitiz Aryal",
+          "Lopamudra Praharaj",
+          "Maanak Gupta"
+        ],
+        "summary": "Internet of Things (IoT) systems are inherently vulnerable due to constrained hardware, outdated firmware, and insecure default configurations, creating a need for scalable and adaptive security testing approaches. While recent adoptions of Large Language Model (LLM) agents have demonstrated promise",
+        "url": "http://arxiv.org/abs/2607.09653v1",
+        "pdf": "https://arxiv.org/pdf/2607.09653v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI",
+        "authors": [
+          "Mohadeseh Mollapour",
+          "Koorosh Aslansefat",
+          "Zeinab Dehghani",
+          "Bhupesh Kumar Mishra",
+          "Tejal Shah"
+        ],
+        "summary": "Concept-based explainable artificial intelligence (AI) can make model reasoning more human-understandable, but concept-level outputs are not automatically trustworthy. We introduce ConceptSMILE, a model-agnostic perturbation-based auditing framework for evaluating the reliability of concept-based ex",
+        "url": "http://arxiv.org/abs/2607.09649v1",
+        "pdf": "https://arxiv.org/pdf/2607.09649v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection",
+        "authors": [
+          "Cláudio Lúcio do Val Lopes",
+          "Lucca Machado da Silva"
+        ],
+        "summary": "Financial anomaly detection suffers from extreme class imbalance, causing traditional single-objective algorithms to exhibit ``fraud collapse'', defaulting to the majority class and failing to balance anomaly interdiction with customer friction. To overcome this without distortive data resampling, w",
+        "url": "http://arxiv.org/abs/2607.09641v1",
+        "pdf": "https://arxiv.org/pdf/2607.09641v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory",
+        "authors": [
+          "Chengkai Zhu",
+          "Ziao Tang",
+          "Guocheng Zhen",
+          "Yimeng Cao",
+          "Yusheng Zhao"
+        ],
+        "summary": "Quantum information theory (QIT) characterizes the capabilities and fundamental limits of quantum information processing, underpinning quantum communication, computation, and error correction. Formalizing its coding theorems requires connecting finite-block protocols, analytic inequalities, and asym",
+        "url": "http://arxiv.org/abs/2607.09632v1",
+        "pdf": "https://arxiv.org/pdf/2607.09632v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception",
+        "authors": [
+          "Xiaokai Bai",
+          "Lianqing Zheng",
+          "Runwei Guan",
+          "Songkai Wang",
+          "Siyuan Cao"
+        ],
+        "summary": "Reliable autonomous driving requires full-scene perception that couples foreground objects with dense semantic layout. Recently, 4D millimeter-wave radar has emerged as a robust and affordable sensor, yet its sparse returns make radar-camera fusion necessary for comprehensive scene understanding. Ex",
+        "url": "http://arxiv.org/abs/2607.09629v1",
+        "pdf": "https://arxiv.org/pdf/2607.09629v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026",
+        "authors": [
+          "Nirjhar Das",
+          "Md. Al-Mamun Provath"
+        ],
+        "summary": "We present our submission to the QANTA 2026 shared challenge at the ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA). Quanta evaluates multimodal quizbowl systems that answer pyramid-style questions from incrementally revealed text and accompanying images while operating under ",
+        "url": "http://arxiv.org/abs/2607.09623v1",
+        "pdf": "https://arxiv.org/pdf/2607.09623v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation",
+        "authors": [
+          "Kaiji Zhou",
+          "Ales Leonardis",
+          "Yue Feng"
+        ],
+        "summary": "Enhancing the reasoning capabilities of large language model (LLM) agents requires effective orchestration of diverse expert models and tools. However, existing frameworks typically call APIs based on coarse-grained matching between tasks and the functions of expert models or tools, while overlookin",
+        "url": "http://arxiv.org/abs/2607.09600v1",
+        "pdf": "https://arxiv.org/pdf/2607.09600v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers",
+        "authors": [
+          "Yujie Pang",
+          "Zudong Li"
+        ],
+        "summary": "Precision industrial contact manipulation requires reliable robot policies under pose perturbations and contact-force constraints. Vision-language-action models offer broad generalization but often introduce high inference latency and GPU-memory cost, while vision-action chunking policies are more s",
+        "url": "http://arxiv.org/abs/2607.09590v1",
+        "pdf": "https://arxiv.org/pdf/2607.09590v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "TrustX Agent Risk Classification Framework (ARC): Risk-Tiering Internally Created Agentic AI Systems",
+        "authors": [
+          "Hannah M. Liu",
+          "Rhea Saxena",
+          "Shiv Asthana"
+        ],
+        "summary": "The proliferation of agentic AI systems across enterprise and public-sector contexts has outpaced the capacity of general-purpose AI risk frameworks to classify and govern them. In this paper, we introduce the TrustX Agent Risk Classification Framework, a structured, repeatable instrument that can b",
+        "url": "http://arxiv.org/abs/2607.09586v1",
+        "pdf": "https://arxiv.org/pdf/2607.09586v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Knowledge Graphs and Explainable AI as Complementary Resources for Urban Mining",
+        "authors": [
+          "Jan Gronewald",
+          "Andreas Emrich",
+          "Nijat Mehdiyev"
+        ],
+        "summary": "Pre-demolition assessment, the regulated audit process at the heart of urban mining, is an information process in which AI support must serve qualified auditors who remain accountable for the decisions taken. The relevant unit of value is not prediction accuracy alone, but the defensibility of the s",
+        "url": "http://arxiv.org/abs/2607.09578v1",
+        "pdf": "https://arxiv.org/pdf/2607.09578v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Conceptual Networks for Cross-Linguistic Idiomatic Expressions:A Feature-Based Graph Approach",
+        "authors": [
+          "Kiran Pala",
+          "Punam Silu",
+          "Lixun Yu"
+        ],
+        "summary": "We present an interpretable network-based framework for representing idiomatic and figurative meaning across eight typologically diverse languages, totaling 160 conventional expressions, the large majority of which are idiomatic. Each expression is annotated with binary conceptual features (containm",
+        "url": "http://arxiv.org/abs/2607.09576v1",
+        "pdf": "https://arxiv.org/pdf/2607.09576v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Large-Scale Portfolio Optimization Problem Under Cardinality Constraint With Enhanced Multi-Objective Evolutionary Algorithms",
+        "authors": [
+          "Danial Ramezani",
+          "Mostafa Abouei Ardakan"
+        ],
+        "summary": "Decision-making is posing an increasingly formidable challenge to investors because of the growing number of alternatives available in financial markets. A hot area of research over the past few decades has been portfolio optimization that seeks to determine how much an investor should invest in whi",
+        "url": "http://arxiv.org/abs/2607.09566v1",
+        "pdf": "https://arxiv.org/pdf/2607.09566v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models",
+        "authors": [
+          "Tianyou Jiang",
+          "Ziyu Zhou"
+        ],
+        "summary": "Medical Vision-Language Models (VLMs) exhibit strong zero-shot performance, yet their effectiveness still declines on out-of-distribution (OOD) data due to domain shifts and class bias inherited from large-scale pretraining. Existing few-shot adaptation methods typically introduce additional trainab",
+        "url": "http://arxiv.org/abs/2607.09562v1",
+        "pdf": "https://arxiv.org/pdf/2607.09562v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Beyond Fixed Representations: The Vocabulary and Verifier Gaps in Open-Ended AI",
+        "authors": [
+          "Yuan Cao",
+          "Haiqian Yang"
+        ],
+        "summary": "Modern AI systems are increasingly being evaluated for their ability to reason, code, prove theorems, use tools, and long-horizon research tasks. These are powerful capabilities, but they share a structural limitation: the representational frame within which the model operates, including its concept",
+        "url": "http://arxiv.org/abs/2607.09560v1",
+        "pdf": "https://arxiv.org/pdf/2607.09560v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "ALICE: Learning a General-Purpose Pathology Foundation Model from Vision, Vision-Language, and Slide-Level Experts",
+        "authors": [
+          "Jiawen Li",
+          "Tian Guan",
+          "Huijuan Shi",
+          "Xitong Ling",
+          "Mingxi Fu"
+        ],
+        "summary": "Foundation models are reshaping computational pathology, yet their capabilities remain shaped by pretraining objectives, data sources, and spatial scales, fragmenting complementary expertise across separate backbones. Here we present ALICE, a unified foundation model trained through multi-stage aggl",
+        "url": "http://arxiv.org/abs/2607.09526v1",
+        "pdf": "https://arxiv.org/pdf/2607.09526v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "SAGEAgent: A Self-Evolving Agent for Cost-Aware Modality Acquisition in Multimodal Survival Prediction",
+        "authors": [
+          "Chongyu Qu",
+          "Can Cui",
+          "Zhengyi Lu",
+          "Junchao Zhu",
+          "Tianyuan Yao"
+        ],
+        "summary": "Does every cancer patient truly need a complete diagnostic workup for accurate survival prediction? In multimodal clinical oncology, diagnostic modalities follow a clinically mandated order of escalating burden -- from demographics collected at intake to genomic profiling requiring specialized tissu",
+        "url": "http://arxiv.org/abs/2607.09521v1",
+        "pdf": "https://arxiv.org/pdf/2607.09521v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference",
+        "authors": [
+          "Junfei Zhan",
+          "Haoxun Shen",
+          "Mingang Guo",
+          "Zixuan Huang",
+          "Tengjiao He"
+        ],
+        "summary": "Vision-Language Models (VLMs) are the perceptual backbone of embodied AI, but their energy footprint on edge hardware remains poorly understood. Existing efficiency efforts focus predominantly on reducing visual tokens, implicitly treating visual processing as the dominant energy cost. We overturn t",
+        "url": "http://arxiv.org/abs/2607.09520v1",
+        "pdf": "https://arxiv.org/pdf/2607.09520v1",
+        "published": "2026-07-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Deep Gaussian Processes on Directed Acyclic Graphs",
+        "authors": [
+          "Federico L. Perlino",
+          "Oliver Hamelijnck",
+          "Adam M. Johansen",
+          "Theodoros Damoulas"
+        ],
+        "summary": "Many real-world processes can be represented as compositions of functions along a directed acyclic graph (DAG). In causal modelling, these correspond to the underlying mechanisms; in engineering, to multiple fidelity levels; and in gene-regulatory networks, to transcription factors. These functions ",
+        "url": "http://arxiv.org/abs/2607.09645v1",
+        "pdf": "https://arxiv.org/pdf/2607.09645v1",
+        "published": "2026-07-10",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "LLM for EDA in Front-End Design: Challenges and Opportunities",
+        "authors": [
+          "Kangwei Xu",
+          "Bing Li",
+          "Ulf Schlichtmann"
+        ],
+        "summary": "As chip complexity increases and time-to-market pressures grow, front-end design has become a critical bottleneck in chip development. Recently, Large Language Models (LLMs) have shown great potential in Electronic Design Automation (EDA). Beyond specification understanding, LLMs show the potential ",
+        "url": "http://arxiv.org/abs/2607.09616v1",
+        "pdf": "https://arxiv.org/pdf/2607.09616v1",
+        "published": "2026-07-10",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Entropy-Constrained Machine Learning with Residual Data Augmentation for Modeling Chemical Kinetics",
+        "authors": [
+          "Okezzi Ukorigho",
+          "Opeoluwa Owoyele"
+        ],
+        "summary": "We present a physics-constrained machine learning framework for accelerating the direct numerical simulation (DNS) of turbulent reacting flows. The model replaces the direct evaluation of detailed chemical source terms with a surrogate that predicts reaction rates from a reduced thermochemical state",
+        "url": "http://arxiv.org/abs/2607.09582v1",
+        "pdf": "https://arxiv.org/pdf/2607.09582v1",
+        "published": "2026-07-10",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Graph-Regularized Low-Rank Matrix Completion by Variable Projection",
+        "authors": [
+          "Benoît Loucheur",
+          "P. -A. Absil",
+          "Michel Journée"
+        ],
+        "summary": "We address the low-rank matrix completion problem by incorporating graph regularization into the existing Riemannian Trust-Region Matrix Completion (RTRMC) framework. The latter uses the geometry of the low-rank constraint to remodel the problem as an unconstrained optimization problem on a single G",
+        "url": "http://arxiv.org/abs/2607.09546v1",
+        "pdf": "https://arxiv.org/pdf/2607.09546v1",
+        "published": "2026-07-10",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "The Count Is There, but Misaligned: Understanding and Correcting Counting Failures in VLMs",
+        "authors": [
+          "Ahmed Oumar El-Shangiti",
+          "Abzal Nurgazy",
+          "Hilal AlQuabeh",
+          "Nikolai Rozanov",
+          "Kentaro Inui"
+        ],
+        "summary": "Despite strong performance on many multimodal tasks, vision-language models (VLMs) still struggle with basic object counting. We investigate whether this reflects missing internal knowledge or a gap between internal representations and verbalized outputs. Training simple probes on activations from f",
+        "url": "http://arxiv.org/abs/2607.09544v1",
+        "pdf": "https://arxiv.org/pdf/2607.09544v1",
+        "published": "2026-07-10",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "CoCoT-EEG: Contrastive-Pretrained Multiscale Convolutional Transformer for EEG Decoding",
+        "authors": [
+          "Gabriel Mahuas",
+          "Victoria Shevchenko",
+          "Ugo Tanielian",
+          "Yassir Bendou",
+          "Richard Gao"
+        ],
+        "summary": "Self-supervised pretrained foundation models (FM) have shown early promise for non-invasive electroencephalogram (EEG) decoding applications. Many recent large-scale models converged on the approach of tokenizing raw EEG followed by masked reconstruction pretraining. However, this recipe has been sh",
+        "url": "http://arxiv.org/abs/2607.09543v1",
+        "pdf": "https://arxiv.org/pdf/2607.09543v1",
+        "published": "2026-07-10",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "GatedLinear: Adaptive Routing of Complementary Linear Bases for Time Series Forecasting",
+        "authors": [
+          "Qitai Tan",
+          "Ruiwen Gu",
+          "Yilin Su",
+          "Mo Li",
+          "Xu Lin"
+        ],
+        "summary": "Time series forecasting requires models to capture diverse, often mutually exclusive, temporal dynamics, from smooth trend continuation to nonstationary drift and strict phase-aligned recurrence. While recent deep learning models have improved accuracy, they typically force these diverse patterns th",
+        "url": "http://arxiv.org/abs/2607.09537v1",
+        "pdf": "https://arxiv.org/pdf/2607.09537v1",
+        "published": "2026-07-10",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
