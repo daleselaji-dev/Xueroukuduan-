@@ -1,0 +1,595 @@
+{
+  "date": "2026-07-15",
+  "generated": "2026-07-15T04:53:03.336676",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "MDX-Tom/gpt-5.6-instruct",
+        "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+        "stars": 1067,
+        "language": "Python",
+        "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+        "created": "2026-07-11"
+      },
+      {
+        "rank": 2,
+        "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+        "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+        "stars": 973,
+        "language": "Python",
+        "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+        "created": "2026-07-09"
+      },
+      {
+        "rank": 3,
+        "name": "littledivy/mimic",
+        "description": "Intercept any app, then call it from Python like a library",
+        "stars": 914,
+        "language": "Python",
+        "url": "https://github.com/littledivy/mimic",
+        "created": "2026-07-13"
+      },
+      {
+        "rank": 4,
+        "name": "mereyabdenbekuly-ctrl/clodex-ide",
+        "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+        "stars": 802,
+        "language": "TypeScript",
+        "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+        "created": "2026-07-12"
+      },
+      {
+        "rank": 5,
+        "name": "AlephAITech/WorkBuddyGuide",
+        "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+        "stars": 722,
+        "language": "Python",
+        "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+        "created": "2026-07-10"
+      },
+      {
+        "rank": 6,
+        "name": "x4gKing/Marzban-Panel",
+        "description": "",
+        "stars": 675,
+        "language": "Dockerfile",
+        "url": "https://github.com/x4gKing/Marzban-Panel",
+        "created": "2026-07-12"
+      },
+      {
+        "rank": 7,
+        "name": "Kappaemme-git/codex-first-customer-finder-skill",
+        "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+        "stars": 622,
+        "language": "Python",
+        "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+        "created": "2026-07-12"
+      },
+      {
+        "rank": 8,
+        "name": "William-Lu-stack/Flawless",
+        "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+        "stars": 618,
+        "language": "Python",
+        "url": "https://github.com/William-Lu-stack/Flawless",
+        "created": "2026-07-10"
+      },
+      {
+        "rank": 9,
+        "name": "cosmtrek/mindwalk",
+        "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+        "stars": 587,
+        "language": "Go",
+        "url": "https://github.com/cosmtrek/mindwalk",
+        "created": "2026-07-09"
+      },
+      {
+        "rank": 10,
+        "name": "pengchujin/jzsub",
+        "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+        "stars": 583,
+        "language": "Python",
+        "url": "https://github.com/pengchujin/jzsub",
+        "created": "2026-07-10"
+      },
+      {
+        "rank": 11,
+        "name": "x4gKing/Marzban-Node",
+        "description": "",
+        "stars": 571,
+        "language": "Dockerfile",
+        "url": "https://github.com/x4gKing/Marzban-Node",
+        "created": "2026-07-12"
+      },
+      {
+        "rank": 12,
+        "name": "yetone/kill-ai-slop",
+        "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+        "stars": 440,
+        "language": "TypeScript",
+        "url": "https://github.com/yetone/kill-ai-slop",
+        "created": "2026-07-10"
+      },
+      {
+        "rank": 13,
+        "name": "jakubkrehel/skills",
+        "description": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
+        "stars": 332,
+        "language": null,
+        "url": "https://github.com/jakubkrehel/skills",
+        "created": "2026-07-10"
+      },
+      {
+        "rank": 14,
+        "name": "JexTradesLab/scaling-octo-engine",
+        "description": "",
+        "stars": 307,
+        "language": "TypeScript",
+        "url": "https://github.com/JexTradesLab/scaling-octo-engine",
+        "created": "2026-07-09"
+      },
+      {
+        "rank": 15,
+        "name": "thatmagicalcat/txm",
+        "description": "Terminal Math rendering engine",
+        "stars": 290,
+        "language": "Rust",
+        "url": "https://github.com/thatmagicalcat/txm",
+        "created": "2026-07-09"
+      },
+      {
+        "rank": 16,
+        "name": "QuantumByteOSS/quantumbyte",
+        "description": "Open-source app builder engine — intent to working app",
+        "stars": 283,
+        "language": "Python",
+        "url": "https://github.com/QuantumByteOSS/quantumbyte",
+        "created": "2026-07-14"
+      },
+      {
+        "rank": 17,
+        "name": "opencoredev/domain-sdk",
+        "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
+        "stars": 278,
+        "language": "TypeScript",
+        "url": "https://github.com/opencoredev/domain-sdk",
+        "created": "2026-07-12"
+      },
+      {
+        "rank": 18,
+        "name": "Git-creat7/grokRegister-cpa",
+        "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+        "stars": 274,
+        "language": "Python",
+        "url": "https://github.com/Git-creat7/grokRegister-cpa",
+        "created": "2026-07-11"
+      },
+      {
+        "rank": 19,
+        "name": "oil-oil/beautify-github-readme",
+        "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+        "stars": 265,
+        "language": "Python",
+        "url": "https://github.com/oil-oil/beautify-github-readme",
+        "created": "2026-07-13"
+      },
+      {
+        "rank": 20,
+        "name": "Jane-xiaoer/paper-collage-ad-codex",
+        "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
+        "stars": 259,
+        "language": "JavaScript",
+        "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
+        "created": "2026-07-10"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
+        "authors": [
+          "Junjie Yin",
+          "Xinyu Feng"
+        ],
+        "summary": "Large language model (LLM) agents increasingly automate multi-step engineering and informatics workflows, yet they rarely ask how much effort a task actually requires. They often follow a maximum-context-first strategy--re-reading files and dependencies they have already seen--turning a one-line edi",
+        "url": "http://arxiv.org/abs/2607.13034v1",
+        "pdf": "https://arxiv.org/pdf/2607.13034v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale",
+        "authors": [
+          "Zhouchonghao Wu",
+          "Akshay Rangesh",
+          "Weixin Li",
+          "Wei-Jer Chang",
+          "Zachary Lee"
+        ],
+        "summary": "Training robust autonomous driving agents requires a simulator that is fast enough for reinforcement learning at scale, realistic enough to ground behavior in real-world map structure, and diverse enough to cover the safety-critical long tail that logged data rarely contains. We present TerraZero, a",
+        "url": "http://arxiv.org/abs/2607.13028v1",
+        "pdf": "https://arxiv.org/pdf/2607.13028v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+        "authors": [
+          "Hongru Cai",
+          "Yongqi Li",
+          "Ran Wei",
+          "Wenjie Li"
+        ],
+        "summary": "Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent systems run on desktops or servers, which support tool use and task automation. Mobile devices are also",
+        "url": "http://arxiv.org/abs/2607.13027v1",
+        "pdf": "https://arxiv.org/pdf/2607.13027v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model",
+        "authors": [
+          "Harsha Vardhan Khurdula",
+          "Abhinav Kumar Singh",
+          "Yoeven D Khemlani",
+          "Vineet Agarwal"
+        ],
+        "summary": "Automatic speech recognition is dominated by autoregressive decoders that emit one token at a time. We ask whether a discrete diffusion language model can transcribe speech instead, refining a whole transcript in parallel over a small number of denoising steps. We train an audio-native interface for",
+        "url": "http://arxiv.org/abs/2607.13013v1",
+        "pdf": "https://arxiv.org/pdf/2607.13013v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Dynamic Resource Allocation for Ensemble Determinization MCTS",
+        "authors": [
+          "Jakub Kowalski",
+          "Adam Ciężkowski",
+          "Artur Krzyżyński",
+          "Mark H. M. Winands"
+        ],
+        "summary": "Simulation-based algorithms are especially suited for high-uncertainty environments such as adversarial board games with significant elements of randomness and hidden information. In particular, several Monte Carlo Tree Search (MCTS) variants are commonly used in such domains. In this paper, we prop",
+        "url": "http://arxiv.org/abs/2607.13007v1",
+        "pdf": "https://arxiv.org/pdf/2607.13007v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Win by Silence: Deletion Non-Monotonicity, Autonomous Exploitation, and Typed-State Gating in LLM Plan Evaluation",
+        "authors": [
+          "Aleh Manchuliantsau"
+        ],
+        "summary": "Plan evaluators can reward a strategic plan for becoming less explicit. This paper studies that failure in a staged expected-value scorer for LLM-generated venture routes. Proposition 1 gives the score change from deleting an interior transition while retargeting its predecessor and retaining downst",
+        "url": "http://arxiv.org/abs/2607.12986v1",
+        "pdf": "https://arxiv.org/pdf/2607.12986v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Resist and Update: Counterfactual Report Coordinates for Incentive-Compatible LLMs",
+        "authors": [
+          "Sen Yang",
+          "Yuen-Hei Yeung"
+        ],
+        "summary": "Aligned language models routinely misreport under non-evidential incentive pressure: they agree with a confident user or overstate certainty even when their internal belief is unchanged. We cast this as a failure of internal incentive-compatibility (IC) and present a method for learning and certifyi",
+        "url": "http://arxiv.org/abs/2607.12985v1",
+        "pdf": "https://arxiv.org/pdf/2607.12985v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "FormalAnalyticGeo: A Neural-Symbolic Based Framework for Multimodal Analytic Geometry Problem Generation",
+        "authors": [
+          "Ruoran Xu",
+          "Wending Gao",
+          "Qiufeng Wang"
+        ],
+        "summary": "Math reasoning has achieved significant progress with the rapid advancement of Multimodal Large Language Models (MLLMs), however analytic geometry remains largely underexplored, primarily due to the scarcity of annotated samples. Existing diagram generation approaches struggle with analytic geometry",
+        "url": "http://arxiv.org/abs/2607.12982v1",
+        "pdf": "https://arxiv.org/pdf/2607.12982v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Form, Not Content? A Preregistered, Placebo-Controlled Evaluation of Learned Error-Conditioned Self-Repair Through Prompts and Weights in Frozen Small Code Models",
+        "authors": [
+          "Mehmet Iscan"
+        ],
+        "summary": "Frozen small code LLMs are deployed locally, yet the information guiding a retry after a failed attempt is still measured without placebo controls in the self-repair literature. We treat a failed program as a conjecture and an execution counterexample as an oracle-relative refutation, and introduce ",
+        "url": "http://arxiv.org/abs/2607.12962v1",
+        "pdf": "https://arxiv.org/pdf/2607.12962v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "ViHoRec: A Quality-Controlled Vietnamese Hotel Recommendation Dataset and Cold-Start Benchmark",
+        "authors": [
+          "Minh Hoang Nguyen"
+        ],
+        "summary": "Recommender-system research for Vietnamese remains limited by the absence of a public, well-documented hotel interaction resource. Building such a resource is challenging for three reasons: cross-platform hotel names must be reconciled before interactions are comparable; quality must be audited with",
+        "url": "http://arxiv.org/abs/2607.12946v1",
+        "pdf": "https://arxiv.org/pdf/2607.12946v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Knowledge- and Gradient-Guided Reinforcement Learning for Parametrized Action Markov Decision Processes",
+        "authors": [
+          "Jonas Ehrhardt",
+          "René Heesch",
+          "Oliver Niggemann"
+        ],
+        "summary": "In this paper, we study Reinforcement Learning in Parametrized Action Markov Decision Processes (PAMDP), where each decision consists of a symbolic action and numerical parameters. In such settings Reinforcement Learning algorithms typically determine parameters with one-shot estimators, which makes",
+        "url": "http://arxiv.org/abs/2607.12924v1",
+        "pdf": "https://arxiv.org/pdf/2607.12924v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Real-time fall detection based on vision for low-power edge platforms",
+        "authors": [
+          "Wenjun Xia",
+          "Zhicheng Peng",
+          "Haopeng Li",
+          "Zhengdi Zhang"
+        ],
+        "summary": "Falling detection is vital for elderly care and intelligent surveillance; however, prevailing vision-based approaches predominantly frame it as static pose classification or discrete temporal pattern matching, fundamentally overlooking the instability dynamics of the human support system. This paper",
+        "url": "http://arxiv.org/abs/2607.12909v1",
+        "pdf": "https://arxiv.org/pdf/2607.12909v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "MemOps: Benchmarking Lifecycle Memory Operations in Long-Horizon Conversations",
+        "authors": [
+          "Xixuan Hao",
+          "Zeyu Zhang",
+          "Zehao Lin",
+          "Yihang Sun",
+          "Ziliang Guo"
+        ],
+        "summary": "Long-term memory has become a foundational capability for LLM-based agents that accompany users across extended, multi-session interactions. Existing benchmarks, however, evaluate such memory almost exclusively through downstream question answering, scoring only the correctness of a final answer. Th",
+        "url": "http://arxiv.org/abs/2607.12893v1",
+        "pdf": "https://arxiv.org/pdf/2607.12893v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies",
+        "authors": [
+          "Lirui Zhao",
+          "Modi Shi",
+          "Li Chen",
+          "Qi Liu",
+          "Ping Luo"
+        ],
+        "summary": "Modern robot learning systems increasingly rely on dense progress or value signals to evaluate intermediate states, guide policy learning, and detect task completion, making the quality of these signals critical. Since such dense labels are rarely available at scale, normalized time within a demonst",
+        "url": "http://arxiv.org/abs/2607.12892v1",
+        "pdf": "https://arxiv.org/pdf/2607.12892v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "A Multi-Agent System for Autonomous, Fine-Tuning-Free Clinical Symptom Detection: Development and Validation Study",
+        "authors": [
+          "Cameron Cagan",
+          "Pedram Fard",
+          "Jiazi Tian",
+          "Jingya Cheng",
+          "Shawn N. Murphy"
+        ],
+        "summary": "Clinical notes contain many of the signs and symptoms that bring patients to care, yet this information rarely reaches structured fields. Existing extraction approaches either rely on context-insensitive rules that generate false positives or on supervised models that require substantial fine-tuning",
+        "url": "http://arxiv.org/abs/2607.12886v1",
+        "pdf": "https://arxiv.org/pdf/2607.12886v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Unveiling Complex Collective Behaviors from Simple Rewards",
+        "authors": [
+          "Yize Mi",
+          "Jianan Li",
+          "Liang Li",
+          "Shiyu Zhao"
+        ],
+        "summary": "Multi-agent Reinforcement Learning (MARL) holds great potential for robot swarms, but the black-box nature of neural policies complicates strategic analysis, limiting multi-robot applications. Furthermore, complex swarm behaviors can surprisingly emerge from simple rewards without explicit aggregati",
+        "url": "http://arxiv.org/abs/2607.12861v1",
+        "pdf": "https://arxiv.org/pdf/2607.12861v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "ChartGenEval: Corruption-Tested Multi-Dimensional Feedback for Rhythm-Game Chart Generation",
+        "authors": [
+          "Jhen-Ke Lin"
+        ],
+        "summary": "A generated rhythm-game chart need not reproduce one official note sequence: many note choices can fit the same song and difficulty. Reference-note agreement therefore measures reconstruction, not the full design problem. We introduce ChartGenEval, a six-question evaluation framework with an automat",
+        "url": "http://arxiv.org/abs/2607.12857v1",
+        "pdf": "https://arxiv.org/pdf/2607.12857v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Reproducible Reservoir Computing with Thermally Driven Superparamagnets: Controlling Temperature Sensitivity",
+        "authors": [
+          "Zhengfei Chen",
+          "Alex Welbourne",
+          "Matthew O. A. Ellis",
+          "Dan A. Allwood",
+          "Eleni Vasilaki"
+        ],
+        "summary": "Unconventional computing systems must demonstrate robust performance under real-world environmental conditions to enable practical deployments. We have recently proposed superparamagnetic nanodot ensembles driven by strain-induced magnetoelectric coupling as exciting candidates for use as ultra-low ",
+        "url": "http://arxiv.org/abs/2607.12840v1",
+        "pdf": "https://arxiv.org/pdf/2607.12840v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Accelerating Masked Diffusion Large Language Models: A Survey of Efficient Inference Techniques",
+        "authors": [
+          "Daehoon Gwak",
+          "Minhyung Lee",
+          "Junwoo Park",
+          "Jaegul Choo"
+        ],
+        "summary": "Diffusion large language models (dLLMs) offer a theoretical advantage in parallel generation over standard autoregressive models. However, parallel generation alone does not guarantee practical speedups. Realizing this efficiency requires specialized inference mechanisms, such as diffusion-aware cac",
+        "url": "http://arxiv.org/abs/2607.12829v1",
+        "pdf": "https://arxiv.org/pdf/2607.12829v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Solution of the Hempel's statistical ambiguity problem and Causal AI",
+        "authors": [
+          "Evgenii Vityaev"
+        ],
+        "summary": "This paper addresses Carl Hempel's longstanding problem of statistical ambiguity in inductive-statistical inference, in which contradictory predictions are derived from statistical laws. To avoid such predictions, Carl Hempel proposed the Requirement of Maximal Specificity (RMS) for the statistical ",
+        "url": "http://arxiv.org/abs/2607.12826v1",
+        "pdf": "https://arxiv.org/pdf/2607.12826v1",
+        "published": "2026-07-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "The Seriality Gap in Video Diffusion Models",
+        "authors": [
+          "Jorge Diaz Chao",
+          "Konpat Preechakul",
+          "Yuxi Liu",
+          "Yutong Bai"
+        ],
+        "summary": "When one ball strikes another, then another, video models should predict the consequences of each bounce. In controlled experiments on multi-ball hard-sphere dynamics, we find that the performance of standard bidirectional video diffusion degrades as the causal chain lengthens, even when provided mo",
+        "url": "http://arxiv.org/abs/2607.13031v1",
+        "pdf": "https://arxiv.org/pdf/2607.13031v1",
+        "published": "2026-07-14",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "A Shortcut to Statistically Steady-State Turbulence with Flow Matching",
+        "authors": [
+          "Gianluca Galletti",
+          "Gerald Gutenbrunner",
+          "William Hornsby",
+          "Lorenzo Zanisi",
+          "Naomi Carey"
+        ],
+        "summary": "Many nonlinear physical systems exhibit an initial transient phase in which perturbations grow before nonlinear interactions lead to a statistically steady state. While this saturated regime is of primary interest, direct numerical simulations must resolve the full transient dynamics before reaching",
+        "url": "http://arxiv.org/abs/2607.13022v1",
+        "pdf": "https://arxiv.org/pdf/2607.13022v1",
+        "published": "2026-07-14",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "The Spectrum Is Not Enough: When Context Helps Time-Series Forecasting",
+        "authors": [
+          "Mert Onur Cakiroglu",
+          "Mehmet Dalkilic",
+          "Hasan Kurban"
+        ],
+        "summary": "A growing family of indices scores how predictable a series is from its spectrum. Practitioners increasingly read these scores as answering a different question: whether \\emph{adding context}, a longer lookback, a retrieval plug-in, or a pretrained model, will help. These are not the same question. ",
+        "url": "http://arxiv.org/abs/2607.13006v1",
+        "pdf": "https://arxiv.org/pdf/2607.13006v1",
+        "published": "2026-07-14",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Watermark Forensics for Generative Models: An Information-Theoretic Perspective",
+        "authors": [
+          "Xiaoyu Li",
+          "Zheng Gao",
+          "Xiaoyan Feng",
+          "Jiaojiao Jiang",
+          "Yulei Sui"
+        ],
+        "summary": "A watermark in a generative model's output is usually asked only whether a text is machine-made. The same mark can do more: attribute it to the user who produced it, extract a hidden payload, or localize the part that survives editing. These form a forensic ladder, and we ask what each rung costs in",
+        "url": "http://arxiv.org/abs/2607.13003v1",
+        "pdf": "https://arxiv.org/pdf/2607.13003v1",
+        "published": "2026-07-14",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Ensemble Controlled-Flow Filtering for Implicit Data Assimilation",
+        "authors": [
+          "Zhuoyuan Li",
+          "Yue Zhao",
+          "Ming Li"
+        ],
+        "summary": "Data assimilation estimates the state of a dynamical system from model forecasts and incoming observations. Many observation mechanisms, however, are many-to-one, implicit, non-smooth, or accessible only through simulation, and need not provide the residual structures or likelihood guidance required",
+        "url": "http://arxiv.org/abs/2607.12975v1",
+        "pdf": "https://arxiv.org/pdf/2607.12975v1",
+        "published": "2026-07-14",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Robustness of Deep Learning Models for PV Power Forecasting under NWP Forecast Errors: A Spatiotemporal and Physically Interpretable Analysis",
+        "authors": [
+          "Dandan Chen",
+          "Yan Zhao",
+          "Xuepeng Chen"
+        ],
+        "summary": "Engineering use of AI forecasting models requires not only high nominal accuracy but also predictable behavior under uncertain inputs. In photovoltaic (PV) forecasting, this requirement is especially challenging because numerical weather prediction (NWP) errors are temporally correlated, state depen",
+        "url": "http://arxiv.org/abs/2607.12954v1",
+        "pdf": "https://arxiv.org/pdf/2607.12954v1",
+        "published": "2026-07-14",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Efficient Sequential Calibration with $O(T^{2/3-ε})$ Error Bound",
+        "authors": [
+          "Zihan Zhang"
+        ],
+        "summary": "We study the online binary sequential calibration problem. A recent breakthrough by \\citet{dagan2024breaking} overcomes the classical \\(T^{2/3}\\) barrier for calibration error. Building on this result, we present an efficient randomized forecaster that achieves an expected calibration error \\(O(T^{2",
+        "url": "http://arxiv.org/abs/2607.12928v1",
+        "pdf": "https://arxiv.org/pdf/2607.12928v1",
+        "published": "2026-07-14",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "LatentFlow: A General Framework for Conditioning Stochastic Processes",
+        "authors": [
+          "Louis Sharrock",
+          "Lachlan Astfalck",
+          "Henry Moss"
+        ],
+        "summary": "Stochastic-process models are, as a rule, far easier to simulate than to condition. Non-linear observations, non-Gaussian likelihoods, black-box information, and global constraints all induce intractable conditional laws, requiring bespoke, model-specific constructions. We introduce LatentFlow, a si",
+        "url": "http://arxiv.org/abs/2607.12922v1",
+        "pdf": "https://arxiv.org/pdf/2607.12922v1",
+        "published": "2026-07-14",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
