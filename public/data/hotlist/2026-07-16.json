@@ -1,0 +1,566 @@
+{
+  "date": "2026-07-16",
+  "generated": "2026-07-16T05:12:11.349530",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "xai-org/grok-build",
+        "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+        "stars": 5936,
+        "language": "Rust",
+        "url": "https://github.com/xai-org/grok-build",
+        "created": "2026-07-14"
+      },
+      {
+        "rank": 2,
+        "name": "MDX-Tom/gpt-5.6-instruct",
+        "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+        "stars": 1421,
+        "language": "Python",
+        "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+        "created": "2026-07-11"
+      },
+      {
+        "rank": 3,
+        "name": "littledivy/mimic",
+        "description": "Intercept any app, then call it from Python like a library",
+        "stars": 1042,
+        "language": "Python",
+        "url": "https://github.com/littledivy/mimic",
+        "created": "2026-07-13"
+      },
+      {
+        "rank": 4,
+        "name": "AlephAITech/WorkBuddyGuide",
+        "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+        "stars": 852,
+        "language": "Python",
+        "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+        "created": "2026-07-10"
+      },
+      {
+        "rank": 5,
+        "name": "mereyabdenbekuly-ctrl/clodex-ide",
+        "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+        "stars": 812,
+        "language": "TypeScript",
+        "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+        "created": "2026-07-12"
+      },
+      {
+        "rank": 6,
+        "name": "x4gKing/Marzban-Panel",
+        "description": "",
+        "stars": 778,
+        "language": "Dockerfile",
+        "url": "https://github.com/x4gKing/Marzban-Panel",
+        "created": "2026-07-12"
+      },
+      {
+        "rank": 7,
+        "name": "Fei-Away/Codex-Dream-Skin",
+        "description": "Codex Dream Skin",
+        "stars": 741,
+        "language": "Shell",
+        "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+        "created": "2026-07-15"
+      },
+      {
+        "rank": 8,
+        "name": "Kappaemme-git/codex-first-customer-finder-skill",
+        "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+        "stars": 713,
+        "language": "Python",
+        "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+        "created": "2026-07-12"
+      },
+      {
+        "rank": 9,
+        "name": "pengchujin/jzsub",
+        "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+        "stars": 686,
+        "language": "Python",
+        "url": "https://github.com/pengchujin/jzsub",
+        "created": "2026-07-10"
+      },
+      {
+        "rank": 10,
+        "name": "pixel-point/aval",
+        "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+        "stars": 684,
+        "language": "TypeScript",
+        "url": "https://github.com/pixel-point/aval",
+        "created": "2026-07-13"
+      },
+      {
+        "rank": 11,
+        "name": "x4gKing/Marzban-Node",
+        "description": "",
+        "stars": 668,
+        "language": "Dockerfile",
+        "url": "https://github.com/x4gKing/Marzban-Node",
+        "created": "2026-07-12"
+      },
+      {
+        "rank": 12,
+        "name": "William-Lu-stack/Flawless",
+        "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+        "stars": 647,
+        "language": "Python",
+        "url": "https://github.com/William-Lu-stack/Flawless",
+        "created": "2026-07-10"
+      },
+      {
+        "rank": 13,
+        "name": "oil-oil/beautify-github-readme",
+        "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+        "stars": 588,
+        "language": "Python",
+        "url": "https://github.com/oil-oil/beautify-github-readme",
+        "created": "2026-07-13"
+      },
+      {
+        "rank": 14,
+        "name": "CluvexStudio/Aether",
+        "description": "",
+        "stars": 558,
+        "language": "Rust",
+        "url": "https://github.com/CluvexStudio/Aether",
+        "created": "2026-07-14"
+      },
+      {
+        "rank": 15,
+        "name": "yetone/kill-ai-slop",
+        "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+        "stars": 468,
+        "language": "TypeScript",
+        "url": "https://github.com/yetone/kill-ai-slop",
+        "created": "2026-07-10"
+      },
+      {
+        "rank": 16,
+        "name": "jakubkrehel/skills",
+        "description": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
+        "stars": 417,
+        "language": null,
+        "url": "https://github.com/jakubkrehel/skills",
+        "created": "2026-07-10"
+      },
+      {
+        "rank": 17,
+        "name": "MatinSenPai/Aether-GUI",
+        "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+        "stars": 386,
+        "language": "TypeScript",
+        "url": "https://github.com/MatinSenPai/Aether-GUI",
+        "created": "2026-07-14"
+      },
+      {
+        "rank": 18,
+        "name": "Intuition-Lab/personal-model",
+        "description": "Build your HUMAN.md.",
+        "stars": 352,
+        "language": "Python",
+        "url": "https://github.com/Intuition-Lab/personal-model",
+        "created": "2026-07-10"
+      },
+      {
+        "rank": 19,
+        "name": "QuantumByteOSS/quantumbyte",
+        "description": "Open-source app builder engine — intent to working app",
+        "stars": 313,
+        "language": "Python",
+        "url": "https://github.com/QuantumByteOSS/quantumbyte",
+        "created": "2026-07-14"
+      },
+      {
+        "rank": 20,
+        "name": "Git-creat7/grokRegister-cpa",
+        "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+        "stars": 302,
+        "language": "Python",
+        "url": "https://github.com/Git-creat7/grokRegister-cpa",
+        "created": "2026-07-11"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models",
+        "authors": [
+          "Hefeng Zhou",
+          "Jinxuan Zhang",
+          "Jiong Lou",
+          "Yuxin Liu",
+          "Chaochao Lu"
+        ],
+        "summary": "The emergence of Chain-of-Thought (CoT) reasoning has significantly enhanced the ability of large language models (LLMs) to tackle complex, multi-step tasks. However, when errors occur, current interaction approaches typically involve re-generating another response that may make mistakes again, or u",
+        "url": "http://arxiv.org/abs/2607.14049v1",
+        "pdf": "https://arxiv.org/pdf/2607.14049v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education",
+        "authors": [
+          "Xanthi Kokkinou",
+          "Chaido Mizeli",
+          "Nafsika Koulaxidou",
+          "Marina Delianidi",
+          "Konstantinos Diamantaras"
+        ],
+        "summary": "This paper presents Earthquaker-AI, a hybrid educational framework building upon a previously implemented educational robotics project by integrating a conversational AI assistant based on Retrieval-Augmented Generation. It aims to enhance earthquake preparedness and conscious action among primary-s",
+        "url": "http://arxiv.org/abs/2607.14046v1",
+        "pdf": "https://arxiv.org/pdf/2607.14046v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "AI-accelerated End-to-End Framework for Rapid Professional Upskilling",
+        "authors": [
+          "Tam Nguyen",
+          "Hung Nguyen",
+          "Robert Ogburn"
+        ],
+        "summary": "By 2030, 59 of every 100 workers will need reskilling or upskilling, yet the average time to close an enterprise skills gap grew from roughly 3 days in 2014 to 36 days in 2018. Most current frameworks accelerate single stages of upskilling programs and generally lack industry validation. We present ",
+        "url": "http://arxiv.org/abs/2607.14044v1",
+        "pdf": "https://arxiv.org/pdf/2607.14044v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Multi-Expert Routing for Multi-Domain Low-Resource OCR: A Manchu Case Study",
+        "authors": [
+          "Zhan Chen",
+          "Jiqiao Ma",
+          "Chih-wen Kuo"
+        ],
+        "summary": "Historical Manchu OCR must accommodate various visually distinct writing styles, including regular script, running script, and the semi-cursive chancery hand used in palace memorials, despite limited labeled data. We study a multi-expert system that reuses checkpoints from an iterative fine-tuning p",
+        "url": "http://arxiv.org/abs/2607.14041v1",
+        "pdf": "https://arxiv.org/pdf/2607.14041v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Early Adoption of Agentic Coding Tools by GitHub Projects",
+        "authors": [
+          "Maliha Noushin Raida",
+          "Daqing Hou"
+        ],
+        "summary": "Agentic coding tools are increasingly capable of generating and submitting pull requests (PRs) to software projects, introducing new forms of human-agent collaboration in software development. While prior studies have examined PR-level outcomes of agent-generated contributions, less is known about h",
+        "url": "http://arxiv.org/abs/2607.14037v1",
+        "pdf": "https://arxiv.org/pdf/2607.14037v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Improving Wind and Solar Power Prediction with Efficient Wrapper-based Feature Selection: An Empirical Study",
+        "authors": [
+          "Daniel Grillmeyer",
+          "Marius Hadry",
+          "Michael Stenger",
+          "Vanessa Borst",
+          "Veronika Lesch"
+        ],
+        "summary": "With rising global energy demand and growing awareness of climate change and its impacts, the share of renewable energies in the global energy mix continues to grow. Unlike conventional power generation, the output of renewable energy sources cannot be controlled as consistently due to their depende",
+        "url": "http://arxiv.org/abs/2607.14024v1",
+        "pdf": "https://arxiv.org/pdf/2607.14024v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Transforming Rank: How Architecture Navigates the Spectral Pathologies of Depth",
+        "authors": [
+          "Katie Everett"
+        ],
+        "summary": "We investigate how each component of the Transformer feedforward block architecture design determines how much rank survives across depth at initialization. We reinterpret skip connections and normalization, long understood as controlling magnitude, as mechanisms for preserving gradient rank across ",
+        "url": "http://arxiv.org/abs/2607.14018v1",
+        "pdf": "https://arxiv.org/pdf/2607.14018v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation",
+        "authors": [
+          "Mohammad Allahbakhsh",
+          "Mohammad Hassan Bahari",
+          "Moslem Attar-Raouf"
+        ],
+        "summary": "Penetration testing traditionally evaluates whether adversaries can exploit weaknesses in software, infrastructure, configurations, or operational controls to achieve security-relevant compromise. This paradigm remains necessary for AI-enabled systems, but it is no longer sufficient. In such systems",
+        "url": "http://arxiv.org/abs/2607.14006v1",
+        "pdf": "https://arxiv.org/pdf/2607.14006v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Do Agent Optimizers Compound? A Continual-Learning Evaluation on Terminal-Bench 2.0",
+        "authors": [
+          "Wenxiao Wang",
+          "Priyatham Kattakinda",
+          "Soheil Feizi"
+        ],
+        "summary": "Most reported gains from agent-optimization methods are one-shot: an agent is optimized against a fixed benchmark and the resulting improvement is reported as if it were a stable property of the method. This does not test the setting that matters for deployed agents, where optimization is applied re",
+        "url": "http://arxiv.org/abs/2607.14004v1",
+        "pdf": "https://arxiv.org/pdf/2607.14004v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "The Dynamic Verifiable Multi-Agent Human Agentic Loyalty Loop (DVM-HALL) Model and the Net Human-Agent Score (NHAS) in Autonomous Commerce",
+        "authors": [
+          "Sai Srikanth Madugula",
+          "Peplluis Esteva de la Rosa",
+          "Daya Shankar"
+        ],
+        "summary": "The rapid proliferation of Agentic Artificial Intelligence fundamentally disrupts traditional customer loyalty paradigms. As AI evolves from passive recommendation algorithms to autonomous, goal-directed agents capable of executing purchasing decisions, the conventional understanding of consumer-bra",
+        "url": "http://arxiv.org/abs/2607.13998v1",
+        "pdf": "https://arxiv.org/pdf/2607.13998v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Music-to-Dance Generation via Atomic Movements",
+        "authors": [
+          "Xinhao Cai",
+          "Yixuan Sun",
+          "Minghang Zheng",
+          "Qingchao Chen",
+          "Xin Jin"
+        ],
+        "summary": "Music-driven dance generation aims to produce human motion that is both rhythmically synchronized and semantically consistent with music. While recent neural approaches have achieved impressive visual realism, they typically model motion as a continuous signal and neglect its compositional nature, m",
+        "url": "http://arxiv.org/abs/2607.13978v1",
+        "pdf": "https://arxiv.org/pdf/2607.13978v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "A Self-Evolving Agent for Longitudinal Personal Health Management",
+        "authors": [
+          "Haoran Li",
+          "Jiebi Deng",
+          "Tong Jin",
+          "Jinghong Han",
+          "Yuxin Wang"
+        ],
+        "summary": "Personal health management unfolds over repeated encounters, yet most health AI systems treat each request in isolation. We developed HealthClaw, an open-source agent architecture that updates support as a person's routines, preferences, measurements and risks change. It separates shared safety rule",
+        "url": "http://arxiv.org/abs/2607.13940v1",
+        "pdf": "https://arxiv.org/pdf/2607.13940v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Generative Compilation: On-the-Fly Compiler Feedback as AI Generates Code",
+        "authors": [
+          "Niels Mündler-Sasahara",
+          "Hristo Venev",
+          "Dawn Song",
+          "Martin Vechev",
+          "Jingxuan He"
+        ],
+        "summary": "Languages with rich static semantics, such as Rust, provide stronger guarantees for AI-generated code, but their strictness makes generation more difficult. Off-the-shelf compilers can provide useful feedback post-generation, but does not guide intermediate generation steps, such as those during aut",
+        "url": "http://arxiv.org/abs/2607.13921v1",
+        "pdf": "https://arxiv.org/pdf/2607.13921v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Partially Correlated Verifier Cascades in LLM Harnesses: Concave Log-Odds, Polynomial Reliability, and Blind-Spot Ceilings",
+        "authors": [
+          "Jiangang Han"
+        ],
+        "summary": "Serial verification gates are a core reliability primitive in LLM harnesses: a candidate answer is returned only if $k$ verifier calls all accept it. Under conditionally independent gates, the recent Odds Law (arXiv:2606.15712) shows that posterior log-odds grow linearly in $k$, so failure decays ex",
+        "url": "http://arxiv.org/abs/2607.13918v1",
+        "pdf": "https://arxiv.org/pdf/2607.13918v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "AIMO Interpretability Challenge",
+        "authors": [
+          "Michal Štefánik",
+          "Philipp Mondorf",
+          "Andreas Waldis",
+          "Qianying Liu",
+          "Chuan Yang"
+        ],
+        "summary": "We propose the AIMO Interpretability Challenge, a competition on distinguishing robust from spurious reasoning in frontier mathematical language models based on the models' internal mechanisms. The challenge is motivated by a central limitation of standard reasoning benchmarks: strong final-answer a",
+        "url": "http://arxiv.org/abs/2607.13899v1",
+        "pdf": "https://arxiv.org/pdf/2607.13899v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Experience Memory Graph: One-Shot Error Correction for Agents",
+        "authors": [
+          "Wenjun Wang",
+          "Yuchen Fang",
+          "Fengrui Liu",
+          "Zibo Liang",
+          "Kai Zheng"
+        ],
+        "summary": "Large Language Model (LLM) agents have shown remarkable capabilities in autonomous decision-making by generating sequential trajectories of states, actions, and observations. However, in complex, long-horizon tasks, these agents frequently suffer from compounding errors and struggle to recover from ",
+        "url": "http://arxiv.org/abs/2607.13884v1",
+        "pdf": "https://arxiv.org/pdf/2607.13884v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Verifying formulas for interventional distributions",
+        "authors": [
+          "Francesco Freni",
+          "Leonard Henckel",
+          "Sebastian Weichwald"
+        ],
+        "summary": "We formalize verification in causal graphical models: deciding whether a given observational formula identifies a target interventional distribution. This opens a problem complementary to identification, asking not whether any identifying formula exists, but whether the given formula is identifying.",
+        "url": "http://arxiv.org/abs/2607.13883v1",
+        "pdf": "https://arxiv.org/pdf/2607.13883v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild",
+        "authors": [
+          "Ting Lei",
+          "Jialin Liu",
+          "Zhu Xu",
+          "Yuxin Peng",
+          "Yang Liu"
+        ],
+        "summary": "Human-object interaction detection (HOID) has traditionally been formulated as a supervised detection problem over predefined interaction categories. While such paradigms achieve strong performance on closed-set benchmarks, they fundamentally entangle interaction understanding with dataset-specific ",
+        "url": "http://arxiv.org/abs/2607.13881v1",
+        "pdf": "https://arxiv.org/pdf/2607.13881v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "AI-Augmented Human Resource Management? Insights from German companies",
+        "authors": [
+          "Yannick Kalff",
+          "Katharina Simbeck"
+        ],
+        "summary": "This study examines the integration of AI into Human Resource Management in German companies. We ask if and how AI-based technologies are \\enquote{augmenting} human resource management. Organisations employ generative AI or predictive analytics to transform traditional human resource functions, to s",
+        "url": "http://arxiv.org/abs/2607.13839v1",
+        "pdf": "https://arxiv.org/pdf/2607.13839v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "NodeImport: Imbalanced Node Classification with Node Importance Assessment",
+        "authors": [
+          "Nan Chen",
+          "Zemin Liu",
+          "Bryan Hooi",
+          "Bingsheng He",
+          "Jun Hu"
+        ],
+        "summary": "In real-world applications, node classification on graphs often faces the challenge of class imbalance, where majority classes dominate training, resulting in biased model performance. Traditional GNNs often struggle in such scenarios, as they tend to overfit to majority classes while underrepresent",
+        "url": "http://arxiv.org/abs/2607.13837v1",
+        "pdf": "https://arxiv.org/pdf/2607.13837v1",
+        "published": "2026-07-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Leveraging unlabelled data for generalizable neural population decoding",
+        "authors": [
+          "Ximeng Mao",
+          "Nanda H. Krishna",
+          "Avery Hee-Woon Ryoo",
+          "Matthew G. Perich",
+          "Guillaume Lajoie"
+        ],
+        "summary": "Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike level facilitates multi-session pretraining and delivers state-of-the-art decoding performance. However,",
+        "url": "http://arxiv.org/abs/2607.14086v1",
+        "pdf": "https://arxiv.org/pdf/2607.14086v1",
+        "published": "2026-07-15",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Linear Independent Component Analysis via Optimal Transport",
+        "authors": [
+          "Ashutosh Jha",
+          "Michel Besserve",
+          "Simon Buchholz"
+        ],
+        "summary": "Linear Independent Component Analysis (ICA) recovers jointly independent source signals from their linear mixtures. To achieve this, classical ICA algorithms attempt to maximize non-Gaussianity, measured by negentropy, which is linked to independence by information theory. Because exact negentropy o",
+        "url": "http://arxiv.org/abs/2607.14081v1",
+        "pdf": "https://arxiv.org/pdf/2607.14081v1",
+        "published": "2026-07-15",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "MetaPerch: Learning from metadata for bioacoustics foundation models",
+        "authors": [
+          "Mustafa Chasmai",
+          "Vincent Dumoulin",
+          "Jenny Hamer"
+        ],
+        "summary": "Bioacoustic foundation models rely on large-scale citizen science platforms like Xeno-Canto for geographically and ecologically diverse data. Recent work has shown that supervision alone can produce SotA species detection models when trained on this large-scale data -- however, there remains unutili",
+        "url": "http://arxiv.org/abs/2607.14072v1",
+        "pdf": "https://arxiv.org/pdf/2607.14072v1",
+        "published": "2026-07-15",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes",
+        "authors": [
+          "Jeremy Guntoro",
+          "Alexander Dack",
+          "Dylan Danno",
+          "Michaela Jančovičová",
+          "Križan Jurinović"
+        ],
+        "summary": "Genomic foundation models such as Evo 2 learn rich sequence representations, but their value for biosecurity screening is largely unexplored. We ask how much biosecurity-relevant signal is linearly accessible in these representations by training minimal linear and attention probes on frozen Evo 2 la",
+        "url": "http://arxiv.org/abs/2607.14070v1",
+        "pdf": "https://arxiv.org/pdf/2607.14070v1",
+        "published": "2026-07-15",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Lighthouse RL: Sample-Efficient Circuit Optimization via Strategic Reset Points",
+        "authors": [
+          "Mustafa Emre Gürsoy",
+          "Stefan Uhlich",
+          "Ryoga Matsuo",
+          "Yağız Gençer",
+          "Arun Venkitaraman"
+        ],
+        "summary": "In this paper, we introduce Lighthouse RL, a sample-efficient reinforcement learning (RL) approach for analog circuit sizing. Traditional methods lack generalization across different performance targets, while standard RL approaches waste resources exploring unpromising regions. Our method addresses",
+        "url": "http://arxiv.org/abs/2607.14008v1",
+        "pdf": "https://arxiv.org/pdf/2607.14008v1",
+        "published": "2026-07-15",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
