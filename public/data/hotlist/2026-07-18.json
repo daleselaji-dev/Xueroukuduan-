@@ -1,0 +1,617 @@
+{
+  "date": "2026-07-18",
+  "generated": "2026-07-18T04:50:14.995485",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "xai-org/grok-build",
+        "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+        "stars": 16936,
+        "language": "Rust",
+        "url": "https://github.com/xai-org/grok-build",
+        "created": "2026-07-14"
+      },
+      {
+        "rank": 2,
+        "name": "Fei-Away/Codex-Dream-Skin",
+        "description": "Codex Dream Skin",
+        "stars": 8930,
+        "language": "JavaScript",
+        "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+        "created": "2026-07-15"
+      },
+      {
+        "rank": 3,
+        "name": "pixel-point/aval",
+        "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+        "stars": 1174,
+        "language": "TypeScript",
+        "url": "https://github.com/pixel-point/aval",
+        "created": "2026-07-13"
+      },
+      {
+        "rank": 4,
+        "name": "CluvexStudio/Aether",
+        "description": "",
+        "stars": 1155,
+        "language": "Rust",
+        "url": "https://github.com/CluvexStudio/Aether",
+        "created": "2026-07-14"
+      },
+      {
+        "rank": 5,
+        "name": "littledivy/mimic",
+        "description": "Intercept any app, then call it from Python like a library",
+        "stars": 1149,
+        "language": "Python",
+        "url": "https://github.com/littledivy/mimic",
+        "created": "2026-07-13"
+      },
+      {
+        "rank": 6,
+        "name": "tandpfun/wardrobe",
+        "description": "Your clothes, extracted and organized with gpt-image.",
+        "stars": 914,
+        "language": "JavaScript",
+        "url": "https://github.com/tandpfun/wardrobe",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 7,
+        "name": "x4gKing/Marzban-Panel",
+        "description": "",
+        "stars": 873,
+        "language": "Dockerfile",
+        "url": "https://github.com/x4gKing/Marzban-Panel",
+        "created": "2026-07-12"
+      },
+      {
+        "rank": 8,
+        "name": "mereyabdenbekuly-ctrl/clodex-ide",
+        "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+        "stars": 833,
+        "language": "TypeScript",
+        "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+        "created": "2026-07-12"
+      },
+      {
+        "rank": 9,
+        "name": "Kappaemme-git/codex-first-customer-finder-skill",
+        "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+        "stars": 793,
+        "language": "Python",
+        "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+        "created": "2026-07-12"
+      },
+      {
+        "rank": 10,
+        "name": "oil-oil/beautify-github-readme",
+        "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+        "stars": 764,
+        "language": "Python",
+        "url": "https://github.com/oil-oil/beautify-github-readme",
+        "created": "2026-07-13"
+      },
+      {
+        "rank": 11,
+        "name": "x4gKing/Marzban-Node",
+        "description": "",
+        "stars": 742,
+        "language": "Dockerfile",
+        "url": "https://github.com/x4gKing/Marzban-Node",
+        "created": "2026-07-12"
+      },
+      {
+        "rank": 12,
+        "name": "KubeezMedia/kubeez-scroll-world-video",
+        "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+        "stars": 647,
+        "language": "JavaScript",
+        "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+        "created": "2026-07-13"
+      },
+      {
+        "rank": 13,
+        "name": "MatinSenPai/Aether-GUI",
+        "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+        "stars": 548,
+        "language": "TypeScript",
+        "url": "https://github.com/MatinSenPai/Aether-GUI",
+        "created": "2026-07-14"
+      },
+      {
+        "rank": 14,
+        "name": "Blueturboguy07/cue",
+        "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+        "stars": 490,
+        "language": "JavaScript",
+        "url": "https://github.com/Blueturboguy07/cue",
+        "created": "2026-07-15"
+      },
+      {
+        "rank": 15,
+        "name": "PengZhang64/circuit-framework",
+        "description": "Circuit Framework — multi-agent LLM trading research system",
+        "stars": 479,
+        "language": "Python",
+        "url": "https://github.com/PengZhang64/circuit-framework",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 16,
+        "name": "pablostanley/yoinks",
+        "description": "yoink any video from your terminal. no shady ads.",
+        "stars": 446,
+        "language": "TypeScript",
+        "url": "https://github.com/pablostanley/yoinks",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 17,
+        "name": "vshulcz/deja-vu",
+        "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Gr",
+        "stars": 340,
+        "language": "Go",
+        "url": "https://github.com/vshulcz/deja-vu",
+        "created": "2026-07-14"
+      },
+      {
+        "rank": 18,
+        "name": "Shadow-Weave/HMS",
+        "description": "",
+        "stars": 326,
+        "language": "Python",
+        "url": "https://github.com/Shadow-Weave/HMS",
+        "created": "2026-07-12"
+      },
+      {
+        "rank": 19,
+        "name": "QuantumByteOSS/quantumbyte",
+        "description": "Open-source app builder engine — intent to working app",
+        "stars": 324,
+        "language": "Python",
+        "url": "https://github.com/QuantumByteOSS/quantumbyte",
+        "created": "2026-07-14"
+      },
+      {
+        "rank": 20,
+        "name": "stackblitz/bolt-slides",
+        "description": "Use any agent to create stunning, interactive presentations",
+        "stars": 322,
+        "language": "TypeScript",
+        "url": "https://github.com/stackblitz/bolt-slides",
+        "created": "2026-07-14"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "RoboTTT: Context Scaling for Robot Policies",
+        "authors": [
+          "Yunfan Jiang",
+          "Yevgen Chebotar",
+          "Ruijie Zheng",
+          "Fengyuan Hu",
+          "Yunhao Ge"
+        ],
+        "summary": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies, without ",
+        "url": "http://arxiv.org/abs/2607.15275v1",
+        "pdf": "https://arxiv.org/pdf/2607.15275v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions",
+        "authors": [
+          "Yasheng Sun",
+          "Zezi Zeng",
+          "Yifan Yang",
+          "Chong Luo",
+          "Wenyi Wang"
+        ],
+        "summary": "Editing the figures in a research paper is a routine and time-consuming part of everyday research practice: authors relabel components, rearrange panels, and restyle visuals as they revise their manuscripts. Automating this editing workflow under a natural-language instruction, however, is challengi",
+        "url": "http://arxiv.org/abs/2607.15272v1",
+        "pdf": "https://arxiv.org/pdf/2607.15272v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Pretraining Data Can Be Poisoned through Computational Propaganda",
+        "authors": [
+          "Victoria Graf",
+          "Hannaneh Hajishirzi",
+          "Noah A. Smith",
+          "David Kohlbrenner",
+          "Kyle Lo"
+        ],
+        "summary": "Poisoning pretraining data can introduce harmful behaviors to LMs that are difficult to detect and mitigate. Prior work on poisoning pretraining data has largely exploited established data sources such as Wikipedia, which do not represent the large scale and heterogeneity typical of pretraining corp",
+        "url": "http://arxiv.org/abs/2607.15267v1",
+        "pdf": "https://arxiv.org/pdf/2607.15267v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "SceneBind: Binding What and Where Across Vision, Audio and Language",
+        "authors": [
+          "Mingfei Chen",
+          "Zijun Cui",
+          "Ruoke Zhang",
+          "Hyeonggon Ryu",
+          "Eli Shlizerman"
+        ],
+        "summary": "We present SceneBind, an omni-modal representation of realistic scenes with joint semantic and 3D spatial understanding across vision, audio and language. Existing omni-modal encoders excel at instance-level semantics (i.e., what is present), but often lack explicit spatial structure (i.e., where it",
+        "url": "http://arxiv.org/abs/2607.15265v1",
+        "pdf": "https://arxiv.org/pdf/2607.15265v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
+        "authors": [
+          "Paul Kassianik",
+          "Blaine Nelson",
+          "Yaron Singer"
+        ],
+        "summary": "Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completion. Such measurements are useful but incomplete: in operational security, every reasoning step, tool ",
+        "url": "http://arxiv.org/abs/2607.15263v1",
+        "pdf": "https://arxiv.org/pdf/2607.15263v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+        "authors": [
+          "Yuyao Zhang",
+          "Junjie Gao",
+          "Zhengxian Wu",
+          "Jiaming Fan",
+          "Jin Zhang"
+        ],
+        "summary": "Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress. When search attempts fail to yield useful evidence, current single- and multi-ag",
+        "url": "http://arxiv.org/abs/2607.15257v1",
+        "pdf": "https://arxiv.org/pdf/2607.15257v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data",
+        "authors": [
+          "Qiwei Li",
+          "Jorge Ortiz"
+        ],
+        "summary": "Traffic agencies now have access to large volumes of video-derived data for studying safety and congestion. Most of these data are observational and collected without interventions, which makes causal questions such as \"How would rain change traffic density?\" difficult to answer. We present teLLMe, ",
+        "url": "http://arxiv.org/abs/2607.15254v1",
+        "pdf": "https://arxiv.org/pdf/2607.15254v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "AutoSynthesis: An agentic system for automated meta-analysis",
+        "authors": [
+          "Moein Taherinezhad",
+          "Sebastian Maier",
+          "Gerardo Vitagliano",
+          "Francesco Pierri",
+          "Stefan Feuerriegel"
+        ],
+        "summary": "Evidence synthesis is crucial for turning primary research into reliable knowledge for science, medicine, education, and policy. Yet, quantitative evidence synthesis remains largely manual and difficult to scale. Here, we introduce AutoSynthesis, an end-to-end multi-agent system for automated meta-a",
+        "url": "http://arxiv.org/abs/2607.15247v1",
+        "pdf": "https://arxiv.org/pdf/2607.15247v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "In-Place Tokenizer Expansion for Pre-trained LLMs",
+        "authors": [
+          "Jimmy T. H. Smith",
+          "Tarek Dakhran",
+          "Alberto Cabrera",
+          "Simon S. Lee",
+          "Paul Pak"
+        ],
+        "summary": "A tokenizer fixed at the start of pre-training allocates vocabulary in proportion to the pre-training corpus, reflecting the deployment priorities at that time. When those priorities shift, languages added later are split into many more tokens per word, which can raise latency, compute, and energy c",
+        "url": "http://arxiv.org/abs/2607.15232v1",
+        "pdf": "https://arxiv.org/pdf/2607.15232v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space",
+        "authors": [
+          "Weimeng Wang",
+          "Ziqiang Wang",
+          "Zihang Zhan",
+          "Chuanpu Fu",
+          "Qi Li"
+        ],
+        "summary": "Large language models (LLMs) increasingly serve as high-level planners for embodied agents, where linguistically benign instructions can become unsafe once grounded in the physical world. We study whether this physically grounded danger is the same safety problem as ordinary text-level content dange",
+        "url": "http://arxiv.org/abs/2607.15218v1",
+        "pdf": "https://arxiv.org/pdf/2607.15218v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Symbal: Detecting Systematic Misalignments in Model-Generated Captions",
+        "authors": [
+          "Maya Varma",
+          "Jean-Benoit Delbrouck",
+          "Sophie Ostmeier",
+          "Akshay Chaudhari",
+          "Curtis Langlotz"
+        ],
+        "summary": "Multimodal large language models (MLLMs) often introduce errors when generating image captions, resulting in misaligned image-text pairs. Our work focuses on a class of captioning errors that we refer to as systematic misalignments, where a recurring error in MLLM-generated captions is closely assoc",
+        "url": "http://arxiv.org/abs/2607.15216v1",
+        "pdf": "https://arxiv.org/pdf/2607.15216v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization",
+        "authors": [
+          "Shaoxiong Zhan",
+          "Shi Hu",
+          "Boyu Feng",
+          "Hai Lin",
+          "Andrew Gong"
+        ],
+        "summary": "Real repository issues routinely include visual evidence such as screenshots, error dialogs, rendered UI states, and logs, yet repository-level issue localization is evaluated mostly as a text-only task. Existing multimodal SE benchmarks evaluate end-to-end repair, entangling localization with patch",
+        "url": "http://arxiv.org/abs/2607.15205v1",
+        "pdf": "https://arxiv.org/pdf/2607.15205v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Self-Evolving Human-Centered Framework for Explainable Depression Symptom Annotation",
+        "authors": [
+          "Hoang-Loc Cao",
+          "Van Pham",
+          "Truong Thanh Hung Nguyen",
+          "Phuc Truong Loc Nguyen",
+          "Phuc Ho"
+        ],
+        "summary": "Annotation quality is a major bottleneck in building reliable and explainable artificial intelligence (XAI) systems for mental health research. In depression-related datasets, labels are often assigned without structured evidence, symptom-level justification, or traceable alignment with the criteria",
+        "url": "http://arxiv.org/abs/2607.15202v1",
+        "pdf": "https://arxiv.org/pdf/2607.15202v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Mask-Aware Policy Gradients for Diffusion Language Models",
+        "authors": [
+          "Haran Raajesh",
+          "Kulin Shah",
+          "Adam Klivans",
+          "Philipp Krähenbühl"
+        ],
+        "summary": "Reinforcement learning has proven effective for improving reasoning in large language models, but extending it to Masked Diffusion Language Models (MDLMs) remains challenging due to the intractability of the log-likelihood estimation. Existing approaches approximate this log-likelihood by modeling o",
+        "url": "http://arxiv.org/abs/2607.15200v1",
+        "pdf": "https://arxiv.org/pdf/2607.15200v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Subjective Risk Decomposition: A New View for Uncertainty Quantification",
+        "authors": [
+          "Raghad Alamri",
+          "Michele Caprio",
+          "Gavin Brown"
+        ],
+        "summary": "We present a novel viewpoint for uncertainty quantification. Uncertainty measures are not primitives, in need of axioms and argumentation, but instead consequences, of higher-level modelling decisions. We show how epistemic and aleatoric uncertainty measures can be derived via decomposition of a sub",
+        "url": "http://arxiv.org/abs/2607.15196v1",
+        "pdf": "https://arxiv.org/pdf/2607.15196v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Plover: Steering GUI Agents through Plan-Centric Interaction",
+        "authors": [
+          "Madhumitha Venkatesan",
+          "Shicheng Wen",
+          "Jiajing Guo",
+          "Jorge Piazentin Ono",
+          "Liu Ren"
+        ],
+        "summary": "Graphical user interface (GUI) automation remains challenging in real-world environments, where dynamic layouts, unexpected dialogs, and evolving interface states can cause autonomous agents to drift from user intent. Recent vision-based multimodal agents improve flexibility by operating directly ov",
+        "url": "http://arxiv.org/abs/2607.15193v1",
+        "pdf": "https://arxiv.org/pdf/2607.15193v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Can We Trust Item Response Theory for AI Evaluation?",
+        "authors": [
+          "Han Jiang",
+          "Sunbeom Kwon",
+          "Jinwen Luo",
+          "Ziang Xiao",
+          "Susu Zhang"
+        ],
+        "summary": "AI benchmarks increasingly leverage item-level statistical models, particularly item response theory (IRT), to estimate model capabilities, rank systems, select informative examples, and diagnose benchmark quality. However, AI benchmark data often departs from the data regime of human testing, for w",
+        "url": "http://arxiv.org/abs/2607.15190v1",
+        "pdf": "https://arxiv.org/pdf/2607.15190v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "T^2MLR: Transformer with Temporal Middle-Layer Recurrence",
+        "authors": [
+          "Ziyang Cai",
+          "Xingyu Zhu",
+          "Yihe Dong",
+          "Yinghui He",
+          "Sanjeev Arora"
+        ],
+        "summary": "Transformer reasoning is limited by autoregressive decoding, which repeat edly compresses rich hidden computation through token space and makes it difficult for intermediate reasoning states to persist across time. We in troduce Transformers with Temporal Middle-Layer Recurrence (T2MLR), a transform",
+        "url": "http://arxiv.org/abs/2607.15178v1",
+        "pdf": "https://arxiv.org/pdf/2607.15178v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy",
+        "authors": [
+          "Patrick Phuoc Do",
+          "Chau M. Ta",
+          "Chaoli Wang"
+        ],
+        "summary": "Multimodal large language models (MLLMs) are increasingly used to interpret visualizations, yet current evaluations remain largely chart-centric and provide limited evidence of understanding of scientific visualization (SciVis). We benchmark six MLLMs on the scientific visualization literacy assessm",
+        "url": "http://arxiv.org/abs/2607.15176v1",
+        "pdf": "https://arxiv.org/pdf/2607.15176v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "MedFailBench: A Clinician-Built Open-Source Benchmark for Medical AI Safety Boundary Inspection",
+        "authors": [
+          "Goktug Ozkan"
+        ],
+        "summary": "Most medical AI benchmarks measure whether a model knows the correct answer. MedFailBench asks a different question: which safety boundary failed? We present a clinician-built synthetic benchmark and failure atlas that labels medical AI errors by severity (1--5) and safety gate type (missed urgent e",
+        "url": "http://arxiv.org/abs/2607.15166v1",
+        "pdf": "https://arxiv.org/pdf/2607.15166v1",
+        "published": "2026-07-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
+        "authors": [
+          "Yushi Huang",
+          "Xiangxin Zhou",
+          "Jun Zhang",
+          "Liefeng Bo",
+          "Tianyu Pang"
+        ],
+        "summary": "MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a powerful way to align diffusion and flow models with human preferences and task-specific objectives. In p",
+        "url": "http://arxiv.org/abs/2607.15273v1",
+        "pdf": "https://arxiv.org/pdf/2607.15273v1",
+        "published": "2026-07-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
+        "authors": [
+          "Baback Elmieh",
+          "Lynn Tsai",
+          "Zeman Li",
+          "Srinivas Kaza",
+          "Tiancheng Sun"
+        ],
+        "summary": "Online novel view synthesis from multi-view streaming videos faces a fundamental trade-off: maintaining a persistent, long-horizon memory to reconstruct temporarily occluded regions while operating under strict real-time constraints. While Test-Time Training (TTT) offers a powerful memory mechanism,",
+        "url": "http://arxiv.org/abs/2607.15271v1",
+        "pdf": "https://arxiv.org/pdf/2607.15271v1",
+        "published": "2026-07-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier",
+        "authors": [
+          "Arthur G. Bubolz",
+          "Abreu Quevedo",
+          "Giancarlo Lucca",
+          "Rafael A. Berri",
+          "Eduardo Borges"
+        ],
+        "summary": "The growing use of Bitcoin as a decentralized digital asset and investment tool has sparked strong interest in understanding its market behavior. This study presents a new approach to analyze Bitcoin market sentiment by combining on-chain and financial data with social media posts. Unlike models tha",
+        "url": "http://arxiv.org/abs/2607.15258v1",
+        "pdf": "https://arxiv.org/pdf/2607.15258v1",
+        "published": "2026-07-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Mutable Low-Rank Sketches for Retrain-Free Recommendation",
+        "authors": [
+          "Hector J. Garcia",
+          "Nick Clayton"
+        ],
+        "summary": "A common bottleneck in two-stage recommendation is embedding staleness: when a user rates a new item, their embedding remains fixed until the next retrain cycle. We propose mutable sketches, which store each user's preferences in a KP-tree (a sparse segment tree with sum aggregation), fit a low-rank",
+        "url": "http://arxiv.org/abs/2607.15242v1",
+        "pdf": "https://arxiv.org/pdf/2607.15242v1",
+        "published": "2026-07-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Data Driven Block Replacement Scheduling",
+        "authors": [
+          "Aniruddhan Ganesaraman",
+          "VIdyadhar Kulkarni"
+        ],
+        "summary": "We develop data-driven algorithms for maintaining $N$ independent identical machines under a \\textit{block replacement policy}, in which each machine is replaced upon failure and all machines are jointly replaced at regular intervals of length $k$. The goal is to learn the cost-minimizing interval $",
+        "url": "http://arxiv.org/abs/2607.15229v1",
+        "pdf": "https://arxiv.org/pdf/2607.15229v1",
+        "published": "2026-07-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "NeuronSoup: Evolving Asynchronous, Shared-Neuron Temporal Graphs without Backpropagation",
+        "authors": [
+          "Subodh Kalia"
+        ],
+        "summary": "We present NeuronSoup, a neural computation architecture that replaces synchronous layer-by-layer processing with asynchronous, delay-mediated signal propagation through a pool of shared neurons. Each path in the network routes a continuous-valued signal from one input neuron to one output neuron th",
+        "url": "http://arxiv.org/abs/2607.15217v1",
+        "pdf": "https://arxiv.org/pdf/2607.15217v1",
+        "published": "2026-07-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Delocalization of bias in unadjusted Hamiltonian Monte Carlo and underdamped Langevin",
+        "authors": [
+          "Yifan Chen",
+          "Xiaoou Cheng",
+          "Jonathan Niles-Weed",
+          "Jonathan Weare"
+        ],
+        "summary": "Unadjusted samplers such as unadjusted Hamiltonian Monte Carlo and underdamped Langevin are well-known to be biased. Metropolis--Hastings adjustment has been conventionally incorporated into Hamiltonian Monte Carlo to eliminate the bias. However, this adjustment can significantly increase the iterat",
+        "url": "http://arxiv.org/abs/2607.15208v1",
+        "pdf": "https://arxiv.org/pdf/2607.15208v1",
+        "published": "2026-07-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
+        "authors": [
+          "Qi Li",
+          "Xingyi Yang",
+          "Xinchao Wang"
+        ],
+        "summary": "World-action models (WAMs) are emerging as a promising foundation for embodied control: rather than predicting actions alone, they learn representations that couple action generation with future world prediction. This coupling is often viewed as a source of robustness, interpretability, and safety, ",
+        "url": "http://arxiv.org/abs/2607.15207v1",
+        "pdf": "https://arxiv.org/pdf/2607.15207v1",
+        "published": "2026-07-16",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
