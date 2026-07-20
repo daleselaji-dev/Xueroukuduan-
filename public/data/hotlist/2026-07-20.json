@@ -1,0 +1,618 @@
+{
+  "date": "2026-07-20",
+  "generated": "2026-07-20T05:41:14.176283",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "xai-org/grok-build",
+        "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+        "stars": 20289,
+        "language": "Rust",
+        "url": "https://github.com/xai-org/grok-build",
+        "created": "2026-07-14"
+      },
+      {
+        "rank": 2,
+        "name": "Fei-Away/Codex-Dream-Skin",
+        "description": "Codex Dream Skin",
+        "stars": 10580,
+        "language": "JavaScript",
+        "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+        "created": "2026-07-15"
+      },
+      {
+        "rank": 3,
+        "name": "CluvexStudio/Aether",
+        "description": "",
+        "stars": 1323,
+        "language": "Rust",
+        "url": "https://github.com/CluvexStudio/Aether",
+        "created": "2026-07-14"
+      },
+      {
+        "rank": 4,
+        "name": "tandpfun/wardrobe",
+        "description": "Your clothes, extracted and organized with gpt-image.",
+        "stars": 1166,
+        "language": "JavaScript",
+        "url": "https://github.com/tandpfun/wardrobe",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 5,
+        "name": "nethical6/conversation-steganography",
+        "description": "Use LLMs to hide messages inside normal looking conversations",
+        "stars": 831,
+        "language": "Go",
+        "url": "https://github.com/nethical6/conversation-steganography",
+        "created": "2026-07-17"
+      },
+      {
+        "rank": 6,
+        "name": "pablostanley/yoinks",
+        "description": "yoink any video from your terminal. no shady ads.",
+        "stars": 784,
+        "language": "TypeScript",
+        "url": "https://github.com/pablostanley/yoinks",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 7,
+        "name": "MatinSenPai/Aether-GUI",
+        "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+        "stars": 629,
+        "language": "TypeScript",
+        "url": "https://github.com/MatinSenPai/Aether-GUI",
+        "created": "2026-07-14"
+      },
+      {
+        "rank": 8,
+        "name": "Blueturboguy07/cue",
+        "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+        "stars": 621,
+        "language": "JavaScript",
+        "url": "https://github.com/Blueturboguy07/cue",
+        "created": "2026-07-15"
+      },
+      {
+        "rank": 9,
+        "name": "v-modal/vmodal_sdk_flutter",
+        "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+        "stars": 615,
+        "language": "Dart",
+        "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 10,
+        "name": "lopopolo/harness-engineering",
+        "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+        "stars": 599,
+        "language": "Python",
+        "url": "https://github.com/lopopolo/harness-engineering",
+        "created": "2026-07-18"
+      },
+      {
+        "rank": 11,
+        "name": "hoainho/img2threejs",
+        "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+        "stars": 575,
+        "language": "Python",
+        "url": "https://github.com/hoainho/img2threejs",
+        "created": "2026-07-15"
+      },
+      {
+        "rank": 12,
+        "name": "PengZhang64/circuit-framework",
+        "description": "Circuit Framework — multi-agent LLM trading research system",
+        "stars": 486,
+        "language": "Python",
+        "url": "https://github.com/PengZhang64/circuit-framework",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 13,
+        "name": "stackblitz/bolt-slides",
+        "description": "Use any agent to create stunning, interactive presentations",
+        "stars": 459,
+        "language": "TypeScript",
+        "url": "https://github.com/stackblitz/bolt-slides",
+        "created": "2026-07-14"
+      },
+      {
+        "rank": 14,
+        "name": "pyang5166/gbro-collage-broll",
+        "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+        "stars": 426,
+        "language": "Python",
+        "url": "https://github.com/pyang5166/gbro-collage-broll",
+        "created": "2026-07-15"
+      },
+      {
+        "rank": 15,
+        "name": "vshulcz/deja-vu",
+        "description": "Your agents already solved this. deja finds it — retroactive search and MCP recall over the session logs your coding agents already wrote. Cross-agent, SSH-portable, one zero-dep binary, fully local.",
+        "stars": 391,
+        "language": "Go",
+        "url": "https://github.com/vshulcz/deja-vu",
+        "created": "2026-07-14"
+      },
+      {
+        "rank": 16,
+        "name": "xiejunjie524/handdraw-story-video",
+        "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+        "stars": 389,
+        "language": "Python",
+        "url": "https://github.com/xiejunjie524/handdraw-story-video",
+        "created": "2026-07-18"
+      },
+      {
+        "rank": 17,
+        "name": "andyhuo520/MacCheck",
+        "description": "MacCheck 验机宝：本地 Mac 硬件检测、交互验机与 PDF/PNG 报告导出工具",
+        "stars": 380,
+        "language": "Swift",
+        "url": "https://github.com/andyhuo520/MacCheck",
+        "created": "2026-07-14"
+      },
+      {
+        "rank": 18,
+        "name": "Icex0/wp2shell-poc",
+        "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+        "stars": 360,
+        "language": "Python",
+        "url": "https://github.com/Icex0/wp2shell-poc",
+        "created": "2026-07-17"
+      },
+      {
+        "rank": 19,
+        "name": "erickong/penecho",
+        "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+        "stars": 355,
+        "language": "JavaScript",
+        "url": "https://github.com/erickong/penecho",
+        "created": "2026-07-14"
+      },
+      {
+        "rank": 20,
+        "name": "JustinGamer191/Holo",
+        "description": "",
+        "stars": 354,
+        "language": "Swift",
+        "url": "https://github.com/JustinGamer191/Holo",
+        "created": "2026-07-17"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities",
+        "authors": [
+          "Md Erfan",
+          "Ahmed Ryan",
+          "Md Kamal Hossain Chowdhury",
+          "Md Rayhanur Rahman"
+        ],
+        "summary": "Connected and Autonomous Vehicles (CAVs) rely on interconnected software and hardware components, including sensors, Electronic Control Units, in-vehicle infotainment systems, and telematics units, where vulnerabilities can compromise assets, users, and vehicle operations. These vulnerabilities are ",
+        "url": "http://arxiv.org/abs/2607.16175v1",
+        "pdf": "https://arxiv.org/pdf/2607.16175v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "When Does Muon Help Agentic Reinforcement Learning?",
+        "authors": [
+          "Kai Ruan",
+          "Jinghao Lin",
+          "Zihe Huang",
+          "Ziqi Zhou",
+          "Qianshan Wei"
+        ],
+        "summary": "Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed comparisons with AdamW on ALFWorld using Qwen2.5-0.5B-Instruct. Under Group-in-Group ",
+        "url": "http://arxiv.org/abs/2607.16169v1",
+        "pdf": "https://arxiv.org/pdf/2607.16169v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "An Exam for Active Observers",
+        "authors": [
+          "Jiarui Zhang",
+          "Muzi Tao",
+          "Shangshang Wang",
+          "Ollie Liu",
+          "Xuezhe Ma"
+        ],
+        "summary": "Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is essential for a wide range of tasks. Whether today's multimodal large language models (M",
+        "url": "http://arxiv.org/abs/2607.16165v1",
+        "pdf": "https://arxiv.org/pdf/2607.16165v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "When Do Multi-Agent Systems Help? An Information Bottleneck Perspective",
+        "authors": [
+          "Wendi Yu",
+          "Lianhao Zhou",
+          "Xiangjue Dong",
+          "Sai Sudarshan Barath",
+          "Declan Staunton"
+        ],
+        "summary": "LLM powered multi-agent systems (MAS) have emerged as a promising paradigm for complex tasks. However, their advantages over single-agent systems (SAS) remain unclear, with performance varying inconsistently across settings. Here, we provide an information bottleneck perspective on elucidating the d",
+        "url": "http://arxiv.org/abs/2607.16133v1",
+        "pdf": "https://arxiv.org/pdf/2607.16133v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning",
+        "authors": [
+          "Binglin Zhou",
+          "Peng Shi",
+          "Ryo Kamoi",
+          "Nan Zhang",
+          "Rui Zhang"
+        ],
+        "summary": "Multimodal Scientific Claim Verification (MSCV) requires models to verify scientific claims using visually grounded evidence from papers, including figures, tables, charts, and textual context. However, existing methods often fail because they struggle to locate decisive visual evidence, accurately ",
+        "url": "http://arxiv.org/abs/2607.16131v1",
+        "pdf": "https://arxiv.org/pdf/2607.16131v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "A Methodology for Auditable Trustworthiness Levels in AI Lifecycle Governance",
+        "authors": [
+          "Andrea Ferrario"
+        ],
+        "summary": "AI governance increasingly requires judgments about whether an AI system remains adequately trustworthy over time, whether observed changes are tolerable, and how such judgments should be documented in a transparent and contestable way. Yet existing work on AI trustworthiness remains either too high",
+        "url": "http://arxiv.org/abs/2607.16130v1",
+        "pdf": "https://arxiv.org/pdf/2607.16130v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "CRAFT: Clustering Rubrics to Diagnose Weak LLM Capabilities and Generate Targeted Fine-Tuning Data",
+        "authors": [
+          "Vipul Gupta",
+          "Zihao Wang",
+          "Razvan-Gabriel Dumitru",
+          "MohammadHossein Rezaei",
+          "Aakash Sabharwal"
+        ],
+        "summary": "Evaluations should do more than measure a models current performance. They should tell us what to fix for the next model iteration and provide a way to generate targeted post training data. Most evaluation pipelines identify weak examples, topics, or categories, but they leave the underlying capabil",
+        "url": "http://arxiv.org/abs/2607.16122v1",
+        "pdf": "https://arxiv.org/pdf/2607.16122v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Harmonizing AI Safety Thresholds",
+        "authors": [
+          "Wilber Sean Anterola",
+          "Matthew Ball",
+          "Luis F. Lafuerza",
+          "Markov Grey"
+        ],
+        "summary": "Frontier AI companies have published capability thresholds that differ substantially, making it difficult for third parties to verify whether a threshold has been crossed or to compare requirements across companies. Moreover, without common minimum thresholds, risk mitigation may be inconsistent, cr",
+        "url": "http://arxiv.org/abs/2607.16112v1",
+        "pdf": "https://arxiv.org/pdf/2607.16112v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Understanding Reasoning from Pretraining to Post-Training",
+        "authors": [
+          "Jingyan Shen",
+          "Ang Li",
+          "Salman Rahman",
+          "Yifan Sun",
+          "Micah Goldblum"
+        ],
+        "summary": "Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex reasoning tasks, yet RL post-training is largely studied in isolation from the pretraining that precedes it. As a result, two basic questions remain open: (1) how do pretraining choices (model size, d",
+        "url": "http://arxiv.org/abs/2607.16097v1",
+        "pdf": "https://arxiv.org/pdf/2607.16097v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "DADiff: Diffusion-Driven Cross-Domain Policy Adaptation for Reinforcement Learning",
+        "authors": [
+          "Hanyang Chen",
+          "Anirudh Satheesh",
+          "Longchao Da",
+          "Hua Wei"
+        ],
+        "summary": "Transferring policies across domains poses a vital challenge in reinforcement learning, due to the dynamics mismatch between the source and target domains. In this paper, we consider the setting of online dynamics adaptation, where policies are trained in the source domain with sufficient data, whil",
+        "url": "http://arxiv.org/abs/2607.16090v1",
+        "pdf": "https://arxiv.org/pdf/2607.16090v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "HCIG: A Hierarchical Cross-Modal Incongruity Graph Network for Multimodal Sarcasm and Cyberbullying Detection",
+        "authors": [
+          "Bhavana Verma",
+          "Priyanka Meel",
+          "Dinesh Kumar Vishwakarma"
+        ],
+        "summary": "Multimodal sarcasm and cyberbullying detection remain challenging because the intended meaning often emerges from incongruity between textual and visual information rather than from either modality alone. Existing multimodal approaches primarily rely on feature fusion or cross-modal attention, which",
+        "url": "http://arxiv.org/abs/2607.16076v1",
+        "pdf": "https://arxiv.org/pdf/2607.16076v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models",
+        "authors": [
+          "Haoran Sun",
+          "Wentao Zhang",
+          "Junyang Hua",
+          "Hedan Yang",
+          "Yongjian Guo"
+        ],
+        "summary": "The post-training of Vision-Language-Action (VLA) models is essential due to the diversity of simulators, robot embodiments, and task objectives. Existing compute services, whether offered as direct accelerator rental or batch-workload submission, typically allocate an exclusive set of GPU and CPU r",
+        "url": "http://arxiv.org/abs/2607.16074v1",
+        "pdf": "https://arxiv.org/pdf/2607.16074v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "LLM-Powered Agentic AI for 5G/6G Networks: A Tutorial and Survey on Architectures, Protocols, and Standardization",
+        "authors": [
+          "Mazene Ameur",
+          "Abdelkader Mekrache",
+          "Bouziane Brik",
+          "Adlen Ksentini"
+        ],
+        "summary": "Agentic Artificial Intelligence (AI), enabled by Large Language Models, marks a shift from rule-based automation toward autonomous, goal-driven control of Next-Generation Networks (NGNs). Existing surveys treat the two domains in isolation, leaving protocol integration, evaluation, and standardizati",
+        "url": "http://arxiv.org/abs/2607.16066v1",
+        "pdf": "https://arxiv.org/pdf/2607.16066v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Spatial Normalization for Cross-Domain Retinal Layer Segmentation in Optical Coherence Tomography",
+        "authors": [
+          "Iker Moran-Cavero",
+          "Monica Hernandez",
+          "Elvira Mayordomo",
+          "Naiara Artiaga",
+          "Beatriz Pardiñas"
+        ],
+        "summary": "Retinal layer segmentation in Optical Coherence Tomography (OCT) is a fundamental step for extracting quantitative biomarkers of retinal structure. Indeed, there is a growing interest in the analysis of OCTs in the context of neurodegenerative diseases. However, segmentation remains challenging due ",
+        "url": "http://arxiv.org/abs/2607.16065v1",
+        "pdf": "https://arxiv.org/pdf/2607.16065v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "When Model Merging Rivals Joint Multi-Task Reinforcement Learning: A Task-Vector Geometry Analysis",
+        "authors": [
+          "S. Aaron McClendon"
+        ],
+        "summary": "Model merging is promoted as a substitute for joint multi-task training, yet in the reinforcement-learning setting this substitution is essentially never tested against the baseline it claims to replace: methods merge independently released agents precisely because a joint model is unavailable. We b",
+        "url": "http://arxiv.org/abs/2607.16062v1",
+        "pdf": "https://arxiv.org/pdf/2607.16062v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Frontier AI performance across the business disciplines: a case-grounded benchmark of knowledge work and analytical reasoning",
+        "authors": [
+          "Ajay Patel",
+          "Kartik Hosanagar",
+          "Ramayya Krishnan",
+          "Chris Callison-Burch",
+          "Karim Lakhani"
+        ],
+        "summary": "Large language models (LLMs) are improving rapidly as reflected in benchmark scores, yet these AI benchmarks largely test capabilities such as factual recall, narrow question answering, mathematical problem-solving, and coding and agentic tool-use. What remains poorly measured is AI progress on the ",
+        "url": "http://arxiv.org/abs/2607.16057v1",
+        "pdf": "https://arxiv.org/pdf/2607.16057v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Loop the Loopies!",
+        "authors": [
+          "Zitian Gao",
+          "Yilong Chen",
+          "Yihao Xiao",
+          "Xinyu Yang",
+          "Ran Tao"
+        ],
+        "summary": "We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter model with 0.6B active parameters. Looped Transformers have long faced a challenge: given an N-fold in",
+        "url": "http://arxiv.org/abs/2607.16051v1",
+        "pdf": "https://arxiv.org/pdf/2607.16051v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery",
+        "authors": [
+          " SciForge Team",
+          "Zhangyang Gao",
+          "Minghao Fang",
+          "Yifei Liu",
+          "Hanhui Yang"
+        ],
+        "summary": "Scientific work increasingly spans heterogeneous artifacts -- papers, code, datasets, scientific file formats, model outputs, figures, manuscripts, and team decisions -- yet general-purpose AI assistants rarely preserve these objects as a coherent, auditable research state. We present SciForge, a mu",
+        "url": "http://arxiv.org/abs/2607.16038v1",
+        "pdf": "https://arxiv.org/pdf/2607.16038v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Revisiting data-driven dynamic security assessment with a tabular foundation model",
+        "authors": [
+          "Olayiwola Arowolo",
+          "Maosheng Yang",
+          "Jochen Cremer"
+        ],
+        "summary": "Data-driven pre-fault dynamic security assessment (DSA) rapidly evaluates the dynamic risk of credible contingencies on a power system using machine learning. Existing approaches face two limitations. First, they require a large labelled database for training, with a separate model trained, tuned, a",
+        "url": "http://arxiv.org/abs/2607.16031v1",
+        "pdf": "https://arxiv.org/pdf/2607.16031v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Rethinking Quantum Continual Learning with Quantum Fisher Information",
+        "authors": [
+          "Yu-Chao Hsu",
+          "Yu-Cheng Lin",
+          "Tai-Yue Li",
+          "Nan-Yow Chen",
+          "En-Jui Kuo"
+        ],
+        "summary": "Quantum continual learning aims to train quantum models on sequential tasks without losing previously learned knowledge. However, variational quantum classifiers (VQCs) are prone to catastrophic forgetting under nonstationary task distributions. We propose quantum elastic weight consolidation (QEWC)",
+        "url": "http://arxiv.org/abs/2607.16030v1",
+        "pdf": "https://arxiv.org/pdf/2607.16030v1",
+        "published": "2026-07-17",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
+        "authors": [
+          "Yuchen Yang",
+          "Yifan Zhao",
+          "Anisha Dasgupta",
+          "Sasa Misailovic"
+        ],
+        "summary": "Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension between the GPU memory requirements of the model weights and the growing KV cache. We propose PagedWeight",
+        "url": "http://arxiv.org/abs/2607.16184v1",
+        "pdf": "https://arxiv.org/pdf/2607.16184v1",
+        "published": "2026-07-17",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
+        "authors": [
+          "Owen Lockwood",
+          "Jérémy Béjanin",
+          "Joost Bus",
+          "Christopher Chamberland",
+          "Patrick Huembeli"
+        ],
+        "summary": "To address the escalating energy and latency demands of machine-learning workloads, we introduce a blueprint for an energy-efficient and fast thermodynamic computing stack that leverages stochastic analog processes in physical hardware. In this work, we focus on energy-based thermodynamic computing ",
+        "url": "http://arxiv.org/abs/2607.16183v1",
+        "pdf": "https://arxiv.org/pdf/2607.16183v1",
+        "published": "2026-07-17",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Cluster-Aware Matching via Laplacian Optimal Transport",
+        "authors": [
+          "Gabriel Samberg",
+          "YoonHaeng Hur",
+          "Yuehaw Khoo",
+          "Nir Sharon"
+        ],
+        "summary": "In many applications of matching, the point clouds to be matched are not merely unstructured sets of points but rather samples from distributions with an intrinsic cluster structure. In such cases, as individual points are often interchangeable within a coherent region, finding a robust region-to-re",
+        "url": "http://arxiv.org/abs/2607.16178v1",
+        "pdf": "https://arxiv.org/pdf/2607.16178v1",
+        "published": "2026-07-17",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems",
+        "authors": [
+          "Matteo Tomasetto",
+          "Nicolò Botteghi",
+          "Gabriele Bruni",
+          "Andrea Manzoni"
+        ],
+        "summary": "Reinforcement learning (RL) has recently emerged as a promising feedback control strategy for nonlinear and complex dynamical systems. However, RL algorithms are sample inefficient and require a large number of interaction with the environment to synthesize optimal control strategies. Consequently, ",
+        "url": "http://arxiv.org/abs/2607.16177v1",
+        "pdf": "https://arxiv.org/pdf/2607.16177v1",
+        "published": "2026-07-17",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Behaviour-Conditioned Neural Processes for Adaptive Residential Short-Term Load Forecasting",
+        "authors": [
+          "Ramin Soleimani",
+          "Andrea Visentin",
+          "Dirk Pesch"
+        ],
+        "summary": "Residential short-term load forecasting (STLF) is challenging because household demand is heterogeneous, temporally variable, and shaped by diverse behavioural routines. This work investigates whether inferred behavioural structure can be embedded within the forecasting mechanism of a Neural Process",
+        "url": "http://arxiv.org/abs/2607.16168v1",
+        "pdf": "https://arxiv.org/pdf/2607.16168v1",
+        "published": "2026-07-17",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "PRISA: Proactive Infrastructure LiDAR Framework for Intersection Safety Assessment",
+        "authors": [
+          "Tam Bang",
+          "Hussam Abubakr",
+          "Emiliano de la Garza Villarreal",
+          "Truc Phuong Nguyen",
+          "Austin Harris"
+        ],
+        "summary": "Urban intersections are among the most hazardous locations in road networks, posing significant risks to vehicles and vulnerable road users (VRUs) such as pedestrians and cyclists. The complexity of multi-agent interactions demands continuous, real-time monitoring systems capable of anticipating con",
+        "url": "http://arxiv.org/abs/2607.16156v1",
+        "pdf": "https://arxiv.org/pdf/2607.16156v1",
+        "published": "2026-07-17",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Learning Standard Model structure from LHC data with Riemannian flow matching",
+        "authors": [
+          "Midori Kato",
+          "Kevin A. Urquía-Calderón",
+          "Inar Timiryasov",
+          "Oleg Ruchayskiy"
+        ],
+        "summary": "In this work we demonstrate that a single transformer-based generative model can capture Standard Model structure spanning five decades of invariant mass, from the sub-GeV regime to the TeV continuum, a range that no single Monte Carlo sample covers. To achieve this we design \\textsc{ShellFlow}, a R",
+        "url": "http://arxiv.org/abs/2607.16144v1",
+        "pdf": "https://arxiv.org/pdf/2607.16144v1",
+        "published": "2026-07-17",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Improving Improved Kernel PLS",
+        "authors": [
+          "Ole-Christian Galbo Engstrøm"
+        ],
+        "summary": "Improved Kernel Partial Least Squares (IKPLS) algorithms 1 and 2 are among the fastest PLS calibration algorithms. This article focuses on two shared steps, the computation of the $\\mathbf{X}$ rotations, $\\mathbf{R}$, and the $\\mathbf{Y}$ loadings, $\\mathbf{Q}$, and accelerates both. For $\\mathbf{R}",
+        "url": "http://arxiv.org/abs/2607.16138v1",
+        "pdf": "https://arxiv.org/pdf/2607.16138v1",
+        "published": "2026-07-17",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
