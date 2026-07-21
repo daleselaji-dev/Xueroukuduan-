@@ -1,0 +1,648 @@
+{
+  "date": "2026-07-21",
+  "generated": "2026-07-21T05:21:58.281803",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Fei-Away/Codex-Dream-Skin",
+        "description": "Codex Dream Skin",
+        "stars": 11188,
+        "language": "JavaScript",
+        "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+        "created": "2026-07-15"
+      },
+      {
+        "rank": 2,
+        "name": "tandpfun/wardrobe",
+        "description": "Your clothes, extracted and organized with gpt-image.",
+        "stars": 1225,
+        "language": "JavaScript",
+        "url": "https://github.com/tandpfun/wardrobe",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 3,
+        "name": "hoainho/img2threejs",
+        "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+        "stars": 1126,
+        "language": "Python",
+        "url": "https://github.com/hoainho/img2threejs",
+        "created": "2026-07-15"
+      },
+      {
+        "rank": 4,
+        "name": "lopopolo/harness-engineering",
+        "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+        "stars": 896,
+        "language": "Python",
+        "url": "https://github.com/lopopolo/harness-engineering",
+        "created": "2026-07-18"
+      },
+      {
+        "rank": 5,
+        "name": "nethical6/conversation-steganography",
+        "description": "Use LLMs to hide messages inside normal looking conversations",
+        "stars": 884,
+        "language": "Go",
+        "url": "https://github.com/nethical6/conversation-steganography",
+        "created": "2026-07-17"
+      },
+      {
+        "rank": 6,
+        "name": "pablostanley/yoinks",
+        "description": "yoink any video from your terminal. no shady ads.",
+        "stars": 883,
+        "language": "TypeScript",
+        "url": "https://github.com/pablostanley/yoinks",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 7,
+        "name": "Blueturboguy07/cue",
+        "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+        "stars": 669,
+        "language": "JavaScript",
+        "url": "https://github.com/Blueturboguy07/cue",
+        "created": "2026-07-15"
+      },
+      {
+        "rank": 8,
+        "name": "v-modal/vmodal_sdk_flutter",
+        "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+        "stars": 623,
+        "language": "Dart",
+        "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 9,
+        "name": "xiejunjie524/handdraw-story-video",
+        "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+        "stars": 523,
+        "language": "Python",
+        "url": "https://github.com/xiejunjie524/handdraw-story-video",
+        "created": "2026-07-18"
+      },
+      {
+        "rank": 10,
+        "name": "pyang5166/gbro-collage-broll",
+        "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+        "stars": 493,
+        "language": "Python",
+        "url": "https://github.com/pyang5166/gbro-collage-broll",
+        "created": "2026-07-15"
+      },
+      {
+        "rank": 11,
+        "name": "EthanXiang777/circuit-framework",
+        "description": "Circuit Framework — multi-agent LLM trading research system",
+        "stars": 486,
+        "language": "Python",
+        "url": "https://github.com/EthanXiang777/circuit-framework",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 12,
+        "name": "MIgHTy-alIeN/Trading-Bot",
+        "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+        "stars": 467,
+        "language": "Solidity",
+        "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+        "created": "2026-07-17"
+      },
+      {
+        "rank": 13,
+        "name": "Icex0/wp2shell-poc",
+        "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+        "stars": 429,
+        "language": "Python",
+        "url": "https://github.com/Icex0/wp2shell-poc",
+        "created": "2026-07-17"
+      },
+      {
+        "rank": 14,
+        "name": "JustinGamer191/Holo",
+        "description": "",
+        "stars": 383,
+        "language": "Swift",
+        "url": "https://github.com/JustinGamer191/Holo",
+        "created": "2026-07-17"
+      },
+      {
+        "rank": 15,
+        "name": "yuwen-cool/yuwen-publish-precheck",
+        "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+        "stars": 359,
+        "language": "Python",
+        "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+        "created": "2026-07-15"
+      },
+      {
+        "rank": 16,
+        "name": "PromptPartner/agentsmith",
+        "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+        "stars": 315,
+        "language": "Shell",
+        "url": "https://github.com/PromptPartner/agentsmith",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 17,
+        "name": "thesysdev/appless",
+        "description": "What if your phone had no apps",
+        "stars": 302,
+        "language": "TypeScript",
+        "url": "https://github.com/thesysdev/appless",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 18,
+        "name": "my-take-dev/inspired-mino-design-skills",
+        "description": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル",
+        "stars": 295,
+        "language": "Shell",
+        "url": "https://github.com/my-take-dev/inspired-mino-design-skills",
+        "created": "2026-07-15"
+      },
+      {
+        "rank": 19,
+        "name": "thebuggeddev/football-stadium",
+        "description": "A 3D football stadium to visualize where you sit in the seat before you buy it",
+        "stars": 292,
+        "language": "HTML",
+        "url": "https://github.com/thebuggeddev/football-stadium",
+        "created": "2026-07-17"
+      },
+      {
+        "rank": 20,
+        "name": "smixs/pohuy",
+        "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+        "stars": 291,
+        "language": null,
+        "url": "https://github.com/smixs/pohuy",
+        "created": "2026-07-17"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Automated Discovery Has No Universally Superior Harness",
+        "authors": [
+          "Akshat Gupta",
+          "Jermaine Lei",
+          "Alexander Lu",
+          "Gopala Anumanchipalli",
+          "Leshem Choshen"
+        ],
+        "summary": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about archives, parent selection, exploration, and budget allocation into a single recipe. Because discovery",
+        "url": "http://arxiv.org/abs/2607.18235v1",
+        "pdf": "https://arxiv.org/pdf/2607.18235v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
+        "authors": [
+          "Yi Tang",
+          "Xinyi Shang",
+          "Jiacheng Cui",
+          "Sondos Mahmoud Bsharat",
+          "Jiacheng Liu"
+        ],
+        "summary": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cross-model and out-of-distribution shifts. This work studies domain generalization for pixel-level im",
+        "url": "http://arxiv.org/abs/2607.18230v1",
+        "pdf": "https://arxiv.org/pdf/2607.18230v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
+        "authors": [
+          "Brian K Chen"
+        ],
+        "summary": "To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exactly labeled syllogistic reasoning benchmark while keeping the model fixed. Soft prefixes are opaque continuous vectors, so we characterize them through the behavior they induce across controlled vari",
+        "url": "http://arxiv.org/abs/2607.18228v1",
+        "pdf": "https://arxiv.org/pdf/2607.18228v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis",
+        "authors": [
+          "Naoto Usuyama",
+          "Jeya Maria Jose Valanarasu",
+          "Sicong Yao",
+          "Hanwen Xu",
+          "Jaspreet Bagga"
+        ],
+        "summary": "Foundation models have emerged as a driving force in computational pathology, with the potential to transform cancer diagnosis, prognosis, and treatment selection by learning transferable representations from large-scale histopathology data. A growing landscape of pathology foundation models now spa",
+        "url": "http://arxiv.org/abs/2607.18218v1",
+        "pdf": "https://arxiv.org/pdf/2607.18218v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Learning Adaptive Safety Margins for Visual Navigation",
+        "authors": [
+          "Junyi Hu",
+          "Shuaihang Yuan",
+          "Geeta Chandra Raju Bethala",
+          "Anthony Tzes",
+          "Yi Fang"
+        ],
+        "summary": "Robots in cluttered indoor spaces often fail not because they cannot generate collision-free paths, but because a fixed safety margin is mis-calibrated: conservative margins cause detours and timeouts, while permissive margins lead to near-boundary shortcuts under perception bias. Diffusion-based pl",
+        "url": "http://arxiv.org/abs/2607.18200v1",
+        "pdf": "https://arxiv.org/pdf/2607.18200v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "A Continual Validation, Updating, and Decision-Making Framework for Self-Adaptive Digital Twins via Robust Model Predictive Control: A Case Study in Additive Manufacturing",
+        "authors": [
+          "Yi-Ping Chen",
+          "Ying-Kuan Tsai",
+          "Vispi Karkaria",
+          "Seul Lee",
+          "Daniel Apley"
+        ],
+        "summary": "Digital Twins rely on surrogate models to mirror physical systems in real time, yet these models can degrade as operating conditions evolve, a phenomenon known as concept drift. Maintaining surrogate fidelity under drift, particularly when models must also capture aleatoric uncertainty, remains an o",
+        "url": "http://arxiv.org/abs/2607.18164v1",
+        "pdf": "https://arxiv.org/pdf/2607.18164v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "OR Else: A Differentiable Trust Region for Policy Optimization",
+        "authors": [
+          "Chinmay Rane",
+          "Kanishka Tyagi",
+          "Michael Manry"
+        ],
+        "summary": "PPO and the GRPO baseline studied here use clipped surrogate objectives whose favorable-direction saturation introduces an abrupt change in the scalar objective's derivative. We ask whether Output Reset (OR), a smooth one-sided saturation rule, offers a useful alternative for large language model po",
+        "url": "http://arxiv.org/abs/2607.18163v1",
+        "pdf": "https://arxiv.org/pdf/2607.18163v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "TRIM: Reducing AI-Generated CodeSlop via Agent Trajectory Minimization",
+        "authors": [
+          "Alex Mathai",
+          "Shobini Iyer",
+          "Aleksandr Nogikh",
+          "Petros Maniatis",
+          "Franjo Ivancic"
+        ],
+        "summary": "Coding agents are increasingly used to accelerate code generation in many downstream tasks, such as fixing bugs, building applications, and prototyping. However, despite their value as coding assistants, agent-generated code tends to be larger and more verbose than the corresponding human-written im",
+        "url": "http://arxiv.org/abs/2607.18161v1",
+        "pdf": "https://arxiv.org/pdf/2607.18161v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Differentiable Logic Gate Networks for Low-Latency EEG Classification on Edge Devices",
+        "authors": [
+          "Shyamal Y. Dharia",
+          "Stephen D. Smith",
+          "Camilo E. Valderrama"
+        ],
+        "summary": "Real-time EEG classification on edge devices is bottlenecked by the floating-point arithmetic of conventional neural networks. We investigated Differentiable Logic Gate Networks (Diff-Logic) as a hardware-native alternative that compiles models into pure Boolean circuits executable via bitwise CPU o",
+        "url": "http://arxiv.org/abs/2607.18149v1",
+        "pdf": "https://arxiv.org/pdf/2607.18149v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications",
+        "authors": [
+          "Daniela Rojas",
+          "Abdulwahab Albassam",
+          "Aidan G. Leung",
+          "Jett Ngo",
+          "Ryan Luo"
+        ],
+        "summary": "Large language models (LLMs) and agentic AI systems have evolved from natural language tasks to using external tools to plan, retrieve, and act in technical domains. In smart grids, recent work applies agentic schemes to forecasting, optimization, and control, wrapping trusted solvers behind languag",
+        "url": "http://arxiv.org/abs/2607.18147v1",
+        "pdf": "https://arxiv.org/pdf/2607.18147v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints",
+        "authors": [
+          "Thomas MacDougall",
+          "Maksim Kuznetsov",
+          "Roman Schutski",
+          "Rim Shayakhmetov",
+          "Maxim Malkov"
+        ],
+        "summary": "Structure-based drug design (SBDD) leverages the 3D structure of protein targets, often complemented by other spatial constraints, to generate candidate binding molecules. While diffusion models have dominated as a leading paradigm for high-quality 3D molecule generation, LLM-based methods are rapid",
+        "url": "http://arxiv.org/abs/2607.18144v1",
+        "pdf": "https://arxiv.org/pdf/2607.18144v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning",
+        "authors": [
+          "Mei Yuan",
+          "Qi Long",
+          "Qifeng Wu",
+          "Zhenyang Li",
+          "Yizhou Zhao"
+        ],
+        "summary": "Industrial Video Anomaly Detection (IVAD) aims to identify anomalous objects and events in an industrial process, which is crucial for modern manufacturing and quality control systems. Existing VLM-based anomaly reasoning methods are capable of detecting open-ended anomalies in general domains. Howe",
+        "url": "http://arxiv.org/abs/2607.18142v1",
+        "pdf": "https://arxiv.org/pdf/2607.18142v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "SGA: Plug&Play Geometric Verification for Educational Video Synthesis",
+        "authors": [
+          "Lopez Jhon",
+          "Hinojosa Carlos",
+          "Ghanem Bernard"
+        ],
+        "summary": "Recent work leverages Large Language Models (LLMs) to generate executable code for pedagogical animations using libraries such as Manim. However, ensuring spatial correctness and visual legibility remains challenging, as existing frameworks emphasize pedagogical content while overlooking geometric o",
+        "url": "http://arxiv.org/abs/2607.18116v1",
+        "pdf": "https://arxiv.org/pdf/2607.18116v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs?",
+        "authors": [
+          "Prakhar Gupta",
+          "Terry Jingchen Zhang",
+          "Florent Draye",
+          "Bernhard Schölkopf",
+          "Zhijing Jin"
+        ],
+        "summary": "Modern LLMs are alarmingly susceptible to surprisingly simple immaterial changes of input prompts: a casual hint, an incorrectly labeled few-shot example, or a fake prior assistant turn often flips an originally correct answer. We study where this susceptibility, spanning sycophancy and related cue-",
+        "url": "http://arxiv.org/abs/2607.18114v1",
+        "pdf": "https://arxiv.org/pdf/2607.18114v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering",
+        "authors": [
+          "Sheldon Yu",
+          "Tong Yu",
+          "Xunyi Jiang",
+          "Rohan Surana",
+          "Gagan Mundada"
+        ],
+        "summary": "Extended reasoning has become standard for frontier Large Language Models (LLMs), yet the trajectories these models produce remain largely uncontrollable. Existing methods for shaping how a model reasons are prompt based approaches and operate at the input level, offering no fine-grained control ove",
+        "url": "http://arxiv.org/abs/2607.18100v1",
+        "pdf": "https://arxiv.org/pdf/2607.18100v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Judge-dependent safety gains and model-specific helpfulness costs of evidence-sufficiency prompting in clinical LLMs",
+        "authors": [
+          "Koyar Afrasyab"
+        ],
+        "summary": "Background: LLM judges increasingly score whether clinical language models give overconfident answers under incomplete evidence, yet whether a measured \"safety gain\" reflects real behavior change or the judge's calibration is unresolved. Using a structured evidence-sufficiency prompt as a test case,",
+        "url": "http://arxiv.org/abs/2607.18086v1",
+        "pdf": "https://arxiv.org/pdf/2607.18086v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "WorldCupArena: Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting",
+        "authors": [
+          "Zhaokai Wang",
+          "Tianlin Gui",
+          "Jiayuan Rao",
+          "Shangzhe Di",
+          "Yihong Tang"
+        ],
+        "summary": "Predicting a football match before kickoff requires more than knowing past results: a model must use changing information and make a clear prediction before the answer is available. We present WorldCupArena, a dynamic benchmark for language models and deep-research agents. The 2026 FIFA World Cup is",
+        "url": "http://arxiv.org/abs/2607.18084v1",
+        "pdf": "https://arxiv.org/pdf/2607.18084v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Enhancing Rubric-based RL via Self-Distillation",
+        "authors": [
+          "Mingxuan Xia",
+          "Yuhang Yang",
+          "Chao Ye",
+          "Shuai Zhu",
+          "Shenzhi Yang"
+        ],
+        "summary": "Rubric-based RL has recently shown promise in improving LLMs on open-ended tasks. A widely recognized limitation of rubric-based RL is limited exploration: criteria that no rollout manages to satisfy (Unexplored Criteria, UC) receive no optimization signal. Recent methods address this by incorporati",
+        "url": "http://arxiv.org/abs/2607.18082v1",
+        "pdf": "https://arxiv.org/pdf/2607.18082v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "SelectInfer: Selective Neuron Loading and Computation for On-Device LLMs",
+        "authors": [
+          "Huzaifa Shaaban Kabakibo",
+          "Eric Schniedermeyer",
+          "Artem Burchanow",
+          "Lin Wang"
+        ],
+        "summary": "Large Language Models (LLMs) have demonstrated remarkable capabilities across a range of Natural Language Processing (NLP) tasks, but their high computational and memory demands pose significant challenges for deployment on resource-constrained edge devices. Existing approaches to model compression ",
+        "url": "http://arxiv.org/abs/2607.18081v1",
+        "pdf": "https://arxiv.org/pdf/2607.18081v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection",
+        "authors": [
+          "Haochen Zhao",
+          "Yongxiu Xu",
+          "Xinkui Lin",
+          "Dong Xie",
+          "Jiarui Lu"
+        ],
+        "summary": "Multimodal video misinformation detection is commonly formulated as a holistic video-understanding task, where the entire video and its associated content are processed and judged in a single pass. However, real-world misinformation often exhibits a sparse and compositional evidence structure: a rel",
+        "url": "http://arxiv.org/abs/2607.18080v1",
+        "pdf": "https://arxiv.org/pdf/2607.18080v1",
+        "published": "2026-07-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
+        "authors": [
+          "Sheng-Yu Wang",
+          "Yotam Nitzan",
+          "Aaron Hertzmann",
+          "Jun-Yan Zhu",
+          "Eli Shechtman"
+        ],
+        "summary": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances into a single scalar value, offering no mechanism to condition on specific aspects. To bridge this g",
+        "url": "http://arxiv.org/abs/2607.18237v1",
+        "pdf": "https://arxiv.org/pdf/2607.18237v1",
+        "published": "2026-07-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+        "authors": [
+          "Gaoyue Zhou",
+          "Zichen Jeff Cui",
+          "Ada Langford",
+          "Bowen Tan",
+          "Yann LeCun"
+        ],
+        "summary": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global token, or rely on visual backbones trained from scratch, sacrificing both fine-grained spatial deta",
+        "url": "http://arxiv.org/abs/2607.18236v1",
+        "pdf": "https://arxiv.org/pdf/2607.18236v1",
+        "published": "2026-07-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Causal Discovery on Irregular Time Series",
+        "authors": [
+          "Martim Penim",
+          "Ricardo Ribeiro Pereira",
+          "Jacopo Bono",
+          "Hugo Ferreira",
+          "Mário A. T. Figueiredo"
+        ],
+        "summary": "Causal discovery methods have shown strong performance in temporal systems, but they typically rely on regular and discrete lag structures, limiting their applicability to regularly sampled data. However, many real-world tasks require dealing with irregularly sampled streams of events, such as senso",
+        "url": "http://arxiv.org/abs/2607.18226v1",
+        "pdf": "https://arxiv.org/pdf/2607.18226v1",
+        "published": "2026-07-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
+        "authors": [
+          "Masahiro Kato",
+          "Taka Kato"
+        ],
+        "summary": "We propose one-step and two-step methods for policy learning with retrieval-augmented generation (RAG). We formulate RAG-based action selection under the potential outcome framework. In the two-step method, vector search retrieves action-specific neighboring evidence in an embedding space, the gener",
+        "url": "http://arxiv.org/abs/2607.18225v1",
+        "pdf": "https://arxiv.org/pdf/2607.18225v1",
+        "published": "2026-07-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Unveiling Invariant and Transferable Latent Factors Across Heterogeneous Environments via ATLAS",
+        "authors": [
+          "Yihong Gu",
+          "Katherine Liao",
+          "Tianxi Cai"
+        ],
+        "summary": "This paper considers a multi-environment factor model in which high-dimensional covariates are collected from heterogeneous environments, with auxiliary labels available in a subset of these environments. The joint distribution of the covariates may vary across environments, whereas the latent struc",
+        "url": "http://arxiv.org/abs/2607.18209v1",
+        "pdf": "https://arxiv.org/pdf/2607.18209v1",
+        "published": "2026-07-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning",
+        "authors": [
+          "Hang Zhang",
+          "Warren J. Gross"
+        ],
+        "summary": "Not all training samples contribute equally to large language model fine-tuning. Selecting informative training samples can reduce the computational cost while preserving downstream performance. Many existing data selection methods rely on indirect heuristics, such as data quality, diversity or reas",
+        "url": "http://arxiv.org/abs/2607.18199v1",
+        "pdf": "https://arxiv.org/pdf/2607.18199v1",
+        "published": "2026-07-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Three-Body Scattering for Generative Modeling",
+        "authors": [
+          "Peng Sun",
+          "Zhenglin Cheng",
+          "Deyuan Liu",
+          "Jun Xie",
+          "Xinyi Shang"
+        ],
+        "summary": "Modern generative models typically rely on an adversarial critic, a prescribed noise-to-data path, or an autoregressive factorization. Instead, we show that a proper distributional energy can induce sample-level motion and provide direct regression supervision for a one-step generator. Three-Body Sc",
+        "url": "http://arxiv.org/abs/2607.18198v1",
+        "pdf": "https://arxiv.org/pdf/2607.18198v1",
+        "published": "2026-07-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Certified Training for Convolutional Perturbations",
+        "authors": [
+          "Benedikt Brückner",
+          "Alessio Lomuscio"
+        ],
+        "summary": "Vision models have been found to be susceptible to perturbations such as motion blur induced at runtime by a shaking camera. This impedes their deployment in critical applications since phenomena such as slightly blurred vision might lead to failures, for example an object detector missing objects. ",
+        "url": "http://arxiv.org/abs/2607.18195v1",
+        "pdf": "https://arxiv.org/pdf/2607.18195v1",
+        "published": "2026-07-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 29,
+        "title": "EVOLVE: Efficient Learned Volume Compression with Variable-Rate Encoding on a Cross-Domain Database",
+        "authors": [
+          "Kaiyuan Tang",
+          "Maizhe Yang",
+          "Chaoli Wang"
+        ],
+        "summary": "Large-scale scientific simulations generate volumetric data at rates that far outpace advances in storage and network bandwidth, making effective lossy compression increasingly critical. However, conventional compressors often struggle to preserve fine structural details at high compression ratios (",
+        "url": "http://arxiv.org/abs/2607.18187v1",
+        "pdf": "https://arxiv.org/pdf/2607.18187v1",
+        "published": "2026-07-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 30,
+        "title": "FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications",
+        "authors": [
+          "Krish Agarwal",
+          "Zhuoming Chen",
+          "Yanyuan Qin",
+          "Zhenyu Gu",
+          "Atri Rudra"
+        ],
+        "summary": "Real-time multimodal applications, including voice agents and interactive video generation, compose heterogeneous models into pipelines whose efficient deployment requires application-specific decisions about placement, streaming, and intra-model parallelism. Existing serving systems and auto-parall",
+        "url": "http://arxiv.org/abs/2607.18171v1",
+        "pdf": "https://arxiv.org/pdf/2607.18171v1",
+        "published": "2026-07-20",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
