@@ -1,0 +1,570 @@
+{
+  "date": "2026-07-22",
+  "generated": "2026-07-22T05:20:49.024005",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "lopopolo/harness-engineering",
+        "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+        "stars": 1760,
+        "language": "Python",
+        "url": "https://github.com/lopopolo/harness-engineering",
+        "created": "2026-07-18"
+      },
+      {
+        "rank": 2,
+        "name": "tandpfun/wardrobe",
+        "description": "Your clothes, extracted and organized with gpt-image.",
+        "stars": 1291,
+        "language": "JavaScript",
+        "url": "https://github.com/tandpfun/wardrobe",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 3,
+        "name": "pablostanley/yoinks",
+        "description": "yoink any video from your terminal. no shady ads.",
+        "stars": 972,
+        "language": "TypeScript",
+        "url": "https://github.com/pablostanley/yoinks",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 4,
+        "name": "nethical6/conversation-steganography",
+        "description": "Use LLMs to hide messages inside normal looking conversations",
+        "stars": 917,
+        "language": "Go",
+        "url": "https://github.com/nethical6/conversation-steganography",
+        "created": "2026-07-17"
+      },
+      {
+        "rank": 5,
+        "name": "v-modal/vmodal_sdk_flutter",
+        "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+        "stars": 789,
+        "language": "Dart",
+        "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 6,
+        "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+        "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+        "stars": 739,
+        "language": "Solidity",
+        "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+        "created": "2026-07-17"
+      },
+      {
+        "rank": 7,
+        "name": "Blaizzy/nativ",
+        "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+        "stars": 656,
+        "language": "Swift",
+        "url": "https://github.com/Blaizzy/nativ",
+        "created": "2026-07-20"
+      },
+      {
+        "rank": 8,
+        "name": "xiejunjie524/handdraw-story-video",
+        "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+        "stars": 598,
+        "language": "Python",
+        "url": "https://github.com/xiejunjie524/handdraw-story-video",
+        "created": "2026-07-18"
+      },
+      {
+        "rank": 9,
+        "name": "EthanXiang777/circuit-framework",
+        "description": "Circuit Framework — multi-agent LLM trading research system",
+        "stars": 487,
+        "language": "Python",
+        "url": "https://github.com/EthanXiang777/circuit-framework",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 10,
+        "name": "smixs/pohuy",
+        "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+        "stars": 472,
+        "language": null,
+        "url": "https://github.com/smixs/pohuy",
+        "created": "2026-07-17"
+      },
+      {
+        "rank": 11,
+        "name": "Icex0/wp2shell-poc",
+        "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+        "stars": 468,
+        "language": "Python",
+        "url": "https://github.com/Icex0/wp2shell-poc",
+        "created": "2026-07-17"
+      },
+      {
+        "rank": 12,
+        "name": "Vincentwei1021/video-shotcraft",
+        "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+        "stars": 454,
+        "language": "TypeScript",
+        "url": "https://github.com/Vincentwei1021/video-shotcraft",
+        "created": "2026-07-19"
+      },
+      {
+        "rank": 13,
+        "name": "JustinGamer191/Holo",
+        "description": "",
+        "stars": 410,
+        "language": "Swift",
+        "url": "https://github.com/JustinGamer191/Holo",
+        "created": "2026-07-17"
+      },
+      {
+        "rank": 14,
+        "name": "powerycy/goutoujunshi",
+        "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+        "stars": 377,
+        "language": "Python",
+        "url": "https://github.com/powerycy/goutoujunshi",
+        "created": "2026-07-20"
+      },
+      {
+        "rank": 15,
+        "name": "mesamirh/MovieBox-Tui",
+        "description": "A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.",
+        "stars": 370,
+        "language": "Rust",
+        "url": "https://github.com/mesamirh/MovieBox-Tui",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 16,
+        "name": "KinetiNode/claude-fable-5-system-prompt-clean",
+        "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM",
+        "stars": 352,
+        "language": null,
+        "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+        "created": "2026-07-19"
+      },
+      {
+        "rank": 17,
+        "name": "thesysdev/appless",
+        "description": "What if your phone had no apps",
+        "stars": 317,
+        "language": "TypeScript",
+        "url": "https://github.com/thesysdev/appless",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 18,
+        "name": "thebuggeddev/football-stadium",
+        "description": "A 3D football stadium to visualize where you sit in the seat before you buy it",
+        "stars": 316,
+        "language": "HTML",
+        "url": "https://github.com/thebuggeddev/football-stadium",
+        "created": "2026-07-17"
+      },
+      {
+        "rank": 19,
+        "name": "PromptPartner/agentsmith",
+        "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+        "stars": 314,
+        "language": "Shell",
+        "url": "https://github.com/PromptPartner/agentsmith",
+        "created": "2026-07-16"
+      },
+      {
+        "rank": 20,
+        "name": "yc-duan/fastctx",
+        "description": "Fast, context-efficient repository tools for AI agents (MCP)",
+        "stars": 288,
+        "language": "Rust",
+        "url": "https://github.com/yc-duan/fastctx",
+        "created": "2026-07-17"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
+        "authors": [
+          "Lizhe Fang",
+          "Weizhou Shen",
+          "Tianyi Tang",
+          "Yisen Wang"
+        ],
+        "summary": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. However, we identify a critical failure mode in this regime: \\emph{repetitive copying}, where models ",
+        "url": "http://arxiv.org/abs/2607.19345v1",
+        "pdf": "https://arxiv.org/pdf/2607.19345v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
+        "authors": [
+          "Rahul Sajnani",
+          "Yulia Gryaditskaya",
+          "Radomír Měch",
+          "Srinath Sridhar",
+          "Matheus Gadelha"
+        ],
+        "summary": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reliably achieved through text prompting alone. Diffusion Transformers (DiTs) can natively ingest hetero",
+        "url": "http://arxiv.org/abs/2607.19344v1",
+        "pdf": "https://arxiv.org/pdf/2607.19344v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
+        "authors": [
+          "Qijia He",
+          "Jiayi Cheng",
+          "Chenqian Le",
+          "Rui Wang",
+          "Xunmei Liu"
+        ],
+        "summary": "Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat such failures as cascade decisions: try a cheap model first, then escalate hard cases to a stronger an",
+        "url": "http://arxiv.org/abs/2607.19338v1",
+        "pdf": "https://arxiv.org/pdf/2607.19338v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Agents in the Wild: Where Research Meets Deployment",
+        "authors": [
+          "Grace Hui Yang",
+          "Pranav N. Venkit",
+          "Hooman Sedghamiz",
+          "Enrico Santus",
+          "Victor Dibia"
+        ],
+        "summary": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes to production scale deployments across domains such as software engineering, scientific discovery, an",
+        "url": "http://arxiv.org/abs/2607.19336v1",
+        "pdf": "https://arxiv.org/pdf/2607.19336v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Provable diffusion-based posterior sampling for linear inverse problems via DDIM",
+        "authors": [
+          "Yuchen Jiao",
+          "Na Li",
+          "Changxiao Cai",
+          "Yuxin Chen",
+          "Gen Li"
+        ],
+        "summary": "Diffusion-based methods have achieved remarkable empirical success in solving inverse problems. However, many existing posterior samplers either lack rigorous theoretical guarantees or incur substantial computational overhead. We propose a simple and efficient algorithm, called \\pddim, for solving l",
+        "url": "http://arxiv.org/abs/2607.19333v1",
+        "pdf": "https://arxiv.org/pdf/2607.19333v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "ISO: An RLVR-Native Optimization Stack",
+        "authors": [
+          "Hanqing Zhu",
+          "Wenyan Cong",
+          "Zhizhou Sha",
+          "Sagnik Mukherjee",
+          "Xinyuan Song"
+        ],
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) is rapidly advancing the reasoning capabilities of language models, yet the optimization layer that converts reward feedback into weight-space updates remains poorly understood. Building on our prior analysis (Zhu et al., 2025), we study this mis",
+        "url": "http://arxiv.org/abs/2607.19331v1",
+        "pdf": "https://arxiv.org/pdf/2607.19331v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Associative Emotional Learning in Convolutional Neural Networks",
+        "authors": [
+          "Seowung Leem",
+          "Andreas Keil",
+          "Mingzhou Ding",
+          "Ruogu Fang"
+        ],
+        "summary": "Associative emotional learning enables organisms to adaptively link pleasant or unpleasant outcomes to the presence of predictive stimuli. Whereas computational models such as the Rescorla-Wagner model have shed light on this important function, the limitations of these models are also known, especi",
+        "url": "http://arxiv.org/abs/2607.19327v1",
+        "pdf": "https://arxiv.org/pdf/2607.19327v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D",
+        "authors": [
+          "Lena Libon",
+          "Ben Rank",
+          "Jehyeok Yeon",
+          "David Schmotz",
+          "Jeremy Qin"
+        ],
+        "summary": "As AI agents begin to automate AI R&D, we need ways to assess whether their outputs are safe to deploy, even when the agents themselves may be untrusted. AI control offers one such approach: rather than trusting the agent, it treats it as a potential adversary and uses a monitor to detect covert sab",
+        "url": "http://arxiv.org/abs/2607.19321v1",
+        "pdf": "https://arxiv.org/pdf/2607.19321v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Off-Context GRPO: Learning to Reason on Hard Problems using Privileged Information",
+        "authors": [
+          "Priyank Agrawal",
+          "Ankur Samanta",
+          "Shervin Ghasemlou",
+          "Jalaj Bhandari",
+          "Kavosh Asadi"
+        ],
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) improves reasoning in large language models. Yet, typical RLVR approaches fail on difficult problems: when a model cannot generate any correct solutions, it receives \\textit{zero} learning signal. Providing privileged guidance during training, su",
+        "url": "http://arxiv.org/abs/2607.19313v1",
+        "pdf": "https://arxiv.org/pdf/2607.19313v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "From Distances to Trajectories: Real-Time Signed Distance Function Mapping and Distance-Accelerated Motion Planning for UAVs",
+        "authors": [
+          "Jason Stanley",
+          "Zhirui Dai",
+          "Qihao Qian",
+          "Tzu-Chin Ho",
+          "Tianxing Fan"
+        ],
+        "summary": "Autonomous flight in cluttered environments requires a robot to build a geometric map of its surroundings and plan safe, dynamically feasible trajectories, all onboard and in real time. Conventional approaches treat mapping and planning as separate stages and often rely on binary occupancy for colli",
+        "url": "http://arxiv.org/abs/2607.19306v1",
+        "pdf": "https://arxiv.org/pdf/2607.19306v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Riemannian Deep Learning:Modules, Networks, and Geometries",
+        "authors": [
+          "Chen Ziheng"
+        ],
+        "summary": "Deep neural networks on manifold-valued representations have attracted growing interest, but many basic components remain tied to specific manifolds, rely on Euclidean approximations, or require costly and numerically fragile geometric operations. This thesis develops a unified framework for Riemann",
+        "url": "http://arxiv.org/abs/2607.19305v1",
+        "pdf": "https://arxiv.org/pdf/2607.19305v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "LLM Detection as an Intervention: Downstream Impact under Strategic User Behavior",
+        "authors": [
+          "Meena Jagadeesan",
+          "Tatsunori Hashimoto",
+          "Jon Kleinberg"
+        ],
+        "summary": "As LLM adoption becomes more widespread, there is a growing interest in detecting LLM-generated content, for example through LLM detection tools and through heuristics based on language patterns. Detectors operate as an intervention that steers not only the detected attribute itself, but also downst",
+        "url": "http://arxiv.org/abs/2607.19300v1",
+        "pdf": "https://arxiv.org/pdf/2607.19300v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Graph-Based Agentic AI with LangGraph: Workflow Pathways for Long-Running Stateful Business Processes",
+        "authors": [
+          "Daniel Pearson",
+          "Sidney Shapiro",
+          "Emiliano Sebastian Gonzalez Venegas",
+          "Sanad Al-Khatib",
+          "Aurora Pinzón Arzola"
+        ],
+        "summary": "This paper is a practitioner guide to graph-based workflow pathways for long-running, stateful, multi-step generative AI systems in business processes. Rather than treating LangGraph, a low-level orchestration framework for stateful agents, as a model-quality benchmark target, we present three execu",
+        "url": "http://arxiv.org/abs/2607.19297v1",
+        "pdf": "https://arxiv.org/pdf/2607.19297v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems",
+        "authors": [
+          "Gjergji Kasneci",
+          "Enkelejda Kasneci"
+        ],
+        "summary": "Current AI safety discourse still focuses disproportionately on visible failures, including obvious harms, dramatic misuse, and hypothetical catastrophic scenarios. That focus is incomplete. In deployed systems, many of the most consequential failures are quieter: plausible rather than spectacular, ",
+        "url": "http://arxiv.org/abs/2607.19292v1",
+        "pdf": "https://arxiv.org/pdf/2607.19292v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "GUIDED Network-Agnostic Feature Initialization for Spatial Transferability in GNN-based Models",
+        "authors": [
+          "Alessandro Scalese",
+          "Santhanakrishnan Narayanan",
+          "Constantinos Antoniou"
+        ],
+        "summary": "The Traffic Assignment Problem is a fundamental but computationally expensive component of transportation planning. While Graph Neural Networks have emerged as fast, data-driven surrogates, their practical deployment is severely constrained by a spatial generalization gap. Standard models rely on tr",
+        "url": "http://arxiv.org/abs/2607.19270v1",
+        "pdf": "https://arxiv.org/pdf/2607.19270v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "They'll Verify. They Just Won't Act. How Authority Framing and Laundered Code Turn a Trusted Agentic CI/CD Pipeline Into an Attack Surface",
+        "authors": [
+          "Yohann Sidot"
+        ],
+        "summary": "We study a five-agent CI/CD pipeline (triage -> developer -> security-scan -> review -> approve/deploy), built from five distinct production LLMs across three providers, behind an LLM firewall in shadow mode. A single untrusted input - an external issue requesting a \"usage-telemetry\" feature - asks ",
+        "url": "http://arxiv.org/abs/2607.19267v1",
+        "pdf": "https://arxiv.org/pdf/2607.19267v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Toward Auditable Fraud Detection: Combining Graph Features, Model Explanations, and Agentic Case Investigation",
+        "authors": [
+          "Rahil Sharma"
+        ],
+        "summary": "Fraud detection systems must scale with rising transaction volume while remaining explainable and reviewable. We study a layered pipeline on the PaySim dataset that combines a gradient-boosted classifier, graph-derived structural features, an autoencoder-based anomaly signal, TreeSHAP explanations, ",
+        "url": "http://arxiv.org/abs/2607.19266v1",
+        "pdf": "https://arxiv.org/pdf/2607.19266v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "BioSecBench-Surveillance: A Verifiable Benchmark for AI Agents in Pathogen Genomic Surveillance",
+        "authors": [
+          "Harmon Bhasin",
+          "Kevin Flyangolts",
+          "Dianzhuo Wang",
+          "Evan Seeyave",
+          "Arjun Banerjee"
+        ],
+        "summary": "As pathogen genomic surveillance scales, the bottleneck is shifting from data generation to analysis. We present BioSecBench-Surveillance, a verifiable benchmark of 100 evaluations testing whether AI agents can infer the right analysis pipeline from raw sequencing data and surveillance context. Each",
+        "url": "http://arxiv.org/abs/2607.19262v1",
+        "pdf": "https://arxiv.org/pdf/2607.19262v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image",
+        "authors": [
+          "Dankai Liao",
+          "Tianyi Zhang",
+          "Yufeng Wu",
+          "Xinyue Zhang",
+          "Qiaochu Xue"
+        ],
+        "summary": "Whole-slide image (WSI) diagnosis requires identifying diagnostically relevant regions, examining them across magnifications, and integrating multi-scale evidence. However, most existing pathology benchmarks evaluate models on pre-cropped patches or pre-extracted slide features, leaving their abilit",
+        "url": "http://arxiv.org/abs/2607.19261v1",
+        "pdf": "https://arxiv.org/pdf/2607.19261v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Benchmarking Generalization in Financial Statement Fraud Detection: robust evaluation and novel tasks",
+        "authors": [
+          "Guy Stephane Waffo Dzuyo",
+          "Gaël Guibon",
+          "Christophe Cerisara",
+          "Luis Belmar-Letelier"
+        ],
+        "summary": "Financial statement fraud detection (FSFD) is crucial for market integrity but faces challenges from increasingly sophisticated schemes and under-utilized textual data in financial reports. Existing methods often rely on random data splits, leading to overoptimistic performance estimates that do not",
+        "url": "http://arxiv.org/abs/2607.19259v1",
+        "pdf": "https://arxiv.org/pdf/2607.19259v1",
+        "published": "2026-07-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "1-Lipschitz Neural Networks on Hadamard Manifolds",
+        "authors": [
+          "Davide Murari",
+          "Marta Ghirardelli",
+          "Ben Adcock",
+          "Elena Celledoni",
+          "Brynjulf Owren"
+        ],
+        "summary": "Controlling the Lipschitz constant of a neural network is a standard way to promote robustness and stability. Most existing constraining strategies are designed for Euclidean spaces. In this work, we construct and analyze a class of 1-Lipschitz neural networks on Hadamard manifolds. Our layers are o",
+        "url": "http://arxiv.org/abs/2607.19335v1",
+        "pdf": "https://arxiv.org/pdf/2607.19335v1",
+        "published": "2026-07-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Fundamental limits of distributed multiclass classification from simple binary decisions",
+        "authors": [
+          "Ioannis Papageorgiou",
+          "Srinivas Nomula",
+          "Ayalvadi Ganesh",
+          "Sidharth Jaggi",
+          "Parimal Parag"
+        ],
+        "summary": "We consider the problem of constructing a $K$-class classifier from the combination of $O(\\log K)$ simple binary classifiers -- this is a natural paradigm to construct a sophisticated classifier in a distributed manner with each agent performing a relatively straightforward task. We study the fundam",
+        "url": "http://arxiv.org/abs/2607.19334v1",
+        "pdf": "https://arxiv.org/pdf/2607.19334v1",
+        "published": "2026-07-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling",
+        "authors": [
+          "Chirag Vashist",
+          "Ke Li"
+        ],
+        "summary": "Generative models have undergone many generations of evolution, from VAEs/GANs to diffusion/flow matching. Along the way, the underlying techniques have become more complicated and various beliefs about what drives strong empirical performance have taken hold. Due to the success of diffusion models ",
+        "url": "http://arxiv.org/abs/2607.19332v1",
+        "pdf": "https://arxiv.org/pdf/2607.19332v1",
+        "published": "2026-07-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "CircuitKIT : Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Interpretability",
+        "authors": [
+          "Pratinav Seth",
+          "Hem Gosalia",
+          "Aditya Kasliwal",
+          "Vinay Kumar Sankarapu"
+        ],
+        "summary": "Circuit analysis can support not only model explanation but also downstream interventions such as pruning, editing, steering, and selective fine-tuning. However, conducting such analyses currently requires stitching together separate implementations for discovery, evaluation, and intervention, as we",
+        "url": "http://arxiv.org/abs/2607.19317v1",
+        "pdf": "https://arxiv.org/pdf/2607.19317v1",
+        "published": "2026-07-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Staypoint Detection from Noisy Trajectory Data [Experiment Paper]",
+        "authors": [
+          "Lance Kennedy",
+          "Hossein Amiri",
+          "Yueyang Liu",
+          "Riyang Bao",
+          "Hanqi Chen"
+        ],
+        "summary": "Detecting staypoints from raw trajectory data is fundamental to numerous spatial computing applications. This process transforms raw numeric sequences of geolocations into semantically meaningful locations, such as homes, workplaces, or restaurants. Despite its importance for semantic trajectory ana",
+        "url": "http://arxiv.org/abs/2607.19312v1",
+        "pdf": "https://arxiv.org/pdf/2607.19312v1",
+        "published": "2026-07-21",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
