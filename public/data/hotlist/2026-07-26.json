@@ -1,0 +1,537 @@
+{
+  "date": "2026-07-26",
+  "generated": "2026-07-26T05:33:46.325013",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "andrewyng/openworker",
+        "description": "",
+        "stars": 5317,
+        "language": "Python",
+        "url": "https://github.com/andrewyng/openworker",
+        "created": "2026-07-20"
+      },
+      {
+        "rank": 2,
+        "name": "Jakubantalik/thinking-orbs",
+        "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+        "stars": 1028,
+        "language": "TypeScript",
+        "url": "https://github.com/Jakubantalik/thinking-orbs",
+        "created": "2026-07-21"
+      },
+      {
+        "rank": 3,
+        "name": "slvDev/esp32-ai",
+        "description": "",
+        "stars": 898,
+        "language": "Python",
+        "url": "https://github.com/slvDev/esp32-ai",
+        "created": "2026-07-23"
+      },
+      {
+        "rank": 4,
+        "name": "powerycy/goutoujunshi",
+        "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+        "stars": 890,
+        "language": "Python",
+        "url": "https://github.com/powerycy/goutoujunshi",
+        "created": "2026-07-20"
+      },
+      {
+        "rank": 5,
+        "name": "Blaizzy/nativ",
+        "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+        "stars": 886,
+        "language": "Swift",
+        "url": "https://github.com/Blaizzy/nativ",
+        "created": "2026-07-20"
+      },
+      {
+        "rank": 6,
+        "name": "pireel/pireel",
+        "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+        "stars": 756,
+        "language": "TypeScript",
+        "url": "https://github.com/pireel/pireel",
+        "created": "2026-07-20"
+      },
+      {
+        "rank": 7,
+        "name": "mikiarlo3/ai-copywriter",
+        "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+        "stars": 643,
+        "language": "Python",
+        "url": "https://github.com/mikiarlo3/ai-copywriter",
+        "created": "2026-07-24"
+      },
+      {
+        "rank": 8,
+        "name": "gnipbao/story-to-handdrawn-video",
+        "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+        "stars": 632,
+        "language": "JavaScript",
+        "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+        "created": "2026-07-21"
+      },
+      {
+        "rank": 9,
+        "name": "CatsJuice/sticker-forge",
+        "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+        "stars": 577,
+        "language": "JavaScript",
+        "url": "https://github.com/CatsJuice/sticker-forge",
+        "created": "2026-07-20"
+      },
+      {
+        "rank": 10,
+        "name": "zeus-panel/ZEUS-PANEL",
+        "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+        "stars": 545,
+        "language": "JavaScript",
+        "url": "https://github.com/zeus-panel/ZEUS-PANEL",
+        "created": "2026-07-20"
+      },
+      {
+        "rank": 11,
+        "name": "0xhype/hyperliquid-tracker",
+        "description": "Get notified when big trades happen on Hyperliquid.",
+        "stars": 510,
+        "language": "TypeScript",
+        "url": "https://github.com/0xhype/hyperliquid-tracker",
+        "created": "2026-07-21"
+      },
+      {
+        "rank": 12,
+        "name": "Charles-0509/Grok-Register",
+        "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
+        "stars": 462,
+        "language": "Go",
+        "url": "https://github.com/Charles-0509/Grok-Register",
+        "created": "2026-07-20"
+      },
+      {
+        "rank": 13,
+        "name": "berabuddies/redis-poc",
+        "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
+        "stars": 420,
+        "language": "Python",
+        "url": "https://github.com/berabuddies/redis-poc",
+        "created": "2026-07-22"
+      },
+      {
+        "rank": 14,
+        "name": "AdelanSoulX/PM-Sniper",
+        "description": "",
+        "stars": 411,
+        "language": "Python",
+        "url": "https://github.com/AdelanSoulX/PM-Sniper",
+        "created": "2026-07-20"
+      },
+      {
+        "rank": 15,
+        "name": "AdelanSupport/adelan-support",
+        "description": "",
+        "stars": 408,
+        "language": "Python",
+        "url": "https://github.com/AdelanSupport/adelan-support",
+        "created": "2026-07-21"
+      },
+      {
+        "rank": 16,
+        "name": "Kritt-ai/open-kritt",
+        "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+        "stars": 394,
+        "language": "JavaScript",
+        "url": "https://github.com/Kritt-ai/open-kritt",
+        "created": "2026-07-20"
+      },
+      {
+        "rank": 17,
+        "name": "melloworchid8rr6g/TG-Polymarket-bot",
+        "description": "Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
+        "stars": 390,
+        "language": "JavaScript",
+        "url": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot",
+        "created": "2026-07-24"
+      },
+      {
+        "rank": 18,
+        "name": "dacnay816y62-hub/cinema-dna-21x9x3",
+        "description": "高级感电影画面生成",
+        "stars": 350,
+        "language": null,
+        "url": "https://github.com/dacnay816y62-hub/cinema-dna-21x9x3",
+        "created": "2026-07-20"
+      },
+      {
+        "rank": 19,
+        "name": "mikehasa/agentacct",
+        "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+        "stars": 334,
+        "language": "Python",
+        "url": "https://github.com/mikehasa/agentacct",
+        "created": "2026-07-24"
+      },
+      {
+        "rank": 20,
+        "name": "realfishsam/agent-notch",
+        "description": "The open-source alternative to vibe-island",
+        "stars": 274,
+        "language": "Swift",
+        "url": "https://github.com/realfishsam/agent-notch",
+        "created": "2026-07-21"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
+        "authors": [
+          "Wenhao Li",
+          "Xueying Jiang",
+          "Quanhao Qian",
+          "Deli Zhao",
+          "Ran Xu"
+        ],
+        "summary": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances the 3D spatial aware",
+        "url": "http://arxiv.org/abs/2607.21595v1",
+        "pdf": "https://arxiv.org/pdf/2607.21595v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "GraphVid: Interactive Graph-Controllable Video Generation",
+        "authors": [
+          "Vedant Shah",
+          "Onkar Susladkar",
+          "Tushar Prakash",
+          "Kiet Nguyen",
+          "Tianjio Yu"
+        ],
+        "summary": "Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movement. In practice, trajectory-based control often requires users to draw accurate tracks for multiple",
+        "url": "http://arxiv.org/abs/2607.21580v1",
+        "pdf": "https://arxiv.org/pdf/2607.21580v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
+        "authors": [
+          "Dawei Li",
+          "Xiaotian Jiang",
+          "Mingyi Hong"
+        ],
+        "summary": "Barzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question is whether BB converges superlinearly for almost every strictly convex quadratic problem and initializ",
+        "url": "http://arxiv.org/abs/2607.21579v1",
+        "pdf": "https://arxiv.org/pdf/2607.21579v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Synthetic data generation framework for quality control automation in gravure printing",
+        "authors": [
+          "Korota Arsène Coulibaly",
+          "Mohamed Hamlich",
+          "Khalid Hmali",
+          "Andrea Trombin"
+        ],
+        "summary": "Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-quality standards in rotogravure printing. Deep learning models give prospects for automation. Howev",
+        "url": "http://arxiv.org/abs/2607.21577v1",
+        "pdf": "https://arxiv.org/pdf/2607.21577v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
+        "authors": [
+          "Hongnan Ma",
+          "Yiwei Shi",
+          "Mengyue Yang",
+          "Weiru Liu"
+        ],
+        "summary": "Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However, existing sufficiency-oriented methods can assign high importance to spurious subsequences that suppor",
+        "url": "http://arxiv.org/abs/2607.21573v1",
+        "pdf": "https://arxiv.org/pdf/2607.21573v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana",
+        "authors": [
+          "T. Ansah-Narh",
+          "Y. Asare Afrane"
+        ],
+        "summary": "A consensus anomaly detection framework was applied to monthly malaria surveillance data from Ghana (2014-2023) to identify atypical transmission patterns. Anomalies were highly structured in space and time. Ashanti and Northern Regions accounted for most recurrent anomalies, with persistent hotspot",
+        "url": "http://arxiv.org/abs/2607.21559v1",
+        "pdf": "https://arxiv.org/pdf/2607.21559v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning",
+        "authors": [
+          "Baihui Wang",
+          "Bernard Koch"
+        ],
+        "summary": "Building socially calibrated large language models, which can learn from others without simply yielding to them, requires more than reducing sycophancy as a one-dimensional failure mode. Models must distinguish when to incorporate others' perspectives from when to maintain a well-grounded moral judg",
+        "url": "http://arxiv.org/abs/2607.21558v1",
+        "pdf": "https://arxiv.org/pdf/2607.21558v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
+        "authors": [
+          "Xiao Yu",
+          "Baolin Peng",
+          "Ruize Xu",
+          "Hao Zou",
+          "Qianhui Wu"
+        ],
+        "summary": "Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex harnesses also make agents hard to train end-to-end with open infrastructure, whose SFT/RL stacks can",
+        "url": "http://arxiv.org/abs/2607.21557v1",
+        "pdf": "https://arxiv.org/pdf/2607.21557v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Visual Contrastive Self-Distillation",
+        "authors": [
+          "Yijun Liang",
+          "Yunjie Tian",
+          "Yijiang Li",
+          "Yuqi Jia",
+          "Furong Huang"
+        ],
+        "summary": "On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to ensure that the self-teacher provides a stronger learning signal than the student. Existing methods cr",
+        "url": "http://arxiv.org/abs/2607.21556v1",
+        "pdf": "https://arxiv.org/pdf/2607.21556v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "MIRROR: Learning from the Other View for Multi-Modal Reasoning",
+        "authors": [
+          "Wen Ye",
+          "Yuxiao Qu",
+          "Aviral Kumar",
+          "Xuezhe Ma"
+        ],
+        "summary": "Unlike large language models (LLMs) that exhibit strong reasoning capabilities, vision-language models (VLMs) struggle with visual reasoning, even on geometry problems that admit equivalent text, diagram, and combined diagram+text views. We show that these views often elicit different behaviors: a m",
+        "url": "http://arxiv.org/abs/2607.21552v1",
+        "pdf": "https://arxiv.org/pdf/2607.21552v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "The Boundaries of Automation: A Theory of Persistent Human Participation",
+        "authors": [
+          "Fares Fourati",
+          "Hinrich Schütze",
+          "Eyke Hüllermeier",
+          "Iryna Gurevych"
+        ],
+        "summary": "The rapid progress of AI has intensified the long-standing pursuit of automation: replacing human participation with algorithms wherever possible. Implicit in this pursuit is the assumption that humans remain in the loop only because current AI systems are not yet sufficiently capable. This paper ch",
+        "url": "http://arxiv.org/abs/2607.21547v1",
+        "pdf": "https://arxiv.org/pdf/2607.21547v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "From Resource Flow to Executable Tests: Petri-Net-Guided LLM Test Generation for Concurrent Stateful Rust APIs",
+        "authors": [
+          "Kaiwen Zhang",
+          "Guanjun Liu"
+        ],
+        "summary": "Concurrent stateful library APIs expose behavior through evolving resource ownership, lifecycle states, and competing interleavings. Large language models can synthesize executable Rust tests, but their outputs often violate API preconditions, remain shallow, or reduce concurrency to accidental sequ",
+        "url": "http://arxiv.org/abs/2607.21530v1",
+        "pdf": "https://arxiv.org/pdf/2607.21530v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "ElasticTTT: Prior-Preserving Test-Time Tuning for Video Editing",
+        "authors": [
+          "Yueyi Liu",
+          "Chi Zhang",
+          "Sen Cui",
+          "Miao Liu"
+        ],
+        "summary": "Test-Time Tuning (TTT) on pretrained diffusion models has emerged as a powerful paradigm for video editing. However, there exists a foundational mismatch between the distribution-mapping nature of generative models and the single-point optimization of standard TTT. In this paper, we demonstrate that",
+        "url": "http://arxiv.org/abs/2607.21529v1",
+        "pdf": "https://arxiv.org/pdf/2607.21529v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "GS-Agent: Creating 4D Physical Worlds With Generative Simulation",
+        "authors": [
+          "Hongxin Zhang",
+          "Chunru Lin",
+          "Junyan Li",
+          "Zhou Xian",
+          "Tsun-Hsuan Wang"
+        ],
+        "summary": "Creating dynamic and physically realistic 4D worlds from natural language descriptions is both fascinating and challenging. Traditional computer graphics methods rely on manual creation, requiring extensive human effort to fine-tune materials, motions, and visual fidelity. Recent advances in generat",
+        "url": "http://arxiv.org/abs/2607.21522v1",
+        "pdf": "https://arxiv.org/pdf/2607.21522v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation",
+        "authors": [
+          "Linjun Li"
+        ],
+        "summary": "Even a current high-capability LLM can appear safer when shown a dangerous objective directly than when other agents transform and relay its direction. Using OpenAI's gpt-5.6-sol model alias, we test 25 pre-specified mirrored trade-off profiles. Direct exposure to an objective authorizing concealmen",
+        "url": "http://arxiv.org/abs/2607.21518v1",
+        "pdf": "https://arxiv.org/pdf/2607.21518v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Improved lower bounds for the Shannon capacity of odd cycles",
+        "authors": [
+          "Nathaniel Itty",
+          "Christopher D. Rosin",
+          "Chase Carstensen",
+          "Daniel Reichman"
+        ],
+        "summary": "The Shannon capacity $Θ(G)$ of a graph $G$ quantifies the maximum rate at which information can be transmitted with zero error over a noisy channel. It is lower bounded by $α(G^d)^{1/d}$ for any $d$, where $α(G^d)$ is the independence number of the $d$-th strong power of $G$. We construct independen",
+        "url": "http://arxiv.org/abs/2607.21517v1",
+        "pdf": "https://arxiv.org/pdf/2607.21517v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
+        "authors": [
+          "Gaurav Dadhich"
+        ],
+        "summary": "Production AI agents' failures are less often due to an inability to reason well and more often because they cannot manage what is in their reasoning context: conversation histories, large prompts, large tool definitions, and ballooning tool outputs. Agents drown in their own accumulating history wh",
+        "url": "http://arxiv.org/abs/2607.21503v1",
+        "pdf": "https://arxiv.org/pdf/2607.21503v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it",
+        "authors": [
+          "Federico Boggia"
+        ],
+        "summary": "A rhetorical figure that Cicero and Quintilian catalogued two thousand years ago reappears, systematically, in the text of large language models: epanorthosis, the self-correction of the specimen «This is not a course. It is a journey of transformation». This essay argues that the overuse is a train",
+        "url": "http://arxiv.org/abs/2607.21498v1",
+        "pdf": "https://arxiv.org/pdf/2607.21498v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Toward Continuous Assurance for the Democratization of AI Agent Creation in Industry",
+        "authors": [
+          "Natan Levy",
+          "Harel Berger"
+        ],
+        "summary": "AI agents are increasingly created inside organizations by non-engineering users through low-code, no-code, and conversational development environments. This democratization enables rapid local innovation, but it also creates a reliability gap: agents that appear to users as simple productivity arti",
+        "url": "http://arxiv.org/abs/2607.21495v1",
+        "pdf": "https://arxiv.org/pdf/2607.21495v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections",
+        "authors": [
+          "Gil Lifshits",
+          "Igal Bilik",
+          "Gilad Katz"
+        ],
+        "summary": "Coordinating autonomous vehicles at unsignalized intersections remains a critical challenge for multi-agent reinforcement learning (MARL) systems, which typically struggle with combinatorial action spaces, reliance on privileged information, or rigid agent designs. We propose Master-Agent Proto-plan",
+        "url": "http://arxiv.org/abs/2607.21488v1",
+        "pdf": "https://arxiv.org/pdf/2607.21488v1",
+        "published": "2026-07-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Expanding Flow Maps",
+        "authors": [
+          "Sophia Tang",
+          "Pranam Chatterjee"
+        ],
+        "summary": "Flow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed dimensions or fixed sequence lengths. Here, we introduce Expanding Generative Flows (EFlows), which d",
+        "url": "http://arxiv.org/abs/2607.21585v1",
+        "pdf": "https://arxiv.org/pdf/2607.21585v1",
+        "published": "2026-07-23",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling",
+        "authors": [
+          "Aaron Feller",
+          "Kris Deibler",
+          "Maxim Secor"
+        ],
+        "summary": "Molecular property prediction from structure often uses a single representative conformation, even though many molecules exist as conformational ensembles in solution. We introduce EnsembleEGNN, a molecular ensemble foundation model that encodes an ensemble by first encoding each conformer with shar",
+        "url": "http://arxiv.org/abs/2607.21561v1",
+        "pdf": "https://arxiv.org/pdf/2607.21561v1",
+        "published": "2026-07-23",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "X$^3$-OPD: Distilling Reasoning into Large Audio-Language Models via On-Policy Alignment",
+        "authors": [
+          "Dongjie Fu",
+          "Di Cao",
+          "Xize Cheng",
+          "Zihan Zhang",
+          "Wenxu Jia"
+        ],
+        "summary": "While large audio-language models have achieved remarkable progress in auditory perception, they still lag behind text-based large language models in deep logical reasoning, primarily due to the scarcity of high-quality audio reasoning data. To bridge this gap, we propose X$^3$-OPD, a cross-modal on",
+        "url": "http://arxiv.org/abs/2607.21550v1",
+        "pdf": "https://arxiv.org/pdf/2607.21550v1",
+        "published": "2026-07-23",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Neural solutions of coupled ghost and gluon Dyson--Schwinger equations in Landau gauge",
+        "authors": [
+          "Rodrigo Carmo Terin"
+        ],
+        "summary": "The coupled ghost and gluon Dyson--Schwinger equations (DSEs) of four-dimensional Landau-gauge Yang--Mills (YM) theory are solved with a neural representation trained only from renormalized equation residuals. The neural and fixed-point solutions agree at the percent level and remain stable under ch",
+        "url": "http://arxiv.org/abs/2607.21548v1",
+        "pdf": "https://arxiv.org/pdf/2607.21548v1",
+        "published": "2026-07-23",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
