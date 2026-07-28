@@ -1,0 +1,596 @@
+{
+  "date": "2026-07-28",
+  "generated": "2026-07-28T05:16:25.000198",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "MoonshotAI/Kimi-K3",
+        "description": "Open Frontier Intelligence",
+        "stars": 2146,
+        "language": null,
+        "url": "https://github.com/MoonshotAI/Kimi-K3",
+        "created": "2026-07-27"
+      },
+      {
+        "rank": 2,
+        "name": "vercel-labs/scriptc",
+        "description": "TypeScript-to-Native Compiler",
+        "stars": 1852,
+        "language": "TypeScript",
+        "url": "https://github.com/vercel-labs/scriptc",
+        "created": "2026-07-22"
+      },
+      {
+        "rank": 3,
+        "name": "slvDev/esp32-ai",
+        "description": "",
+        "stars": 1805,
+        "language": "Python",
+        "url": "https://github.com/slvDev/esp32-ai",
+        "created": "2026-07-23"
+      },
+      {
+        "rank": 4,
+        "name": "mshumer/Claude-of-Duty",
+        "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+        "stars": 1068,
+        "language": "JavaScript",
+        "url": "https://github.com/mshumer/Claude-of-Duty",
+        "created": "2026-07-25"
+      },
+      {
+        "rank": 5,
+        "name": "kvcache-ai/AgentENV",
+        "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+        "stars": 963,
+        "language": "Rust",
+        "url": "https://github.com/kvcache-ai/AgentENV",
+        "created": "2026-07-23"
+      },
+      {
+        "rank": 6,
+        "name": "mikiarlo3/ai-copywriter",
+        "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+        "stars": 952,
+        "language": "Python",
+        "url": "https://github.com/mikiarlo3/ai-copywriter",
+        "created": "2026-07-24"
+      },
+      {
+        "rank": 7,
+        "name": "makecindy/cindy",
+        "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "stars": 897,
+        "language": "TypeScript",
+        "url": "https://github.com/makecindy/cindy",
+        "created": "2026-07-22"
+      },
+      {
+        "rank": 8,
+        "name": "VictorTaelin/OptMem",
+        "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+        "stars": 666,
+        "language": "Python",
+        "url": "https://github.com/VictorTaelin/OptMem",
+        "created": "2026-07-25"
+      },
+      {
+        "rank": 9,
+        "name": "MoonshotAI/MoonEP",
+        "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+        "stars": 583,
+        "language": "Python",
+        "url": "https://github.com/MoonshotAI/MoonEP",
+        "created": "2026-07-24"
+      },
+      {
+        "rank": 10,
+        "name": "0xwilliamortiz/openclaude-improved",
+        "description": "runs anywhere. uses anything",
+        "stars": 577,
+        "language": "TypeScript",
+        "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+        "created": "2026-07-26"
+      },
+      {
+        "rank": 11,
+        "name": "mikehasa/agentacct",
+        "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+        "stars": 497,
+        "language": "Python",
+        "url": "https://github.com/mikehasa/agentacct",
+        "created": "2026-07-24"
+      },
+      {
+        "rank": 12,
+        "name": "berabuddies/redis-poc",
+        "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
+        "stars": 456,
+        "language": "Python",
+        "url": "https://github.com/berabuddies/redis-poc",
+        "created": "2026-07-22"
+      },
+      {
+        "rank": 13,
+        "name": "didriksg/Crisp",
+        "description": "Free, open-source macOS alternative to BetterDisplay and Lunar: a lightweight menu bar app with sharp HiDPI/Retina scaling for external monitors (no more blurry or tiny text), plus brightness (DDC), v",
+        "stars": 431,
+        "language": "Swift",
+        "url": "https://github.com/didriksg/Crisp",
+        "created": "2026-07-22"
+      },
+      {
+        "rank": 14,
+        "name": "danilo-znamerovszkij/draw-your-font",
+        "description": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
+        "stars": 411,
+        "language": "JavaScript",
+        "url": "https://github.com/danilo-znamerovszkij/draw-your-font",
+        "created": "2026-07-22"
+      },
+      {
+        "rank": 15,
+        "name": "rustyharbor308774/Ethereum-bot",
+        "description": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.",
+        "stars": 358,
+        "language": "Solidity",
+        "url": "https://github.com/rustyharbor308774/Ethereum-bot",
+        "created": "2026-07-25"
+      },
+      {
+        "rank": 16,
+        "name": "XYZ-AI-Lab/axrl",
+        "description": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
+        "stars": 350,
+        "language": "Python",
+        "url": "https://github.com/XYZ-AI-Lab/axrl",
+        "created": "2026-07-23"
+      },
+      {
+        "rank": 17,
+        "name": "RongleCat/grok-app",
+        "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
+        "stars": 349,
+        "language": "TypeScript",
+        "url": "https://github.com/RongleCat/grok-app",
+        "created": "2026-07-23"
+      },
+      {
+        "rank": 18,
+        "name": "AARomanov1985/Audio-Cassette-Simulation",
+        "description": "This project simulates cassette tape audio profiles using ffmpeg",
+        "stars": 346,
+        "language": "Shell",
+        "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+        "created": "2026-07-22"
+      },
+      {
+        "rank": 19,
+        "name": "XYZ-AI-Lab/AxisAgentic",
+        "description": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents.",
+        "stars": 293,
+        "language": "Python",
+        "url": "https://github.com/XYZ-AI-Lab/AxisAgentic",
+        "created": "2026-07-23"
+      },
+      {
+        "rank": 20,
+        "name": "Eversmile12/leaked-llm-prompts",
+        "description": "collections-of-leaked-prompts",
+        "stars": 293,
+        "language": null,
+        "url": "https://github.com/Eversmile12/leaked-llm-prompts",
+        "created": "2026-07-24"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+        "authors": [
+          "Hangjie Yuan",
+          "Yichen Qian",
+          "Zhiwei Tang",
+          "Xianzhe Xu",
+          "Lirong Wu"
+        ],
+        "summary": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must align with",
+        "url": "http://arxiv.org/abs/2607.24743v1",
+        "pdf": "https://arxiv.org/pdf/2607.24743v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
+        "authors": [
+          "Bingnan Li",
+          "Haozhe Wang",
+          "Haozhong Xiong",
+          "Fangtai Wu",
+          "Jinpeng Yu"
+        ],
+        "summary": "On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default component of modern diffusion systems, remains poorly understood. Existing OPD methods naturally ex",
+        "url": "http://arxiv.org/abs/2607.24731v1",
+        "pdf": "https://arxiv.org/pdf/2607.24731v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
+        "authors": [
+          "Krithi Shailya",
+          "Ananya Lakshmi Ravi",
+          "Venkatanathan K. V.",
+          "Sowmya S. Sundaram",
+          "Gokul S. Krishnan"
+        ],
+        "summary": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are increasingly paired with Vision-Language Models (VLMs) to generate natural-language explanations. Howeve",
+        "url": "http://arxiv.org/abs/2607.24730v1",
+        "pdf": "https://arxiv.org/pdf/2607.24730v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
+        "authors": [
+          "Tianyi Men",
+          "Zhuoran Jin",
+          "Kang Liu",
+          "Jun Zhao"
+        ],
+        "summary": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how planning ability is acquired, shaped, and integrated. To address ",
+        "url": "http://arxiv.org/abs/2607.24720v1",
+        "pdf": "https://arxiv.org/pdf/2607.24720v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data",
+        "authors": [
+          "Zhen Huang",
+          "Yikun Wang",
+          "Shijie Xia",
+          "Pengfei Liu"
+        ],
+        "summary": "Pretraining data processing is critical to the downstream performance of Large Language Models (LLMs). However, many existing approaches define a fixed processing strategy at the corpus or domain level and apply it uniformly to many examples, without adapting to the needs of each example. We propose",
+        "url": "http://arxiv.org/abs/2607.24717v1",
+        "pdf": "https://arxiv.org/pdf/2607.24717v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Efficient LLM-Generated Shuttling Compilers for Complex Trapped-Ion Architectures",
+        "authors": [
+          "Fabian Kreppel",
+          "Reza Salkhordeh",
+          "Ferdinand Schmidt-Kaler",
+          "André Brinkmann"
+        ],
+        "summary": "Trapped-ion quantum computers rely on shuttling compilers, which cast an input algorithm into a sequence of ion-qubit movements within a given architecture. We present the first study in which a single frontier large language model (LLM), Claude Opus 4.7, generates and iteratively refines the full P",
+        "url": "http://arxiv.org/abs/2607.24714v1",
+        "pdf": "https://arxiv.org/pdf/2607.24714v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams",
+        "authors": [
+          "Ali Ansari",
+          "Yasmin Mohammadi",
+          "Farnoush Nili",
+          "Parsa Esmaeilkhani",
+          "Longin Jan Latecki"
+        ],
+        "summary": "Entity-Relationship Diagrams (ERDs) are central to conceptual database design, yet they are typically available only as rendered images rather than machine-readable schemas, limiting AI-assisted database engineering. We introduce ERUnderstand, the first large-scale benchmark for structured understan",
+        "url": "http://arxiv.org/abs/2607.24707v1",
+        "pdf": "https://arxiv.org/pdf/2607.24707v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines",
+        "authors": [
+          "Jhonatan Tavori",
+          "Gur-Eyal Sela",
+          "Ion Stoica",
+          "Gil Zussman"
+        ],
+        "summary": "Inference systems increasingly combine a fast path that returns predictions within the application's latency deadline together with a higher-accuracy slow path that runs higher-compute methods on stronger, remote hardware, so its results can be returned on time and combined with the fast path predic",
+        "url": "http://arxiv.org/abs/2607.24692v1",
+        "pdf": "https://arxiv.org/pdf/2607.24692v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification",
+        "authors": [
+          "Francisco Mena",
+          "Dino Ienco",
+          "Roberto Interdonato",
+          "Cassio F. Dantas",
+          "Simon Besnard"
+        ],
+        "summary": "Multi-modal classification leverages complementary information across diverse data sources to enhance predictive performance. However, real-world scenarios subject to operational constraints, such as sensor failures or privacy restrictions, lead to inconsistent modality availability between training",
+        "url": "http://arxiv.org/abs/2607.24683v1",
+        "pdf": "https://arxiv.org/pdf/2607.24683v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating",
+        "authors": [
+          "Maruthi Vemula",
+          "Neeraj Praneeth Gajula"
+        ],
+        "summary": "A language model with a bounded working memory must repeatedly decide which stored items to keep. Every deployed method decides the moment an item arrives, from the past (StreamingLLM, H2O) or from a guess about the future (SnapKV). We recast the choice as an estimation problem on a hidden signal, w",
+        "url": "http://arxiv.org/abs/2607.24667v1",
+        "pdf": "https://arxiv.org/pdf/2607.24667v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility",
+        "authors": [
+          "Rajat Sainju",
+          "Dariusz Jarosz",
+          "Hairong Shang",
+          "Michael Prince",
+          "Ryan M. Aydelott"
+        ],
+        "summary": "Scientific user facilities accumulate decades of operational knowledge that no single search index covers: electronic logbooks, technical documents, internal wikis, operations chat messages, maintenance records, and live control-system data. We present APS-RAG, Advanced Photon Source Retrieval Augme",
+        "url": "http://arxiv.org/abs/2607.24663v1",
+        "pdf": "https://arxiv.org/pdf/2607.24663v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Reason-Mediated Behavioral Models for Auditing LLM Social Simulators",
+        "authors": [
+          "Atharva Pandey",
+          "Gautam Jajoo"
+        ],
+        "summary": "Large language models are increasingly used as social simulators, including as synthetic survey respondents. Most evaluations ask whether simulated outcomes resemble human outcomes. We argue that this is necessary but too weak: a simulator can match the final answer while using the wrong rationale-d",
+        "url": "http://arxiv.org/abs/2607.24649v1",
+        "pdf": "https://arxiv.org/pdf/2607.24649v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Efficiency Matters in Autonomous Research",
+        "authors": [
+          "Haiqian Yang",
+          "Yuan Cao"
+        ],
+        "summary": "AI-driven autonomous research (AR) systems are becoming increasingly effective across a broad range of tasks. Their performance, however, is still evaluated primarily by the quality of the final outcome. In this paper, we argue that the efficiency of the solution-search process is an equally importa",
+        "url": "http://arxiv.org/abs/2607.24647v1",
+        "pdf": "https://arxiv.org/pdf/2607.24647v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Sparse Autoencoders Encode Both Concepts and Functions: The Downstream Geometry of Feature Effects",
+        "authors": [
+          "Phu Gia Hoang",
+          "Anwoy Chatterjee",
+          "Tanmoy Chakraborty",
+          "Iryna Gurevych",
+          "Subhabrata Dutta"
+        ],
+        "summary": "The wide-scale use of sparse autoencoders (SAEs) as interpretability tools is limited by inconsistent links between SAE features and model behavior. Features with clear activation descriptions may have weak or unexpected causal effects; steering can vary across prompts or oppose the intended directi",
+        "url": "http://arxiv.org/abs/2607.24645v1",
+        "pdf": "https://arxiv.org/pdf/2607.24645v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents",
+        "authors": [
+          "Arseny Kravchenko",
+          "Vadim Liventsev",
+          "Innokentii Konstantinov",
+          "Ildar Iskhakov",
+          "Matvey Kukuy"
+        ],
+        "summary": "Autonomous LLM agents processing mixed-confidentiality data face severe security risks from prompt injection attacks and reasoning errors. While dynamic Information Flow Control (IFC) provides structural security guarantees, traditional taint tracking permanently taints an agent's context upon readi",
+        "url": "http://arxiv.org/abs/2607.24625v1",
+        "pdf": "https://arxiv.org/pdf/2607.24625v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Looping Is Not Reliability: State-Bound Evidence and Typed Revision Contracts for Agentic Code Repair",
+        "authors": [
+          "Xueping Gao",
+          "Jianwei Yang",
+          "Qiang Yang"
+        ],
+        "summary": "Generate--test--revise loops are common in coding agents, but repetition alone provides no reliability guarantee. We study the gap between finding a correct patch and retaining, verifying, and submitting it. A sealed five-seed study over 30 HumanEval repairs produces 900 three-revision trajectories.",
+        "url": "http://arxiv.org/abs/2607.24604v1",
+        "pdf": "https://arxiv.org/pdf/2607.24604v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Evaluating the Impact of Explainable AI on Trust in AI-Assisted Code Review",
+        "authors": [
+          "Zhenhan Gao",
+          "Marvin Muñoz Barón",
+          "Umm-e Habiba",
+          "Daniel Graziotin",
+          "Stefan Wagner"
+        ],
+        "summary": "Background: Large language models (LLMs) are increasingly used to automate code review, but the reasoning behind their decisions remains hard to understand. Developers struggle to assess the validity of LLM-generated reviews, making it difficult to gauge how much trust to place in them. The role of ",
+        "url": "http://arxiv.org/abs/2607.24601v1",
+        "pdf": "https://arxiv.org/pdf/2607.24601v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Artificial Intelligence and Innovation Ecosystem: Evolutionary Developments, Challenges, and Future Directions",
+        "authors": [
+          "Zhimin Zhang",
+          "Chengzhen Ma",
+          "Jia Chai",
+          "Rongxin Zhan",
+          "Huansheng Ning"
+        ],
+        "summary": "The development of the Innovative Ecosystem (IE) presents a new paradigm for economic integration, collaborative advancement, and shared achievements. The rise of Artificial Intelligence (AI) has significantly accelerated the global processes of digitization, informatization, and intelligence. Explo",
+        "url": "http://arxiv.org/abs/2607.24589v1",
+        "pdf": "https://arxiv.org/pdf/2607.24589v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "SIREN: Towards End-to-End Extreme-Weather Early Warning with Experience-Grounded LLM Agents",
+        "authors": [
+          "Hang Ni",
+          "Weijia Zhang",
+          "Fan Liu",
+          "Mengqian Lu",
+          "Hao Liu"
+        ],
+        "summary": "Early warning of extreme weather is essential for mitigating the societal, economic, and environmental risks posed by hazardous weather events. However, expert-centered warning workflows are costly, labor-intensive, and difficult to scale throughout the warning-to-action process. Although recent adv",
+        "url": "http://arxiv.org/abs/2607.24588v1",
+        "pdf": "https://arxiv.org/pdf/2607.24588v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "D-Score: A Spectral Hidden-State Signal for Hallucination Detection in Large Language Models",
+        "authors": [
+          "Bianca Raimondi",
+          "Davide Evangelista",
+          "Maurizio Gabbrielli",
+          "Elena Loli Piccolomini"
+        ],
+        "summary": "Large Language Models can produce fluent text that is false, unsupported by the available evidence, or inconsistent with information that appears to be internally represented by the model. We study hallucination detection from the geometry of hidden activations and introduce the D-Score, a simple sp",
+        "url": "http://arxiv.org/abs/2607.24586v1",
+        "pdf": "https://arxiv.org/pdf/2607.24586v1",
+        "published": "2026-07-27",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport",
+        "authors": [
+          "Xinyang Wen"
+        ],
+        "summary": "Dynamic applications, including optimal-transport Flow Matching, repeatedly solve related entropic optimal transport problems, yet conventional distributed Sinkhorn processes frames sequentially and synchronizes after every iteration. We present TemporalSinkhorn, a parallel-in-time executor that bat",
+        "url": "http://arxiv.org/abs/2607.24741v1",
+        "pdf": "https://arxiv.org/pdf/2607.24741v1",
+        "published": "2026-07-27",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Learning Distributions from Multiple Data Providers",
+        "authors": [
+          "Jon Kleinberg",
+          "Amin Saberi",
+          "Xizhi Tan",
+          "Grigoris Velegkas"
+        ],
+        "summary": "Motivated by learning from heterogeneous and overlapping data providers, we study a stylized model of distribution learning from restricted conditional samples. The goal is to learn an unknown distribution $p$ on a finite domain $[n]$. The learner is given a fixed family of queryable sets $\\mathscr{",
+        "url": "http://arxiv.org/abs/2607.24732v1",
+        "pdf": "https://arxiv.org/pdf/2607.24732v1",
+        "published": "2026-07-27",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs",
+        "authors": [
+          "Justin Sirignano",
+          "Konstantinos Spiliopoulos",
+          "Samuel Cohen"
+        ],
+        "summary": "The Deep Galerkin Method (DGM) and Physics Informed Neural Networks (PINNs) have become widely-used methods for solving partial differential equations (PDEs) in the rapidly growing field of scientific machine learning. In these methods, a neural network is trained to approximate the PDE solution by ",
+        "url": "http://arxiv.org/abs/2607.24726v1",
+        "pdf": "https://arxiv.org/pdf/2607.24726v1",
+        "published": "2026-07-27",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Beyond Scale and Generation: Understanding Language Model-based Entity Matching",
+        "authors": [
+          "Zeyu Zhang",
+          "Xue Li",
+          "Iacer Calixto",
+          "Paul Groth",
+          "Sebastian Schelter"
+        ],
+        "summary": "Entity matching identifies records that refer to the same real-world entity. Language models can be adapted to this task through bi-encoder, cross-encoder, and generative matcher architectures. However, prior studies often conflate matcher architecture with differences in model backbone, model varia",
+        "url": "http://arxiv.org/abs/2607.24688v1",
+        "pdf": "https://arxiv.org/pdf/2607.24688v1",
+        "published": "2026-07-27",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Stacking the Deck: Tunable Trainability in Stacked LCUs",
+        "authors": [
+          "Nikhil Khatri",
+          "Stefan Zohren",
+          "Gabriel Matos"
+        ],
+        "summary": "Variational quantum circuits have been central to many proposed near-term applications of quantum computing, but a growing body of evidence suggests that trainability and quantum advantage are fundamentally at odds: ansätze expressive enough to resist efficient classical simulation tend to exhibit b",
+        "url": "http://arxiv.org/abs/2607.24686v1",
+        "pdf": "https://arxiv.org/pdf/2607.24686v1",
+        "published": "2026-07-27",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Causal-TS: A Python Library for Causal Discovery in High-Dimensional and Nonstationary Time Series",
+        "authors": [
+          "Mohammad Fesanghary"
+        ],
+        "summary": "We describe Causal-TS, an open-source Python library for causal discovery in high-dimensional and nonstationary multivariate time series. Causal-TS provides four specialized algorithms-CDNOTS, CDNOTS+, CEDAR, and GRACE-along with wrappers for GES, Granger, LASSO-VAR, and LGES, all sharing a unified ",
+        "url": "http://arxiv.org/abs/2607.24673v1",
+        "pdf": "https://arxiv.org/pdf/2607.24673v1",
+        "published": "2026-07-27",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Explainable Reinforcement Learning via Physics-Aware Policy Distillation",
+        "authors": [
+          "Shaker Al-Tamari",
+          "Waled Kadour"
+        ],
+        "summary": "In safety-critical sectors such as robotics and automotive engineering, the deployment of Deep Reinforcement Learning (DRL) is often hindered by the black-box nature of deep neural networks. This lack of transparency poses significant challenges for regulatory compliance and human-agent trust. This ",
+        "url": "http://arxiv.org/abs/2607.24672v1",
+        "pdf": "https://arxiv.org/pdf/2607.24672v1",
+        "published": "2026-07-27",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
