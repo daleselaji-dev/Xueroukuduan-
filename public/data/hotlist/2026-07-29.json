@@ -1,0 +1,615 @@
+{
+  "date": "2026-07-29",
+  "generated": "2026-07-29T05:23:27.575835",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "MoonshotAI/Kimi-K3",
+        "description": "Open Frontier Intelligence",
+        "stars": 3618,
+        "language": null,
+        "url": "https://github.com/MoonshotAI/Kimi-K3",
+        "created": "2026-07-27"
+      },
+      {
+        "rank": 2,
+        "name": "slvDev/esp32-ai",
+        "description": "",
+        "stars": 2110,
+        "language": "Python",
+        "url": "https://github.com/slvDev/esp32-ai",
+        "created": "2026-07-23"
+      },
+      {
+        "rank": 3,
+        "name": "mshumer/Claude-of-Duty",
+        "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+        "stars": 1862,
+        "language": "JavaScript",
+        "url": "https://github.com/mshumer/Claude-of-Duty",
+        "created": "2026-07-25"
+      },
+      {
+        "rank": 4,
+        "name": "kvcache-ai/AgentENV",
+        "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+        "stars": 1497,
+        "language": "Rust",
+        "url": "https://github.com/kvcache-ai/AgentENV",
+        "created": "2026-07-23"
+      },
+      {
+        "rank": 5,
+        "name": "mikiarlo3/ai-copywriter",
+        "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+        "stars": 997,
+        "language": "Python",
+        "url": "https://github.com/mikiarlo3/ai-copywriter",
+        "created": "2026-07-24"
+      },
+      {
+        "rank": 6,
+        "name": "VictorTaelin/OptMem",
+        "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+        "stars": 822,
+        "language": "Python",
+        "url": "https://github.com/VictorTaelin/OptMem",
+        "created": "2026-07-25"
+      },
+      {
+        "rank": 7,
+        "name": "MoonshotAI/MoonEP",
+        "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+        "stars": 810,
+        "language": "Python",
+        "url": "https://github.com/MoonshotAI/MoonEP",
+        "created": "2026-07-24"
+      },
+      {
+        "rank": 8,
+        "name": "fuadmefleh/Shared-Claude-Chats",
+        "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+        "stars": 751,
+        "language": "Python",
+        "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+        "created": "2026-07-26"
+      },
+      {
+        "rank": 9,
+        "name": "digimata/quill",
+        "description": "Ultraminimalist macOS recording + transcription.",
+        "stars": 630,
+        "language": "Swift",
+        "url": "https://github.com/digimata/quill",
+        "created": "2026-07-24"
+      },
+      {
+        "rank": 10,
+        "name": "0xwilliamortiz/openclaude-improved",
+        "description": "runs anywhere. uses anything",
+        "stars": 584,
+        "language": "TypeScript",
+        "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+        "created": "2026-07-26"
+      },
+      {
+        "rank": 11,
+        "name": "mikehasa/agentacct",
+        "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+        "stars": 520,
+        "language": "Python",
+        "url": "https://github.com/mikehasa/agentacct",
+        "created": "2026-07-24"
+      },
+      {
+        "rank": 12,
+        "name": "XYZ-AI-Lab/axrl",
+        "description": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
+        "stars": 479,
+        "language": "Python",
+        "url": "https://github.com/XYZ-AI-Lab/axrl",
+        "created": "2026-07-23"
+      },
+      {
+        "rank": 13,
+        "name": "0xwilliamortiz/ponytail-improved",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "stars": 475,
+        "language": "JavaScript",
+        "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+        "created": "2026-07-28"
+      },
+      {
+        "rank": 14,
+        "name": "XYZ-AI-Lab/AxisAgentic",
+        "description": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents.",
+        "stars": 385,
+        "language": "Python",
+        "url": "https://github.com/XYZ-AI-Lab/AxisAgentic",
+        "created": "2026-07-23"
+      },
+      {
+        "rank": 15,
+        "name": "RongleCat/grok-app",
+        "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
+        "stars": 368,
+        "language": "TypeScript",
+        "url": "https://github.com/RongleCat/grok-app",
+        "created": "2026-07-23"
+      },
+      {
+        "rank": 16,
+        "name": "daimon3332/OutlookRegister",
+        "description": "Outlook/Hotmail account batch registration tool.                          Outlook / Hotmail 账号批量注册工具，支持自动获取 OAuth2 refresh_token",
+        "stars": 363,
+        "language": "Python",
+        "url": "https://github.com/daimon3332/OutlookRegister",
+        "created": "2026-07-23"
+      },
+      {
+        "rank": 17,
+        "name": "deerwork-ai/deer-workflow",
+        "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+        "stars": 329,
+        "language": "TypeScript",
+        "url": "https://github.com/deerwork-ai/deer-workflow",
+        "created": "2026-07-26"
+      },
+      {
+        "rank": 18,
+        "name": "NikolayS/PGSimCity",
+        "description": "An explorable 3D city that shows how Postgres actually works",
+        "stars": 328,
+        "language": "TypeScript",
+        "url": "https://github.com/NikolayS/PGSimCity",
+        "created": "2026-07-25"
+      },
+      {
+        "rank": 19,
+        "name": "sunny-glow/Auto-BenchMax",
+        "description": "",
+        "stars": 323,
+        "language": "Python",
+        "url": "https://github.com/sunny-glow/Auto-BenchMax",
+        "created": "2026-07-23"
+      },
+      {
+        "rank": 20,
+        "name": "Eversmile12/leaked-llm-prompts",
+        "description": "collections-of-leaked-prompts",
+        "stars": 315,
+        "language": null,
+        "url": "https://github.com/Eversmile12/leaked-llm-prompts",
+        "created": "2026-07-24"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
+        "authors": [
+          "Haolei Xu",
+          "Xiaowen Xu",
+          "Haiwen Hong",
+          "Zixuan Ni",
+          "Hongxing Li"
+        ],
+        "summary": "On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable super",
+        "url": "http://arxiv.org/abs/2607.26057v1",
+        "pdf": "https://arxiv.org/pdf/2607.26057v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "$π\\mathbf{R}^2$: Reactive Real-time Flow Policies",
+        "authors": [
+          "Sungjae Park",
+          "Shubham Tulsiani"
+        ],
+        "summary": "Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input arriving mid-execution, sacrificing \\emph{reactivity}. Replanning more often would restore it, but ",
+        "url": "http://arxiv.org/abs/2607.26055v1",
+        "pdf": "https://arxiv.org/pdf/2607.26055v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?",
+        "authors": [
+          "Abhishek Pillai",
+          "Samir Kumar Nayak",
+          "Yuan Chen"
+        ],
+        "summary": "Computer-use agents (CUAs) increasingly act through desktop GUIs to complete long-horizon tasks. Current benchmarks primarily measure end-task success or single-frame grounding. Neither isolates whether a model can reconstruct the causal, task-relevant transition produced by an action- crucial for r",
+        "url": "http://arxiv.org/abs/2607.26041v1",
+        "pdf": "https://arxiv.org/pdf/2607.26041v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment",
+        "authors": [
+          "Elias Fernández Domingos",
+          "The Anh Han"
+        ],
+        "summary": "Technological races create tension between speed and safety: actors may gain by moving faster than competitors, even when risky development is harmful. This is prominent in debates about artificial intelligence (AI), where competitive pressure is often argued to incentivise riskier, less safety-cons",
+        "url": "http://arxiv.org/abs/2607.26034v1",
+        "pdf": "https://arxiv.org/pdf/2607.26034v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer",
+        "authors": [
+          "Ankang Yang",
+          "Jitao Zhao",
+          "Di Jin",
+          "Yuxiao Huang",
+          "Dongxiao He"
+        ],
+        "summary": "Graph foundation models (GFMs) have emerged as a promising paradigm for transferring knowledge across graph domains and tasks. Real-world graphs associate nodes with text, images, and other modalities, making multimodal graphs essential for representing complex entities and relations. Moreover, coll",
+        "url": "http://arxiv.org/abs/2607.26023v1",
+        "pdf": "https://arxiv.org/pdf/2607.26023v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar",
+        "authors": [
+          "Solomon Micheal Serunjogi",
+          "Rachmad Vidya Wicaksana Putra",
+          "Ayat Taha",
+          "Muhammad Shafique",
+          "Mahmoud Rasras"
+        ],
+        "summary": "Recently, photonic transformer accelerators (PTAs) have successfully achieved significant speedup and energy efficiency improvements over electronic accelerators for expediting Transformer inference. However, state-of-the-art rely on expensive multi-wavelength light generation and large dot-product ",
+        "url": "http://arxiv.org/abs/2607.26016v1",
+        "pdf": "https://arxiv.org/pdf/2607.26016v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Pictura: Perspective-View Self-Play at Scale for Driving",
+        "authors": [
+          "Yuan Yin",
+          "Elias Ramzi",
+          "Marc Lafon",
+          "Valentin Charraut",
+          "Victor Bares"
+        ],
+        "summary": "Self-play in simulation produces robust driving policies at scale. Demonstrations of such behavior have been made using privileged vectorized observations such as exact poses and velocities, even for occluded agents. This assumes that perception is solved and introduces a representation gap with the",
+        "url": "http://arxiv.org/abs/2607.26005v1",
+        "pdf": "https://arxiv.org/pdf/2607.26005v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Empirical Evaluation of Out-Of-Distribution Performance of Tabular Foundation Models",
+        "authors": [
+          "Malena Loza",
+          "David Chushig-Muzo",
+          "Eva Milara",
+          "Luis Bote-Curiel",
+          "Luis Estrada-Petrocelli"
+        ],
+        "summary": "Tabular Foundation Models (TFMs) have emerged as novel approaches for tabular predictive tasks, demonstrating competitive predictive performance to ensemble tree-based models. Most TFMs are trained and evaluated on independent and identically distributed data, but this assumption changes in real-wor",
+        "url": "http://arxiv.org/abs/2607.26000v1",
+        "pdf": "https://arxiv.org/pdf/2607.26000v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?",
+        "authors": [
+          "Farooq Shaikh"
+        ],
+        "summary": "Kubernetes is central to the cloud-native ecosystem, orchestrating containerised workloads. Recent work suggests that large language models (LLMs) can automate cluster security remediation, generating configuration patches from Kubernetes Security Posture Management (KSPM) findings without human aut",
+        "url": "http://arxiv.org/abs/2607.25995v1",
+        "pdf": "https://arxiv.org/pdf/2607.25995v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "MemLens: A Value-Aware Memory Management System with Interactive Analytics for LLM-based Agents",
+        "authors": [
+          "Shuyue Wei",
+          "Chang Liu",
+          "Zimu Zhou",
+          "Yongxin Tong",
+          "Lizhen Cui"
+        ],
+        "summary": "Recently, memory management has become a key infrastructure for LLM-based agents, as it directly affects long-horizon reasoning, personalized responses, and knowledge reuse. However, existing LLM memory systems typically adopt a coarse-grained (utility-agnostic) manner that treats heterogeneous user",
+        "url": "http://arxiv.org/abs/2607.25992v1",
+        "pdf": "https://arxiv.org/pdf/2607.25992v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Reinforcement Learning for Code Optimization",
+        "authors": [
+          "Pierre Chambon",
+          "Kunhao Zheng",
+          "Juliette Decugis",
+          "Benoit Sagot",
+          "Gabriel Synnaeve"
+        ],
+        "summary": "RL for code correctness is now established: have the model generate a program, run it against hidden test cases, and reward solutions that pass. Extending this to code optimization seems straightforward: just add execution time to the reward. But in practice, once timing drives the reward, small pro",
+        "url": "http://arxiv.org/abs/2607.25970v1",
+        "pdf": "https://arxiv.org/pdf/2607.25970v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Knowledge-Guided Multimodal Reasoning over Interacting Streams for Video-Level Ambivalence and Hesitancy Recognition",
+        "authors": [
+          "Podakanti Satyajith Chary",
+          "Barath Parthiban",
+          "Pranesh Velmurugan",
+          "Adeeba Khan",
+          "Nagarajan Ganapathy"
+        ],
+        "summary": "Ambivalence and hesitancy (A/H) are conflicting affective states that precede the delay or abandonment of health behaviour change. Recognition of A/H at the video level is difficult, since the signal arises from disagreement across and within facial, vocal, linguistic, and bodily modalities, and man",
+        "url": "http://arxiv.org/abs/2607.25961v1",
+        "pdf": "https://arxiv.org/pdf/2607.25961v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs",
+        "authors": [
+          "Fanfu Wei",
+          "Thibault Ehrhart",
+          "Raphaël Troncy"
+        ],
+        "summary": "Wikipedia and Wikidata are widely used for information access, LLM pre-training, and retrieval-augmented generation. Their knowledge is deeply connected but scattered across text, tables, and knowledge graphs. This raises a practical question: when these modalities disagree, how can we detect and ex",
+        "url": "http://arxiv.org/abs/2607.25959v1",
+        "pdf": "https://arxiv.org/pdf/2607.25959v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation",
+        "authors": [
+          "Jintao Xu",
+          "Yingzheng Ma",
+          "Jiong Dong",
+          "Yongzhi Qi",
+          "Jianshen Zhang"
+        ],
+        "summary": "Multi-warehouse inventory allocation is typically formulated as a mixed-integer programming (MIP) problem, yet no single formulation consistently matches heterogeneous instance-level regimes induced by demand concentration, inventory imbalance, replenishment scale, service constraints, and forecast ",
+        "url": "http://arxiv.org/abs/2607.25956v1",
+        "pdf": "https://arxiv.org/pdf/2607.25956v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "MODUS: Decoder-Only Any-to-Any Modeling of Diverse Modalities",
+        "authors": [
+          "Mingqiao Ye",
+          "Zhaochong An",
+          "Zhitong Gao",
+          "Xian Liu",
+          "François Fleuret"
+        ],
+        "summary": "Any-to-any models predict any modality from any combination of others within a single network, a formulation used in multimodal vision and vision-language models, and increasingly in scientific domains such as ecology and astronomy. Existing any-to-any models are typically trained from scratch using",
+        "url": "http://arxiv.org/abs/2607.25948v1",
+        "pdf": "https://arxiv.org/pdf/2607.25948v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series",
+        "authors": [
+          "Frank Nie",
+          "Ethan B Liu",
+          "Yuan Zhu",
+          "Wei Fan",
+          "Jindong Han"
+        ],
+        "summary": "Question answering (QA) over irregular clinical time series (ICTS) plays a pivotal role in a wide range of healthcare applications. Although recent multimodal time-series large language models (LLMs) have shown considerable promise in general-purpose time-series QA, they remain poorly equipped to mo",
+        "url": "http://arxiv.org/abs/2607.25947v1",
+        "pdf": "https://arxiv.org/pdf/2607.25947v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Evaluating Multi-Turn Multimodal Diagnostic Reasoning on Challenging Real-World Clinical Cases",
+        "authors": [
+          "Rui Yang",
+          "Weihao Xuan",
+          "Yi Lin",
+          "Zhuhan Bao",
+          "Jonathan Chong Kai Liew"
+        ],
+        "summary": "Clinical diagnostic evaluation should not only assess whether models can provide correct diagnoses, but also reflect the realities of clinical practice, including progressive disclosure of multimodal information, dynamic updating of diagnostic hypotheses, and continuous refinement of clinical reason",
+        "url": "http://arxiv.org/abs/2607.25933v1",
+        "pdf": "https://arxiv.org/pdf/2607.25933v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Face De-Identification: A Domain-Centric Survey from Capture to Processing",
+        "authors": [
+          "Hui Wei",
+          "Hao Yu",
+          "Guoying Zhao"
+        ],
+        "summary": "Face de-identification (De-ID) aims to remove or conceal personally identifiable facial features in images or videos to prevent identity recognition while preserving utility for downstream tasks. With the rising emphasis on data privacy and responsible AI, face De-ID has emerged as an active researc",
+        "url": "http://arxiv.org/abs/2607.25926v1",
+        "pdf": "https://arxiv.org/pdf/2607.25926v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "dtControl2+$\\varepsilon$: Trading Optimality for Explainability in MDPs via Decision Trees",
+        "authors": [
+          "Tereza Kinská",
+          "Jan Křetínský",
+          "Tobias Meggendorfer",
+          "Sabine Rieder",
+          "Maximilian Weininger"
+        ],
+        "summary": "Over the past decade, decision trees have been used to represent controllers (a.k.a. policies) in an explainable way, with dtControl2 as a current state-of-the-art tool. However, for systems that are large or have many corner cases, even such representations tend to be too complex and not human-comp",
+        "url": "http://arxiv.org/abs/2607.25925v1",
+        "pdf": "https://arxiv.org/pdf/2607.25925v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Evaluating VLMs for Autonomous Agent-Driven Geometry Clipping Detection in Video Game QA",
+        "authors": [
+          "Carlos Celemin",
+          "Benedict Wilkins",
+          "Adrián Barahona-Ríos",
+          "Saman Zadtootaghaj",
+          "Nabajeet Barman"
+        ],
+        "summary": "In this work, we study the use of Vision-Language Models (VLMs) for anomaly detection in an agent-driven game Quality Assurance (QA) pipeline focusing on geometry clipping. In this evaluation, a custom exploration agent navigates a game level to collect visual observations, while the automatic annot",
+        "url": "http://arxiv.org/abs/2607.25921v1",
+        "pdf": "https://arxiv.org/pdf/2607.25921v1",
+        "published": "2026-07-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA",
+        "authors": [
+          "Tom Saliencro",
+          "Rohan Desai",
+          "Priya Nair",
+          "Maya Lindqvist",
+          "Daniel Whitmore"
+        ],
+        "summary": "Mixture-of-Experts (MoE) variants of Low-Rank Adaptation (LoRA) route every token to a fixed number of experts $k$. Tokens differ in how uncertain the model is about them, so a single k over-spends on easy tokens and under-serves hard ones. We observe that the router's output distribution is already",
+        "url": "http://arxiv.org/abs/2607.26052v1",
+        "pdf": "https://arxiv.org/pdf/2607.26052v1",
+        "published": "2026-07-28",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learning (DITL) Framework for Breast Cancer Screening and Lesion Diagnosis",
+        "authors": [
+          "Adarsh Bhandary Panambur",
+          "Siming Bayer",
+          "Andreas Maier"
+        ],
+        "summary": "Enhancing classification performance in mammography remains a persistent challenge across both small curated datasets and large-scale clinical cohorts. Conventional transfer learning approaches often neglect dataset-specific characteristics, while recent neighborhood-informed methods have been restr",
+        "url": "http://arxiv.org/abs/2607.26043v1",
+        "pdf": "https://arxiv.org/pdf/2607.26043v1",
+        "published": "2026-07-28",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening",
+        "authors": [
+          "Syed Mhamudul Hasan",
+          "Anas AlSobeh",
+          "Hussein Zangoti",
+          "Abdur R. Shahid"
+        ],
+        "summary": "We present VetClaw, an edge-cloud multimodal agentic system for early veterinary disease screening. VetClaw uses a camera module as an edge sensing device and sends captured images, together with optional symptom descriptions, to a server-hosted vision-language model for zero-shot disease classifica",
+        "url": "http://arxiv.org/abs/2607.26042v1",
+        "pdf": "https://arxiv.org/pdf/2607.26042v1",
+        "published": "2026-07-28",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent Guidance",
+        "authors": [
+          "Gaspard Lambrechts",
+          "Adrien Bolland",
+          "Daniel Ebi",
+          "Damien Ernst"
+        ],
+        "summary": "Much like humans benefit from guidance while learning, reinforcement learning algorithms may benefit from additional supervision beyond rewards. Leveraging additional information during training to learn better representations and behaviors has been the focus of asymmetric reinforcement learning. Th",
+        "url": "http://arxiv.org/abs/2607.26040v1",
+        "pdf": "https://arxiv.org/pdf/2607.26040v1",
+        "published": "2026-07-28",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Parallel Decoding Distillation for Fast Image and Video Generation",
+        "authors": [
+          "Neta Shaul",
+          "Chao Liu",
+          "Arash Vahdat",
+          "Julius Berner"
+        ],
+        "summary": "Generation in video diffusion or flow models is computationally expensive due to the slow and iterative sampling process. Current state-of-the-art (SOTA) acceleration methods heavily rely on variational score distillation (VSD) and adversarial losses to distill diffusion models into few-step generat",
+        "url": "http://arxiv.org/abs/2607.26004v1",
+        "pdf": "https://arxiv.org/pdf/2607.26004v1",
+        "published": "2026-07-28",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Sharpness-Aware Minimization and Muon: Robustness under the Spectral Norm",
+        "authors": [
+          "Wenzhi Zhong",
+          "Edward Milsom",
+          "Michael Murray"
+        ],
+        "summary": "Sharpness-Aware Minimization (SAM) aims to improve generalization by encouraging insensitivity to small, worst-case parameter perturbations. However, the notion of a \"small\" perturbation is inherently geometry-dependent: while existing SAM variants have explored a wide range of choices, a clear pers",
+        "url": "http://arxiv.org/abs/2607.26001v1",
+        "pdf": "https://arxiv.org/pdf/2607.26001v1",
+        "published": "2026-07-28",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Untangling Co-Drift: Proactive Multi-Intent Failure Prediction and Root-Cause Disambiguation for Self-Driving Networks",
+        "authors": [
+          "Md. Kamrul Hossain",
+          "Walid Aljoby"
+        ],
+        "summary": "The vision of self-driving networks that monitor, reason, and act upon themselves with minimal human intervention relies on tightly coupled monitoring, analytics, and actuation functions. In this work, we treat these functions as three operational macro-intents: continuous telemetry, real-time analy",
+        "url": "http://arxiv.org/abs/2607.25989v1",
+        "pdf": "https://arxiv.org/pdf/2607.25989v1",
+        "published": "2026-07-28",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Generator-Aligned Representation Interfaces for Diagnostic Soft Equivariance",
+        "authors": [
+          "Weitao Li",
+          "Gong Cheng"
+        ],
+        "summary": "Exact-equivariant architectures typically encode prescribed group actions in specialized operators, which can complicate their reuse with generic backbones and across data modalities. We introduce the Generator-Aligned Representation Interface (GARI), a representation-level design principle that exp",
+        "url": "http://arxiv.org/abs/2607.25988v1",
+        "pdf": "https://arxiv.org/pdf/2607.25988v1",
+        "published": "2026-07-28",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
