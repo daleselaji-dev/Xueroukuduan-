@@ -1,0 +1,622 @@
+{
+  "date": "2026-07-30",
+  "generated": "2026-07-30T05:10:38.067899",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "MoonshotAI/Kimi-K3",
+        "description": "Open Frontier Intelligence",
+        "stars": 6347,
+        "language": null,
+        "url": "https://github.com/MoonshotAI/Kimi-K3",
+        "created": "2026-07-27"
+      },
+      {
+        "rank": 2,
+        "name": "mshumer/Claude-of-Duty",
+        "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+        "stars": 2273,
+        "language": "JavaScript",
+        "url": "https://github.com/mshumer/Claude-of-Duty",
+        "created": "2026-07-25"
+      },
+      {
+        "rank": 3,
+        "name": "digimata/quill",
+        "description": "Ultra-minimalist macOS recording + transcription.",
+        "stars": 1636,
+        "language": "Swift",
+        "url": "https://github.com/digimata/quill",
+        "created": "2026-07-24"
+      },
+      {
+        "rank": 4,
+        "name": "mikiarlo3/ai-copywriter",
+        "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+        "stars": 1048,
+        "language": "Python",
+        "url": "https://github.com/mikiarlo3/ai-copywriter",
+        "created": "2026-07-24"
+      },
+      {
+        "rank": 5,
+        "name": "VictorTaelin/OptMem",
+        "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+        "stars": 884,
+        "language": "Python",
+        "url": "https://github.com/VictorTaelin/OptMem",
+        "created": "2026-07-25"
+      },
+      {
+        "rank": 6,
+        "name": "MoonshotAI/MoonEP",
+        "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+        "stars": 869,
+        "language": "Python",
+        "url": "https://github.com/MoonshotAI/MoonEP",
+        "created": "2026-07-24"
+      },
+      {
+        "rank": 7,
+        "name": "xikhar/persona",
+        "description": "Bringing real-time voice to life.",
+        "stars": 571,
+        "language": "JavaScript",
+        "url": "https://github.com/xikhar/persona",
+        "created": "2026-07-28"
+      },
+      {
+        "rank": 8,
+        "name": "0xwilliamortiz/openclaude-improved",
+        "description": "runs anywhere. uses anything",
+        "stars": 556,
+        "language": "TypeScript",
+        "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+        "created": "2026-07-26"
+      },
+      {
+        "rank": 9,
+        "name": "0xwilliamortiz/ponytail-improved",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "stars": 548,
+        "language": "JavaScript",
+        "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+        "created": "2026-07-28"
+      },
+      {
+        "rank": 10,
+        "name": "mikehasa/agentacct",
+        "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, Ope",
+        "stars": 532,
+        "language": "Python",
+        "url": "https://github.com/mikehasa/agentacct",
+        "created": "2026-07-24"
+      },
+      {
+        "rank": 11,
+        "name": "talivia-group/talivia",
+        "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+        "stars": 437,
+        "language": "TypeScript",
+        "url": "https://github.com/talivia-group/talivia",
+        "created": "2026-07-29"
+      },
+      {
+        "rank": 12,
+        "name": "NikolayS/PGSimCity",
+        "description": "An explorable 3D city that shows how Postgres actually works",
+        "stars": 400,
+        "language": "TypeScript",
+        "url": "https://github.com/NikolayS/PGSimCity",
+        "created": "2026-07-25"
+      },
+      {
+        "rank": 13,
+        "name": "wassgha/rescript",
+        "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+        "stars": 350,
+        "language": "TypeScript",
+        "url": "https://github.com/wassgha/rescript",
+        "created": "2026-07-26"
+      },
+      {
+        "rank": 14,
+        "name": "deerwork-ai/deer-workflow",
+        "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+        "stars": 349,
+        "language": "TypeScript",
+        "url": "https://github.com/deerwork-ai/deer-workflow",
+        "created": "2026-07-26"
+      },
+      {
+        "rank": 15,
+        "name": "gavamedia/deltafin",
+        "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+        "stars": 349,
+        "language": "Python",
+        "url": "https://github.com/gavamedia/deltafin",
+        "created": "2026-07-28"
+      },
+      {
+        "rank": 16,
+        "name": "achimala/TheLongSilence",
+        "description": "A space exploration game built by Claude Opus 5",
+        "stars": 330,
+        "language": "JavaScript",
+        "url": "https://github.com/achimala/TheLongSilence",
+        "created": "2026-07-27"
+      },
+      {
+        "rank": 17,
+        "name": "Eversmile12/leaked-llm-prompts",
+        "description": "collections-of-leaked-prompts",
+        "stars": 328,
+        "language": null,
+        "url": "https://github.com/Eversmile12/leaked-llm-prompts",
+        "created": "2026-07-24"
+      },
+      {
+        "rank": 18,
+        "name": "chrissotraidis/harkinianpad",
+        "description": "Ocarina of Time native on iOS and iPadOS via Ship of Harkinian with Metal rendering, touch controls, controller support, and ROM-free reproducible builds.",
+        "stars": 287,
+        "language": "Shell",
+        "url": "https://github.com/chrissotraidis/harkinianpad",
+        "created": "2026-07-24"
+      },
+      {
+        "rank": 19,
+        "name": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+        "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+        "stars": 275,
+        "language": "Python",
+        "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+        "created": "2026-07-25"
+      },
+      {
+        "rank": 20,
+        "name": "PipeNetwork/kimi-k3-mlx",
+        "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+        "stars": 275,
+        "language": "Python",
+        "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
+        "created": "2026-07-27"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
+        "authors": [
+          "Peter Kirgis",
+          "Sayash Kapoor",
+          "Andrew Schwartz",
+          "Stephan Rabanser",
+          "David Africa"
+        ],
+        "summary": "Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on narrow, verifiable tasks, which excludes open-ended research, or submit AI-generated papers to blind pe",
+        "url": "http://arxiv.org/abs/2607.27191v1",
+        "pdf": "https://arxiv.org/pdf/2607.27191v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "APEX-Accounting",
+        "authors": [
+          "Julien Benchek",
+          "Austin Bennett",
+          "Jasmin Kern",
+          "Ryan Stevens",
+          "Rene Sultan"
+        ],
+        "summary": "We introduce APEX-Accounting, a benchmark built by Mercor in partnership with Ramp, to assess whether frontier models can do the real work of accountants. Tasks include reconciling accounts, accruing expenses, posting transactions, and producing reports. The private eval set comprises 160 tasks, spl",
+        "url": "http://arxiv.org/abs/2607.27189v1",
+        "pdf": "https://arxiv.org/pdf/2607.27189v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making",
+        "authors": [
+          "Nia Nixon",
+          "Jaeyoon Choi",
+          "Pedro Martins De Bastos",
+          "Mohammad Amin Samadi",
+          "Luise Mehner"
+        ],
+        "summary": "Conversational AI is increasingly positioned as a teammate rather than a tool, yet we know little about how its presence reshapes communication among the humans on the team. We examined sociocognitive communication dynamics in team decision-making using Group Communication Analysis (GCA), team surve",
+        "url": "http://arxiv.org/abs/2607.27179v1",
+        "pdf": "https://arxiv.org/pdf/2607.27179v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork",
+        "authors": [
+          "Peter Tisnikar",
+          "Maja Swieczkowska",
+          "Benteng Ma",
+          "Gerard Canal",
+          "Matteo Leonetti"
+        ],
+        "summary": "Effective collaboration with novel and diverse partners is a crucial skill for autonomous agents. Most current ad-hoc teamwork (AHT) approaches assume that agents will collaborate on a single, fixed task and that the partner's capabilities, their ability to successfully execute the desired action, a",
+        "url": "http://arxiv.org/abs/2607.27177v1",
+        "pdf": "https://arxiv.org/pdf/2607.27177v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Improving Item Discoverability in e-Commerce Search via Related Intent Generation",
+        "authors": [
+          "Ji Xin",
+          "Xiao Xiao",
+          "Ishan Bhatt",
+          "Vinesh Gudla",
+          "Trace Levinson"
+        ],
+        "summary": "Traditional search systems are optimized to retrieve items that strictly match a query, often prioritizing precision over recall. In e-commerce marketplaces and particularly grocery, this paradigm is limiting, as user satisfaction and commercial outcomes depend heavily on the discoverability of subs",
+        "url": "http://arxiv.org/abs/2607.27172v1",
+        "pdf": "https://arxiv.org/pdf/2607.27172v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
+        "authors": [
+          "Jingbo Zhou",
+          "Yusai Zhao",
+          "Qi Bao",
+          "Jingjia Cao",
+          "Zhenghai Chen"
+        ],
+        "summary": "Large language model (LLM) agents are increasingly expected to assist users in completing tasks. However, existing benchmarks provide limited support for evaluating whether agents can carry out office-suite workflows at a reasonable cost. We introduce OmegaUse-OfficeVal, a benchmark for evaluating L",
+        "url": "http://arxiv.org/abs/2607.27155v1",
+        "pdf": "https://arxiv.org/pdf/2607.27155v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Anatomy Contextualized Adaption of CT Foundation Models",
+        "authors": [
+          "Roshan Kenia",
+          "Stephanie L McNamara",
+          "William Lotter"
+        ],
+        "summary": "CT vision-language foundation models have demonstrated promising performance across downstream tasks, but are typically trained with whole-volume representations that dilute fine-grained anatomical signals. Fine-grained vision-language pre-training addresses this by aligning anatomy-level visual fea",
+        "url": "http://arxiv.org/abs/2607.27154v1",
+        "pdf": "https://arxiv.org/pdf/2607.27154v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Cost-Sensitive Conformal Prediction and Human-in-the-Loop Abstention for Imbalanced High-Stakes Decision Support: A Multi-Domain Benchmark",
+        "authors": [
+          "Manpreet Singh",
+          "Akshatha Srikantha",
+          "Shyamal Lakhanpal"
+        ],
+        "summary": "High-stakes decision systems in credit scoring, fraud detection, healthcare, and industrial safety require reliable uncertainty quantification under severe class imbalance and asymmetric error costs. Standard marginal conformal prediction (CP) provides valid overall coverage guarantees; however, we ",
+        "url": "http://arxiv.org/abs/2607.27143v1",
+        "pdf": "https://arxiv.org/pdf/2607.27143v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "DLAM: Distributional Latent Actions with Temporal Constraints",
+        "authors": [
+          "Zuojin Tang",
+          "Feifan Luo",
+          "Haoyun Liu",
+          "Botai Yuan",
+          "Dekang Qi"
+        ],
+        "summary": "Vision-language-action (VLA) models remain constrained by scarce action-labeled robot data, whereas action-free videos offer abundant observations of physical change. Latent action models can extract such priors, but reconstruction-trained codes may predict future observations without the structure ",
+        "url": "http://arxiv.org/abs/2607.27138v1",
+        "pdf": "https://arxiv.org/pdf/2607.27138v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Linguistic Monoculture in LLM-Assisted Language Use",
+        "authors": [
+          "Suhas Thejaswi",
+          "Juhi Kulshreshta",
+          "Lutz Oettershagen"
+        ],
+        "summary": "Writing and communication are increasingly mediated by large language models (LLMs) that are being used to draft, revise and polish text. Although such assistance can improve clarity and help authors meet institutional expectations, widespread reliance on shared models may reduce population-level va",
+        "url": "http://arxiv.org/abs/2607.27134v1",
+        "pdf": "https://arxiv.org/pdf/2607.27134v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "AgentMap: Joint Equivalence and Subsumption Discovery for Ontology Matching",
+        "authors": [
+          "Yiping Song",
+          "Jiaoyan Chen",
+          "Renate Schmidt",
+          "Hui Yang",
+          "Wen Zhang"
+        ],
+        "summary": "Ontology matching (OM) has traditionally been formulated as either equivalence discovery or subsumption matching. The existing OM systems identify only one type of semantic correspondence and cannot simultaneously discover equivalence and subsumption mappings. In this paper, we introduce Hybrid Onto",
+        "url": "http://arxiv.org/abs/2607.27130v1",
+        "pdf": "https://arxiv.org/pdf/2607.27130v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning",
+        "authors": [
+          "Weijie Wu",
+          "Junbo Li",
+          "Lin Li",
+          "Jun Fang",
+          "Qingyang Hong"
+        ],
+        "summary": "With the development of audio large language models (AudioLLMs), audio captioning needs to move from brief descriptions toward open-ended and fine-grained free-form descriptions. Existing evaluations often focus on generation quality or task performance, making it difficult to diagnose information c",
+        "url": "http://arxiv.org/abs/2607.27109v1",
+        "pdf": "https://arxiv.org/pdf/2607.27109v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "SciFigQual-Bench: A Benchmark for Scientific Figure Quality Assessment with Full-Manuscript Context",
+        "authors": [
+          "Zihan Deng",
+          "Chuanzhi Xu",
+          "Huiqi Liang",
+          "Haoyang Li",
+          "Xiaozhen Zhong"
+        ],
+        "summary": "Scientific images are the core elements of presenting experimental conclusions, elaborating system architecture, and supporting comparative arguments in scientific papers. However, existing image quality assessment (IQA) methods are predominantly designed for natural photographs or AI-generated cont",
+        "url": "http://arxiv.org/abs/2607.27084v1",
+        "pdf": "https://arxiv.org/pdf/2607.27084v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Scores Are Not Decisions: Cost-Aware Stopping for Tool Acquisition in LLM Agents",
+        "authors": [
+          "Yicheng Feng",
+          "Yan Zhang",
+          "Yan Cheng",
+          "Wei Qi"
+        ],
+        "summary": "As LLM agents increasingly depend on diverse external services such as search engines, databases, and connectors, agent harnesses face a fundamental tool-selection challenge: acquiring too few tools leaves the task under-informed, while too many adds cost, context load, and privacy exposure. Routers",
+        "url": "http://arxiv.org/abs/2607.27083v1",
+        "pdf": "https://arxiv.org/pdf/2607.27083v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment",
+        "authors": [
+          "Yongjian Guo",
+          "Wanlun Ma",
+          "Lingyu Shen",
+          "Xi Xiao",
+          "Sheng Wen"
+        ],
+        "summary": "Fine-tuning is the dominant paradigm for specializing large language models (LLMs), yet it exposes a critical vulnerability: malicious data providers can embed harmful behaviors into downstream corpora, creating models that retain professional skills while violating human values on demand. Existing ",
+        "url": "http://arxiv.org/abs/2607.27081v1",
+        "pdf": "https://arxiv.org/pdf/2607.27081v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair",
+        "authors": [
+          "Xuanze Chen",
+          "Xukang Xie",
+          "Wentao Fu",
+          "Jiajun Zhou",
+          "Shanqing Yu"
+        ],
+        "summary": "Memory systems allow agents to retain and reuse information from past interactions, but they can also let malicious content persist. A malicious instruction crafted by an attacker may be stored in long-term memory, recalled much later, and quietly shape a real action. Recent benchmarks increasingly ",
+        "url": "http://arxiv.org/abs/2607.27080v1",
+        "pdf": "https://arxiv.org/pdf/2607.27080v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Parameter-Free Dynamic Regret for Online Convex Optimization under Heavy-Tailed Noise",
+        "authors": [
+          "Vaneet Aggarwal"
+        ],
+        "summary": "We study online convex optimization (OCO) in non-stationary environments under heavy-tailed noise, where the stochastic gradient oracle admits only a finite $p$-th central moment for some $p \\in (1, 2]$. While static regret is well-understood, achieving universal dynamic regret in a parameter-free m",
+        "url": "http://arxiv.org/abs/2607.27073v1",
+        "pdf": "https://arxiv.org/pdf/2607.27073v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Visual Credit Audit for Multimodal Spatial Reasoning",
+        "authors": [
+          "Feixiang Liu",
+          "Qiang Qiu",
+          "Lanbo Sun",
+          "Nan Wei",
+          "Huawei Shen"
+        ],
+        "summary": "Closed yes/no spatial benchmarks can reward a correct answer even when the image adds little support beyond no-image contexts. Under a fixed forced-choice interface, Visual Credit Audit (VCA) separates two estimands: whether the benchmark image gives the model's declared decision more support than t",
+        "url": "http://arxiv.org/abs/2607.27069v1",
+        "pdf": "https://arxiv.org/pdf/2607.27069v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "SciFigAlign: Scoring Scientific Figures by Fine-tuned Alignment of Visuals with Manuscript Evidence",
+        "authors": [
+          "Chuanzhi Xu",
+          "Zihan Deng",
+          "Huiqi Liang",
+          "Chengkun Yue",
+          "Zhanlin Cui"
+        ],
+        "summary": "Scientific figure assessment in peer review differs fundamentally from general image quality evaluation: a figure must be visually legible, faithfully support the manuscript's claims, and communicate evidence with a clear visual hierarchy. However, if we apply traditional image assessment methods to",
+        "url": "http://arxiv.org/abs/2607.27066v1",
+        "pdf": "https://arxiv.org/pdf/2607.27066v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "ScratchSim: A Procedural Synthetic Data Pipeline for Surface Scratch Detection",
+        "authors": [
+          "Paul Julius Kühn",
+          "Saptarshi Neil Sinha",
+          "Tiago Kleist",
+          "Richard Hoffmann",
+          "Arjan kuijper"
+        ],
+        "summary": "While automated defect detection such as the detection of surface scratched is an important aspect in industrial quality control, the scarcity of annotated defect data make this task challenging. This paper presents a procedural rendering pipeline that generates large-scale annotated synthetic train",
+        "url": "http://arxiv.org/abs/2607.27065v1",
+        "pdf": "https://arxiv.org/pdf/2607.27065v1",
+        "published": "2026-07-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
+        "authors": [
+          "Perry Dong",
+          "Ron Polonsky",
+          "Dorsa Sadigh",
+          "Chelsea Fin"
+        ],
+        "summary": "Pre-training followed by fine-tuning has become the dominant recipe for learning performant policies, and in value-based reinforcement learning (RL) this raises a natural question: given a pretrained policy, should the Q-function be pretrained on offline data too? Conventional wisdom suggests it sho",
+        "url": "http://arxiv.org/abs/2607.27203v1",
+        "pdf": "https://arxiv.org/pdf/2607.27203v1",
+        "published": "2026-07-29",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "From Classification to Regression: Using a Fruitfly to Solve Equations",
+        "authors": [
+          "Shady E. Ahmed",
+          "Panos Stinis"
+        ],
+        "summary": "We present a novel approach to regression tasks using classification which is motivated by the mechanism used by fruitflies to sense their environment. Specifically, we formulate a general framework for learning nonlinear input-output relationships by replacing complex global surrogate models with a",
+        "url": "http://arxiv.org/abs/2607.27196v1",
+        "pdf": "https://arxiv.org/pdf/2607.27196v1",
+        "published": "2026-07-29",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes",
+        "authors": [
+          "Lennon J. Shikhman",
+          "Michael Galarnyk",
+          "Aadi Dash",
+          "Nicholas A. Welsh"
+        ],
+        "summary": "Accurate option prices do not imply accurate recovery of the latent risk-neutral density. We study this distinction with two complementary benchmarks. A controlled benchmark exposes simulator-truth densities for latent evaluation, while a chronological NIFTY benchmark tests only held-out market pric",
+        "url": "http://arxiv.org/abs/2607.27188v1",
+        "pdf": "https://arxiv.org/pdf/2607.27188v1",
+        "published": "2026-07-29",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "When Do Learned Diffusion Proposals Help Constraint Solving? A Controlled Study on Continuous Algebraic Systems",
+        "authors": [
+          "Quang Bui",
+          "Sparsh Roy",
+          "Akash Gundimeda",
+          "Davin Yin"
+        ],
+        "summary": "Solving a continuous algebraic constraint system requires two decisions: which values satisfy the constraints, and which structural augmentation renders an unsolvable system solvable. Classical solvers answer the first well and the second only by enumeration. On that discrete decision, a candidate-c",
+        "url": "http://arxiv.org/abs/2607.27169v1",
+        "pdf": "https://arxiv.org/pdf/2607.27169v1",
+        "published": "2026-07-29",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Skillful forecasting of offshore winds from satellite scatterometer constellations",
+        "authors": [
+          "Francesco Pinto",
+          "Luca Lanzilao",
+          "Paco Lopez Dekker",
+          "Angela Meyer"
+        ],
+        "summary": "Accurate intraday forecasts of offshore wind are becoming increasingly important for power system operation and the integration of growing shares of offshore wind energy. Operational forecasts rely predominantly on numerical weather prediction (NWP), which is not optimized for lead times of minutes ",
+        "url": "http://arxiv.org/abs/2607.27152v1",
+        "pdf": "https://arxiv.org/pdf/2607.27152v1",
+        "published": "2026-07-29",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis",
+        "authors": [
+          "Yihao Chen",
+          "Shi Chang",
+          "Khaled Chawa",
+          "Feng Lin",
+          "Boyuan Chen"
+        ],
+        "summary": "Coding agents have made substantial progress on software engineering tasks that modify existing codebases, including bug fixing and feature implementation. However, constructing a complete program from scratch remains a major challenge: even the frontier models evaluated on ProgramBench fully resolv",
+        "url": "http://arxiv.org/abs/2607.27146v1",
+        "pdf": "https://arxiv.org/pdf/2607.27146v1",
+        "published": "2026-07-29",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Investigating reservoir computing for branch predictionin pipelined processors using emerging CMOS memristor devices",
+        "authors": [
+          "Harvey Samuel George Johnson",
+          "Sendy Phang"
+        ],
+        "summary": "This project aimed to develop a novel reservoir compute (RC) implementation framework targeting high-speed operation and integration with CMOS digital logic. With the target workload of branch prediction (BP) for multistage pipelined central pro-cessing unit (CPU) cores. For this, a novel memristor ",
+        "url": "http://arxiv.org/abs/2607.27140v1",
+        "pdf": "https://arxiv.org/pdf/2607.27140v1",
+        "published": "2026-07-29",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Minimal Markovization via Stable Quotients in Holonomy-Cover Decision Processes",
+        "authors": [
+          "Zuyuan Zhang",
+          "Yongshan Chen",
+          "Mahdi Imani",
+          "Tian Lan"
+        ],
+        "summary": "An agent acting under partial observability must retain a recursively updateable statistic of history that restores the Markov property, but the smallest such statistic is generally unknown. We characterize this minimal Markov sufficient statistic for holonomy-cover decision processes, a structured ",
+        "url": "http://arxiv.org/abs/2607.27132v1",
+        "pdf": "https://arxiv.org/pdf/2607.27132v1",
+        "published": "2026-07-29",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
