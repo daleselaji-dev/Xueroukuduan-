@@ -1,0 +1,561 @@
+{
+  "date": "2026-07-31",
+  "generated": "2026-07-31T05:36:59.866972",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "MoonshotAI/Kimi-K3",
+        "description": "Open Frontier Intelligence",
+        "stars": 7576,
+        "language": null,
+        "url": "https://github.com/MoonshotAI/Kimi-K3",
+        "created": "2026-07-27"
+      },
+      {
+        "rank": 2,
+        "name": "mshumer/Claude-of-Duty",
+        "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+        "stars": 2422,
+        "language": "JavaScript",
+        "url": "https://github.com/mshumer/Claude-of-Duty",
+        "created": "2026-07-25"
+      },
+      {
+        "rank": 3,
+        "name": "VictorTaelin/OptMem",
+        "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+        "stars": 940,
+        "language": "Python",
+        "url": "https://github.com/VictorTaelin/OptMem",
+        "created": "2026-07-25"
+      },
+      {
+        "rank": 4,
+        "name": "xikhar/persona",
+        "description": "Bringing real-time voice to life.",
+        "stars": 682,
+        "language": "JavaScript",
+        "url": "https://github.com/xikhar/persona",
+        "created": "2026-07-28"
+      },
+      {
+        "rank": 5,
+        "name": "WilonityXYZ/Wilonity",
+        "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID clea",
+        "stars": 651,
+        "language": null,
+        "url": "https://github.com/WilonityXYZ/Wilonity",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 6,
+        "name": "0xwilliamortiz/ponytail-improved",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "stars": 565,
+        "language": "JavaScript",
+        "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+        "created": "2026-07-28"
+      },
+      {
+        "rank": 7,
+        "name": "0xwilliamortiz/openclaude-improved",
+        "description": "runs anywhere. uses anything",
+        "stars": 562,
+        "language": "TypeScript",
+        "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+        "created": "2026-07-26"
+      },
+      {
+        "rank": 8,
+        "name": "talivia-group/talivia",
+        "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+        "stars": 498,
+        "language": "TypeScript",
+        "url": "https://github.com/talivia-group/talivia",
+        "created": "2026-07-29"
+      },
+      {
+        "rank": 9,
+        "name": "gavamedia/deltafin",
+        "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+        "stars": 494,
+        "language": "Python",
+        "url": "https://github.com/gavamedia/deltafin",
+        "created": "2026-07-28"
+      },
+      {
+        "rank": 10,
+        "name": "QwenAudio/qwen-audio-agent",
+        "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+        "stars": 474,
+        "language": "JavaScript",
+        "url": "https://github.com/QwenAudio/qwen-audio-agent",
+        "created": "2026-07-27"
+      },
+      {
+        "rank": 11,
+        "name": "NikolayS/PGSimCity",
+        "description": "An explorable 3D city that shows how Postgres actually works",
+        "stars": 443,
+        "language": "TypeScript",
+        "url": "https://github.com/NikolayS/PGSimCity",
+        "created": "2026-07-25"
+      },
+      {
+        "rank": 12,
+        "name": "wassgha/rescript",
+        "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+        "stars": 421,
+        "language": "TypeScript",
+        "url": "https://github.com/wassgha/rescript",
+        "created": "2026-07-26"
+      },
+      {
+        "rank": 13,
+        "name": "DramaticShape/DramaticShapeVoxelMod",
+        "description": "",
+        "stars": 414,
+        "language": "Lua",
+        "url": "https://github.com/DramaticShape/DramaticShapeVoxelMod",
+        "created": "2026-07-26"
+      },
+      {
+        "rank": 14,
+        "name": "bashalarmistalt/decimen-optical-transfer",
+        "description": "",
+        "stars": 410,
+        "language": "TypeScript",
+        "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+        "created": "2026-07-30"
+      },
+      {
+        "rank": 15,
+        "name": "achimala/TheLongSilence",
+        "description": "A space exploration game built by Claude Opus 5",
+        "stars": 361,
+        "language": "JavaScript",
+        "url": "https://github.com/achimala/TheLongSilence",
+        "created": "2026-07-27"
+      },
+      {
+        "rank": 16,
+        "name": "deerwork-ai/deer-workflow",
+        "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+        "stars": 359,
+        "language": "TypeScript",
+        "url": "https://github.com/deerwork-ai/deer-workflow",
+        "created": "2026-07-26"
+      },
+      {
+        "rank": 17,
+        "name": "Noniv/snowflow_demo",
+        "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells",
+        "stars": 353,
+        "language": "JavaScript",
+        "url": "https://github.com/Noniv/snowflow_demo",
+        "created": "2026-07-28"
+      },
+      {
+        "rank": 18,
+        "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+        "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+        "stars": 350,
+        "language": null,
+        "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+        "created": "2026-07-30"
+      },
+      {
+        "rank": 19,
+        "name": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+        "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+        "stars": 302,
+        "language": "Python",
+        "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+        "created": "2026-07-25"
+      },
+      {
+        "rank": 20,
+        "name": "PipeNetwork/kimi-k3-mlx",
+        "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+        "stars": 294,
+        "language": "Python",
+        "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
+        "created": "2026-07-27"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Learning to Trace Seiberg Dualities",
+        "authors": [
+          "Jonathan J. Heckman",
+          "Shani Meynet",
+          "Alessandro Mininno",
+          "Gary Shiu"
+        ],
+        "summary": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establish when two systems are dual, even when all of the \"rules of the game\" are well-known. Said differe",
+        "url": "http://arxiv.org/abs/2607.28628v1",
+        "pdf": "https://arxiv.org/pdf/2607.28628v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
+        "authors": [
+          "Yao Xiao",
+          "Reuben Tan",
+          "Zhen Zhu",
+          "Yuqun Wu",
+          "Jianfeng Gao"
+        ],
+        "summary": "Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU memory constraints. We present ReToken, a single learnable embedding trained as an explicit retrieval t",
+        "url": "http://arxiv.org/abs/2607.28627v1",
+        "pdf": "https://arxiv.org/pdf/2607.28627v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball",
+        "authors": [
+          "Lizhi Yang",
+          "Junheng Li",
+          "Aaron D. Ames"
+        ],
+        "summary": "We present PAC-MAN, a perception-aware CBF-RL framework that couples control-barrier safety with deployment-realistic onboard sensing for whole-body humanoid dodgeball. The deployed policy sees the ball only as segmentation-masked depth from a head-mounted camera, while training-time CBF guidance re",
+        "url": "http://arxiv.org/abs/2607.28623v1",
+        "pdf": "https://arxiv.org/pdf/2607.28623v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
+        "authors": [
+          "Bing Yan",
+          "Gregory Wolfe",
+          "Stefano Martiniani",
+          "Kyunghyun Cho"
+        ],
+        "summary": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a result, scientists and AI agents need to locate relevant information, verify their provenance, and assemb",
+        "url": "http://arxiv.org/abs/2607.28618v1",
+        "pdf": "https://arxiv.org/pdf/2607.28618v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+        "authors": [
+          "Xiangning Lin",
+          "Shenzhe Zhu",
+          "Shu Yang",
+          "Zhenyu Zhang",
+          "Haoqian Zhang"
+        ],
+        "summary": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to the public or regulators, creating a serious trust and accountability gap in the wide deployment of A",
+        "url": "http://arxiv.org/abs/2607.28617v1",
+        "pdf": "https://arxiv.org/pdf/2607.28617v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+        "authors": [
+          "Qiushi Sun",
+          "Kanzhi Cheng",
+          "Yian Wang",
+          "Bowen Yang",
+          "Hang Yan"
+        ],
+        "summary": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is central to CUA evaluation, data curation, and reinforcement learning. Neither human-written verifie",
+        "url": "http://arxiv.org/abs/2607.28609v1",
+        "pdf": "https://arxiv.org/pdf/2607.28609v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "PAIChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks",
+        "authors": [
+          "Manyi Wang",
+          "Junjielong Xu",
+          "Pinjia He"
+        ],
+        "summary": "SWE-bench-like benchmarks are widely used for evaluating LLM's issue resolution capability. They typically follow a common construction pipeline: each PR (Pull Request) is paired with its linked issue by extracting issue references from the PR description; the issue description is used as the proble",
+        "url": "http://arxiv.org/abs/2607.28587v1",
+        "pdf": "https://arxiv.org/pdf/2607.28587v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation",
+        "authors": [
+          "Jiacheng Tao",
+          "Qingyun Sun",
+          "Haonan Yuan",
+          "Ziwei Zhang",
+          "Jianxin Li"
+        ],
+        "summary": "While Multimodal Retrieval-Augmented Generation (MM-RAG) has shown promising results, it still struggles with complex multi-hop reasoning tasks. Existing methods primarily focus on independent instance-level matching, which often fails to capture explicit relationships across modalities and document",
+        "url": "http://arxiv.org/abs/2607.28580v1",
+        "pdf": "https://arxiv.org/pdf/2607.28580v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B",
+        "authors": [
+          "Iliya Mirzaei"
+        ],
+        "summary": "Methods that make a language model plan, criticise and rewrite its own answer, reflect on mistakes, pick the best of several attempts, or debate with copies of itself nearly all make it generate far more text than a single chain of thought. Because generating more text raises accuracy by itself, a g",
+        "url": "http://arxiv.org/abs/2607.28576v1",
+        "pdf": "https://arxiv.org/pdf/2607.28576v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Algorithms for Structured Elections under Thiele Voting Rules",
+        "authors": [
+          "Alexandra Lassota",
+          "Krzysztof Sornat"
+        ],
+        "summary": "We study the computational complexity of winner determination problems in approval-based committee elections under Thiele voting rules. These form a class of rules parameterized by a fixed weight vector that specifies how a voter's satisfaction depends on the number of approved candidates elected. W",
+        "url": "http://arxiv.org/abs/2607.28575v1",
+        "pdf": "https://arxiv.org/pdf/2607.28575v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs",
+        "authors": [
+          "Woongkyu Lee",
+          "Jungwook Choi"
+        ],
+        "summary": "Deploying autonomous computer-use agents (CUAs) locally is increasingly important for privacy, cost efficiency, and practical usability, yet improving their performance under strict hardware constraints remains challenging. While recent studies show that inference-time scaling can improve frontier c",
+        "url": "http://arxiv.org/abs/2607.28573v1",
+        "pdf": "https://arxiv.org/pdf/2607.28573v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "APO: Unsupervised Atomic Policy Optimization for 3D Structure Prediction of Atomic Systems",
+        "authors": [
+          "Shentong Mo",
+          "Yatao Bian"
+        ],
+        "summary": "Predicting the 3D structures of atomic systems is fundamental to advancing material science and drug discovery. While flow-matching models (, FlowDPO) have recently shown promise in this domain, their performance relies heavily on alignment with ground-truth coordinates via supervised preference lea",
+        "url": "http://arxiv.org/abs/2607.28553v1",
+        "pdf": "https://arxiv.org/pdf/2607.28553v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "ORCA-bench: How Ready Are Language Model Agents for Oncall?",
+        "authors": [
+          "Albert Gong",
+          "Kyuseong Choi",
+          "Abhineet Agarwal",
+          "Jason Schechner",
+          "Ryan Huang"
+        ],
+        "summary": "Large language models can write, patch, and search code, but oncall root cause analysis (RCA) demands something different: reasoning over noisy metrics, logs, traces, and source code, starting from ambiguous user-facing reports, often hours after the incident began. We introduce ORCA-bench, a benchm",
+        "url": "http://arxiv.org/abs/2607.28545v1",
+        "pdf": "https://arxiv.org/pdf/2607.28545v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems",
+        "authors": [
+          "Mao-xun Huang",
+          "Jerry Wang",
+          "Yi-Cheng Lai",
+          "Zhengxin Zhang",
+          "Claire Cardie"
+        ],
+        "summary": "Large language model-based multi-agent systems improve complex problem solving through task decomposition, agent specialization, information exchange, and intermediate validation. However, existing systems typically treat communication topology as a fixed design choice or an offline optimization tar",
+        "url": "http://arxiv.org/abs/2607.28527v1",
+        "pdf": "https://arxiv.org/pdf/2607.28527v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "What to Remove, What to Preserve: Dual-Ambiguity Rectification for All-in-One Image Restoration",
+        "authors": [
+          "Cencen Liu",
+          "Wen Yin",
+          "Dongyang Zhang",
+          "Dongmin Li",
+          "Shan Zhao"
+        ],
+        "summary": "All-in-one image restoration aims to handle diverse degradations within a unified framework. Existing methods commonly encode heterogeneous degradation conditions in a shared latent space, where degradation-related cues and scene content can remain entangled. We characterize the resulting challenge ",
+        "url": "http://arxiv.org/abs/2607.28526v1",
+        "pdf": "https://arxiv.org/pdf/2607.28526v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Selective Credibility-Limited Belief Update",
+        "authors": [
+          "Theofanis Aravanis",
+          "Costas D. Koutras"
+        ],
+        "summary": "Belief update concerns changes in an agent's beliefs induced by changes in the underlying world. Standard Katsuno-Mendelzon update assumes that an epistemic input can be incorporated from every initially possible world, whereas credibility-limited belief update restricts, for each source world, the ",
+        "url": "http://arxiv.org/abs/2607.28523v1",
+        "pdf": "https://arxiv.org/pdf/2607.28523v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Agents That Certify Their Own Exploits: Confidence-Scheduled Restricted Responses for Safe Opponent Exploitation",
+        "authors": [
+          "Boning Li",
+          "Longbo Huang"
+        ],
+        "summary": "An agent playing a Nash-equilibrium strategy in a two-player zero-sum imperfect-information game secures the game value but forfeits the additional value offered by a flawed opponent. Diffuse deviations pose a particular challenge: binary release rules may gather too little evidence to act, while a ",
+        "url": "http://arxiv.org/abs/2607.28520v1",
+        "pdf": "https://arxiv.org/pdf/2607.28520v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "InfoOps Bench: A live information operations safety benchmark",
+        "authors": [
+          "Dorian Quelle",
+          "Lisa-Maria Neudert",
+          "Jonathan Bright",
+          "John Gallacher"
+        ],
+        "summary": "In this paper we present an active, constantly updated AI benchmark which measures the integrity of frontier language models against being co-opted for state-backed information operations. We draw on over 2,100 information operations from a live monitoring pipeline which tracks Russian, Chinese and ",
+        "url": "http://arxiv.org/abs/2607.28503v1",
+        "pdf": "https://arxiv.org/pdf/2607.28503v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "TCA-SIR: Learning Target-Conditioned Abstractions for Scientific Inspiration Retrieval",
+        "authors": [
+          "Yuto Suzuki",
+          "Farnoush Banaei-Kashani"
+        ],
+        "summary": "Scientific hypothesis generation for AI for Science typically involves Scientific Inspiration Retrieval (SIR) followed by hypothesis composition. Existing SIR methods rank papers by topical similarity and do not explicitly represent how a candidate inspiration transfers to a target problem. This is ",
+        "url": "http://arxiv.org/abs/2607.28498v1",
+        "pdf": "https://arxiv.org/pdf/2607.28498v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "SCOPE: Supply-Chain Operations through Coupled Policies for End-to-End Coordination",
+        "authors": [
+          "Yunhao Liang",
+          "Xianqi Cao",
+          "Pujun Zhang",
+          "Yuan Qu",
+          "Yongzhi Qi"
+        ],
+        "summary": "Can supply-chain AI move beyond isolated decision modules toward unified operational planning? A complete replenishment plan specifies which products each location carries, which upstream facility supplies it, how often it is replenished, and how deliveries are routed. These decisions are operationa",
+        "url": "http://arxiv.org/abs/2607.28488v1",
+        "pdf": "https://arxiv.org/pdf/2607.28488v1",
+        "published": "2026-07-30",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models",
+        "authors": [
+          "Sparsh Roy",
+          "Samuel Girmachew",
+          "Nishita Chavan"
+        ],
+        "summary": "Clinical risk models routinely achieve strong aggregate performance while producing materially different error rates across patient subgroups. Audit pipelines have been proposed to catch this, but their components are rarely stress-tested, so it is unclear which parts of an audit can be trusted and ",
+        "url": "http://arxiv.org/abs/2607.28608v1",
+        "pdf": "https://arxiv.org/pdf/2607.28608v1",
+        "published": "2026-07-30",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
+        "authors": [
+          "Haomin Qi",
+          "Xingliang Wang",
+          "Xuanqi Gao",
+          "Baihui Sang",
+          "Xin Zhang"
+        ],
+        "summary": "Scaling coding agents requires a continuing supply of executable data for training, benchmarking, and continuous evaluation. Each task must couple a realistic software state with a specification, development tools, and reliable verification. To expand this supply, we present Change2Task, a system gr",
+        "url": "http://arxiv.org/abs/2607.28591v1",
+        "pdf": "https://arxiv.org/pdf/2607.28591v1",
+        "published": "2026-07-30",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers",
+        "authors": [
+          "Md. Mehrab Hossain Opi",
+          "Robiul Islam Ryad",
+          "Md. Umar Faruk"
+        ],
+        "summary": "Post-training quantization (PTQ) has emerged as an effective solution for deploying Vision Transformers (ViTs) on resource-constrained devices. However, existing PTQ methods typically employ uniform bit-widths across transformer components, overlooking their heterogeneous sensitivity to quantization",
+        "url": "http://arxiv.org/abs/2607.28589v1",
+        "pdf": "https://arxiv.org/pdf/2607.28589v1",
+        "published": "2026-07-30",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "$β$-OPSD: Deriving with Policy Optimization, Training with Self-Distillation",
+        "authors": [
+          "Jiawei Xu",
+          "Minghui Liu",
+          "Juzheng Zhang",
+          "Tom Goldstein",
+          "Furong Huang"
+        ],
+        "summary": "On-policy self-distillation (OPSD) is a promising approach to improve reasoning language models, but it remains brittle in practice: making it work reliably often requires substantial engineering effort. We identify a structural source of this difficulty: vanilla OPSD is precisely the $β=1$ member o",
+        "url": "http://arxiv.org/abs/2607.28582v1",
+        "pdf": "https://arxiv.org/pdf/2607.28582v1",
+        "published": "2026-07-30",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Doubly Robust Functional Representation Learning for Longitudinal Causal Inference with Irregular Histories",
+        "authors": [
+          "Mengfei Ran",
+          "Yifeng Shen",
+          "Ruijie Guan"
+        ],
+        "summary": "Longitudinal causal studies often record histories as irregular functional fragments: laboratory values, physiologic signals, sensor streams, and image-derived summaries measured at unequal and informative times. Standard doubly robust estimators usually require scalar summaries, whereas sequence le",
+        "url": "http://arxiv.org/abs/2607.28567v1",
+        "pdf": "https://arxiv.org/pdf/2607.28567v1",
+        "published": "2026-07-30",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
