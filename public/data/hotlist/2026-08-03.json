@@ -1,0 +1,593 @@
+{
+  "date": "2026-08-03",
+  "generated": "2026-08-03T05:43:31.885679",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "yc-software/qm",
+        "description": "Multiplayer agent harness for work",
+        "stars": 7717,
+        "language": "TypeScript",
+        "url": "https://github.com/yc-software/qm",
+        "created": "2026-07-29"
+      },
+      {
+        "rank": 2,
+        "name": "bashalarmistalt/decimen-optical-transfer",
+        "description": "",
+        "stars": 3819,
+        "language": "TypeScript",
+        "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+        "created": "2026-07-30"
+      },
+      {
+        "rank": 3,
+        "name": "trycompai/crm",
+        "description": "An open-source, agentic-first CRM.",
+        "stars": 1968,
+        "language": "TypeScript",
+        "url": "https://github.com/trycompai/crm",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 4,
+        "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+        "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+        "stars": 1710,
+        "language": null,
+        "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+        "created": "2026-07-30"
+      },
+      {
+        "rank": 5,
+        "name": "WilonityDev/WilonityLoader",
+        "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWI",
+        "stars": 1216,
+        "language": null,
+        "url": "https://github.com/WilonityDev/WilonityLoader",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 6,
+        "name": "sqliteai/waste",
+        "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
+        "stars": 1195,
+        "language": "C",
+        "url": "https://github.com/sqliteai/waste",
+        "created": "2026-07-28"
+      },
+      {
+        "rank": 7,
+        "name": "microsoft/skill-recorder",
+        "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Mic",
+        "stars": 954,
+        "language": "TypeScript",
+        "url": "https://github.com/microsoft/skill-recorder",
+        "created": "2026-07-29"
+      },
+      {
+        "rank": 8,
+        "name": "xikhar/persona",
+        "description": "Bringing real-time voice to life.",
+        "stars": 797,
+        "language": "JavaScript",
+        "url": "https://github.com/xikhar/persona",
+        "created": "2026-07-28"
+      },
+      {
+        "rank": 9,
+        "name": "DannyMac180/sol-advisor",
+        "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+        "stars": 757,
+        "language": "Shell",
+        "url": "https://github.com/DannyMac180/sol-advisor",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 10,
+        "name": "talivia-group/talivia",
+        "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+        "stars": 658,
+        "language": "TypeScript",
+        "url": "https://github.com/talivia-group/talivia",
+        "created": "2026-07-29"
+      },
+      {
+        "rank": 11,
+        "name": "gavamedia/deltafin",
+        "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+        "stars": 628,
+        "language": "Rust",
+        "url": "https://github.com/gavamedia/deltafin",
+        "created": "2026-07-28"
+      },
+      {
+        "rank": 12,
+        "name": "0xwilliamortiz/ponytail-improved",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "stars": 580,
+        "language": "JavaScript",
+        "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+        "created": "2026-07-28"
+      },
+      {
+        "rank": 13,
+        "name": "0xwilliamortiz/humanizer-cli",
+        "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+        "stars": 542,
+        "language": "JavaScript",
+        "url": "https://github.com/0xwilliamortiz/humanizer-cli",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 14,
+        "name": "Noniv/snowflow_demo",
+        "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells",
+        "stars": 461,
+        "language": "JavaScript",
+        "url": "https://github.com/Noniv/snowflow_demo",
+        "created": "2026-07-28"
+      },
+      {
+        "rank": 15,
+        "name": "ddoemonn/interior",
+        "description": "micro-interactions for react, built for the half-second after a click",
+        "stars": 439,
+        "language": "TypeScript",
+        "url": "https://github.com/ddoemonn/interior",
+        "created": "2026-07-30"
+      },
+      {
+        "rank": 16,
+        "name": "thebuggeddev/anatomy",
+        "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+        "stars": 426,
+        "language": "TypeScript",
+        "url": "https://github.com/thebuggeddev/anatomy",
+        "created": "2026-08-02"
+      },
+      {
+        "rank": 17,
+        "name": "s1dashu/animated-voiceover",
+        "description": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
+        "stars": 417,
+        "language": null,
+        "url": "https://github.com/s1dashu/animated-voiceover",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 18,
+        "name": "x4gKing/3x-ui-multi",
+        "description": "",
+        "stars": 413,
+        "language": "JavaScript",
+        "url": "https://github.com/x4gKing/3x-ui-multi",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 19,
+        "name": "0xwilliamortiz/ratchet",
+        "description": "Your agent reads the rules. This checks whether it followed them.",
+        "stars": 412,
+        "language": "JavaScript",
+        "url": "https://github.com/0xwilliamortiz/ratchet",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 20,
+        "name": "lij768423-svg/grok-register-panel",
+        "description": "Grok register engine (Camoufox) + live web monitor panel",
+        "stars": 381,
+        "language": "Python",
+        "url": "https://github.com/lij768423-svg/grok-register-panel",
+        "created": "2026-07-29"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+        "authors": [
+          "Boyang Zhang",
+          "Adrian Lyjak",
+          "Eli Stewart",
+          "Zhaoqi Li",
+          "Simon Suo"
+        ],
+        "summary": "Enterprise workflows increasingly rely on agents for \\emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with source evidence as grounding metadata. We present ExtractBench, a benchmark for schema-guided e",
+        "url": "http://arxiv.org/abs/2607.29677v1",
+        "pdf": "https://arxiv.org/pdf/2607.29677v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics",
+        "authors": [
+          "Yimin Chen",
+          "Brian Fricke",
+          "Bo Shen",
+          "Jamie Lian",
+          "Mingkan Zhang"
+        ],
+        "summary": "Fault detection and diagnosis (FDD) technology is essential for improving HVAC system reliability, energy efficiency, and maintenance effectiveness. However, effective deployment of FDD solutions in buildings requires structured domain knowledge that can bridge heterogeneous data sources, diverse eq",
+        "url": "http://arxiv.org/abs/2607.29657v1",
+        "pdf": "https://arxiv.org/pdf/2607.29657v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers",
+        "authors": [
+          "Tianyu Huai",
+          "Tingshuo Fan",
+          "Xinchi Chen",
+          "Yining Zheng",
+          "Yuxin Wang"
+        ],
+        "summary": "As LLMs evolve from code completion systems into autonomous scientific agents, evaluating their ability to conduct experiments has become increasingly important. Existing benchmarks typically focus on static code generation, paper replication, or final answer correctness, but do not directly assess ",
+        "url": "http://arxiv.org/abs/2607.29626v1",
+        "pdf": "https://arxiv.org/pdf/2607.29626v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations",
+        "authors": [
+          "Ilya Mikhelson"
+        ],
+        "summary": "Traditional static assessments rely on a subtractive, deficit-based grading model that often penalizes ambition and obscures diagnostic feedback. Conversely, traditional face-to-face oral examinations introduce severe construct-irrelevant variance by exacerbating performative anxiety and the sociolo",
+        "url": "http://arxiv.org/abs/2607.29624v1",
+        "pdf": "https://arxiv.org/pdf/2607.29624v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "CENDRe: Concept Extraction with Natural Domain Representations",
+        "authors": [
+          "Antonia Holzapfel",
+          "Andres Felipe Posada Moreno",
+          "Sebastian Trimpe"
+        ],
+        "summary": "Convolutional neural networks (CNNs) are widely used for time-series classification, but their deployment in critical domains requires understanding the temporal and spectral patterns that drive their predictions. Concept extraction (CE) methods identify such patterns by analyzing representations wi",
+        "url": "http://arxiv.org/abs/2607.29621v1",
+        "pdf": "https://arxiv.org/pdf/2607.29621v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning",
+        "authors": [
+          "Luca Viano",
+          "Antoine Moulin",
+          "Audrey Huang",
+          "Volkan Cevher",
+          "Philip Amortila"
+        ],
+        "summary": "Imitation learning (IL)---training an agent to replicate expert behavior from demonstrations---underpins applications from robotics to language model training. Standard approaches such as Behavior Cloning (BC) are known to suffer from compounding errors and performance plateaus, particularly when th",
+        "url": "http://arxiv.org/abs/2607.29617v1",
+        "pdf": "https://arxiv.org/pdf/2607.29617v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "A Human-Centered Validation of the Explainability-Performance Coefficient",
+        "authors": [
+          "Christian Oliva",
+          "Luis F. Lago-Fernández"
+        ],
+        "summary": "The rapid adoption of deep learning models in high-risk domains has intensified the need for trustworthy Explainable Artificial Intelligence (XAI). However, objectively evaluating explanation fidelity and aligning XAI metrics with human-centered understanding remain critical open challenges. In this",
+        "url": "http://arxiv.org/abs/2607.29614v1",
+        "pdf": "https://arxiv.org/pdf/2607.29614v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models",
+        "authors": [
+          "Jeffrey M. Girard",
+          "Jason Z. Zheng",
+          "Jacqueline R. Vertino",
+          "Antony D'Avirro",
+          "Benjamin Peloquin"
+        ],
+        "summary": "Reading a social situation often depends on behavior, not words alone. We introduce FriendBench, a benchmark for inferring whether two people are already familiar or are meeting as strangers, from a 20-second clip of a dyadic ice-breaker conversation. Every pair answers the same type of prompt, so o",
+        "url": "http://arxiv.org/abs/2607.29602v1",
+        "pdf": "https://arxiv.org/pdf/2607.29602v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "TraceViT: Grounded Trace Supervision for Visual Abstract Reasoning",
+        "authors": [
+          "Binnan Liu",
+          "Yechi Ma",
+          "Tian Xie",
+          "Wei Hua"
+        ],
+        "summary": "The Abstraction and Reasoning Corpus (ARC) tests whether a model can infer an unseen transformation from a few input-output examples and apply it to a new grid. Looped visual reasoners refine predictions over multiple iterations, but conventional training constrains only the final output, leaving in",
+        "url": "http://arxiv.org/abs/2607.29586v1",
+        "pdf": "https://arxiv.org/pdf/2607.29586v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat",
+        "authors": [
+          "Ismayil Ismayilov",
+          "Atakan Kara",
+          "Kaan Oktay"
+        ],
+        "summary": "Games and simulators make valuable benchmarks by turning decisions into measurable outcomes, but many current suites under-test rules-rich tactical reasoning: the ability to choose well when geometry, timing, resources, objectives, and rule interactions all matter at once. We introduce DungeonBench,",
+        "url": "http://arxiv.org/abs/2607.29577v1",
+        "pdf": "https://arxiv.org/pdf/2607.29577v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "MOT-SR: Multi-Objective Tool-Augmented Scientific Equation Discovery with Large Language Models",
+        "authors": [
+          "Boxiao Wang",
+          "Runxiang Wang",
+          "Kai Li",
+          "Chongming Li",
+          "Zhiwei Chen"
+        ],
+        "summary": "Symbolic Regression (SR) aims to discover analytical equations from observational data and plays a central role in scientific modeling. While recent Large Language Model (LLM) based approaches show promise, they face two limitations. First, they lack data analysis mechanisms for uncovering variable ",
+        "url": "http://arxiv.org/abs/2607.29561v1",
+        "pdf": "https://arxiv.org/pdf/2607.29561v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "LEMUR: Learning to Align with Multi-Objective Reinforcement Learning from Preference Feedback",
+        "authors": [
+          "Manith Adikari",
+          "Bei Peng",
+          "Samuele Vinanzi",
+          "Angelo Cangelosi"
+        ],
+        "summary": "Reinforcement Learning (RL) systems are typically trained using a single, well-specified scalar reward function. However, real-world decision-making tasks often involve multiple, competing objectives, such as performance versus efficiency, where ground-truth reward functions are difficult to specify",
+        "url": "http://arxiv.org/abs/2607.29559v1",
+        "pdf": "https://arxiv.org/pdf/2607.29559v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "COntExt: Towards Context-Aware Ontology Extension from Operational Metrics",
+        "authors": [
+          "Hussain Hussain",
+          "Stefan Schöberl",
+          "Angelika Schneider",
+          "Verena Geist"
+        ],
+        "summary": "Organizations increasingly define operational metrics in structured, machine-readable formats to monitor systems, processes, and compliance. These metric definitions implicitly encode domain knowledge, such as referencing concepts, properties, and relationships, that often extends what is captured i",
+        "url": "http://arxiv.org/abs/2607.29553v1",
+        "pdf": "https://arxiv.org/pdf/2607.29553v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction",
+        "authors": [
+          "Rui Zou",
+          "Yutao Zhu",
+          "Mengqi Wei",
+          "Ji-Rong Wen"
+        ],
+        "summary": "Large language models have demonstrated strong mathematical problem-solving capabilities, yet reliably verifying their candidate answers remains challenging. Existing representative methods mainly revise outputs through natural-language reflection or assist verification by directly generating verifi",
+        "url": "http://arxiv.org/abs/2607.29549v1",
+        "pdf": "https://arxiv.org/pdf/2607.29549v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "ARB: A Matched Authorship-Rewriting Benchmark Dataset for AI-Text Detector Evaluation",
+        "authors": [
+          "Gaetano Perrone",
+          "Simon Pietro Romano"
+        ],
+        "summary": "Standard AI-text detection benchmarks compare human-written text against text generated directly by large language models (LLMs). While prior work has shown that rewriting and paraphrasing can degrade detector performance, it remains unclear whether performance measured on this conventional benchmar",
+        "url": "http://arxiv.org/abs/2607.29539v1",
+        "pdf": "https://arxiv.org/pdf/2607.29539v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "TerraNova: A Foundation Model for the Anthropocene",
+        "authors": [
+          "Carlos Rodriguez-Pardo",
+          "Massimo Tavoni"
+        ],
+        "summary": "A defining problem of the Anthropocene is to model the physical Earth and human societies as one coupled system, yet no learned representation spans their observational breadth. We argue the obstacle is geometric: the physical Earth is measured as continuous fields that ignore political borders, whe",
+        "url": "http://arxiv.org/abs/2607.29527v1",
+        "pdf": "https://arxiv.org/pdf/2607.29527v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "From Code Review to Code Critique: Intent, Drift, and Spotlight for AI-Generated Diffs at Scale",
+        "authors": [
+          "Chandra Maddila",
+          "Mashrur Rashik",
+          "Euna Mehnaz Khan",
+          "Smriti Jha",
+          "James Saindon"
+        ],
+        "summary": "AI coding agents are generating code at volumes that exceed the capacity of traditional peer review. At the same time, existing AI code review tools over-index on low-value suggestions such as style and best practices while under-indexing on the concerns human reviewers prioritize most: correctness,",
+        "url": "http://arxiv.org/abs/2607.29516v1",
+        "pdf": "https://arxiv.org/pdf/2607.29516v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "DreamQAS: Learning a Decision-Useful World Model for VQE-Efficient Quantum Architecture Search",
+        "authors": [
+          "Jiayang Niu",
+          "Yan Wang",
+          "Jie Li",
+          "Ke Deng",
+          "Azadeh Alavi"
+        ],
+        "summary": "Reinforcement-learning-based quantum architecture search (RL-QAS) repeatedly optimizes a variational quantum eigensolver (VQE) after extending a circuit, although circuit construction and action legality are deterministic and known. We introduce DreamQAS, a model-based RL framework that preserves th",
+        "url": "http://arxiv.org/abs/2607.29491v1",
+        "pdf": "https://arxiv.org/pdf/2607.29491v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Self-Play Meets Skill Evolution: Self-Evolving Search Agents that Pose, Solve, and Remember",
+        "authors": [
+          "Zenghuang Fu",
+          "Zhaoyang Li",
+          "Qiuyuan Ai",
+          "Haoyu Wu",
+          "Minghui Wu"
+        ],
+        "summary": "Self-play agents can generate training problems without questions from target benchmarks, but their curricula lack persistent state: failures affect gradients yet do not explicitly shape future practice. External skill memories preserve procedural experience but are typically learned from fixed task",
+        "url": "http://arxiv.org/abs/2607.29468v1",
+        "pdf": "https://arxiv.org/pdf/2607.29468v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion",
+        "authors": [
+          "Yu Sun",
+          "Yuan Chang",
+          "Xiaohou Shi",
+          "Yan Sun"
+        ],
+        "summary": "Large-scale multivariate time series from heterogeneous IoT sensors demand accurate long-term forecasting for resource scheduling and predictive maintenance. While recent time series foundation models exhibit strong generalization, they rely on static parametric knowledge and lack dynamic access to ",
+        "url": "http://arxiv.org/abs/2607.29459v1",
+        "pdf": "https://arxiv.org/pdf/2607.29459v1",
+        "published": "2026-07-31",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
+        "authors": [
+          "Arkajyoti Bhattacharjee",
+          "Arnab Auddy"
+        ],
+        "summary": "Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. We study differentially private recovery of density modes for multivariate distributions under local smoothness, c",
+        "url": "http://arxiv.org/abs/2607.29675v1",
+        "pdf": "https://arxiv.org/pdf/2607.29675v1",
+        "published": "2026-07-31",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback",
+        "authors": [
+          "Maria Smirnova",
+          "Alexey Kravatskiy"
+        ],
+        "summary": "SignMuon compresses the Muon update to one bit per parameter by taking its elementwise sign, providing the most direct way to run a matrix-aware optimizer under an extremely low communication budget. It outperforms SignSGD in practice, yet it can ascend even on a linear function. Signing the gradien",
+        "url": "http://arxiv.org/abs/2607.29674v1",
+        "pdf": "https://arxiv.org/pdf/2607.29674v1",
+        "published": "2026-07-31",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations",
+        "authors": [
+          "Juncheng Zhong",
+          "Chenghuang Shen",
+          "Jianfeng Liu",
+          "Zhengdong Xiao",
+          "Longjiu Luo"
+        ],
+        "summary": "PDE discovery from sparse observations requires reconstructing a continuous field and selecting the correct differential terms. Our analysis of optimization paths in coupled neural PDE discovery reveals three behaviors: the exact support can persist to the end of training, appear only transiently, o",
+        "url": "http://arxiv.org/abs/2607.29665v1",
+        "pdf": "https://arxiv.org/pdf/2607.29665v1",
+        "published": "2026-07-31",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "GQ-FSL: Green Quantized Federated Split Learning",
+        "authors": [
+          "Idan Roth",
+          "Lutz Lampe"
+        ],
+        "summary": "Deploying state-of-the-art deep neural networks (DNNs) at the wireless edge is severely bottlenecked by the strict energy and resource constraints of mobile devices. While federated split learning (FSL) mitigates on-device computation by offloading workloads to an edge server, this may introduce sys",
+        "url": "http://arxiv.org/abs/2607.29659v1",
+        "pdf": "https://arxiv.org/pdf/2607.29659v1",
+        "published": "2026-07-31",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "QASP: Query-Adaptive Robust Vector Search Policy",
+        "authors": [
+          "Hakan Ferhatosmanoglu",
+          "Kushal Kumar",
+          "Tal Wagner",
+          "Andy Warfield"
+        ],
+        "summary": "A fundamental challenge of vector search is achieving consistently high recall while minimizing computational costs. Fixed search parameters cause significant performance variance across queries, and conventional evaluation on average recall masks these per-query disparities. We introduce QASP (Quer",
+        "url": "http://arxiv.org/abs/2607.29606v1",
+        "pdf": "https://arxiv.org/pdf/2607.29606v1",
+        "published": "2026-07-31",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "The Parts Are Greater Than the Sum: Automated Task Sequencing for Efficient Training of Multi-Policy LLMs",
+        "authors": [
+          "Jiajia Tang",
+          "Sizhe Yuen",
+          "Francisco Gomez Medina",
+          "Yali Du",
+          "Adam Sobey"
+        ],
+        "summary": "Parameter-Efficient Fine-Tuning (PEFT) commonly adapts large language models using a single shared Low-Rank Adapter (LoRA). This shared optimization space often suffers from interference when adapting heterogeneous task sequences, leading to poor transfer and catastrophic forgetting. Existing approa",
+        "url": "http://arxiv.org/abs/2607.29601v1",
+        "pdf": "https://arxiv.org/pdf/2607.29601v1",
+        "published": "2026-07-31",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Convergence and Regret of the Policy Gradient for Multi-Armed Bandits in Diffusion Environment",
+        "authors": [
+          "Yanwei Jia",
+          "Du Ouyang"
+        ],
+        "summary": "This paper studies the policy gradient update for a multi-arm bandit problem in diffusion environment that is described by a stochastic differential equation (SDE) under the continuous-time reinforcement learning framework by Wang et al. (2020), Jia and Zhou (2022b). With the logit parameterization ",
+        "url": "http://arxiv.org/abs/2607.29593v1",
+        "pdf": "https://arxiv.org/pdf/2607.29593v1",
+        "published": "2026-07-31",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
