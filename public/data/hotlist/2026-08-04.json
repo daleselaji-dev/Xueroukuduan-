@@ -1,0 +1,609 @@
+{
+  "date": "2026-08-04",
+  "generated": "2026-08-04T05:16:18.955445",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "yc-software/qm",
+        "description": "Multiplayer agent harness for work",
+        "stars": 10121,
+        "language": "TypeScript",
+        "url": "https://github.com/yc-software/qm",
+        "created": "2026-07-29"
+      },
+      {
+        "rank": 2,
+        "name": "bashalarmistalt/decimen-optical-transfer",
+        "description": "",
+        "stars": 4314,
+        "language": "TypeScript",
+        "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+        "created": "2026-07-30"
+      },
+      {
+        "rank": 3,
+        "name": "trycompai/crm",
+        "description": "An open-source, agentic-first CRM.",
+        "stars": 3498,
+        "language": "TypeScript",
+        "url": "https://github.com/trycompai/crm",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 4,
+        "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+        "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+        "stars": 2265,
+        "language": null,
+        "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+        "created": "2026-07-30"
+      },
+      {
+        "rank": 5,
+        "name": "microsoft/skill-recorder",
+        "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Mic",
+        "stars": 1499,
+        "language": "TypeScript",
+        "url": "https://github.com/microsoft/skill-recorder",
+        "created": "2026-07-29"
+      },
+      {
+        "rank": 6,
+        "name": "FareedKhan-dev/kimi-k3-in-c",
+        "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "stars": 1350,
+        "language": "C",
+        "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 7,
+        "name": "DannyMac180/sol-advisor",
+        "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+        "stars": 1103,
+        "language": "Shell",
+        "url": "https://github.com/DannyMac180/sol-advisor",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 8,
+        "name": "imsai-sh/zhuzhiliao",
+        "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+        "stars": 981,
+        "language": "HTML",
+        "url": "https://github.com/imsai-sh/zhuzhiliao",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 9,
+        "name": "WilonityDev/WilonityLoader",
+        "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWI",
+        "stars": 899,
+        "language": null,
+        "url": "https://github.com/WilonityDev/WilonityLoader",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 10,
+        "name": "thebuggeddev/anatomy",
+        "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+        "stars": 845,
+        "language": "TypeScript",
+        "url": "https://github.com/thebuggeddev/anatomy",
+        "created": "2026-08-02"
+      },
+      {
+        "rank": 11,
+        "name": "genspark-ai/genoffice",
+        "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+        "stars": 784,
+        "language": "TypeScript",
+        "url": "https://github.com/genspark-ai/genoffice",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 12,
+        "name": "talivia-group/talivia",
+        "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+        "stars": 681,
+        "language": "TypeScript",
+        "url": "https://github.com/talivia-group/talivia",
+        "created": "2026-07-29"
+      },
+      {
+        "rank": 13,
+        "name": "x4gKing/3x-ui-multi",
+        "description": "",
+        "stars": 567,
+        "language": "JavaScript",
+        "url": "https://github.com/x4gKing/3x-ui-multi",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 14,
+        "name": "0xwilliamortiz/humanizer-cli",
+        "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+        "stars": 560,
+        "language": "JavaScript",
+        "url": "https://github.com/0xwilliamortiz/humanizer-cli",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 15,
+        "name": "ddoemonn/interior",
+        "description": "micro-interactions for react, built for the half-second after a click",
+        "stars": 474,
+        "language": "TypeScript",
+        "url": "https://github.com/ddoemonn/interior",
+        "created": "2026-07-30"
+      },
+      {
+        "rank": 16,
+        "name": "s1dashu/animated-voiceover",
+        "description": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
+        "stars": 473,
+        "language": null,
+        "url": "https://github.com/s1dashu/animated-voiceover",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 17,
+        "name": "openai/ten-proofs",
+        "description": "Lean certificates accompanying proofs in mathematics and theoretical computer science",
+        "stars": 443,
+        "language": "Lean",
+        "url": "https://github.com/openai/ten-proofs",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 18,
+        "name": "0xwilliamortiz/ratchet",
+        "description": "Your agent reads the rules. This checks whether it followed them.",
+        "stars": 426,
+        "language": "JavaScript",
+        "url": "https://github.com/0xwilliamortiz/ratchet",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 19,
+        "name": "lij768423-svg/grok-register-panel",
+        "description": "Grok register engine (Camoufox) + live web monitor panel",
+        "stars": 399,
+        "language": "Python",
+        "url": "https://github.com/lij768423-svg/grok-register-panel",
+        "created": "2026-07-29"
+      },
+      {
+        "rank": 20,
+        "name": "deedy/qr-data-transfer",
+        "description": "",
+        "stars": 372,
+        "language": "TypeScript",
+        "url": "https://github.com/deedy/qr-data-transfer",
+        "created": "2026-07-31"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
+        "authors": [
+          "Junjie Yin",
+          "Buxin She",
+          "Xinyu Feng",
+          " Fangxing",
+          " Li"
+        ],
+        "summary": "Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little reusable material for newcomers or interdisciplinary learners, who increasingly r",
+        "url": "http://arxiv.org/abs/2608.02599v1",
+        "pdf": "https://arxiv.org/pdf/2608.02599v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "UEmbed: Unified Sparse and Dense Multimodal Embeddings",
+        "authors": [
+          "Tingyu Song",
+          "Mingxin Li",
+          "Yanzhao Zhang",
+          "Dingkun Long",
+          "Pengjun Xie"
+        ],
+        "summary": "Sparse retrieval underpins modern search systems, from web search to retrieval-augmented generation. Existing work has introduced Learned Sparse Retrieval (LSR) to push beyond exact lexical matching toward richer semantics. Yet LSR has so far remained tied to encoder-style bidirectional architecture",
+        "url": "http://arxiv.org/abs/2608.02583v1",
+        "pdf": "https://arxiv.org/pdf/2608.02583v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs",
+        "authors": [
+          "Shuaijun Liu",
+          "Qifu Wen",
+          "Shuyang Hao",
+          "Qi Luo",
+          "Chenglong Zhang"
+        ],
+        "summary": "World Action Models (WAMs) augment robot policies with action-conditioned predicted futures, but a plausible future alone does not justify changing the action that a bimanual policy would execute. We present CoWAM, a selective intervention layer that expresses synchronization, role compatibility, an",
+        "url": "http://arxiv.org/abs/2608.02578v1",
+        "pdf": "https://arxiv.org/pdf/2608.02578v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies",
+        "authors": [
+          "Qiushi Lin",
+          "Chaojie Zhang",
+          "Íñigo Goiri",
+          "Aditya Akella",
+          "Ricardo Bianchini"
+        ],
+        "summary": "The efficiency of a datacenter rests on its control plane policies. Designing these policies is increasingly hard: the hardware-software stack grows fast, the design space is vast and interdependent, and prototyping a single policy takes months. Agentic AI promises to automate this search. Off the s",
+        "url": "http://arxiv.org/abs/2608.02569v1",
+        "pdf": "https://arxiv.org/pdf/2608.02569v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection",
+        "authors": [
+          "Anusha Madan Gopal",
+          "Aras Pirbadian",
+          "Kristofor D. Carlson",
+          "M Anthony Lewis",
+          "Jonathan Tapson"
+        ],
+        "summary": "Retrieval-augmented generation (RAG) imposes a prefill cost proportional to retrieved context length, and -- with Transformer backbones -- a KV-cache that grows with each generated token. State-Space Models (SSMs) avoid the second cost by construction; we eliminate the first, collapsing prefill from",
+        "url": "http://arxiv.org/abs/2608.02560v1",
+        "pdf": "https://arxiv.org/pdf/2608.02560v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "A Taxonomy of Cognitive Capability Gaps in Generative and Agentic AI",
+        "authors": [
+          "Taye Akinrele",
+          "Sindhuja Penchala",
+          "Noorbakhsh Amiri Golilarz",
+          "Sudip Mittal",
+          "Shahram Rahimi"
+        ],
+        "summary": "Cognitive AI seeks to move beyond language generation and autonomous task execution toward systems capable of sustained reasoning, adaptive behavior, persistent memory, and self-regulation. While generative and agentic AI have demonstrated impressive capabilities across a wide range of tasks, many f",
+        "url": "http://arxiv.org/abs/2608.02553v1",
+        "pdf": "https://arxiv.org/pdf/2608.02553v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Who Should Be Generated? Justifying Demographic Targets in Open-Ended Generation",
+        "authors": [
+          "Zeshen Zheng",
+          "Yujia He",
+          "Qianmian Lin",
+          "Xiangyue Huang",
+          "Wenqing Chen"
+        ],
+        "summary": "Fairness evaluation concerns not only what a model produces, but also what its outputs ought to be compared against. When a model generates \"a CEO in the United States,\" the prompt leaves demographic realization to the model. Existing group fairness definitions assume that sensitive attributes are g",
+        "url": "http://arxiv.org/abs/2608.02551v1",
+        "pdf": "https://arxiv.org/pdf/2608.02551v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Analytic Planning under Uncertainty with Moment Closure",
+        "authors": [
+          "Shishir Sharma",
+          "Doina Precup"
+        ],
+        "summary": "Effective model-based reinforcement learning in stochastic environments requires planning that accounts for predictive uncertainty. Propagating full state distributions analytically offers a principled way to do this, but has traditionally required restrictive policy or reward structures to remain t",
+        "url": "http://arxiv.org/abs/2608.02519v1",
+        "pdf": "https://arxiv.org/pdf/2608.02519v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Magnet: Detecting Cross-Session AI Misuse Through Capability Accumulation",
+        "authors": [
+          "Natalie Isak",
+          "Matthew Dressman"
+        ],
+        "summary": "The most capable AI deployments are not single models but ensembles of specialized agents that delegate and act in coordination. This architecture unlocks powerful new capabilities, and it also introduces risks that existing frameworks for monitoring, detection, and mitigation were not designed to a",
+        "url": "http://arxiv.org/abs/2608.02518v1",
+        "pdf": "https://arxiv.org/pdf/2608.02518v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Optimizing Minimax Regret in Uncertain MDPs with Small Sets of Policies",
+        "authors": [
+          "Sterre Lutz",
+          "Daniël Vos",
+          "Matthijs T. J. Spaan",
+          "Anna Lukina"
+        ],
+        "summary": "Sequential decision-making in real-world applications often involves uncertainty about the environment's model. Uncertain Markov decision processes (UMDPs) represent the possible environments as a set of MDPs with shared states and actions but potentially different transition probabilities and rewar",
+        "url": "http://arxiv.org/abs/2608.02509v1",
+        "pdf": "https://arxiv.org/pdf/2608.02509v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Abduction Without a Body? Representational Grounding and the Abduction Loop for Scientific Hypothesis Generation",
+        "authors": [
+          "Michael Farmer"
+        ],
+        "summary": "Can scientific abduction occur without continuous sensorimotor embodiment? Recent arguments in AI and philosophy of science hold that genuine hypothesis generation requires an agent continuously coupled to the physical world. We defend a narrower claim: online embodiment is not necessary for every a",
+        "url": "http://arxiv.org/abs/2608.02505v1",
+        "pdf": "https://arxiv.org/pdf/2608.02505v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "CMuon: Accelerating and Stabilizing Diffusion Transformer Training via Chunked Momentum Orthogonalization",
+        "authors": [
+          "Chuyan Chen",
+          "Peng Sun",
+          "Kun Yuan"
+        ],
+        "summary": "Diffusion Transformers (DiTs) have achieved state-of-the-art (SOTA) performance in visual generative modeling, yet their training remains computationally prohibitive. While the recently proposed Momentum Orthogonalization (Muon) optimizer offers a promising alternative to AdamW, its direct applicati",
+        "url": "http://arxiv.org/abs/2608.02502v1",
+        "pdf": "https://arxiv.org/pdf/2608.02502v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "SWE-Touch: Benchmarking Coding Agents When Users Touch the Code",
+        "authors": [
+          "Yuqiao Tan",
+          "Jinxiang Meng",
+          "Fangyu Lei",
+          "Minzheng Wang",
+          "Shizhu He"
+        ],
+        "summary": "Real-world software development requires coding agents to operate in shared workspaces where users may inspect and modify code during an ongoing task, yet existing repository-level benchmarks typically evaluate agents working alone or restrict user participation to messages. This leads us to ask: ho",
+        "url": "http://arxiv.org/abs/2608.02499v1",
+        "pdf": "https://arxiv.org/pdf/2608.02499v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "DyFrDet: Towards Accurate Small Object Detection via Dynamic Frequency Suppression with Label Disambiguation",
+        "authors": [
+          "Zihan Yang",
+          "Yang Guo",
+          "Hongxing Zhang",
+          "Dan Lu",
+          "Siyuan Yao"
+        ],
+        "summary": "Despite the remarkable progress over the past decades, accurately identifying small objects remains challenging because of their insufficient visual cues. Previous works typically attempt to construct discriminative representation of the small objects. However, the wide range frequency domain noises",
+        "url": "http://arxiv.org/abs/2608.02495v1",
+        "pdf": "https://arxiv.org/pdf/2608.02495v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Long-term Measurements: Towards a Longitudinal Understanding of Human-AI Interactions",
+        "authors": [
+          "Nicole Mitchell",
+          "Dhruv Agarwal",
+          "Maty Bohacek",
+          "Remi Denton",
+          "Roma Patel"
+        ],
+        "summary": "Language models have taken on the role of a very new type of technology, by virtue of their \"human-ness\" and rapid integration into users' daily lives. This combination of features can introduce longitudinal risks---cognitive, developmental and socio-affective changes in humans---that might not surf",
+        "url": "http://arxiv.org/abs/2608.02491v1",
+        "pdf": "https://arxiv.org/pdf/2608.02491v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Action-grounded tissue affordance enables anticipatory auto-framing that lowers surgeon cognitive workload during laparoscopic surgery",
+        "authors": [
+          "Jiayu Gu",
+          "Yiwei Wang",
+          "Jie Zhang",
+          "Guojun Cao",
+          "Keshen Lyu"
+        ],
+        "summary": "Computational attention models could help surgeons manage the visual demands of laparoscopy, but they require dense spatial labels that are difficult to obtain because surgical intent is highly specialized and tacit. Here, we introduce DiffeoAfford, an action-grounded tissue affordance framework tha",
+        "url": "http://arxiv.org/abs/2608.02471v1",
+        "pdf": "https://arxiv.org/pdf/2608.02471v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Grounding Agentic VLMs with Dedicated Segmentation for Fine-Grained Vehicle Damage Assessment",
+        "authors": [
+          "Vishwajeet Shivaji Hogale",
+          "Anjali Pai",
+          "Nitya Ravi"
+        ],
+        "summary": "Vision-language models (VLMs) are increasingly deployed as reasoning agents in real-world visual assessment pipelines, yet their spatial grounding remains unreliable for fine-grained, visually ambiguous targets. We study this gap in the context of automated vehicle damage assessment, where fine-grai",
+        "url": "http://arxiv.org/abs/2608.02470v1",
+        "pdf": "https://arxiv.org/pdf/2608.02470v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Real-Time Detection and Repair of LLM Agent Failures",
+        "authors": [
+          "Sunny Dubey"
+        ],
+        "summary": "LLM agents fail mid-episode -- they loop, cascade tool errors, drift off goal, fabricate results, or silently absorb corrupted content -- and the standard remedy, judging every step with a second LLM, costs more than the agent itself. We ask how much detection is achievable from observable step tele",
+        "url": "http://arxiv.org/abs/2608.02464v1",
+        "pdf": "https://arxiv.org/pdf/2608.02464v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Syntax Meets Semantics: Understanding Scientific Formulae",
+        "authors": [
+          "Yuni Susanti",
+          "Moritz Schubotz"
+        ],
+        "summary": "Scientific formulae are a fundamental component of scholarly communication, yet their dual nature -- as structured syntax and carriers of semantics -- remains underexplored in scholarly information retrieval. Although prior studies show that jointly modeling syntactic and semantic modalities improve",
+        "url": "http://arxiv.org/abs/2608.02457v1",
+        "pdf": "https://arxiv.org/pdf/2608.02457v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Infinite Trace Objectives with Finite Trace Techniques: Translating LTL to LTLf+",
+        "authors": [
+          "Christoph Weinhuber",
+          "Maximilian Prokop",
+          "Giuseppe De Giacomo",
+          "Moshe Y. Vardi"
+        ],
+        "summary": "Linear Temporal Logic (LTL) is one of the most widely adopted languages for specifying temporal extended objectives in AI, with applications ranging from reactive synthesis to stochastic planning in Markov decision processes and reinforcement learning. Traditionally, solving any of these problems re",
+        "url": "http://arxiv.org/abs/2608.02454v1",
+        "pdf": "https://arxiv.org/pdf/2608.02454v1",
+        "published": "2026-08-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks",
+        "authors": [
+          "Brandon Wang",
+          "Andrei S. Tyrin",
+          "Daniil A. Boiko"
+        ],
+        "summary": "Language models are playing an increasingly important role in laboratory science, performing tasks such as experiment planning, execution, and post-hoc analysis. However, precisely measuring their abilities is difficult, as scientific capabilities require a mixture of both problem-solving skills and",
+        "url": "http://arxiv.org/abs/2608.02595v1",
+        "pdf": "https://arxiv.org/pdf/2608.02595v1",
+        "published": "2026-08-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "The Condition-Number Barrier in Sparse Least Squares",
+        "authors": [
+          "Honghao Lin",
+          "Vahab Mirrokni",
+          "David P. Woodruff"
+        ],
+        "summary": "In [AS21], Axiotis and Sviridenko conjectured that the linear dependence on the restricted condition number in sparse convex optimization cannot be improved by a polynomial-time algorithm. We establish their conjectured lower bound for least-squares objectives, conditional on the randomized exact-vo",
+        "url": "http://arxiv.org/abs/2608.02588v1",
+        "pdf": "https://arxiv.org/pdf/2608.02588v1",
+        "published": "2026-08-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning",
+        "authors": [
+          "Zhaoxin Yu",
+          "Qi Shen",
+          "Hengli Li",
+          "Zhaowei Zhang",
+          "Song-Chun Zhu"
+        ],
+        "summary": "Optimization-based latent reasoning improves large language model outputs by optimizing instance-specific continuous states at test time while keeping model parameters frozen. Existing methods, however, typically connect these states to the reasoning trajectory through decoded tokens, making sequenc",
+        "url": "http://arxiv.org/abs/2608.02585v1",
+        "pdf": "https://arxiv.org/pdf/2608.02585v1",
+        "published": "2026-08-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Smooth Reparameterizations of Functions on Simplicial Product Spaces: Applications to Probabilistic Tensor Decomposition and Functional Data Registration",
+        "authors": [
+          "Shashwat Kumar",
+          "Arafat Rahman",
+          "Anuj Srivastava",
+          "P. -A. Absil"
+        ],
+        "summary": "We consider optimization problems defined on product spaces of simplices. Examples of this class of problems include learning low-rank discrete multivariate probability distributions via simplex constrained tensor decomposition and performing functional data registration under the Square Root Veloci",
+        "url": "http://arxiv.org/abs/2608.02576v1",
+        "pdf": "https://arxiv.org/pdf/2608.02576v1",
+        "published": "2026-08-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Pseudorandom Streams within Diffusion Models Act as Learnable Inputs That Affect Generation Quality",
+        "authors": [
+          "Shengzhi Deng",
+          "Chenqi Ye",
+          "Yanze Guo"
+        ],
+        "summary": "Diffusion models rely on stochastic inputs, yet on finite-precision hardware, the \"randomness\" they consume is realized as deterministic numerical orbits generated by pseudorandom rules. Accessible orbit structure can become a learnable input and affect both training and generation because the reali",
+        "url": "http://arxiv.org/abs/2608.02575v1",
+        "pdf": "https://arxiv.org/pdf/2608.02575v1",
+        "published": "2026-08-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Benchmarking Sheaf Neural Networks for Inductive Tasks",
+        "authors": [
+          "Stefano Fiorini",
+          "Edoardo Coppola",
+          "Pietro Liò"
+        ],
+        "summary": "Sheaf Neural Networks (SNNs) generalize message passing by replacing scalar edge weights of standard Graph Neural Networks (GNNs) with learnable, edge-dependent restriction maps between node stalks. Despite their strong theoretical foundations and promising transductive results, SNNs have been evalu",
+        "url": "http://arxiv.org/abs/2608.02558v1",
+        "pdf": "https://arxiv.org/pdf/2608.02558v1",
+        "published": "2026-08-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "A Simple Approximation to the Distribution of the Ridge Regression Estimator",
+        "authors": [
+          "José Luis Montiel Olea",
+          "Ryan Strong",
+          "Amilcar Velez",
+          "Zhuoheng Xu",
+          "Haomin Yu"
+        ],
+        "summary": "We present a simple Gaussian approximation to the finite-sample distribution of the classical ridge regression estimator. Our approximation captures the fact that, in finite samples, the ridge regression estimator trades off bias and variance to reduce estimation and prediction error. Our approximat",
+        "url": "http://arxiv.org/abs/2608.02539v1",
+        "pdf": "https://arxiv.org/pdf/2608.02539v1",
+        "published": "2026-08-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Interaction Is Not Necessary for Order-Optimal 1-Bit Mean Estimation",
+        "authors": [
+          "Jiachen Hu",
+          "Han Zhong"
+        ],
+        "summary": "This paper is concerned with one-bit mean estimation, where each independent sample is represented by a single binary message. We consider distributions on $\\mathbb{R}$ with mean in $[-λ,λ]$ and absolute $k$-th central moment at most $σ^k$, where $k>1$ is fixed. For this class, previous work attaine",
+        "url": "http://arxiv.org/abs/2608.02538v1",
+        "pdf": "https://arxiv.org/pdf/2608.02538v1",
+        "published": "2026-08-03",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
