@@ -1,0 +1,595 @@
+{
+  "date": "2026-08-05",
+  "generated": "2026-08-05T05:16:10.350114",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "trycompai/crm",
+        "description": "An open-source, agentic-first CRM.",
+        "stars": 4998,
+        "language": "TypeScript",
+        "url": "https://github.com/trycompai/crm",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 2,
+        "name": "bashalarmistalt/decimen-optical-transfer",
+        "description": "",
+        "stars": 4575,
+        "language": "TypeScript",
+        "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+        "created": "2026-07-30"
+      },
+      {
+        "rank": 3,
+        "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+        "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+        "stars": 3057,
+        "language": null,
+        "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+        "created": "2026-07-30"
+      },
+      {
+        "rank": 4,
+        "name": "FareedKhan-dev/kimi-k3-in-c",
+        "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "stars": 2127,
+        "language": "C",
+        "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 5,
+        "name": "firecrawl/anydoc",
+        "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+        "stars": 2053,
+        "language": "Rust",
+        "url": "https://github.com/firecrawl/anydoc",
+        "created": "2026-08-03"
+      },
+      {
+        "rank": 6,
+        "name": "imsai-sh/zhuzhiliao",
+        "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+        "stars": 1769,
+        "language": "HTML",
+        "url": "https://github.com/imsai-sh/zhuzhiliao",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 7,
+        "name": "genspark-ai/genoffice",
+        "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+        "stars": 1423,
+        "language": "TypeScript",
+        "url": "https://github.com/genspark-ai/genoffice",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 8,
+        "name": "DannyMac180/sol-advisor",
+        "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+        "stars": 1341,
+        "language": "Shell",
+        "url": "https://github.com/DannyMac180/sol-advisor",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 9,
+        "name": "thebuggeddev/anatomy",
+        "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+        "stars": 1285,
+        "language": "TypeScript",
+        "url": "https://github.com/thebuggeddev/anatomy",
+        "created": "2026-08-02"
+      },
+      {
+        "rank": 10,
+        "name": "WilonityDev/WilonityLoader",
+        "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWI",
+        "stars": 900,
+        "language": null,
+        "url": "https://github.com/WilonityDev/WilonityLoader",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 11,
+        "name": "x4gKing/3x-ui-multi",
+        "description": "",
+        "stars": 713,
+        "language": "JavaScript",
+        "url": "https://github.com/x4gKing/3x-ui-multi",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 12,
+        "name": "0xwilliamortiz/humanizer-cli",
+        "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+        "stars": 572,
+        "language": "JavaScript",
+        "url": "https://github.com/0xwilliamortiz/humanizer-cli",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 13,
+        "name": "brookfacehe2421/flashloan-scalper-bot",
+        "description": "Quick profit scalper using flashloan mechanics",
+        "stars": 553,
+        "language": "JavaScript",
+        "url": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 14,
+        "name": "s1dashu/animated-voiceover",
+        "description": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
+        "stars": 496,
+        "language": null,
+        "url": "https://github.com/s1dashu/animated-voiceover",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 15,
+        "name": "ddoemonn/interior",
+        "description": "micro-interactions for react, built for the half-second after a click",
+        "stars": 487,
+        "language": "TypeScript",
+        "url": "https://github.com/ddoemonn/interior",
+        "created": "2026-07-30"
+      },
+      {
+        "rank": 16,
+        "name": "guillermolg00/morphicons",
+        "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
+        "stars": 484,
+        "language": "TypeScript",
+        "url": "https://github.com/guillermolg00/morphicons",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 17,
+        "name": "openai/ten-proofs",
+        "description": "Lean certificates accompanying proofs in mathematics and theoretical computer science",
+        "stars": 475,
+        "language": "Lean",
+        "url": "https://github.com/openai/ten-proofs",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 18,
+        "name": "KKKKhazix/human-writing",
+        "description": "活人感写作 1.0.0｜通用中文创作与改稿 Skill",
+        "stars": 468,
+        "language": "Python",
+        "url": "https://github.com/KKKKhazix/human-writing",
+        "created": "2026-08-05"
+      },
+      {
+        "rank": 19,
+        "name": "sophiamyang/finger-frame-effect-ai",
+        "description": "",
+        "stars": 452,
+        "language": "JavaScript",
+        "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+        "created": "2026-08-02"
+      },
+      {
+        "rank": 20,
+        "name": "0xwilliamortiz/ratchet",
+        "description": "Your agent reads the rules. This checks whether it followed them.",
+        "stars": 430,
+        "language": "JavaScript",
+        "url": "https://github.com/0xwilliamortiz/ratchet",
+        "created": "2026-07-31"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
+        "authors": [
+          "Changle Qu",
+          "Sunhao Dai",
+          "Hengyi Cai",
+          "Yuqi Zhou",
+          "Xinran Chen"
+        ],
+        "summary": "Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, limiting fine-grained credit assignment in long-horizon TIR scenarios. On-policy self-distillation off",
+        "url": "http://arxiv.org/abs/2608.04007v1",
+        "pdf": "https://arxiv.org/pdf/2608.04007v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
+        "authors": [
+          "Mohsen Hariri",
+          "Weicong Chen",
+          "Nahal Shahini",
+          "Vikash Singh",
+          "Kai Ye"
+        ],
+        "summary": "Large language models can solve substantially harder reasoning problems with more inference-time compute. The term \"test-time scaling,\" however, now covers diverse inference algorithms that extend deliberation along a single trajectory, sample completed candidates and aggregate them through voting o",
+        "url": "http://arxiv.org/abs/2608.04001v1",
+        "pdf": "https://arxiv.org/pdf/2608.04001v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss?",
+        "authors": [
+          "Hailong Jiang",
+          "Feng Yu",
+          "Emran Hossain",
+          "Jianfeng Zhu",
+          "Mengfei Ren"
+        ],
+        "summary": "Optimizing compilers miss profitable transformations when their enabling semantics are absent from the analyzed program representation. We ask whether large language models (LLMs) can recover such semantics from heterogeneous C/C++ context and realize them as validated, contract-preserving artifacts",
+        "url": "http://arxiv.org/abs/2608.03983v1",
+        "pdf": "https://arxiv.org/pdf/2608.03983v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
+        "authors": [
+          "Zhen Fang",
+          "Yu Zeng",
+          "Wenxuan Huang",
+          "Yiming Zhao",
+          "Shiting Huang"
+        ],
+        "summary": "We introduce Video-DeepResearch (Video-DR), extending multimodal agents from static images to continuous video streams, a setting that demands dense spatiotemporal grounding coupled with open-web exploration. Preliminary evaluations reveal two critical bottlenecks in current models: (1) modality bia",
+        "url": "http://arxiv.org/abs/2608.03979v1",
+        "pdf": "https://arxiv.org/pdf/2608.03979v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning",
+        "authors": [
+          "Jinhe Bi",
+          "Chennan Zhou",
+          "Zengjie Jin",
+          " Aniri",
+          "Shuo Lu"
+        ],
+        "summary": "On-policy training has emerged as a powerful post-training paradigm for improving the reasoning capabilities of large language models, and is often enhanced by golden trajectories from stronger expert models. However, when the expert fails on harder problems, existing trajectory-guided methods lose ",
+        "url": "http://arxiv.org/abs/2608.03972v1",
+        "pdf": "https://arxiv.org/pdf/2608.03972v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations",
+        "authors": [
+          "Zizhao Hu",
+          "Nathan Elijah Segura",
+          "Mohammad Rostami",
+          "Jesse Thomason"
+        ],
+        "summary": "Human input reaches language models by typing or speaking, and each channel leaves a distinct signature: orthographic noise for keyboards; for voice, disfluency from conventional transcription and restructuring from AI-backed dictation tools. How do they impact an LLM's performance? In this paper we",
+        "url": "http://arxiv.org/abs/2608.03970v1",
+        "pdf": "https://arxiv.org/pdf/2608.03970v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Separating quantum circuits from classical LLMs",
+        "authors": [
+          "Srinivasan Arunachalam",
+          "Arkopal Dutt",
+          "Hari Krovi",
+          "Rik Sengupta"
+        ],
+        "summary": "Modern large language models - transformers and diffusion language models - are built around two canonical algorithmic tasks: prediction and generation. We prove unconditional separations between low-depth quantum computation and the corresponding bounded-resource classical language-model architectu",
+        "url": "http://arxiv.org/abs/2608.03962v1",
+        "pdf": "https://arxiv.org/pdf/2608.03962v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Interpretable Adaptive Sampling for LLM Test-Time Scaling",
+        "authors": [
+          "Mobina Kashaniyan",
+          "Ali Jannesari"
+        ],
+        "summary": "Test-time scaling improves LLM reasoning by generating and aggregating multiple candidate answers, yet many pipelines use fixed per-query budgets that spend the same compute on easy and difficult prompts. These fixed budgets are also difficult to inspect because they do not explain why a given promp",
+        "url": "http://arxiv.org/abs/2608.03961v1",
+        "pdf": "https://arxiv.org/pdf/2608.03961v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "A game theory for foundation models shows new paths to rational cooperation through similarity inference",
+        "authors": [
+          "Alexander Meulemans",
+          "Maciej Wołczyk",
+          "Marissa A. Weis",
+          "Rajai Nasser",
+          "Roberta Rocca"
+        ],
+        "summary": "As autonomous agents powered by foundation models are increasingly integrated into social and economic systems, understanding the principles governing their collective behavior is essential for ensuring safety and cooperation. Classical game theory, the dominant framework for modeling rational inter",
+        "url": "http://arxiv.org/abs/2608.03958v1",
+        "pdf": "https://arxiv.org/pdf/2608.03958v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring",
+        "authors": [
+          "Dongjie Yang",
+          "Siyan Lin",
+          "Leixian Shen",
+          "Rui Sheng",
+          "Huamin Qu"
+        ],
+        "summary": "Large language models (LLMs) are increasingly used to provide conversational practice for English-as-a-second-language (ESL) learners. Effective ESL tutoring, however, requires more than fluent response generation: a tutor must select an appropriate pedagogical action based on learner behavior and d",
+        "url": "http://arxiv.org/abs/2608.03952v1",
+        "pdf": "https://arxiv.org/pdf/2608.03952v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Compressibility",
+        "authors": [
+          "Jo-Ku Cheng",
+          "Nikolaos Aletras",
+          "Marco Valentino"
+        ],
+        "summary": "Pre-pretraining language models (LMs) on symbolic data can accelerate and improve natural language acquisition. However, existing pre-pretraining tasks, such as Dyck and procedural algorithms, rely on narrow primitives that fail to capture the expressive capacity of natural language. Moreover, prior",
+        "url": "http://arxiv.org/abs/2608.03930v1",
+        "pdf": "https://arxiv.org/pdf/2608.03930v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "PRISM: Powerful Time Series to Image (TS2I) Representations for Multivariate Anomaly Detection",
+        "authors": [
+          "Mateusz Smendowski",
+          "Kamil Faber",
+          "Piotr Nawrocki",
+          "Nathalie Japkowicz",
+          "Roberto Corizzo"
+        ],
+        "summary": "Time series anomaly detection (TSAD) underpins applications in predictive maintenance, finance, and cloud computing, however performance remains sensitive to representation choices, especially in multivariate settings. While transforming time series into images has shown success in forecasting and c",
+        "url": "http://arxiv.org/abs/2608.03926v1",
+        "pdf": "https://arxiv.org/pdf/2608.03926v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "The Transformer Revolution, Part 1: Dynamic Processing through Output- Weight Interconnections",
+        "authors": [
+          "Marco Giunti",
+          "Fabrizia Giulia Garavaglia"
+        ],
+        "summary": "This paper offers a new interpretation of the Transformer during inference. Against the \"stochastic parrot\" view that large language models merely reproduce statistical regularities learned in training, we argue that Transformers construct and apply prompt-dependent transformations whose parameters ",
+        "url": "http://arxiv.org/abs/2608.03921v1",
+        "pdf": "https://arxiv.org/pdf/2608.03921v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Equivariant Music Transformer",
+        "authors": [
+          "Zixun Guo",
+          "Simon Dixon"
+        ],
+        "summary": "Humans recognize a musical passage even when it is shifted in time or transposed in pitch, indicating a notion of equivariance in the representation space. Our analysis, however, shows that standard music transformers map such time-shifted or pitch-transposed inputs onto uncorrelated representations",
+        "url": "http://arxiv.org/abs/2608.03920v1",
+        "pdf": "https://arxiv.org/pdf/2608.03920v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "When and Where to Look: Adaptive Visual Evidence Scheduling for Efficient Long Video Understanding",
+        "authors": [
+          "Ke Li",
+          "Jiayu Chen",
+          "Maoliang Li",
+          "Zihao Zheng",
+          "Hailong Zou"
+        ],
+        "summary": "Efficient long-video understanding requires vision--language models (VLMs) to reason over a small number of frames selected as sparse visual evidence. Existing relevance-based methods rely on static one-shot selection with fixed frame budgets and candidate pools, while agent-based schedulers achieve",
+        "url": "http://arxiv.org/abs/2608.03918v1",
+        "pdf": "https://arxiv.org/pdf/2608.03918v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Implementing Causal Perception: Competing SCMs and Situated Fairness",
+        "authors": [
+          "Jose M. Álvarez"
+        ],
+        "summary": "Causal perception occurs when agents with competing Structural Causal Models (SCMs) of the same system infer different probability distributions, including the hypothetical distributions implied by each agent's SCM under the same set of interventions. It shapes how agents reason about the system and",
+        "url": "http://arxiv.org/abs/2608.03917v1",
+        "pdf": "https://arxiv.org/pdf/2608.03917v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Socially Grounded Agentic AI: Coordinating Plural Perspectives through Social Theory",
+        "authors": [
+          "Matt Ratto",
+          "Abhishek Moturu",
+          "Daniel Silver"
+        ],
+        "summary": "As AI systems are deployed across increasingly diverse social contexts, alignment can no longer be framed as the optimization of a single, unified set of values. Instead, systems must be able to recognize, represent, and respond to multiple legitimate perspectives. This has led to growing interest i",
+        "url": "http://arxiv.org/abs/2608.03910v1",
+        "pdf": "https://arxiv.org/pdf/2608.03910v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "When Efficiency Becomes Fragility: Exploiting Dynamic Routing Vulnerabilities in Adaptive UAV Tracking",
+        "authors": [
+          "Shaofeng Liang",
+          "Runwei Guan",
+          "Wenshuo Chen",
+          "Jiemin Wu",
+          "Bowen Tian"
+        ],
+        "summary": "Resource constraints on UAV platforms have driven a paradigm shift in aerial tracking, from pursuing performance toward balancing accuracy with efficiency. Adaptive Transformer Trackers, which leverage an input-dependent dynamic routing architecture, have emerged as a representative solution to this",
+        "url": "http://arxiv.org/abs/2608.03902v1",
+        "pdf": "https://arxiv.org/pdf/2608.03902v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Intertemporal Preference Steering in Qwen3 via Contrastive Activation Addition",
+        "authors": [
+          "Michal Mráz",
+          "Justin Shenk"
+        ],
+        "summary": "We study linear representations of temporal horizon in the large language model Qwen3-32B and use them to change the model's time-related preferences, recommendations, and capabilities. We train contrastive linear probes on teacher-forced temporal-choice answers to find a short-term versus long-term",
+        "url": "http://arxiv.org/abs/2608.03892v1",
+        "pdf": "https://arxiv.org/pdf/2608.03892v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+        "authors": [
+          "Mercy Prasanna Ranjit",
+          "Anirban Porya",
+          "Sathvik Joel",
+          "Niharika Vadlamudi",
+          "Nikhilesh Chowdary Eathamukkala"
+        ],
+        "summary": "A clinically useful chest X-ray system must go beyond fluent report generation: it should classify findings with tunable decision thresholds, localize them spatially, and derive the anatomical measurements upon which many diagnoses depend. Today's Vision-Language Models (VLMs) treat these as separat",
+        "url": "http://arxiv.org/abs/2608.03890v1",
+        "pdf": "https://arxiv.org/pdf/2608.03890v1",
+        "published": "2026-08-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation",
+        "authors": [
+          "Seyed Kahaki",
+          "Shijie Li",
+          "Weijie Chen",
+          "Nicholas Petrick"
+        ],
+        "summary": "Synthetic histopathology image generation has emerged as an approach that may address data scarcity in computational pathology, yet current evaluation methodologies may not fully assess synthetic data quality for medical applications. This work investigates and addresses limitations in existing eval",
+        "url": "http://arxiv.org/abs/2608.03990v1",
+        "pdf": "https://arxiv.org/pdf/2608.03990v1",
+        "published": "2026-08-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Information-Geometric Forward Policy Training in GFlowNets",
+        "authors": [
+          "Yordan Raykov",
+          "Rodrigo Veiga"
+        ],
+        "summary": "Generative Flow Networks (GFlowNets) have emerged as a flexible framework for amortised inference over discrete and mixed discrete-continuous objects, requiring only an unnormalised target density specified through a reward. In this work, we formulate forward-policy training in GFlowNets through the",
+        "url": "http://arxiv.org/abs/2608.03967v1",
+        "pdf": "https://arxiv.org/pdf/2608.03967v1",
+        "published": "2026-08-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Muon Meets Mamba: Spectral Optimization for State Space Models",
+        "authors": [
+          "Arslan Battalov",
+          "Karim Kramin",
+          "Alexander Markotenko",
+          "Sofia Sinitsina"
+        ],
+        "summary": "Muon is a recent optimizer that orthogonalizes the update to each weight matrix with a Newton-Schulz iteration, which performs steepest descent under the spectral norm. Almost all the evidence for it comes from Transformer models, and its behavior on state-space models is largely unreported. We comp",
+        "url": "http://arxiv.org/abs/2608.03941v1",
+        "pdf": "https://arxiv.org/pdf/2608.03941v1",
+        "published": "2026-08-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Latent Reward Registers for Diffusion Preference Alignment",
+        "authors": [
+          "Yuanshen Guan",
+          "Zipeng Feng",
+          "Zhiwei Xiong",
+          "Peiqin Sun"
+        ],
+        "summary": "Aligning diffusion models with human preferences usually relies on a sparse terminal reward evaluated on the final generated samples, presenting a severe temporal credit-assignment challenge across the multi-step denoising process. We propose Latent Reward Registers, a mechanism that estimates termi",
+        "url": "http://arxiv.org/abs/2608.03929v1",
+        "pdf": "https://arxiv.org/pdf/2608.03929v1",
+        "published": "2026-08-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Robust Low-Tubal-Rank Tensor Completion under Cross-Concentrated Sampling",
+        "authors": [
+          "Hanqin Cai",
+          "Longxiu Huang",
+          "Jing Qin",
+          "Chengyue Wu"
+        ],
+        "summary": "Tensor cross-concentrated sampling (t-CCS) bridges entrywise sampling and t-CUR slice-wise sampling by observing entries only within selected horizontal and lateral slices. Existing t-CCS completion methods, however, assume that the observations are free of gross corruption. In this work, we study r",
+        "url": "http://arxiv.org/abs/2608.03928v1",
+        "pdf": "https://arxiv.org/pdf/2608.03928v1",
+        "published": "2026-08-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "A Physics-Flavored Transformer Network for Parametrizing Contraction Dynamics of Engineered Skeletal Muscle Tissues",
+        "authors": [
+          "Mattias Luber",
+          "Timo Betz"
+        ],
+        "summary": "Engineered Skeletal Muscle Tissues (ESMs) have become a key structure for biomedical disease modeling and pharmacological screening, yet their functional characterization often relies on simplistic metrics like peak force, discarding critical kinetic information. This is partially due to the high le",
+        "url": "http://arxiv.org/abs/2608.03927v1",
+        "pdf": "https://arxiv.org/pdf/2608.03927v1",
+        "published": "2026-08-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Trajectory inference via Acceleration Matching",
+        "authors": [
+          "Bartolo Dazzini",
+          "Giovanni Conforti",
+          "Alain Durmus",
+          "Aram-Alexandre Pooladian"
+        ],
+        "summary": "Trajectory inference is a fundamental problem in many scientific domains: given a collection of unpaired snapshots of observations at discrete time points, the goal is to generate smooth trajectories that best resemble and interpolate the data. Existing algorithms exhibit computational challenges: t",
+        "url": "http://arxiv.org/abs/2608.03916v1",
+        "pdf": "https://arxiv.org/pdf/2608.03916v1",
+        "published": "2026-08-04",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
