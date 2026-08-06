@@ -1,0 +1,576 @@
+{
+  "date": "2026-08-06",
+  "generated": "2026-08-06T05:18:19.746964",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "trycompai/crm",
+        "description": "An open-source, agentic-first CRM.",
+        "stars": 6518,
+        "language": "TypeScript",
+        "url": "https://github.com/trycompai/crm",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 2,
+        "name": "firecrawl/anydoc",
+        "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+        "stars": 5561,
+        "language": "Rust",
+        "url": "https://github.com/firecrawl/anydoc",
+        "created": "2026-08-03"
+      },
+      {
+        "rank": 3,
+        "name": "FareedKhan-dev/kimi-k3-in-c",
+        "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "stars": 2627,
+        "language": "C",
+        "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 4,
+        "name": "imsai-sh/zhuzhiliao",
+        "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+        "stars": 2124,
+        "language": "HTML",
+        "url": "https://github.com/imsai-sh/zhuzhiliao",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 5,
+        "name": "genspark-ai/genoffice",
+        "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+        "stars": 1850,
+        "language": "TypeScript",
+        "url": "https://github.com/genspark-ai/genoffice",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 6,
+        "name": "thebuggeddev/anatomy",
+        "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+        "stars": 1657,
+        "language": "TypeScript",
+        "url": "https://github.com/thebuggeddev/anatomy",
+        "created": "2026-08-02"
+      },
+      {
+        "rank": 7,
+        "name": "DannyMac180/sol-advisor",
+        "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+        "stars": 1500,
+        "language": "Shell",
+        "url": "https://github.com/DannyMac180/sol-advisor",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 8,
+        "name": "KKKKhazix/human-writing",
+        "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+        "stars": 1250,
+        "language": "Python",
+        "url": "https://github.com/KKKKhazix/human-writing",
+        "created": "2026-08-05"
+      },
+      {
+        "rank": 9,
+        "name": "Accio-Lab/RealReplicaBench",
+        "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+        "stars": 1022,
+        "language": "HTML",
+        "url": "https://github.com/Accio-Lab/RealReplicaBench",
+        "created": "2026-08-02"
+      },
+      {
+        "rank": 10,
+        "name": "x4gKing/3x-ui-multi",
+        "description": "",
+        "stars": 816,
+        "language": "JavaScript",
+        "url": "https://github.com/x4gKing/3x-ui-multi",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 11,
+        "name": "Binaryify/open-kimi-ppt-skill",
+        "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+        "stars": 810,
+        "language": "Python",
+        "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+        "created": "2026-08-05"
+      },
+      {
+        "rank": 12,
+        "name": "guillermolg00/morphicons",
+        "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
+        "stars": 741,
+        "language": "TypeScript",
+        "url": "https://github.com/guillermolg00/morphicons",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 13,
+        "name": "ben-z/findphone",
+        "description": "Locate a nearby Bluetooth device by signal strength, from the macOS command line — for when Find My isn't available",
+        "stars": 643,
+        "language": "Swift",
+        "url": "https://github.com/ben-z/findphone",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 14,
+        "name": "0xwilliamortiz/humanizer-cli",
+        "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+        "stars": 578,
+        "language": "JavaScript",
+        "url": "https://github.com/0xwilliamortiz/humanizer-cli",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 15,
+        "name": "sophiamyang/finger-frame-effect-ai",
+        "description": "",
+        "stars": 561,
+        "language": "JavaScript",
+        "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+        "created": "2026-08-02"
+      },
+      {
+        "rank": 16,
+        "name": "brookfacehe2421/flashloan-scalper-bot",
+        "description": "Quick profit scalper using flashloan mechanics",
+        "stars": 555,
+        "language": "JavaScript",
+        "url": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
+        "created": "2026-08-01"
+      },
+      {
+        "rank": 17,
+        "name": "s1dashu/animated-voiceover",
+        "description": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
+        "stars": 503,
+        "language": null,
+        "url": "https://github.com/s1dashu/animated-voiceover",
+        "created": "2026-07-31"
+      },
+      {
+        "rank": 18,
+        "name": "MarcosSete/awesome-free-ai-course-notes",
+        "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions su",
+        "stars": 461,
+        "language": null,
+        "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+        "created": "2026-08-03"
+      },
+      {
+        "rank": 19,
+        "name": "magicrew/doc7",
+        "description": "Turn documents into AI-ready Markdown with visual understanding",
+        "stars": 458,
+        "language": "Go",
+        "url": "https://github.com/magicrew/doc7",
+        "created": "2026-08-02"
+      },
+      {
+        "rank": 20,
+        "name": "mikiarlo3/awesome-growth-hacking-skills",
+        "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+        "stars": 455,
+        "language": "Shell",
+        "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+        "created": "2026-08-04"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
+        "authors": [
+          "Boxiu Li",
+          "Zimo Wen",
+          "Yijia Fan",
+          "Junxiang Lei",
+          "Sufeng Guo"
+        ],
+        "summary": "Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified objective. We present Argus, a persistent, self-evolving runtime in which Manager, Planner, Engineer, and ",
+        "url": "http://arxiv.org/abs/2608.05144v1",
+        "pdf": "https://arxiv.org/pdf/2608.05144v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
+        "authors": [
+          "Indraneil Paul",
+          "Falko Helm",
+          "Goran Glavaš",
+          "Iryna Gurevych"
+        ],
+        "summary": "Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. Existing long-context corpora, however, are dominated by books, academic articles, and code repositories, which are finite resour",
+        "url": "http://arxiv.org/abs/2608.05141v1",
+        "pdf": "https://arxiv.org/pdf/2608.05141v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains",
+        "authors": [
+          "Ayoub Kirouane",
+          "Christos Petrocheilos"
+        ],
+        "summary": "Modern Greek is absent from NVIDIA's Nemotron retrieval models and from major multilingual retrieval benchmarks, despite being important for retrieval-augmented generation (RAG) in legal, energy, financial, and medical applications. We present an end-to-end adaptation of the Nemotron retrieval stack",
+        "url": "http://arxiv.org/abs/2608.05138v1",
+        "pdf": "https://arxiv.org/pdf/2608.05138v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "OPD-V: Visual On-Policy Self-Distillation with Modality Balance",
+        "authors": [
+          " Aniri",
+          "Jinhe Bi",
+          "Peng Liao",
+          "Zengjie Jin",
+          "Volker Tresp"
+        ],
+        "summary": "On-Policy Self-Distillation (OPSD) has become a standard post-training approach for improving visual reasoning in multimodal large language models (MLLMs). Existing methods draw privileged information from diverse input sources to guide self-distillation. Yet these designs overlook Modality Imbalanc",
+        "url": "http://arxiv.org/abs/2608.05131v1",
+        "pdf": "https://arxiv.org/pdf/2608.05131v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant",
+        "authors": [
+          "Adel Javanmard",
+          "David P. Woodruff",
+          "Vahab Mirrokni"
+        ],
+        "summary": "Achieving local differential privacy in distributed optimization while maintaining low communication cost remains challenging. Existing vector quantization methods, such as vqSGD, use high-dimensional geometric constructions but incur unfavorable dimension-dependent variance. In this work, we propos",
+        "url": "http://arxiv.org/abs/2608.05127v1",
+        "pdf": "https://arxiv.org/pdf/2608.05127v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Chained Recursive Language Models for Multi-Iteration Reasoning",
+        "authors": [
+          "Purbesh Mitra",
+          "Sennur Ulukus"
+        ],
+        "summary": "Long context reasoning in large language models (LLMs) is usually constrained by the fact that a single inference trajectory has to simultaneously explore the context, store intermediate state, verify evidence, and produce the final answer. This becomes particularly difficult in tasks that require e",
+        "url": "http://arxiv.org/abs/2608.05124v1",
+        "pdf": "https://arxiv.org/pdf/2608.05124v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition",
+        "authors": [
+          "Paritosh Parmar",
+          "Landy Lan",
+          "Hong Yang",
+          "Chen Yi",
+          "Chiat Pin Tay"
+        ],
+        "summary": "Can computer vision help make classrooms safer? In this pilot study, we investigate privacy-aware and computationally efficient classroom incident recognition from CCTV-style observations. This setting remains underexplored, with limited benchmarks and few methods designed for the privacy, efficienc",
+        "url": "http://arxiv.org/abs/2608.05115v1",
+        "pdf": "https://arxiv.org/pdf/2608.05115v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Representational separation between unitary and channel quantum generative models via shared classical randomness at shallow depth",
+        "authors": [
+          "Arunava Majumder",
+          "Marius Krumm",
+          "Hendrik Poulsen Nautrup",
+          "Hans J. Briegel"
+        ],
+        "summary": "Near-term quantum hardware limits circuit depth and often imposes geometrically local connectivity for quantum generative models, restricting the output distributions accessible to shallow unitary Born models. Introducing stochasticity into a unitary quantum Born model can improve the empirical gene",
+        "url": "http://arxiv.org/abs/2608.05110v1",
+        "pdf": "https://arxiv.org/pdf/2608.05110v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "CoPlan: A Trustworthy Co-Intelligence Interface for Care Planning through Role-Based Contestable Argument Graphs",
+        "authors": [
+          "Hung Truong Thanh Nguyen",
+          "Hélène Fournier",
+          "Piper Jackson",
+          "Makoto Itoh",
+          "Shannon Freeman"
+        ],
+        "summary": "AI-supported care planning can help clinicians, patients, caregivers, and care teams coordinate complex decisions across clinical, functional, psychosocial, and environmental needs. However, many AI systems present recommendations as fixed outputs, limiting stakeholders' ability to inspect, challeng",
+        "url": "http://arxiv.org/abs/2608.05107v1",
+        "pdf": "https://arxiv.org/pdf/2608.05107v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment",
+        "authors": [
+          "Yijun Lu",
+          "Rui Ye",
+          "Jiajun Wang",
+          "Yuwen Du",
+          "Tian Jin"
+        ],
+        "summary": "Long-horizon search agents must make multiple sequential actions (steps) to search, retrieve, verify, and integrate evidence to reach a final answer. However, existing methods for training these agents typically treat all steps within a trajectory uniformly during both supervised fine-tuning (SFT) a",
+        "url": "http://arxiv.org/abs/2608.05102v1",
+        "pdf": "https://arxiv.org/pdf/2608.05102v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Hierarchical Graph Memory for LLM Agents with Path-level Localization and Rewrite",
+        "authors": [
+          "Xiawei Yue",
+          "Boran Wang",
+          "Xiaoqing Zhang",
+          "Shuxin Zheng",
+          "Ziwei Zhang"
+        ],
+        "summary": "Agents for long term reasoning require a memory that can be efficiently and effectively updated over time, as new facts and external feedback continue to arrive. Recently, graph memory has been adopted to offer structural organization for multi-hop retrieval and reasoning. However, existing methods ",
+        "url": "http://arxiv.org/abs/2608.05095v1",
+        "pdf": "https://arxiv.org/pdf/2608.05095v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Item Response Theory for AI Safety",
+        "authors": [
+          "Joshua Fonseca Rivera",
+          "Neil Shah",
+          "David Demitri Africa",
+          "Konstantinos Voudouris"
+        ],
+        "summary": "Language models differ in how safely they behave and these differences are measured by safety benchmarks. But aggregated benchmark scores are hard to trust and interpret, because benchmarks duplicate one another, correlate heavily, and models may sandbag when they detect evaluation. To address these",
+        "url": "http://arxiv.org/abs/2608.05086v1",
+        "pdf": "https://arxiv.org/pdf/2608.05086v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Capability-Gated Planning: Cost-to-Goal Discovery and the Limits of Myopic Experiment Selection",
+        "authors": [
+          "Ahmed Hassoon",
+          "Mark Dredze"
+        ],
+        "summary": "Systems that automate scientific discovery must repeatedly decide which experiment to run, which hypothesis to test, which tool to build, and when to stop. Many systems make these decisions by maximizing a myopic score such as expected information gain per unit cost or a learned plausibility score. ",
+        "url": "http://arxiv.org/abs/2608.05085v1",
+        "pdf": "https://arxiv.org/pdf/2608.05085v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "MultiPathFormer: Towards a Foundation Model for Multipath Wireless Propagation",
+        "authors": [
+          "Blessed Guda",
+          "Kayley Sze",
+          "Carlee Joe-Wong"
+        ],
+        "summary": "Recent advances in machine learning have enabled training of wireless foundation models, which aim to support tasks such as channel estimation, beam prediction, and localization based on wireless signals. Existing wireless foundation models typically pretrain on channel tensors using masked reconstr",
+        "url": "http://arxiv.org/abs/2608.05076v1",
+        "pdf": "https://arxiv.org/pdf/2608.05076v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection",
+        "authors": [
+          "Narges Rashvand",
+          "Ghazal Alinezhad Noghre",
+          "Shanle Yao",
+          "Gabriel Maldonado",
+          "Hamed Tabkhi"
+        ],
+        "summary": "Video Anomaly Detection (VAD) is inherently challenging due to the scarcity of anomalies and the large visual variability in surveillance footage, including changes in lighting, viewpoint, and human appearance. To mitigate visual noise and address privacy concerns, recent work has shifted to pose-ba",
+        "url": "http://arxiv.org/abs/2608.05069v1",
+        "pdf": "https://arxiv.org/pdf/2608.05069v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Provable Limits and Certified Deferral for Verbalized Uncertainty in Small Language Models",
+        "authors": [
+          "Jianru Shen"
+        ],
+        "summary": "Small open-weight language models increasingly run in private, offline, and cost-sensitive settings, where the key deployment question is not only what a model answers but when it should defer to a human. We study whether verbalized confidence can support risk-controlled deferral, evaluating eleven ",
+        "url": "http://arxiv.org/abs/2608.05064v1",
+        "pdf": "https://arxiv.org/pdf/2608.05064v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Hardware Design and Security in the Era of Chiplets and LLMs",
+        "authors": [
+          "Johann Knechtel",
+          "Ozgur Sinanoglu",
+          "Paul V. Gratz",
+          "Ramesh Karri"
+        ],
+        "summary": "The semiconductor industry is undergoing a dual revolution: the shift toward heterogeneous 2.5D chiplet systems and the integration of Large Language Models (LLMs) into Electronic Design Automation (EDA) flows. While these paradigms offer unprecedented benefits in yield, modularity, design productiv",
+        "url": "http://arxiv.org/abs/2608.05063v1",
+        "pdf": "https://arxiv.org/pdf/2608.05063v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "RepairFormer: Automated Repair of Structured Inputs Using Transformers",
+        "authors": [
+          "Ovi Paul",
+          "Tom J King",
+          "Ali Shokri"
+        ],
+        "summary": "Structured input files such as JSON, DOT, OBJ, INI, S-expression, and TinyC are widely used in software systems, but small corruptions can cause parsers to reject otherwise useful data. Repairing such inputs is important because malformed configuration, program, and data files can interrupt testing,",
+        "url": "http://arxiv.org/abs/2608.05060v1",
+        "pdf": "https://arxiv.org/pdf/2608.05060v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres",
+        "authors": [
+          "M. L. Carroll",
+          "J. Li",
+          "S. D. Guzewich",
+          "G. Villanueva",
+          "J. A. Caraballo-Vega"
+        ],
+        "summary": "We investigate the transferability of Earth weather foundation models to planetary atmospheres by adapting the GraphCast graph neural weather forecasting model to Mars. While GraphCast achieves state-of-the-art performance for terrestrial forecasting, its applicability to non-Earth environments rema",
+        "url": "http://arxiv.org/abs/2608.05054v1",
+        "pdf": "https://arxiv.org/pdf/2608.05054v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "The Effect of Perceived Race and Gender on Police Language Use: Experimental Evidence from VR Simulations",
+        "authors": [
+          "Sandra C. Sandoval",
+          "Navita Goyal",
+          "Rashawn Ray",
+          "Long Doan",
+          "Rachel Rudinger"
+        ],
+        "summary": "Against the backdrop of violence in police interactions with the U.S. public, we explore how deferentially police officers speak to virtual characters depicted as Black adult males in vir- tual reality (VR) simulations. We evaluate the effect of seeing and communicating with these characters through",
+        "url": "http://arxiv.org/abs/2608.05050v1",
+        "pdf": "https://arxiv.org/pdf/2608.05050v1",
+        "published": "2026-08-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
+        "authors": [
+          "Yinghui He",
+          "Ling Yang",
+          "Jiarui Liu",
+          "Yongjin Yang",
+          "Lechen Zhang"
+        ],
+        "summary": "Long-horizon reasoning in recent LLMs demands that the model switch between distinct skills inside a reasoning chain, such as first doing a math derivation, then using the result to plan a schedule. We call such problems cross-skill long-horizon tasks: multi-step tasks whose steps require different ",
+        "url": "http://arxiv.org/abs/2608.05139v1",
+        "pdf": "https://arxiv.org/pdf/2608.05139v1",
+        "published": "2026-08-05",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "The Loss Does Not See the Basis, but Adam Does",
+        "authors": [
+          "Devender Singh"
+        ],
+        "summary": "Gradient descent on a factored model $W = UV^\\top$ is implicitly biased toward low-rank solutions, while Adam, starting from the same small initialization, is not. We trace the difference to the gauge symmetry of the loss, its invariance under $(U, V) \\mapsto (UQ, VQ)$. Gradient flow's low-rank mech",
+        "url": "http://arxiv.org/abs/2608.05136v1",
+        "pdf": "https://arxiv.org/pdf/2608.05136v1",
+        "published": "2026-08-05",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings",
+        "authors": [
+          "Hao Ding",
+          "Daniel Semchin",
+          "Paul M. Thompson",
+          "Boris Gutman"
+        ],
+        "summary": "Predicting how a subcortical structure's shape will evolve from a few prior scans could support prognosis and clinical-trial enrichment. Existing longitudinal mesh predictors either extrapolate shape trajectories via high-dimensional embeddings or regress vertex deformations directly. We instead pre",
+        "url": "http://arxiv.org/abs/2608.05132v1",
+        "pdf": "https://arxiv.org/pdf/2608.05132v1",
+        "published": "2026-08-05",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery",
+        "authors": [
+          "Roberto Aliaga Medina",
+          "Paulina Quintanilla",
+          "Antonio del Rio Chanona"
+        ],
+        "summary": "Kinetic model discovery is a central challenge in chemical engineering, as accurate rate expressions are essential for understanding and controlling chemical and biological processes. Symbolic regression (SR) has emerged as a powerful data-driven approach for identifying interpretable kinetic models",
+        "url": "http://arxiv.org/abs/2608.05120v1",
+        "pdf": "https://arxiv.org/pdf/2608.05120v1",
+        "published": "2026-08-05",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Stable Density Ridges: Consistency and Convergence of Subspace Constrained Mean Shift",
+        "authors": [
+          "Wanli Qiao"
+        ],
+        "summary": "The Subspace Constrained Mean Shift (SCMS) algorithm is a popular nonparametric method for extracting density ridges, which serve as a low-dimensional representation of high-dimensional data. It is a widely held belief in the literature that SCMS trajectories converge to the classical density ridge,",
+        "url": "http://arxiv.org/abs/2608.05112v1",
+        "pdf": "https://arxiv.org/pdf/2608.05112v1",
+        "published": "2026-08-05",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Reward Structure Shapes the Interaction Between Episodic Exploration and Neural Memory in Reinforcement Learning",
+        "authors": [
+          "Jai Malegaonkar",
+          "Rohan Patil",
+          "Henrik I. Christensen"
+        ],
+        "summary": "In partially observable reinforcement learning, agents face a dual bottleneck: they must explore to encounter rewarding states and retain that experience in memory to optimize their policies. Exploration bonuses and memory architectures are traditionally evaluated in isolation, leaving their interac",
+        "url": "http://arxiv.org/abs/2608.05111v1",
+        "pdf": "https://arxiv.org/pdf/2608.05111v1",
+        "published": "2026-08-05",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
