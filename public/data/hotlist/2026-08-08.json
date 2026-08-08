@@ -1,0 +1,563 @@
+{
+  "date": "2026-08-08",
+  "generated": "2026-08-08T03:26:36.177833",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "firecrawl/anydoc",
+        "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+        "stars": 11164,
+        "language": "Rust",
+        "url": "https://github.com/firecrawl/anydoc",
+        "created": "2026-08-03"
+      },
+      {
+        "rank": 2,
+        "name": "thebuggeddev/anatomy",
+        "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+        "stars": 1991,
+        "language": "TypeScript",
+        "url": "https://github.com/thebuggeddev/anatomy",
+        "created": "2026-08-02"
+      },
+      {
+        "rank": 3,
+        "name": "KKKKhazix/human-writing",
+        "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+        "stars": 1895,
+        "language": "Python",
+        "url": "https://github.com/KKKKhazix/human-writing",
+        "created": "2026-08-05"
+      },
+      {
+        "rank": 4,
+        "name": "Binaryify/open-kimi-ppt-skill",
+        "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+        "stars": 1586,
+        "language": null,
+        "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+        "created": "2026-08-05"
+      },
+      {
+        "rank": 5,
+        "name": "ZzzLc0405/photo-abstract-editorial",
+        "description": "",
+        "stars": 1504,
+        "language": null,
+        "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+        "created": "2026-08-04"
+      },
+      {
+        "rank": 6,
+        "name": "Accio-org/RealReplicaBench",
+        "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+        "stars": 1040,
+        "language": "HTML",
+        "url": "https://github.com/Accio-org/RealReplicaBench",
+        "created": "2026-08-02"
+      },
+      {
+        "rank": 7,
+        "name": "mikiarlo3/awesome-growth-hacking-skills",
+        "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+        "stars": 727,
+        "language": "Shell",
+        "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+        "created": "2026-08-04"
+      },
+      {
+        "rank": 8,
+        "name": "magicrew/doc7",
+        "description": "Turn documents into AI-ready Markdown with visual understanding",
+        "stars": 696,
+        "language": "Go",
+        "url": "https://github.com/magicrew/doc7",
+        "created": "2026-08-02"
+      },
+      {
+        "rank": 9,
+        "name": "sophiamyang/finger-frame-effect-ai",
+        "description": "",
+        "stars": 605,
+        "language": "JavaScript",
+        "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+        "created": "2026-08-02"
+      },
+      {
+        "rank": 10,
+        "name": "0xwilliamortiz/claude-red",
+        "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec",
+        "stars": 561,
+        "language": "JavaScript",
+        "url": "https://github.com/0xwilliamortiz/claude-red",
+        "created": "2026-08-05"
+      },
+      {
+        "rank": 11,
+        "name": "MarcosSete/awesome-free-ai-course-notes",
+        "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions su",
+        "stars": 547,
+        "language": null,
+        "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+        "created": "2026-08-03"
+      },
+      {
+        "rank": 12,
+        "name": "nfzerox/VirtualMacOniPad",
+        "description": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to ",
+        "stars": 502,
+        "language": "Objective-C",
+        "url": "https://github.com/nfzerox/VirtualMacOniPad",
+        "created": "2026-08-03"
+      },
+      {
+        "rank": 13,
+        "name": "disler/super-simple-software-factory",
+        "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
+        "stars": 497,
+        "language": "Python",
+        "url": "https://github.com/disler/super-simple-software-factory",
+        "created": "2026-08-02"
+      },
+      {
+        "rank": 14,
+        "name": "wumingqi60/lingxi",
+        "description": "灵犀跨境-开源共建版",
+        "stars": 470,
+        "language": "TypeScript",
+        "url": "https://github.com/wumingqi60/lingxi",
+        "created": "2026-08-03"
+      },
+      {
+        "rank": 15,
+        "name": "leonickson1/Swiftlet",
+        "description": "Swiftlet is a Swift and Metal runtime that runs large Qwen Mixture-of-Experts models locally on Apple devices by streaming expert weights from storage, enabling 35B and 80B models to run with low RAM,",
+        "stars": 447,
+        "language": "Swift",
+        "url": "https://github.com/leonickson1/Swiftlet",
+        "created": "2026-08-03"
+      },
+      {
+        "rank": 16,
+        "name": "yuhuangerdi/InduSecAgent",
+        "description": "",
+        "stars": 442,
+        "language": "Vue",
+        "url": "https://github.com/yuhuangerdi/InduSecAgent",
+        "created": "2026-08-03"
+      },
+      {
+        "rank": 17,
+        "name": "zqxwce/vphone-ws",
+        "description": "A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window.",
+        "stars": 436,
+        "language": "Swift",
+        "url": "https://github.com/zqxwce/vphone-ws",
+        "created": "2026-08-03"
+      },
+      {
+        "rank": 18,
+        "name": "google-gemma/gemma-translator",
+        "description": "",
+        "stars": 432,
+        "language": "JavaScript",
+        "url": "https://github.com/google-gemma/gemma-translator",
+        "created": "2026-08-03"
+      },
+      {
+        "rank": 19,
+        "name": "fuxicodex/Fuxi",
+        "description": "FuXi is a fast, self-contained AI developer terminal",
+        "stars": 429,
+        "language": null,
+        "url": "https://github.com/fuxicodex/Fuxi",
+        "created": "2026-08-04"
+      },
+      {
+        "rank": 20,
+        "name": "jd-opensource/JoyAI-Video-Edit",
+        "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+        "stars": 423,
+        "language": "Python",
+        "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+        "created": "2026-08-04"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Learning When to Trust via Selective Context Preference Optimization",
+        "authors": [
+          "Xian Sun",
+          "Wei Chow",
+          "Yingshuo Wang",
+          "Junhao Liu",
+          "Wei Gao"
+        ],
+        "summary": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a model that ignores all context looks robust yet is useless when the context is wo",
+        "url": "http://arxiv.org/abs/2608.06377v1",
+        "pdf": "https://arxiv.org/pdf/2608.06377v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
+        "authors": [
+          "Soorya Ram Shimgekar",
+          "Michelle Hu",
+          "Dorisa Shehi",
+          "Daniel Kang",
+          "Roy Ka-Wei Lee"
+        ],
+        "summary": "Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure, which affects an estimated 6.7 million U.S. adults and requires integrating fragmented EHR data wi",
+        "url": "http://arxiv.org/abs/2608.06366v1",
+        "pdf": "https://arxiv.org/pdf/2608.06366v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
+        "authors": [
+          "George Grispos",
+          "Sajda Qureshi"
+        ],
+        "summary": "The use of e-commerce mobile applications is expanding in Nigeria, creating both opportunities and risks, including fraud and reduced user control over digital technologies, raising concerns about digital sovereignty. This research examines how Artificial Intelligence (AI) in Nigerian mobile applica",
+        "url": "http://arxiv.org/abs/2608.06364v1",
+        "pdf": "https://arxiv.org/pdf/2608.06364v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "An Optimal Agnostic PAC Algorithm",
+        "authors": [
+          "Markus Engelund Mathiasen",
+          "Jian Qian",
+          "Nikita Zhivotovskiy"
+        ],
+        "summary": "Let $H\\subseteq\\{-1,+1\\}^X$ be a class of finite VC dimension $d\\ge1$. Writing $L$ for the binary risk and $L^*=\\min_{h\\in H}L(h)$, we construct a learner achieving the statistically optimal risk bound: from an i.i.d.\\ sample of size $n$, for every $0<δ\\le 1/2$, with probability at least $1-δ$, \\[\n ",
+        "url": "http://arxiv.org/abs/2608.06363v1",
+        "pdf": "https://arxiv.org/pdf/2608.06363v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
+        "authors": [
+          "Boning Li",
+          "Yu Chen",
+          "Longbo Huang"
+        ],
+        "summary": "Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed-budget evaluations either keep paying after the result is settled or stop before the agents can be ",
+        "url": "http://arxiv.org/abs/2608.06362v1",
+        "pdf": "https://arxiv.org/pdf/2608.06362v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
+        "authors": [
+          "Sarvesh Baskar",
+          "Zikui Cai",
+          "Shayan Shabihi",
+          "Anirudh Satheesh",
+          "Muhammad R. Islam"
+        ],
+        "summary": "Real-world video benchmarks provide broad coverage, but their fixed clips entangle event count, rate, duration, and visual complexity, making failure modes hard to isolate. While existing programmatic benchmarks offer better control, they score only the final answer rather than auditing reported eve",
+        "url": "http://arxiv.org/abs/2608.06361v1",
+        "pdf": "https://arxiv.org/pdf/2608.06361v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents",
+        "authors": [
+          "Praphul Chandra",
+          "Sujit Gujar",
+          "Ganesh Ghalme"
+        ],
+        "summary": "We give a formal mechanism design model for the continuous participatory governance of a deployed AI agent. The mechanism is built on the principle that governance should control an AI agent through resource allocation so as to make authorization self enforcing via compute budgets. The mechanism see",
+        "url": "http://arxiv.org/abs/2608.06353v1",
+        "pdf": "https://arxiv.org/pdf/2608.06353v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Challenges in Evaluating Explanation Methods for Static and Evolving Data",
+        "authors": [
+          "Jerzy Stefanowski"
+        ],
+        "summary": "This paper addresses the limitations of Explainable Artificial Intelligence (XAI) with respect to insufficient evaluation. They are illustrated through the DetoxAI image recognition system for bias detection and concept unlearning. Then, an example of a human-grounded evaluation of methods for expla",
+        "url": "http://arxiv.org/abs/2608.06351v1",
+        "pdf": "https://arxiv.org/pdf/2608.06351v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories",
+        "authors": [
+          "Yunjia Qi",
+          "Zehua Yin",
+          "Xintong Shi",
+          "Hao Peng",
+          "Songyuanyi Lu"
+        ],
+        "summary": "LLM-based agentic systems have shown remarkable capabilities in complex domains, while suffering from cascading errors and difficulty in debugging. Critical error detection aims to locate the earliest error step in a failed trajectory that is responsible for the final failure. However, progress face",
+        "url": "http://arxiv.org/abs/2608.06346v1",
+        "pdf": "https://arxiv.org/pdf/2608.06346v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Tytan: Interactive Neurosymbolic Construction of Analytic Semantic Schemas from Relational Data",
+        "authors": [
+          "Donna Hooshmand",
+          "Shubham Shahi",
+          "Cameron Barrie",
+          "Abhratanu Dutta",
+          "Marko Sterbentz"
+        ],
+        "summary": "From natural-language query interfaces to automated report generation, data analysis tools need a description of the data: the real-world entities it contains, which columns function as measures or identifiers, and how tables connect into units of analysis. Today, this semantic layer is usually writ",
+        "url": "http://arxiv.org/abs/2608.06331v1",
+        "pdf": "https://arxiv.org/pdf/2608.06331v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents",
+        "authors": [
+          "Noam Koren",
+          "Roy Bar-Haim",
+          "Abigail Goldsteen"
+        ],
+        "summary": "Task-oriented conversational agents are evaluated using curated or automatically generated benchmarks, yet benchmark quality is rarely assessed. Poor benchmarks may contain inconsistent tasks, simplistic scenarios, or limited policy coverage, leading to unreliable evaluations. We introduce a referen",
+        "url": "http://arxiv.org/abs/2608.06329v1",
+        "pdf": "https://arxiv.org/pdf/2608.06329v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Does FLAIR super-resolution erase or hallucinate small white-matter lesions?",
+        "authors": [
+          "Zahra Khodakarami",
+          "Yue Li",
+          "Pulkit Khandelwal",
+          "John Detre",
+          "Sandhitsu Das"
+        ],
+        "summary": "White matter hyperintensities (WMH), bright regions on Fluid-attenuated Inversion Recovery (FLAIR) scans are associated with cerebrovascular pathology and neurodegeneration. FLAIR is usually acquired with thick slices in clinical settings, giving it poor through-plane resolution. Super-resolution (S",
+        "url": "http://arxiv.org/abs/2608.06311v1",
+        "pdf": "https://arxiv.org/pdf/2608.06311v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations",
+        "authors": [
+          "Sagar Tamang",
+          "Ayush Vyas",
+          "Tabarakul Hazarika"
+        ],
+        "summary": "Retrieval-augmented generation over long documents is dominated by one design: chunk the text, embed the chunks, and surface the top-k nearest neighbours of the query. We argue that for an important class of documents -- financial statements, audit reports, regulatory returns -- this design is struc",
+        "url": "http://arxiv.org/abs/2608.06305v1",
+        "pdf": "https://arxiv.org/pdf/2608.06305v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "HarnessOpt-Bench: Evaluating LLMs at Harness Optimization",
+        "authors": [
+          "Varun Ursekar",
+          "Apaar Shanker",
+          "Yash Maurya",
+          "Shehab Yasser",
+          "Vijay S. Kalmath"
+        ],
+        "summary": "As LLMs are increasingly deployed within agentic systems, their capabilities depend not only on the model weights but also on the harness: the prompts, tools, control flow, memory, and orchestration code surrounding them. This makes automated harness optimization -- the iterative and evaluation-guid",
+        "url": "http://arxiv.org/abs/2608.06301v1",
+        "pdf": "https://arxiv.org/pdf/2608.06301v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors",
+        "authors": [
+          "Arya Labroo",
+          "Mengjie Qian",
+          "Kate Knill"
+        ],
+        "summary": "Automatic speaking assessment systems are increasingly deployed in high-stakes settings to mark second language (L2) learners' speaking tests, making it critical to show that their scores depend on speaking proficiency rather than irrelevant speaker attributes such as first language (L1) or age. Tra",
+        "url": "http://arxiv.org/abs/2608.06300v1",
+        "pdf": "https://arxiv.org/pdf/2608.06300v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "QuanTiMedAI: Quantum-Enhanced Time-Series Model guided by Agentic AI for Cardiac Arrest Mortality Prediction",
+        "authors": [
+          "Mutasim Fuad Sarker",
+          "Adiba Rahman Namira",
+          "Wafa Binte Alam",
+          "Md Adnan Arefeen",
+          "Mahzabeen Emu"
+        ],
+        "summary": "Cardiac arrest remains one of the most lethal conditions encountered in intensive care units. Despite the growing availability of electronic health record data, existing mortality prediction studies in this population largely depend on static summaries derived from early admission. Such approaches i",
+        "url": "http://arxiv.org/abs/2608.06294v1",
+        "pdf": "https://arxiv.org/pdf/2608.06294v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "BaKron: Efficient Quantization with Kronecker-Factored Hessians",
+        "authors": [
+          "Johann Birnick",
+          "Rayan Saab"
+        ],
+        "summary": "We accelerate a family of algorithms for neural network quantization whose geometry is informed by any Kronecker-factored approximation of the Hessian. GPTQ-style adaptive rounding typically uses one-sided information derived from input activations. Two-sided Kronecker-factored Hessian approximation",
+        "url": "http://arxiv.org/abs/2608.06291v1",
+        "pdf": "https://arxiv.org/pdf/2608.06291v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images",
+        "authors": [
+          "Zhiheng Wang",
+          "Bo Peng",
+          "Lai Wei",
+          "Chaochao Lu"
+        ],
+        "summary": "The \"thinking-with-images\" paradigm equips multimodal LLMs with active visual operations such as crop-and-zoom. However, models using these operations often achieve only marginal or negative gains over direct inference at substantially higher token cost. They may also repeatedly crop irrelevant regi",
+        "url": "http://arxiv.org/abs/2608.06270v1",
+        "pdf": "https://arxiv.org/pdf/2608.06270v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Improving the Realism of Synthetic Clinical Benchmarks Under Utility Constraints",
+        "authors": [
+          "Omid Bazgir",
+          "Md Nasir",
+          "Jacob Hoffman",
+          "Yang Yang",
+          "Manu Agrawal"
+        ],
+        "summary": "Synthetic clinical benchmarks for enterprise AI agents can pass existing utility checks and still remain structurally unrealistic, especially in privacy-sensitive healthcare settings where operational data are hard to access. We study how to improve such benchmarks without breaking the downstream ut",
+        "url": "http://arxiv.org/abs/2608.06265v1",
+        "pdf": "https://arxiv.org/pdf/2608.06265v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Toward Deployable Bangla Sign Language Recognition with Expert-Validated Data and a Lightweight Attention-Based Model",
+        "authors": [
+          "Saad Ahmed",
+          "Md Khalid Syfullaha"
+        ],
+        "summary": "Deaf and hard-of-hearing people in Bangladesh communicate mainly through Bangla Sign Language (BdSL). Automatic BdSL recognition on personal devices could widen access to education and services. Existing systems use controlled-setting datasets without expert verification and heavyweight pretrained b",
+        "url": "http://arxiv.org/abs/2608.06252v1",
+        "pdf": "https://arxiv.org/pdf/2608.06252v1",
+        "published": "2026-08-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
+        "authors": [
+          "Fanzhe Meng",
+          "Guoxin Chen",
+          "Jiale Zhao",
+          "Shuang Sun",
+          "Zhiyu Lin"
+        ],
+        "summary": "Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not reveal how a task behaves relative to a given solver setting. In this paper, we present CalibForge, ",
+        "url": "http://arxiv.org/abs/2608.06352v1",
+        "pdf": "https://arxiv.org/pdf/2608.06352v1",
+        "published": "2026-08-06",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Scalable estimation of VARMA models",
+        "authors": [
+          "Daniel Paulin",
+          "Victor Elvira"
+        ],
+        "summary": "Vector autoregressive moving-average (VARMA) models have long been considered impractical beyond moderate dimensions: the likelihood is non-convex, the parametrization is identified only up to equivalence, and every evaluation costs a pass over the entire series. Yet their moving-average term captur",
+        "url": "http://arxiv.org/abs/2608.06340v1",
+        "pdf": "https://arxiv.org/pdf/2608.06340v1",
+        "published": "2026-08-06",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Optimal Rates for Learning with Monotone Adversaries",
+        "authors": [
+          "Anay Mehrotra"
+        ],
+        "summary": "A monotone adversary observes an i.i.d. labeled sample and appends a finite number of further examples of its choice, every one of them labeled correctly by the target hypothesis. The learner sees a uniform shuffle of the combined sample and is scored on the original distribution. Every example is c",
+        "url": "http://arxiv.org/abs/2608.06337v1",
+        "pdf": "https://arxiv.org/pdf/2608.06337v1",
+        "published": "2026-08-06",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "RRC: Unlocking Generative Reward Models in LLM Reinforcement Learning via Ranking-Based Reward Construction",
+        "authors": [
+          "Chenglong Wang",
+          "Ziming Zhu",
+          "Yifu Huo",
+          "Bei Li",
+          "Qiaozhi He"
+        ],
+        "summary": "Recent advances in reward modeling show a paradigm shift from discriminative reward models to generative reward models. However, despite their strong capabilities in response ranking, generative reward models have not realized their potential in reinforcement learning (RL). Our analysis reveals that",
+        "url": "http://arxiv.org/abs/2608.06310v1",
+        "pdf": "https://arxiv.org/pdf/2608.06310v1",
+        "published": "2026-08-06",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "On-Policy Self-Distillation without Any Supervision",
+        "authors": [
+          "Yijiang Li",
+          "Bingyang Wang",
+          "Yijun Liang",
+          "Yunjie Tian",
+          "Di Fu"
+        ],
+        "summary": "On-policy (Self-)Distillation (OPD / OPSD) has shown strong potential for post-training large language models (LLMs). However, existing methods still rely heavily on external supervision, including ground-truth signals, environmental feedback, or guidance from larger models, and therefore fall short",
+        "url": "http://arxiv.org/abs/2608.06296v1",
+        "pdf": "https://arxiv.org/pdf/2608.06296v1",
+        "published": "2026-08-06",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
