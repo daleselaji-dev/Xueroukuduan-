@@ -1,0 +1,615 @@
+{
+  "date": "2026-08-12",
+  "generated": "2026-08-12T04:09:01.341206",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "ShawnPana/phone-harness",
+        "description": "let your agent control your phone",
+        "stars": 1525,
+        "language": "Python",
+        "url": "https://github.com/ShawnPana/phone-harness",
+        "created": "2026-08-07"
+      },
+      {
+        "rank": 2,
+        "name": "oil-oil/oil-motion",
+        "description": "Create smooth, responsive interactive web animations.",
+        "stars": 1492,
+        "language": "Python",
+        "url": "https://github.com/oil-oil/oil-motion",
+        "created": "2026-08-07"
+      },
+      {
+        "rank": 3,
+        "name": "SMNETSTUDIO/WeChat-AI",
+        "description": "",
+        "stars": 1456,
+        "language": "TypeScript",
+        "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+        "created": "2026-08-10"
+      },
+      {
+        "rank": 4,
+        "name": "antirez/h3.c",
+        "description": "MiniMax H3 inference engine for Mac computers",
+        "stars": 1326,
+        "language": "C",
+        "url": "https://github.com/antirez/h3.c",
+        "created": "2026-08-09"
+      },
+      {
+        "rank": 5,
+        "name": "eternityspring/shuohao-skills",
+        "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
+        "stars": 963,
+        "language": "JavaScript",
+        "url": "https://github.com/eternityspring/shuohao-skills",
+        "created": "2026-08-06"
+      },
+      {
+        "rank": 6,
+        "name": "sohaibdevv/youtube-music",
+        "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+        "stars": 836,
+        "language": "TypeScript",
+        "url": "https://github.com/sohaibdevv/youtube-music",
+        "created": "2026-08-11"
+      },
+      {
+        "rank": 7,
+        "name": "MengTo/kage",
+        "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+        "stars": 824,
+        "language": "HTML",
+        "url": "https://github.com/MengTo/kage",
+        "created": "2026-08-08"
+      },
+      {
+        "rank": 8,
+        "name": "xoreaxeaxeax/asm-hall-of-shame",
+        "description": "Racing to the bottom of CPU performance",
+        "stars": 771,
+        "language": "C",
+        "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+        "created": "2026-08-06"
+      },
+      {
+        "rank": 9,
+        "name": "Flaminis/Dalaran",
+        "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+        "stars": 704,
+        "language": "Rust",
+        "url": "https://github.com/Flaminis/Dalaran",
+        "created": "2026-08-07"
+      },
+      {
+        "rank": 10,
+        "name": "sv-number/mcp-server",
+        "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can chec",
+        "stars": 621,
+        "language": "JavaScript",
+        "url": "https://github.com/sv-number/mcp-server",
+        "created": "2026-08-07"
+      },
+      {
+        "rank": 11,
+        "name": "SaladDay/pi-from-scratch",
+        "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+        "stars": 583,
+        "language": "TypeScript",
+        "url": "https://github.com/SaladDay/pi-from-scratch",
+        "created": "2026-08-09"
+      },
+      {
+        "rank": 12,
+        "name": "Appllama/top-welcome-screens",
+        "description": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
+        "stars": 454,
+        "language": "TypeScript",
+        "url": "https://github.com/Appllama/top-welcome-screens",
+        "created": "2026-08-08"
+      },
+      {
+        "rank": 13,
+        "name": "shadcn-ui/chatbot-template",
+        "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+        "stars": 453,
+        "language": "TypeScript",
+        "url": "https://github.com/shadcn-ui/chatbot-template",
+        "created": "2026-08-11"
+      },
+      {
+        "rank": 14,
+        "name": "gvzdv/claudish-to-english",
+        "description": "",
+        "stars": 444,
+        "language": "Shell",
+        "url": "https://github.com/gvzdv/claudish-to-english",
+        "created": "2026-08-10"
+      },
+      {
+        "rank": 15,
+        "name": "mewamew/my_ai_town",
+        "description": "我的AI小镇",
+        "stars": 443,
+        "language": "GDScript",
+        "url": "https://github.com/mewamew/my_ai_town",
+        "created": "2026-08-07"
+      },
+      {
+        "rank": 16,
+        "name": "NikoDemon80/ComfyUI-H3-Motion-Context",
+        "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
+        "stars": 421,
+        "language": "Python",
+        "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
+        "created": "2026-08-07"
+      },
+      {
+        "rank": 17,
+        "name": "Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+        "description": "",
+        "stars": 393,
+        "language": "Python",
+        "url": "https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+        "created": "2026-08-06"
+      },
+      {
+        "rank": 18,
+        "name": "jmarshall23/Quake_4_Alpha",
+        "description": "Quake 4 alpha released for preservation purposes only. ",
+        "stars": 373,
+        "language": "C++",
+        "url": "https://github.com/jmarshall23/Quake_4_Alpha",
+        "created": "2026-08-06"
+      },
+      {
+        "rank": 19,
+        "name": "Sateezg/codex-bridge",
+        "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
+        "stars": 357,
+        "language": "Shell",
+        "url": "https://github.com/Sateezg/codex-bridge",
+        "created": "2026-08-09"
+      },
+      {
+        "rank": 20,
+        "name": "achrefelouafi/LinearAbiltyCastingThreeJS",
+        "description": "",
+        "stars": 345,
+        "language": "JavaScript",
+        "url": "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS",
+        "created": "2026-08-06"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+        "authors": [
+          "Wenrui Bao",
+          "Tianyun Jiang",
+          "Zhiben Chen",
+          "Ser-Nam Lim",
+          "Peter D. Peng"
+        ],
+        "summary": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to collect, while surgical tasks demand precise contact handling, long-horizon reasoning, a",
+        "url": "http://arxiv.org/abs/2608.11204v1",
+        "pdf": "https://arxiv.org/pdf/2608.11204v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
+        "authors": [
+          "Chen Lyu",
+          "Xingwei Tan",
+          "Simon Cullen",
+          "Shelley Wilson",
+          "Lois Arthurs"
+        ],
+        "summary": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or offline: threats and coercion can appear directly in messages, while behaviours such as surveillanc",
+        "url": "http://arxiv.org/abs/2608.11200v1",
+        "pdf": "https://arxiv.org/pdf/2608.11200v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+        "authors": [
+          "Alan Li",
+          "Rahul Saha",
+          "Anton Xue",
+          "Swarat Chaudhuri",
+          "Adam Klivans"
+        ],
+        "summary": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on the Grothendieck constant $K_G$, which captures the hardness between combinatorial problems and their",
+        "url": "http://arxiv.org/abs/2608.11195v1",
+        "pdf": "https://arxiv.org/pdf/2608.11195v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+        "authors": [
+          "Shiyu Xuan",
+          "Zechao Li"
+        ],
+        "summary": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although recent methods attempt to adapt models via test-time reinforcement learning, they cannot reflect upon fa",
+        "url": "http://arxiv.org/abs/2608.11191v1",
+        "pdf": "https://arxiv.org/pdf/2608.11191v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "How to Verify Consistency of Probabilistic Claims",
+        "authors": [
+          "Orr Paradise",
+          "Oliver Richardson",
+          "Yoshua Bengio",
+          "Shafi Goldwasser"
+        ],
+        "summary": "When a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can this be verified in polynomial time? This problem is of interest for AI safety, where safety is derived from honesty about probabilistic predictions of unwanted outcomes potentially ",
+        "url": "http://arxiv.org/abs/2608.11181v1",
+        "pdf": "https://arxiv.org/pdf/2608.11181v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
+        "authors": [
+          "Rahul Gupta",
+          "Abhinav Mohanty",
+          "Anaelia Ovalle",
+          "Anil Ramakrishna",
+          "Anubrata Das"
+        ],
+        "summary": "The Workshop on Trustworthy Natural Language Processing (TrustNLP), co-located with major ACL conferences since 2021, has grown from 8 proceedings papers to 41 over six editions, documenting a field-wide transition from post-hoc interpretability of static models to mechanistic understanding and proa",
+        "url": "http://arxiv.org/abs/2608.11171v1",
+        "pdf": "https://arxiv.org/pdf/2608.11171v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Attention-Path Fragility as an Uncertainty Signal in Large Language Models",
+        "authors": [
+          "Minsoo Kim",
+          "Sungyoung Ji",
+          "Kisung Moon",
+          "Ilyong Yoon"
+        ],
+        "summary": "We propose that a model's uncertainty about a token is reflected not only in the breadth of its output distribution but also in whether a confident prediction is \\emph{fragile} under perturbation of its attention pathways. We instantiate this as ASMI (Attention-Subnetwork Mutual Information), a trai",
+        "url": "http://arxiv.org/abs/2608.11138v1",
+        "pdf": "https://arxiv.org/pdf/2608.11138v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "sLTN: Structural Logic Tensor Networks",
+        "authors": [
+          "Davide Rinaldi",
+          "Luciano Serafini"
+        ],
+        "summary": "Logic Tensor Networks (LTN) provide a neurosymbolic framework in which first-order logic is interpreted through tensor operations, enabling logical constraints to be integrated with differentiable learning. However, the original formulation of LTN is primarily suited to data represented as flat coll",
+        "url": "http://arxiv.org/abs/2608.11136v1",
+        "pdf": "https://arxiv.org/pdf/2608.11136v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting",
+        "authors": [
+          "Kiran Madhusudhanan",
+          "Christian Klötergens",
+          "Lars Schmidt-Thieme",
+          "Vijaya Krishna Yalavarthi"
+        ],
+        "summary": "Probabilistic forecasting plays an essential role in risk-sensitive decision-making, particularly in long-horizon settings. However, existing approaches often face a fundamental trade-off between distributional flexibility and accurate mean prediction. Traditional parametric methods, such as Mean Va",
+        "url": "http://arxiv.org/abs/2608.11114v1",
+        "pdf": "https://arxiv.org/pdf/2608.11114v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding",
+        "authors": [
+          "Kushal Chakrabarti"
+        ],
+        "summary": "Agentic coding READMEs like CLAUDE.md grow without bound in real repositories, stopping only when the repository retires or someone rewrites the file wholesale. We trace this to imperfect recall: appending an instruction is always cheap, but once an instruction's rationale is gone, deleting it witho",
+        "url": "http://arxiv.org/abs/2608.11095v1",
+        "pdf": "https://arxiv.org/pdf/2608.11095v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "RTSKG: Building a Rail Transit Station Knowledge Graph Dataset",
+        "authors": [
+          "Shutong Zhu",
+          "Tianxing Wu",
+          "Runfeng Liu",
+          "Yuang Gu",
+          "Xuan He"
+        ],
+        "summary": "Rail transit systems play a vital role in urban mobility and economic development. As key components of such systems, rail transit stations function as critical transport hubs that enhance urban accessibility and stimulate development in surrounding areas. City-level rail transit station related tas",
+        "url": "http://arxiv.org/abs/2608.11080v1",
+        "pdf": "https://arxiv.org/pdf/2608.11080v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure",
+        "authors": [
+          "Xiaofan Bai",
+          "Hongqiang Lin",
+          "Chao Liu",
+          "Yantao Zhang",
+          "Xuan Jin"
+        ],
+        "summary": "Self-evolving agents accumulate reusable skills by appending successful procedures and failure fixes. Over time, the same requirement is often restated in several branches, examples, and warnings, while common action sequences are copied rather than reused. The resulting skill becomes expensive to i",
+        "url": "http://arxiv.org/abs/2608.11079v1",
+        "pdf": "https://arxiv.org/pdf/2608.11079v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Quantum Coordination Advantages in AI State-Tracking Tasks: Semantic Compilation and Latent Memory",
+        "authors": [
+          "Ming Yang"
+        ],
+        "summary": "We prove inference-time quantum coordination advantages for specified AI state-tracking tasks. A solver compresses semantic history into a future-accessible boundary state and later answers a query. We count communication $B$, persistent instance-dependent memory $M$, and local work $D$; classical r",
+        "url": "http://arxiv.org/abs/2608.11066v1",
+        "pdf": "https://arxiv.org/pdf/2608.11066v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Entropy-Centric Explainable AI for Remote Sensing Image Segmentation",
+        "authors": [
+          "Ali Saleh",
+          "Abdul Karim Gizzini",
+          "Mohamad Ghassany",
+          "Ali J. Ghandour"
+        ],
+        "summary": "Artificial intelligence (AI) has become a powerful approach to solving complex problems in critical domains. Many concerns arise regarding the decision-making process of its models, mainly due to deep neural networks outperforming their peers at the cost of ambiguity in feature extraction and predic",
+        "url": "http://arxiv.org/abs/2608.11064v1",
+        "pdf": "https://arxiv.org/pdf/2608.11064v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "A Comparative Evaluation of Deep Learning Object Detection Models on a Real-World Multi-Plant Dataset from Africa",
+        "authors": [
+          "Ismail Ismail Tijjani",
+          "Sunusi Muhammad Ibrahim",
+          "Amina Ibrahim Khaleel",
+          "Lanre Olusegun Akinola",
+          "Fatima Isa Jibrin"
+        ],
+        "summary": "The application of computer vision in agriculture has shown significant potential for improving crop monitoring and precision farming. However, many existing approaches rely on controlled datasets that do not adequately represent realworld farming conditions, particularly in underrepresented regions",
+        "url": "http://arxiv.org/abs/2608.11053v1",
+        "pdf": "https://arxiv.org/pdf/2608.11053v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "3D Weighted Geometric Graph Neural Networks for Sheep Facial Pain Assessment",
+        "authors": [
+          "Alam Noor",
+          "Luis Almeida",
+          "Mohamed Daoudi"
+        ],
+        "summary": "Deep learning systems perform mainly within the 2D for a single image domain and take the face as a single-dimension representation, losing sight of the 3D anatomy of sheep and cross-landmark spatial relationships that are intrinsic to the clinically proven Sheep Pain Facial Expression Scale (SPFES)",
+        "url": "http://arxiv.org/abs/2608.11050v1",
+        "pdf": "https://arxiv.org/pdf/2608.11050v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Multiclass Sentiment Analysis for Identifying Political Viewpoints",
+        "authors": [
+          "Girma Yohannis Bade",
+          "Olga Kolesnikova",
+          "Jose Luis Oropeza",
+          "Grigori Sidorov"
+        ],
+        "summary": "The rapid growth of social media has created vast amounts of political discourse, which provides valuable opportunities to analyze public opinions and identify different political perspectives. Sentiment Analysis (SA) is a core task in Natural Language Processing (NLP) that allows the computational ",
+        "url": "http://arxiv.org/abs/2608.11049v1",
+        "pdf": "https://arxiv.org/pdf/2608.11049v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "V-FiLLM: Verified Financial LLM Reasoning Benchmark",
+        "authors": [
+          "Alicia Larsen",
+          "Victoire Laurent",
+          "Aulia Kharis Rakhamsari",
+          "Lara Turgut",
+          "Nino Antulov-Fantulin"
+        ],
+        "summary": "While existing benchmarks have made substantial progress in evaluating LLMs across STEM domains, financial reasoning over structured data remains comparatively less explored. We introduce V-FiLLM, a framework that generates financial reasoning benchmarks from executable computation trees grounded in",
+        "url": "http://arxiv.org/abs/2608.11047v1",
+        "pdf": "https://arxiv.org/pdf/2608.11047v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Workflow Cards: Structured Summaries of Workflow Executions Using Provenance Data",
+        "authors": [
+          "Nicola Giuseppe Marchioro",
+          "Gabriele Padovani",
+          "Amal Gueroudji",
+          "Rafael Ferreira da Silva",
+          "Wesley Brewer"
+        ],
+        "summary": "Model Cards and Data Cards have demonstrated the value of structured, human-readable documentation for machine learning artifacts, capturing their context, parameters, limitations, and intended use. However, these practices remain focused on static artifacts (the datasets and trained models themselv",
+        "url": "http://arxiv.org/abs/2608.11022v1",
+        "pdf": "https://arxiv.org/pdf/2608.11022v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video",
+        "authors": [
+          "Ke Ma",
+          "Yamin Mao",
+          "Weiming Li",
+          "Shuai Tan",
+          "Yijie Zhong"
+        ],
+        "summary": "Long-horizon egocentric video is a rich substrate for wearable AI assistants, but object-centric questions such as where an item was moved, when it last changed state, or why it was relocated remain difficult because caption- and transcript-based memories rarely preserve persistent object identity o",
+        "url": "http://arxiv.org/abs/2608.11017v1",
+        "pdf": "https://arxiv.org/pdf/2608.11017v1",
+        "published": "2026-08-11",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+        "authors": [
+          "Nikolai Bolik",
+          "Lennart Stöpler",
+          "Artur Andrzejak"
+        ],
+        "summary": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dense model representations. We revisit their approach using overlap over active sparse autoencoder (SAE",
+        "url": "http://arxiv.org/abs/2608.11197v1",
+        "pdf": "https://arxiv.org/pdf/2608.11197v1",
+        "published": "2026-08-11",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex",
+        "authors": [
+          "Eric A. F. Reinhardt",
+          "Adam J. Hauser"
+        ],
+        "summary": "The attention mechanism forms the foundation of many modern AI models such as the Transformer. In one subclass of problems where attention is used, inputs and outputs are bound to the probability simplex so that all outputs sum to one. In this setting, softmax attention admits an exact, component-by",
+        "url": "http://arxiv.org/abs/2608.11173v1",
+        "pdf": "https://arxiv.org/pdf/2608.11173v1",
+        "published": "2026-08-11",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment",
+        "authors": [
+          "Changhao Xiang",
+          "Shangyu Xing",
+          "Zhen Wu",
+          "Jianbing Zhang",
+          "Xinyu Dai"
+        ],
+        "summary": "Existing Multimodal Large Language Models (MLLMs) predominantly rely on image-text pairs for modality alignment pretraining, mapping global image representations to long textual descriptions. However, this image-level alignment suffers from referential ambiguity: models struggle to infer the corresp",
+        "url": "http://arxiv.org/abs/2608.11167v1",
+        "pdf": "https://arxiv.org/pdf/2608.11167v1",
+        "published": "2026-08-11",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Hierarchical Empirical-Bayes Naive Bayes: Minimax Smoothing and Calibration with AODE Extension",
+        "authors": [
+          "Nguyen Thai Anh",
+          "Truong Viet Vu",
+          "Tran Thien Thanh",
+          "Vo Nguyen Quoc Bao",
+          "Ngo Hoang Tu"
+        ],
+        "summary": "The Naive Bayes (NB) classifier remains a standard choice for categorical data, yet its widely used smoothing rules, such as Laplace, Lidstone, Krichevsky-Trofimov, and the $m$-estimate, all prescribe a fixed smoothing strength that ignores feature cardinality, sample size, and class imbalance, indu",
+        "url": "http://arxiv.org/abs/2608.11162v1",
+        "pdf": "https://arxiv.org/pdf/2608.11162v1",
+        "published": "2026-08-11",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Conditional Independence Tests for Constraint-Based Causal Discovery: A Survey",
+        "authors": [
+          "Pavel Averin",
+          "Theodoros Moysiadis",
+          "Ioannis Katakis"
+        ],
+        "summary": "Conditional Independence (CI) tests are the statistical engine of constraint-based causal discovery: in algorithms such as PC (Peter-Clark) and FCI (Fast Causal Inference), skeleton pruning and key orientations follow directly from CI decisions. This survey reviews CI testing with emphasis on assump",
+        "url": "http://arxiv.org/abs/2608.11156v1",
+        "pdf": "https://arxiv.org/pdf/2608.11156v1",
+        "published": "2026-08-11",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "DACRI: Decision-Aware Causal Intervention Ranking for Critical Supply Chains",
+        "authors": [
+          "Shiqi Huang",
+          "Jiani He",
+          "Dingyan Shang",
+          "Yihua Xu",
+          "Jize Li"
+        ],
+        "summary": "Detecting or attributing a supply-chain disruption is not the same as selecting the intervention that maximizes recoverable net value. We present CriticalSCM-Bench v1, a controlled synthetic benchmark with causal ground truth, paired factual/counterfactual rollouts, and an explicit net-value objecti",
+        "url": "http://arxiv.org/abs/2608.11154v1",
+        "pdf": "https://arxiv.org/pdf/2608.11154v1",
+        "published": "2026-08-11",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Scheduling Mixed RL Rollouts Beyond Prefix Locality",
+        "authors": [
+          "Zetao Hong",
+          "Song Yuan",
+          "Yuanhao Ding",
+          "Yibo Zhu",
+          "Daxin Jiang"
+        ],
+        "summary": "Modern reinforcement learning (RL) post-training pipelines for large language models (LLMs) increasingly combine rollout workloads across multiple domains and feedback paradigms. Prefix-aware routing improves inference efficiency through cache reuse and load balancing, but it does not control how he",
+        "url": "http://arxiv.org/abs/2608.11152v1",
+        "pdf": "https://arxiv.org/pdf/2608.11152v1",
+        "published": "2026-08-11",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "A Recommendation System Approach for Interference-Robust Sensor Subset Selection",
+        "authors": [
+          "Kaan Buyukkalayci",
+          "Kyle Pak",
+          "Merve Karakas",
+          "Christina Fragouli"
+        ],
+        "summary": "This paper develops a method for sensor-subset selection for tracking. Prior work showed that low-cost acoustic Received Signal Strength Indicator (RSSI) measurements can be used to recommend subsets of sensor nodes whose expensive sensing modalities, such as cameras, can achieve high tracking accur",
+        "url": "http://arxiv.org/abs/2608.11143v1",
+        "pdf": "https://arxiv.org/pdf/2608.11143v1",
+        "published": "2026-08-11",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
