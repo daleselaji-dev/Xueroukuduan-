@@ -1,0 +1,601 @@
+{
+  "date": "2026-08-16",
+  "generated": "2026-08-16T03:01:06.038767",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "deepseek-ai/deepseek-harness",
+        "description": "DeepSeek Harness: Everything is a Plugin.",
+        "stars": 117177,
+        "language": "TypeScript",
+        "url": "https://github.com/deepseek-ai/deepseek-harness",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 2,
+        "name": "guillaumemeyer/watermarks-remover",
+        "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+        "stars": 9823,
+        "language": "Python",
+        "url": "https://github.com/guillaumemeyer/watermarks-remover",
+        "created": "2026-08-11"
+      },
+      {
+        "rank": 3,
+        "name": "anywhere-labs/deepseek-harness-desktop",
+        "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+        "stars": 6288,
+        "language": "TypeScript",
+        "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 4,
+        "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+        "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+        "stars": 3141,
+        "language": "Python",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 5,
+        "name": "zhu1090093659/dsh-web-ui",
+        "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+        "stars": 2786,
+        "language": "TypeScript",
+        "url": "https://github.com/zhu1090093659/dsh-web-ui",
+        "created": "2026-08-12"
+      },
+      {
+        "rank": 6,
+        "name": "xiaobright/dsh-anchored-standard",
+        "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+        "stars": 2276,
+        "language": "JavaScript",
+        "url": "https://github.com/xiaobright/dsh-anchored-standard",
+        "created": "2026-08-14"
+      },
+      {
+        "rank": 7,
+        "name": "yjh051108/dsh-routing-suite",
+        "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+        "stars": 1846,
+        "language": "PowerShell",
+        "url": "https://github.com/yjh051108/dsh-routing-suite",
+        "created": "2026-08-14"
+      },
+      {
+        "rank": 8,
+        "name": "SMNETSTUDIO/WeChat-AI",
+        "description": "",
+        "stars": 1744,
+        "language": "TypeScript",
+        "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+        "created": "2026-08-10"
+      },
+      {
+        "rank": 9,
+        "name": "xoreaxeaxeax/skitter-creek-bath-salts",
+        "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+        "stars": 1677,
+        "language": "C",
+        "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 10,
+        "name": "cordiverse/paper",
+        "description": "A Programming Paradigm for Spatiotemporal Composability",
+        "stars": 1646,
+        "language": null,
+        "url": "https://github.com/cordiverse/paper",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 11,
+        "name": "dmmulroy/anti-slop",
+        "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+        "stars": 1314,
+        "language": "TypeScript",
+        "url": "https://github.com/dmmulroy/anti-slop",
+        "created": "2026-08-12"
+      },
+      {
+        "rank": 12,
+        "name": "ccch1mneyyy/dsh-TUI",
+        "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rol",
+        "stars": 1297,
+        "language": "TypeScript",
+        "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 13,
+        "name": "gvzdv/claudish-to-english",
+        "description": "",
+        "stars": 1199,
+        "language": "Shell",
+        "url": "https://github.com/gvzdv/claudish-to-english",
+        "created": "2026-08-10"
+      },
+      {
+        "rank": 14,
+        "name": "Leutenegger/book-to-skill",
+        "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+        "stars": 1128,
+        "language": "Python",
+        "url": "https://github.com/Leutenegger/book-to-skill",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 15,
+        "name": "milind-soni/OpenMausBot",
+        "description": "",
+        "stars": 1034,
+        "language": "TypeScript",
+        "url": "https://github.com/milind-soni/OpenMausBot",
+        "created": "2026-08-11"
+      },
+      {
+        "rank": 16,
+        "name": "Small-tailqwq/dsh-deep-whale",
+        "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+        "stars": 927,
+        "language": "TypeScript",
+        "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 17,
+        "name": "sohaibdevv/youtube-music",
+        "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+        "stars": 858,
+        "language": "TypeScript",
+        "url": "https://github.com/sohaibdevv/youtube-music",
+        "created": "2026-08-11"
+      },
+      {
+        "rank": 18,
+        "name": "Hisn00w/ASu-skills",
+        "description": "简历包装",
+        "stars": 797,
+        "language": "HTML",
+        "url": "https://github.com/Hisn00w/ASu-skills",
+        "created": "2026-08-12"
+      },
+      {
+        "rank": 19,
+        "name": "vercel-labs/eve-software-factory-template",
+        "description": "Meet Foreman, an eve Software Factory.",
+        "stars": 792,
+        "language": "TypeScript",
+        "url": "https://github.com/vercel-labs/eve-software-factory-template",
+        "created": "2026-08-12"
+      },
+      {
+        "rank": 20,
+        "name": "alchaincyf/deepseek-harness-orange-book",
+        "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+        "stars": 788,
+        "language": "HTML",
+        "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+        "created": "2026-08-14"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+        "authors": [
+          "Yaxin Luo",
+          "Haobin Jiang",
+          "Jialv Zou",
+          "Xu Huang",
+          "Wenhao Yan"
+        ],
+        "summary": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empiric",
+        "url": "http://arxiv.org/abs/2608.13560v1",
+        "pdf": "https://arxiv.org/pdf/2608.13560v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+        "authors": [
+          "Bobo Li",
+          "Hao Fei",
+          "Tianjie Ju",
+          "Mong-Li Lee",
+          "Wynne Hsu"
+        ],
+        "summary": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workflow coverage alone does not provide access to the full evidence on which scientific discovery depend",
+        "url": "http://arxiv.org/abs/2608.13558v1",
+        "pdf": "https://arxiv.org/pdf/2608.13558v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+        "authors": [
+          "Dairu Liu",
+          "Zekun Qi",
+          "Jiayu Zeng",
+          "Ruixi Yu",
+          "Yu Guan"
+        ],
+        "summary": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences but miss the physical artifacts that matter most, particularly unstable support and incorrect contact",
+        "url": "http://arxiv.org/abs/2608.13555v1",
+        "pdf": "https://arxiv.org/pdf/2608.13555v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+        "authors": [
+          "Shangao Li",
+          "Yao Zhang",
+          "Volker Tresp",
+          "Yuanyuan Yang"
+        ],
+        "summary": "LLM coding agents issue Bash commands through interfaces that may serialize, wrap, and reparse model output. Matched execution scores alone cannot distinguish command-generation errors from failures introduced after generation. QuoteBench measures this boundary with exact final-state validation on 5",
+        "url": "http://arxiv.org/abs/2608.13547v1",
+        "pdf": "https://arxiv.org/pdf/2608.13547v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
+        "authors": [
+          "Fanfei Li",
+          "Jana Zeller",
+          "Manuel Prada-Corral",
+          "Thaddäus Wiedemer",
+          "Prasanna Mayilvahanan"
+        ],
+        "summary": "Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to characterize. To address this challenge, we introduce LITTLECURRICULUM, a curated 88B-token pretraining cor",
+        "url": "http://arxiv.org/abs/2608.13545v1",
+        "pdf": "https://arxiv.org/pdf/2608.13545v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+        "authors": [
+          "Zhe Ye",
+          "Hantao Lou",
+          "Yuechun Sun",
+          "Peiyang Song",
+          "Zhengxu Yan"
+        ],
+        "summary": "AI agents are increasingly used for programming, but do not provide any guarantee on the correctness of generated code. Verified code generation, in which an agent produces both an implementation and a machine-checked proof of its specification, offers a stronger path toward trustworthy AI-generated",
+        "url": "http://arxiv.org/abs/2608.13522v1",
+        "pdf": "https://arxiv.org/pdf/2608.13522v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity",
+        "authors": [
+          "Martin J. Wainwright"
+        ],
+        "summary": "We study masking diffusion for discrete sampling and introduce a path-resolved measure of data geometry called the \\emph{unmasking growth complexity} ({\\textsf{UGC}\\xspace}). Its local increments directly control Kullback--Leibler (KL) discretization error, yielding a unified analysis of Bernoulli-s",
+        "url": "http://arxiv.org/abs/2608.13520v1",
+        "pdf": "https://arxiv.org/pdf/2608.13520v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
+        "authors": [
+          "Peter Schneider-Kamp",
+          "Jacob Nielsen",
+          "Gianluca Barmina",
+          "Kenneth Enevoldsen",
+          "Lukas Galke Poech"
+        ],
+        "summary": "Current large language model development relies on massive, often non-permissible datasets, creating a high barrier for researchers committed to open-source and ethically sourced data. We introduce Mimir v1, a 1-billion-parameter language model based on the Hierarchical Reasoning Model (HRM) archite",
+        "url": "http://arxiv.org/abs/2608.13517v1",
+        "pdf": "https://arxiv.org/pdf/2608.13517v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)",
+        "authors": [
+          " AlayaWorld Team",
+          "Kaipeng Zhang",
+          "Chuanhao Li",
+          "Yifan Zhan",
+          "Yongtao Ge"
+        ],
+        "summary": "This report presents an improved version of AlayaWorld. While the backbone architecture, chunk-wise autoregressive generation scheme, and training data remain unchanged from the previous release, we substantially revise how conditioning signals are represented and integrated into the model. The new ",
+        "url": "http://arxiv.org/abs/2608.13492v1",
+        "pdf": "https://arxiv.org/pdf/2608.13492v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Toward a Gricean Retreat: Probing LLMs for Knowledge Boundaries and Referent Specificity",
+        "authors": [
+          "Dananjay Srinivas",
+          "Saksham Khatwani",
+          "Maria Pacheco"
+        ],
+        "summary": "When asked about entities outside their knowledge boundary, LLMs routinely fabricate plausible-sounding details rather than backing off to safer, more general claims. We frame this failure through a Gricean lens: a cooperative speaker who is uncertain about a referent retreats up the specificity hie",
+        "url": "http://arxiv.org/abs/2608.13484v1",
+        "pdf": "https://arxiv.org/pdf/2608.13484v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Synthetic Persona Pretraining: Alignment from Token Zero",
+        "authors": [
+          "Julian Minder",
+          "Viktor Moskvoretskii",
+          "Raghav Singhal",
+          "Difan Jiao",
+          "Andy Arditi"
+        ],
+        "summary": "As language-model-based AI is increasingly deployed in autonomous settings, aligning its goals and values with those of humans becomes critical. Today, alignment, and the assistant identity itself, are typically introduced only after pretraining, once behavioral priors are already established. This ",
+        "url": "http://arxiv.org/abs/2608.13482v1",
+        "pdf": "https://arxiv.org/pdf/2608.13482v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination",
+        "authors": [
+          "Saisha Shetty",
+          "Satvik Tripathi",
+          "Austin Lin",
+          "Colin Zhao",
+          "Theodore Kim"
+        ],
+        "summary": "We present Multi-Agent Reasoning and Coordination (MARC), an open-source framework that replaces monolithic LLM prompting with deterministic multi-agent orchestration for clinical reasoning. MARC coordinates role-specialized agents for extraction, reasoning, answer generation, and evaluation, with e",
+        "url": "http://arxiv.org/abs/2608.13476v1",
+        "pdf": "https://arxiv.org/pdf/2608.13476v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "AaLLM: An End-to-End Analog Circuit Design Framework from Topology Generation to Sizing Using Large Language Models",
+        "authors": [
+          "Mohammed Ayman Habib",
+          "Rylan Hart",
+          "Morteza Fayazi"
+        ],
+        "summary": "Analog circuit design is a time-consuming, iterative process in a nonlinear and high-dimensional design space that relies heavily on expert intuition. Among recent developments, LLMs have introduced a promising approach by bringing natural language reasoning to circuit design tasks. The majority of ",
+        "url": "http://arxiv.org/abs/2608.13472v1",
+        "pdf": "https://arxiv.org/pdf/2608.13472v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Concept Drift Detection and Adaptive Retraining of Malware Classification Models",
+        "authors": [
+          "Christofer Washington Berruz Chungata",
+          "Martin Jurecek",
+          "Katerina Potika",
+          "William B. Andreopoulos",
+          "Mark Stamp"
+        ],
+        "summary": "Concept drift refers to changes over time in the statistical properties of data, as compared to the data that was used to train a learning model. Machine learning models for malware detection or classification are particularly susceptible to performance degradation caused by concept drift, as attack",
+        "url": "http://arxiv.org/abs/2608.13465v1",
+        "pdf": "https://arxiv.org/pdf/2608.13465v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification",
+        "authors": [
+          "Daniel Perkins",
+          "John Squires",
+          "Janou Milligan",
+          "Chandra Raskoti",
+          "Linda Ungerboeck"
+        ],
+        "summary": "Modern image classification models excel when trained on single task-specific datasets but often struggle to generalize across domains and difficulty levels. We propose ARMDIL, an Adaptive Router for Multi-Domain Image classification with LLMs. ARMDIL is an ensemble that uses a multimodal large lang",
+        "url": "http://arxiv.org/abs/2608.13463v1",
+        "pdf": "https://arxiv.org/pdf/2608.13463v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "CAPRI: Contract-Aware Proof Repair for Isabelle",
+        "authors": [
+          "Jim Woodcock",
+          "Gabriel Leite",
+          "Augusto Sampaio",
+          "Ran Wei"
+        ],
+        "summary": "We address the use of large language models (LLMs) to help discover Isabelle proofs. An Isabelle build establishes that the submitted theory is accepted, but not that an LLM changed only what the developer authorised. We present CAPRI, a contract-aware repair workflow in which Isabelle checks the pr",
+        "url": "http://arxiv.org/abs/2608.13459v1",
+        "pdf": "https://arxiv.org/pdf/2608.13459v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "A Unifying Perspective on Causal World Models: From Observations to Representations to Structure",
+        "authors": [
+          "Avinash Kori",
+          "Fabrizio Russo"
+        ],
+        "summary": "World Models (WM) are increasingly seen as a foundation for intelligent agents that can predict, plan, and act beyond their training distribution. In this paper, we study WMs from a causal perspective across multiple levels of abstraction, ranging from perceptual observations to building a conceptua",
+        "url": "http://arxiv.org/abs/2608.13456v1",
+        "pdf": "https://arxiv.org/pdf/2608.13456v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models",
+        "authors": [
+          "Yukun Dai",
+          "Mingzhe Dai",
+          "Tianshi Wang",
+          "Fengling Li",
+          "Jingjing Li"
+        ],
+        "summary": "Vision-Language-Action (VLA) models have emerged as generalist robotic policies capable of following diverse language instructions and performing a wide range of manipulation tasks. However, their direct control over embodied agents also exposes them to adversarial interference that may cause unsafe",
+        "url": "http://arxiv.org/abs/2608.13453v1",
+        "pdf": "https://arxiv.org/pdf/2608.13453v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Academic League of Artificial Intelligence - An Integrative Perspective of Teaching, Research, and Extension",
+        "authors": [
+          "Alison R. Panisson",
+          "Maria Eduarda W. M. Vianna",
+          "Italo Firmino da Silva",
+          "Heitor Henrique da Silva",
+          "Rafaela Fernandes Savaris"
+        ],
+        "summary": "Academic leagues have become important mechanisms for promoting extracurricular education and strengthening the integration between universities and society. This paper presents the organizational framework adopted by the Academic League of Artificial Intelligence (LIA) at the Federal University of ",
+        "url": "http://arxiv.org/abs/2608.13447v1",
+        "pdf": "https://arxiv.org/pdf/2608.13447v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models",
+        "authors": [
+          "Gehan Zheng",
+          "Matthew Johnson-Roberson",
+          "Weiming Zhi"
+        ],
+        "summary": "Contact-rich manipulation failures are often detected only after the robot has committed to contact. This is especially limiting in wrist-camera setups: close gripper--object views help observe contact, but a poor approach may already push, miss, slip, or disturb the object before conventional detec",
+        "url": "http://arxiv.org/abs/2608.13438v1",
+        "pdf": "https://arxiv.org/pdf/2608.13438v1",
+        "published": "2026-08-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Defensive Boosting for Online Probabilistic Forecasting",
+        "authors": [
+          "Georgy Noarov",
+          "Aaron Roth"
+        ],
+        "summary": "We study online probabilistic forecasting of binary outcomes chosen by an adaptive adversary. Given an online learning algorithm for a weak hypothesis class $H$, we would like to efficiently obtain two incomparable guarantees that existing online boosting techniques provide separately. Online gradie",
+        "url": "http://arxiv.org/abs/2608.13554v1",
+        "pdf": "https://arxiv.org/pdf/2608.13554v1",
+        "published": "2026-08-13",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure",
+        "authors": [
+          "Mingyuan Zhang"
+        ],
+        "summary": "The per-instance Jaccard score, or intersection over union (IoU), is standard in multi-label classification and binary segmentation. With $s$ labels, its loss matrix has $2^s$ outcomes and reports. Under the convention $\\mathrm{Jac}(\\varnothing,\\varnothing)=1$, we prove that the Jaccard score, shift",
+        "url": "http://arxiv.org/abs/2608.13549v1",
+        "pdf": "https://arxiv.org/pdf/2608.13549v1",
+        "published": "2026-08-13",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees",
+        "authors": [
+          "Tianyi Li",
+          "Yaxin Luo",
+          "Xinyi Shang",
+          "Zhiqiang Shen"
+        ],
+        "summary": "Speculative decoding losslessly accelerates autoregressive language models by verifying multiple draft tokens in parallel. Diffusion-based drafters further reduce proposal latency by predicting an entire token block in parallel, but their position-wise distributions are marginal rather than conditio",
+        "url": "http://arxiv.org/abs/2608.13524v1",
+        "pdf": "https://arxiv.org/pdf/2608.13524v1",
+        "published": "2026-08-13",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Exponential quantum advantage for learning signals with a single qubit",
+        "authors": [
+          "Ishaan Kannan",
+          "Sridhar Prabhu",
+          "Saeed A. Khan",
+          "Mandar M. Sohoni",
+          "Xingrui Song"
+        ],
+        "summary": "Quantum technology has the potential to transform scientific discovery, but quantum advantages often require processing capabilities well beyond the reach of experimental platforms. We show that coupling a single controllable qubit to an otherwise conventional sensor can exponentially reduce the num",
+        "url": "http://arxiv.org/abs/2608.13521v1",
+        "pdf": "https://arxiv.org/pdf/2608.13521v1",
+        "published": "2026-08-13",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology",
+        "authors": [
+          "Yunsung Chung",
+          "Yingshuo Liu",
+          "Abboud F. Hassan",
+          "Han Feng",
+          "Mary M. Maleckar"
+        ],
+        "summary": "Many clinical prediction models treat post-intervention outcomes as a one-step mapping from baseline measurements to a future endpoint. However, recovery after a procedure often unfolds as an irregular trajectory: clinical observations, medication changes, repeat interventions, and physiological mea",
+        "url": "http://arxiv.org/abs/2608.13518v1",
+        "pdf": "https://arxiv.org/pdf/2608.13518v1",
+        "published": "2026-08-13",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Bagging Robustly Learns VC Classes with Linear Sample Complexity",
+        "authors": [
+          "Omar Montasser"
+        ],
+        "summary": "We revisit the problem of learning predictors robust to adversarial examples at test-time. We prove that VC classes are adversarially robustly learnable with sample complexity linear in the VC dimension $d$, providing an exponential improvement over the previous upper bound of Montasser, Hanneke, an",
+        "url": "http://arxiv.org/abs/2608.13514v1",
+        "pdf": "https://arxiv.org/pdf/2608.13514v1",
+        "published": "2026-08-13",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "TabSOM: A tabular-to-image encoding method based on self-organizing maps",
+        "authors": [
+          "David Chushig-Muzo",
+          "María Ángeles Rodríguez de Cara",
+          "Eva Milara",
+          "Francisco J. Lara-Abelenda",
+          "Luis Zhinin-Vera"
+        ],
+        "summary": "Tabular-to-image methods have emerged as novel approaches to leverage the high predictive performance of convolutional neural networks and vision transformers. They convert tabular data into image representations, mapping each feature at a fixed pixel location derived from a dimensionality-reduction",
+        "url": "http://arxiv.org/abs/2608.13513v1",
+        "pdf": "https://arxiv.org/pdf/2608.13513v1",
+        "published": "2026-08-13",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
