@@ -1,0 +1,587 @@
+{
+  "date": "2026-08-19",
+  "generated": "2026-08-19T02:57:54.968060",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "deepseek-ai/deepseek-harness",
+        "description": "DeepSeek Harness: Everything is a Plugin.",
+        "stars": 161490,
+        "language": "TypeScript",
+        "url": "https://github.com/deepseek-ai/deepseek-harness",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 2,
+        "name": "anywhere-labs/deepseek-harness-desktop",
+        "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+        "stars": 13862,
+        "language": "TypeScript",
+        "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 3,
+        "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+        "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+        "stars": 9077,
+        "language": "Python",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 4,
+        "name": "yjh051108/dsh-routing-suite",
+        "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+        "stars": 6081,
+        "language": "PowerShell",
+        "url": "https://github.com/yjh051108/dsh-routing-suite",
+        "created": "2026-08-14"
+      },
+      {
+        "rank": 5,
+        "name": "xiaobright/dsh-anchored-standard",
+        "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+        "stars": 3574,
+        "language": "JavaScript",
+        "url": "https://github.com/xiaobright/dsh-anchored-standard",
+        "created": "2026-08-14"
+      },
+      {
+        "rank": 6,
+        "name": "yetone/cumora",
+        "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+        "stars": 2442,
+        "language": "TypeScript",
+        "url": "https://github.com/yetone/cumora",
+        "created": "2026-08-17"
+      },
+      {
+        "rank": 7,
+        "name": "cordiverse/paper",
+        "description": "A Programming Paradigm for Spatiotemporal Composability",
+        "stars": 2308,
+        "language": null,
+        "url": "https://github.com/cordiverse/paper",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 8,
+        "name": "ccch1mneyyy/dsh-TUI",
+        "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rol",
+        "stars": 1991,
+        "language": "TypeScript",
+        "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 9,
+        "name": "xoreaxeaxeax/skitter-creek-bath-salts",
+        "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+        "stars": 1826,
+        "language": "C",
+        "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 10,
+        "name": "Small-tailqwq/dsh-deep-whale",
+        "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+        "stars": 1393,
+        "language": "TypeScript",
+        "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 11,
+        "name": "Leutenegger/book-to-skill",
+        "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+        "stars": 1194,
+        "language": "Python",
+        "url": "https://github.com/Leutenegger/book-to-skill",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 12,
+        "name": "jdshfhds/northcinder",
+        "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+        "stars": 1158,
+        "language": "JavaScript",
+        "url": "https://github.com/jdshfhds/northcinder",
+        "created": "2026-08-17"
+      },
+      {
+        "rank": 13,
+        "name": "dsh-market/dsh-market",
+        "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+        "stars": 1080,
+        "language": "TypeScript",
+        "url": "https://github.com/dsh-market/dsh-market",
+        "created": "2026-08-14"
+      },
+      {
+        "rank": 14,
+        "name": "alchaincyf/deepseek-harness-orange-book",
+        "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+        "stars": 1035,
+        "language": "HTML",
+        "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+        "created": "2026-08-14"
+      },
+      {
+        "rank": 15,
+        "name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+        "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
+        "stars": 1002,
+        "language": null,
+        "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+        "created": "2026-08-16"
+      },
+      {
+        "rank": 16,
+        "name": "dataelement/dsh-desktop",
+        "description": "DeepSeek Harness Desktop",
+        "stars": 952,
+        "language": "TypeScript",
+        "url": "https://github.com/dataelement/dsh-desktop",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 17,
+        "name": "ZSvirt/zsvirt",
+        "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
+        "stars": 921,
+        "language": "Java",
+        "url": "https://github.com/ZSvirt/zsvirt",
+        "created": "2026-08-14"
+      },
+      {
+        "rank": 18,
+        "name": "zouyuxuan122/Deepseek-Harness-EAC",
+        "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+        "stars": 866,
+        "language": "JavaScript",
+        "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+        "created": "2026-08-14"
+      },
+      {
+        "rank": 19,
+        "name": "elie222/rakazo",
+        "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+        "stars": 856,
+        "language": "TypeScript",
+        "url": "https://github.com/elie222/rakazo",
+        "created": "2026-08-13"
+      },
+      {
+        "rank": 20,
+        "name": "s1dashu/ip-as-logo-skill",
+        "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+        "stars": 817,
+        "language": null,
+        "url": "https://github.com/s1dashu/ip-as-logo-skill",
+        "created": "2026-08-18"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
+        "authors": [
+          "Xingjian Wang",
+          "Zhao Wang",
+          "Taihang Hu",
+          "Jun Zheng",
+          "Qing Jin"
+        ],
+        "summary": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A central challenge is not only how to curate each task-specific corpus, but also how to organize heterog",
+        "url": "http://arxiv.org/abs/2608.18076v1",
+        "pdf": "https://arxiv.org/pdf/2608.18076v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
+        "authors": [
+          "Qinyuan Ye",
+          "Yu Li",
+          "Yada Pruksachatkun",
+          "Jiaxin Zhang",
+          "Chien-Sheng Wu"
+        ],
+        "summary": "Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, the reliability aspects of these methods have been critically overlooked. In this work, we conduct a",
+        "url": "http://arxiv.org/abs/2608.18066v1",
+        "pdf": "https://arxiv.org/pdf/2608.18066v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating",
+        "authors": [
+          "Daria Leshchikova",
+          "Valentina V. Kuskova",
+          "Dmitry Zaytsev",
+          "Valerii Klimov"
+        ],
+        "summary": "Autonomous LLM agents that converse on a user's behalf are an emerging design pattern in matching platforms, yet their viability depends on a condition rarely examined: users must accept not only delegating conversation to an agent, but also receiving agent-mediated communication from others. We stu",
+        "url": "http://arxiv.org/abs/2608.18058v1",
+        "pdf": "https://arxiv.org/pdf/2608.18058v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance",
+        "authors": [
+          "Xiao Wang",
+          "Shun Ren Yang",
+          "Hui Nien Hung"
+        ],
+        "summary": "Urban traffic congestion reduces productivity and increases travel cost and emissions. Network-wide live travel-time shortest-path rerouting can be highly effective in simulation, but assumes that essentially every on-road vehicle is replanned every decision period. We propose HLSR, a selective hybr",
+        "url": "http://arxiv.org/abs/2608.18056v1",
+        "pdf": "https://arxiv.org/pdf/2608.18056v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents",
+        "authors": [
+          "Yining Hua",
+          "Hongbin Na",
+          "Yifan Zhou",
+          "Akshay Kalose",
+          "Cyrus Ayubcha"
+        ],
+        "summary": "AI agents increasingly perform knowledge work (i.e., produce and modify persistent digital artifacts such as code repositories, documents, spreadsheets, slides, reports), yet the parsed views they search, the native files they edit, the changes they review, and the artifacts they submit can refer to",
+        "url": "http://arxiv.org/abs/2608.18050v1",
+        "pdf": "https://arxiv.org/pdf/2608.18050v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Harnessing Magnitude-Only and Complex Measurements for Improved Dynamic MRI Reconstruction with Learned Priors",
+        "authors": [
+          "Mahdi Saberi",
+          "Yaşar Utku Alçalar",
+          "Merve Gülle",
+          "Chetan Shenoy",
+          "Mehmet Akçakaya"
+        ],
+        "summary": "MRI reconstruction methods for undersampled k-space data naturally utilize complex-valued measurements. Parallel developments in sparse phase retrieval have shown that magnitude-only measurements may provide complementary information for signal recovery. However, their use in MRI reconstruction rema",
+        "url": "http://arxiv.org/abs/2608.18036v1",
+        "pdf": "https://arxiv.org/pdf/2608.18036v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Why GPT-Style Models Do Not Directly Transfer to Symbolic Music: Compression in the Wrong Coordinate System",
+        "authors": [
+          "Yi Wang"
+        ],
+        "summary": "GPT-style models achieve strong performance by representing language with finite vocabularies of reusable discrete tokens. This success has motivated symbolic music tokenizations to treat recurring musical structures, such as chords, motifs, and phrases, as reusable units analogous to linguistic tok",
+        "url": "http://arxiv.org/abs/2608.18025v1",
+        "pdf": "https://arxiv.org/pdf/2608.18025v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Can Large Language Models Explain Flight Safety Events? A Prior-Guided Semantic LLM-based Approach",
+        "authors": [
+          "Lu Xu",
+          "Xu Li",
+          "Linjiang Zheng",
+          "Fan Li",
+          "Riquan Zhang"
+        ],
+        "summary": "Improving flight safety with flight data requires not only accurate detection of risk events, but more importantly, clear interpretation of their underlying causes at the level of pilot control behavior. Existing explainable AI techniques, such as feature importance maps, often require considerable ",
+        "url": "http://arxiv.org/abs/2608.18017v1",
+        "pdf": "https://arxiv.org/pdf/2608.18017v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Policy-Invariant Reward Shaping from LLM Feedback: A Framework for Hybrid RL Agents",
+        "authors": [
+          "Christophe D. Hounwanou",
+          "John Emeka Eze",
+          "Yaé U. Gaba"
+        ],
+        "summary": "Combining large language models with reinforcement learning is increasingly explored, yet the theoretical status of LLM-derived reward signals is often left implicit. We formalize the hybrid LLM-planner and RL-controller architecture as a Goal-Augmented Markov Decision Process and show that when the",
+        "url": "http://arxiv.org/abs/2608.18008v1",
+        "pdf": "https://arxiv.org/pdf/2608.18008v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Traceable Trust for action-ready artificial intelligence in bioscience",
+        "authors": [
+          "Huayu Xin",
+          "Yizhi Cai",
+          "Mukilan Deivarajan Suresh",
+          "Gavin Michael Farrell",
+          "Iwona Gajda"
+        ],
+        "summary": "Artificial intelligence (AI) is becoming part of the working infrastructure of the biosciences. AI models can predict biomolecular structures, design proteins, rank variants, annotate images, recommend strains and optimise experimental conditions. We argue that the decision to use an AI output to gu",
+        "url": "http://arxiv.org/abs/2608.17997v1",
+        "pdf": "https://arxiv.org/pdf/2608.17997v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Against Political Polarization: A Unified Framework for Tracing Evolving Political Ideologies on Social Media",
+        "authors": [
+          "Yijie Xu",
+          "Chao Wang",
+          "Hui Xiong"
+        ],
+        "summary": "The rapid growth of social media has greatly influenced political discourse, highlighting the need to understand individual political ideologies and their temporal dynamics. This task faces challenges such as data scarcity, abundant non-political content, costly and bias-prone manual annotation, and",
+        "url": "http://arxiv.org/abs/2608.17987v1",
+        "pdf": "https://arxiv.org/pdf/2608.17987v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Dual Co-Train: Cross-Dataset Ultrasound Tongue Segmentation Under Extreme Data Scarcity",
+        "authors": [
+          "Alisher Myrgyyassov",
+          "Zhen Song",
+          "Bruce Xiao Wang",
+          "Yu Sun",
+          "Min Ney Wong"
+        ],
+        "summary": "Ultrasound tongue contour segmentation remains challenging under cross-dataset domain shift, where limited annotations, probe variability, and acquisition noise often degrade model generalization. We present a source-free domain adaptation framework for robust ultrasound tongue segmentation built on",
+        "url": "http://arxiv.org/abs/2608.17983v1",
+        "pdf": "https://arxiv.org/pdf/2608.17983v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Too Sure to Be Safe: Model Calibration for Reliable Log Anomaly Detection",
+        "authors": [
+          "Bin Li",
+          "Dongdong Wang",
+          "Siyang Lu"
+        ],
+        "summary": "Online log anomaly detection is critical for maintaining the reliability of large-scale computing systems. Although recent language model-based log anomaly detectors achieve strong detection performance, their confidence estimates remain poorly calibrated. We show that these detectors frequently ass",
+        "url": "http://arxiv.org/abs/2608.17965v1",
+        "pdf": "https://arxiv.org/pdf/2608.17965v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Towards Zero-Shot Task Transfer with Neurosymbolic World Models",
+        "authors": [
+          "Isidoro Tamassia",
+          "Lennert De Smet",
+          "Giuseppe Marra"
+        ],
+        "summary": "State-of-the-art model-based reinforcement learning methods learn neural world models that allow policy improvement by planning in a latent space, without assumptions on the structure of the underlying environment. While expressive, these models are generally task-dependent: they learn uninterpretab",
+        "url": "http://arxiv.org/abs/2608.17959v1",
+        "pdf": "https://arxiv.org/pdf/2608.17959v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "An Omitted Mode Is a Rare Rule: The Sampling-Verification Danger Law in Continuous Code World Models",
+        "authors": [
+          "Javier Aguilar Martín"
+        ],
+        "summary": "In the Code World Model paradigm an LLM synthesizes an executable world model that a classical planner searches, and the model is accepted when it reproduces sampled transitions. We ask what that acceptance certifies in continuous control. We define the pipeline's danger as an expected risk and isol",
+        "url": "http://arxiv.org/abs/2608.17956v1",
+        "pdf": "https://arxiv.org/pdf/2608.17956v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "SIGMA: SHAP-Guided Implicit-Trajectory Generation for Metadata-Free LLM-Based AutoFE",
+        "authors": [
+          "Xuan Zheng",
+          "Kento Uchida",
+          "Shinichi Shirakawa"
+        ],
+        "summary": "Recent research has leveraged Large Language Models (LLMs) to enhance Automated Feature Engineering (AutoFE) through semantic descriptions and trajectory-based prompting. However, there exist two challenges that limit their applicability and scalability in long-horizon optimization: (1) semantic met",
+        "url": "http://arxiv.org/abs/2608.17948v1",
+        "pdf": "https://arxiv.org/pdf/2608.17948v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Procedural Content Metageneration via Program Search and Continual Abstraction Discovery",
+        "authors": [
+          "Matthew Siper",
+          "Ahmed Khalifa",
+          "Julian Togelius"
+        ],
+        "summary": "Large language models can generate executable programs, which makes it possible to search directly over procedural content generators rather than individual levels. We study this approach in Sokoban, Zelda, Dangerous Dave, and Lode Runner. Each run evolves complete Python generators through language",
+        "url": "http://arxiv.org/abs/2608.17947v1",
+        "pdf": "https://arxiv.org/pdf/2608.17947v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Efficient RLVR Scheduling via Graph-Structured Online Difficulty Estimation",
+        "authors": [
+          "Zhizhao Liu",
+          "Zhiliang Tian",
+          "Xi Wang",
+          "Zhihua Wen",
+          "Yihang Xiong"
+        ],
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models but relies on costly rollout exploration. Assigning the same exploration budget to samples with different difficulty levels is inefficient: easy samples may receive redundant rollouts, ",
+        "url": "http://arxiv.org/abs/2608.17941v1",
+        "pdf": "https://arxiv.org/pdf/2608.17941v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Grading Needs a Rubric, Not Intelligence",
+        "authors": [
+          "Jhen-Ke Lin"
+        ],
+        "summary": "Small language models can grade open-ended examination answers as reliably as substantially more expensive models when they grade against an explicit rubric. We test this claim as the design principle behind any-to-bench: a frontier model reads source documents once, at ingestion, to extract each qu",
+        "url": "http://arxiv.org/abs/2608.17938v1",
+        "pdf": "https://arxiv.org/pdf/2608.17938v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "EvoTS-Agent: A Self-Evolving LLM Agent for Financial Time Series Change Point Detection",
+        "authors": [
+          "Lei Jiang",
+          "Ye Wei",
+          "Xinyu Xi",
+          "Jordan Langham-Lopez",
+          "Yifan Bao"
+        ],
+        "summary": "Financial time series exhibit non-stationary and heterogeneous statistical properties, making change-point detection challenging because no single unsupervised algorithm performs consistently across assets and market regimes. Conventional workflows consequently depend heavily on expert-driven model ",
+        "url": "http://arxiv.org/abs/2608.17933v1",
+        "pdf": "https://arxiv.org/pdf/2608.17933v1",
+        "published": "2026-08-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "TokEval: A Tokenizer Evaluation Suite",
+        "authors": [
+          "Clara Meister"
+        ],
+        "summary": "Language model tokenizers are typically selected with minimal evaluation, despite the fact that their design choices directly impact model capabilities. This can be partly attributed to a limited understanding of which tokenizer properties affect which aspects of downstream performance. We introduce",
+        "url": "http://arxiv.org/abs/2608.18062v1",
+        "pdf": "https://arxiv.org/pdf/2608.18062v1",
+        "published": "2026-08-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "The concentration game: Bayesian updating, regret, and information",
+        "authors": [
+          "Akshay Balsubramani"
+        ],
+        "summary": "We give a two-player zero-sum repeated game between a learner and nature whose value identity generates Bayesian updating and an exact accounting of exponential-weights regret at once, and supplies the comparator-class variational form that a wide class of concentration phenomena share. The terminal",
+        "url": "http://arxiv.org/abs/2608.18061v1",
+        "pdf": "https://arxiv.org/pdf/2608.18061v1",
+        "published": "2026-08-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction",
+        "authors": [
+          "Veronika Spieker",
+          "Wenqi Huang",
+          "Cemre Ariyurek",
+          "Liam Timms",
+          "Daniel Rueckert"
+        ],
+        "summary": "Reliable quantitative analysis of dynamic contrast-enhanced MRI requires high-quality spatiotemporal reconstructions at high undersampling rates. Scan-specific reconstructions using Gaussian and Gabor primitives have shown promising results without the need for large training datasets, but have not ",
+        "url": "http://arxiv.org/abs/2608.18055v1",
+        "pdf": "https://arxiv.org/pdf/2608.18055v1",
+        "published": "2026-08-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization",
+        "authors": [
+          "Travis Zhang",
+          "Christian Belardi",
+          "Justin Lovelace",
+          "Jin Peng Zhou",
+          "Saebyeol Shin"
+        ],
+        "summary": "Sampling from a diffusion model typically requires many forward passes through a large neural network, making generation computationally expensive. While much work has focused on efficient solvers and samplers, comparatively little attention has been paid to selecting the sampling timesteps themselv",
+        "url": "http://arxiv.org/abs/2608.18040v1",
+        "pdf": "https://arxiv.org/pdf/2608.18040v1",
+        "published": "2026-08-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Where A Small Language Model Helps in Invoice Categorisation, Understood Through Embedding Geometry",
+        "authors": [
+          "Emma Ceccherini",
+          "Daniel Lawson",
+          "Anjulika Salhan"
+        ],
+        "summary": "Categorising invoices into the correct General Ledger (GL) code underpins financial reporting and tax compliance. This is a skilled accounting judgement rather than a routine task: the correct category depends subtly on the nature of the purchasing business, the vendor and the invoice text. Whilst A",
+        "url": "http://arxiv.org/abs/2608.18033v1",
+        "pdf": "https://arxiv.org/pdf/2608.18033v1",
+        "published": "2026-08-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "TabNSM: Neural Sparse Mixer for Tabular Regression",
+        "authors": [
+          "Ali Eslamian",
+          "Qiang Cheng"
+        ],
+        "summary": "Large-scale, high-dimensional tabular regression remains challenging: tree-based models are robust but lack end-to-end representation learning, while deep models enable flexible feature learning but often incur costly interaction modeling and sensitivity to noisy or redundant features. We propose Ta",
+        "url": "http://arxiv.org/abs/2608.18026v1",
+        "pdf": "https://arxiv.org/pdf/2608.18026v1",
+        "published": "2026-08-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Revisiting WEASEL 2.0: Reproduction, Sensitivity, and an Adaptive Ensemble-Size Rule",
+        "authors": [
+          "Cian Higgins",
+          "Gerard Carrigan",
+          "Pinar Sungu Isiacik",
+          "Georgiana Ifrim"
+        ],
+        "summary": "WEASEL 2.0 is a dictionary-based time series classifier that combines dilated sliding windows with a randomised hyperparameter ensemble and a fixed-size dense feature representation. Two of its hyperparameter choices, the maximum ensemble size and the maximum window size, are specified by simple thr",
+        "url": "http://arxiv.org/abs/2608.18021v1",
+        "pdf": "https://arxiv.org/pdf/2608.18021v1",
+        "published": "2026-08-18",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
