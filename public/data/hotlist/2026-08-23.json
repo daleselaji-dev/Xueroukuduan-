@@ -1,0 +1,627 @@
+{
+  "date": "2026-08-23",
+  "generated": "2026-08-23T03:03:30.510734",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "s1dashu/ip-as-logo-skill",
+        "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+        "stars": 3792,
+        "language": null,
+        "url": "https://github.com/s1dashu/ip-as-logo-skill",
+        "created": "2026-08-18"
+      },
+      {
+        "rank": 2,
+        "name": "yetone/cumora",
+        "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+        "stars": 2903,
+        "language": "TypeScript",
+        "url": "https://github.com/yetone/cumora",
+        "created": "2026-08-17"
+      },
+      {
+        "rank": 3,
+        "name": "CopilotKit/OpenBot",
+        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "stars": 2342,
+        "language": "TypeScript",
+        "url": "https://github.com/CopilotKit/OpenBot",
+        "created": "2026-08-17"
+      },
+      {
+        "rank": 4,
+        "name": "MengTo/threeui",
+        "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+        "stars": 1958,
+        "language": "HTML",
+        "url": "https://github.com/MengTo/threeui",
+        "created": "2026-08-21"
+      },
+      {
+        "rank": 5,
+        "name": "wang2122/sprix-sage-router",
+        "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+        "stars": 1243,
+        "language": "Python",
+        "url": "https://github.com/wang2122/sprix-sage-router",
+        "created": "2026-08-18"
+      },
+      {
+        "rank": 6,
+        "name": "cinderline/northcinder",
+        "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
+        "stars": 1205,
+        "language": "JavaScript",
+        "url": "https://github.com/cinderline/northcinder",
+        "created": "2026-08-17"
+      },
+      {
+        "rank": 7,
+        "name": "vvxw/deploy-vercel",
+        "description": "Install Command：npm install",
+        "stars": 1136,
+        "language": "JavaScript",
+        "url": "https://github.com/vvxw/deploy-vercel",
+        "created": "2026-08-18"
+      },
+      {
+        "rank": 8,
+        "name": "Leutenegger/watermarks-remover",
+        "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+        "stars": 934,
+        "language": "Python",
+        "url": "https://github.com/Leutenegger/watermarks-remover",
+        "created": "2026-08-19"
+      },
+      {
+        "rank": 9,
+        "name": "Leutenegger/vanity-eth",
+        "description": "Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).",
+        "stars": 803,
+        "language": "Python",
+        "url": "https://github.com/Leutenegger/vanity-eth",
+        "created": "2026-08-21"
+      },
+      {
+        "rank": 10,
+        "name": "Spielewoy/autoprompt-skill",
+        "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+        "stars": 710,
+        "language": "JavaScript",
+        "url": "https://github.com/Spielewoy/autoprompt-skill",
+        "created": "2026-08-17"
+      },
+      {
+        "rank": 11,
+        "name": "browser-use/macos-harness",
+        "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+        "stars": 709,
+        "language": "Python",
+        "url": "https://github.com/browser-use/macos-harness",
+        "created": "2026-08-17"
+      },
+      {
+        "rank": 12,
+        "name": "DenisSergeevitch/desktop-fly",
+        "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
+        "stars": 694,
+        "language": "Swift",
+        "url": "https://github.com/DenisSergeevitch/desktop-fly",
+        "created": "2026-08-18"
+      },
+      {
+        "rank": 13,
+        "name": "SigmanticAI/apex-inference-chip",
+        "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, fu",
+        "stars": 680,
+        "language": "Python",
+        "url": "https://github.com/SigmanticAI/apex-inference-chip",
+        "created": "2026-08-17"
+      },
+      {
+        "rank": 14,
+        "name": "Leutenegger/coldcard-airgap",
+        "description": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion",
+        "stars": 608,
+        "language": "Python",
+        "url": "https://github.com/Leutenegger/coldcard-airgap",
+        "created": "2026-08-20"
+      },
+      {
+        "rank": 15,
+        "name": "missuo/herdrm",
+        "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+        "stars": 604,
+        "language": "Swift",
+        "url": "https://github.com/missuo/herdrm",
+        "created": "2026-08-19"
+      },
+      {
+        "rank": 16,
+        "name": "Leutenegger/claudish-to-english",
+        "description": "Claude Code plugin that rewrites each assistant message into plain language on screen only. Local ollama by default; also codex CLI, Anthropic, or any OpenAI-compatible API. Fail-open. Optional Markdo",
+        "stars": 581,
+        "language": "Shell",
+        "url": "https://github.com/Leutenegger/claudish-to-english",
+        "created": "2026-08-21"
+      },
+      {
+        "rank": 17,
+        "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+        "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+        "stars": 570,
+        "language": "JavaScript",
+        "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
+        "created": "2026-08-18"
+      },
+      {
+        "rank": 18,
+        "name": "lanicer/cve-2026-41940-PoC",
+        "description": "A cPanel and WHM authentication bypassing tool",
+        "stars": 526,
+        "language": "Python",
+        "url": "https://github.com/lanicer/cve-2026-41940-PoC",
+        "created": "2026-08-19"
+      },
+      {
+        "rank": 19,
+        "name": "flaqai/backlink_skills",
+        "description": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
+        "stars": 524,
+        "language": "Python",
+        "url": "https://github.com/flaqai/backlink_skills",
+        "created": "2026-08-17"
+      },
+      {
+        "rank": 20,
+        "name": "amirh00sain/SpiderPanel",
+        "description": "",
+        "stars": 511,
+        "language": "Python",
+        "url": "https://github.com/amirh00sain/SpiderPanel",
+        "created": "2026-08-18"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
+        "authors": [
+          "Shiao Xie",
+          "Siyu Chen",
+          "Jianwei Lv",
+          "Bo Yuan",
+          "Yujin Wang"
+        ],
+        "summary": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-dependent patient communication, yet existing medical vision-language tasks do not adequately capture these",
+        "url": "http://arxiv.org/abs/2608.20331v1",
+        "pdf": "https://arxiv.org/pdf/2608.20331v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
+        "authors": [
+          "Narges Ahmadi",
+          "Yubo Jiao",
+          "Jônatas Augusto Manzolli",
+          "Jiangbo Yu",
+          "Luis Miranda-Moreno"
+        ],
+        "summary": "Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workflow integrating conversational data collection, structured data processing, and behavioral prediction",
+        "url": "http://arxiv.org/abs/2608.20320v1",
+        "pdf": "https://arxiv.org/pdf/2608.20320v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Inducing Task Models from Computer-Use Traces",
+        "authors": [
+          "Yucheng Jiang",
+          "Zora Zhiruo Wang",
+          "Ruishi Chen",
+          "Diyi Yang"
+        ],
+        "summary": "Naturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditable, and reusable models of how everyday work is done. Such models matter as computer-use agents enter real work, where agents need to learn how tasks ",
+        "url": "http://arxiv.org/abs/2608.20319v1",
+        "pdf": "https://arxiv.org/pdf/2608.20319v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
+        "authors": [
+          "Yizhe Chi",
+          "Wenyi Li",
+          "Deyao Hong",
+          "Xiaoqiu Wang",
+          "Mingju Gao"
+        ],
+        "summary": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a better objective or update rule improves the compute\\mbox{-}capability exchange rate for every subs",
+        "url": "http://arxiv.org/abs/2608.20318v1",
+        "pdf": "https://arxiv.org/pdf/2608.20318v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation",
+        "authors": [
+          "Adam Fisch",
+          "Shubhendu Trivedi",
+          "Fantine Huot",
+          "William W. Cohen",
+          "Michael Kaisers"
+        ],
+        "summary": "Heterogeneous AI systems composed of multiple models, architectures, harnesses, or inference-time settings can improve quality and efficiency by routing queries to the specialist who can answer most effectively at the lowest cost. Routing requires estimating each specialist's expected return, but th",
+        "url": "http://arxiv.org/abs/2608.20316v1",
+        "pdf": "https://arxiv.org/pdf/2608.20316v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
+        "authors": [
+          "Fengqing Jiang",
+          "Yite Wang",
+          "Boyi Liu",
+          "Zhaoyang Wang",
+          "Canwen Xu"
+        ],
+        "summary": "Mid-training is increasingly recognized as a critical stage for shaping the capabilities of large language models. Recent work has shown that targeted mid-training can strengthen reasoning-intensive abilities such as math and science, and can also improve agentic capabilities in software-engineering",
+        "url": "http://arxiv.org/abs/2608.20314v1",
+        "pdf": "https://arxiv.org/pdf/2608.20314v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Phantom Gains: Auditing Self-Improvement Against a Measured Null",
+        "authors": [
+          "Cheng Xu",
+          "Nan Yan",
+          "Liming Chen",
+          "M-Tahar Kechadi"
+        ],
+        "summary": "Whether a language model has improved itself is increasingly judged not by mean accuracy but by which individual problems it gains and loses. Tracking these transitions means differencing two noisy estimates, leaving them vulnerable to measurement artifacts. Auditing three rounds of rank-$32$ LoRA s",
+        "url": "http://arxiv.org/abs/2608.20290v1",
+        "pdf": "https://arxiv.org/pdf/2608.20290v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
+        "authors": [
+          "Qian Kou",
+          "Xiaofeng Shi",
+          "Xiaosong Qiu",
+          "Hua Zhou"
+        ],
+        "summary": "Large language models often fail to answer questions about a bounded document collection when the source documents are not retrieved at inference time. We study this setting as document knowledge internalization: converting a fixed corpus into usable parametric knowledge for retrieval-free question ",
+        "url": "http://arxiv.org/abs/2608.20281v1",
+        "pdf": "https://arxiv.org/pdf/2608.20281v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents",
+        "authors": [
+          "Yiyang Feng",
+          "Biddut Sarker Bijoy",
+          "Niranjan Balasubramanian",
+          "Jiawei Zhou"
+        ],
+        "summary": "Large language model (LLM) agents can induce skills from completed tasks and reuse them later to grow more capable with experience. In practice, induced skills may transfer unreliably and can even harm the agent that retrieves them. When agent-induced skills transfer reliably across tasks remains an",
+        "url": "http://arxiv.org/abs/2608.20274v1",
+        "pdf": "https://arxiv.org/pdf/2608.20274v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning",
+        "authors": [
+          "Jianghai Li",
+          "Pavel Kuznetsov",
+          "Yury Yanovich",
+          "Konstantin Nott-Whaley",
+          "Igor Vodolazov"
+        ],
+        "summary": "The rapid proliferation of memecoins on blockchain platforms has increased the risk of fraudulent activities, particularly rug pulls. While previous studies have focused on Ethereum-based tokens, this paper shifts the spotlight to Solana, the leading blockchain for memecoins by trading volume and to",
+        "url": "http://arxiv.org/abs/2608.20271v1",
+        "pdf": "https://arxiv.org/pdf/2608.20271v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation",
+        "authors": [
+          "Gijs Kassenaar",
+          "Zhao Yang",
+          "Vincent François-Lavet"
+        ],
+        "summary": "Reasoning language models trained with reinforcement learning typically operate under a fixed token budget rather than an explicitly adaptive one, which can lead to over-computation on easy problems and insufficient computation on difficult ones. We study whether a model can learn to allocate its ow",
+        "url": "http://arxiv.org/abs/2608.20256v1",
+        "pdf": "https://arxiv.org/pdf/2608.20256v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "QUASAR: A Quantum-Classical Neural Network for SAR Satellite Physical-Layer Authentication",
+        "authors": [
+          "Vincenzo Sammartino",
+          "Nathanael Denis",
+          "Roberto Di Pietro"
+        ],
+        "summary": "X-band SAR satellites (8-12 GHz) play a critical role in disaster response, environmental monitoring, and military intelligence. Yet, they lack robust physical-layer authentication (PLA), a security layer orthogonal to cryptographic solutions. Existing PLA systems, typically based on radio-frequency",
+        "url": "http://arxiv.org/abs/2608.20240v1",
+        "pdf": "https://arxiv.org/pdf/2608.20240v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models",
+        "authors": [
+          "Yu Chen",
+          "Ting Lei",
+          "Yaoyi Li",
+          "Jia Cai",
+          "Zhecen Wu"
+        ],
+        "summary": "Multimodal large language models (MLLMs) combine linguistic reasoning with visual perception, yet their ability to perform visual spatial planning under explicit or previously unseen rule constraints remains underexplored. This setting requires models to jointly understand spatial layouts, interpret",
+        "url": "http://arxiv.org/abs/2608.20237v1",
+        "pdf": "https://arxiv.org/pdf/2608.20237v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Growth Without Us: Machine Consumers, Corporate Circularity, and the Decoupling of GDP from Humanity after AGI",
+        "authors": [
+          "Sahil Sharma"
+        ],
+        "summary": "The standard objection to full automation is demand-side: if humans earn nothing, who buys the output? This confuses an accounting role with a biological species. We model a post-AGI economy in which corporations own populations of AI and robotic agents that are both producers and consumers of energ",
+        "url": "http://arxiv.org/abs/2608.20231v1",
+        "pdf": "https://arxiv.org/pdf/2608.20231v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Prompt-Conditioned Channel Attention for Hierarchical Feature Modulation toward Anatomy-Agnostic Segmentation",
+        "authors": [
+          "Mosharof Hossain",
+          "Md Rabiul Islam",
+          "Limon Halder",
+          "Erchin Serpedin",
+          "Md Kamrul Hasan"
+        ],
+        "summary": "Anatomically plausible segmentation remains challenging because of low contrast, ambiguous boundaries, and modality-specific artifacts. Interactive segmentation has emerged as a promising strategy to guide feature extraction and improve localization, particularly in structurally ambiguous regions. H",
+        "url": "http://arxiv.org/abs/2608.20229v1",
+        "pdf": "https://arxiv.org/pdf/2608.20229v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "InsufficiencyBench: Evaluating LLM legal advice on underspecified user queries",
+        "authors": [
+          "Samuel J. Vincent",
+          "Daniel Calloway",
+          "Fangyi Yu",
+          "Andrew M. Bean",
+          "Nabeel Seedat"
+        ],
+        "summary": "Legal AI systems are increasingly used to answer legal questions, yet existing benchmarks assume queries arrive fully specified. In practice, users omit facts that materially determine the legal outcome. We introduce InsufficiencyBench, the first legal benchmark targeting query-side insufficiency: w",
+        "url": "http://arxiv.org/abs/2608.20220v1",
+        "pdf": "https://arxiv.org/pdf/2608.20220v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Electronic Navigational Chart Change Classification",
+        "authors": [
+          "Jacob Arndt",
+          "Abhishek Potnis",
+          "Alexandre Sorokine"
+        ],
+        "summary": "Electronic Navigational Charts (ENCs) are geospatial vector datasets used in maritime navigation systems that represent hydrographic and navigational information such as depths, navigational aids, traffic schemes, and hazards. A major challenge for hydrographic offices is determining whether a given",
+        "url": "http://arxiv.org/abs/2608.20218v1",
+        "pdf": "https://arxiv.org/pdf/2608.20218v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference",
+        "authors": [
+          "Christos Koutsiaris"
+        ],
+        "summary": "Small language models are usually built like large ones and then squeezed onto a CPU afterwards. We did the opposite: we fixed the target first, one user, one token at a time, 4-bit weights, ordinary CPU, and chose the architecture to suit it. The result keeps full attention in only 6 of its 18 bloc",
+        "url": "http://arxiv.org/abs/2608.20210v1",
+        "pdf": "https://arxiv.org/pdf/2608.20210v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "ContractScrub: A benchmark for final review of legal contracts",
+        "authors": [
+          "Yejin Bang",
+          "Kirsty Fielding",
+          "Brandan Oliver",
+          "Brian Birke",
+          "Nabeel Seedat"
+        ],
+        "summary": "Legal work, with its heavy reliance on processing large amounts of text, is often considered one of the domains most exposed to the use of LLMs. Contract ``scrubbing,'' the final review of transactional agreements for errors and inconsistencies, is a particularly suitable task for automation, becaus",
+        "url": "http://arxiv.org/abs/2608.20204v1",
+        "pdf": "https://arxiv.org/pdf/2608.20204v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use",
+        "authors": [
+          "Mengru Wang",
+          "Haozhe Luo",
+          "Zhenqian Xu",
+          "Zhixiang Cui",
+          "Haoming Xu"
+        ],
+        "summary": "Memory has become a key component of large language models, enabling them to retain information and learn from long-term interactions. However, existing memory benchmarks mainly evaluate whether information is correctly extracted, stored, and retrieved, while largely overlooking how retrieved memori",
+        "url": "http://arxiv.org/abs/2608.20202v1",
+        "pdf": "https://arxiv.org/pdf/2608.20202v1",
+        "published": "2026-08-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Information on trajectories: martingales and random times",
+        "authors": [
+          "Akshay Balsubramani"
+        ],
+        "summary": "Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used classical concentration inequalities, from Ville to PAC-Bayes, and measures what each one discards. ",
+        "url": "http://arxiv.org/abs/2608.20337v1",
+        "pdf": "https://arxiv.org/pdf/2608.20337v1",
+        "published": "2026-08-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval",
+        "authors": [
+          "Parampreet Singh",
+          "Anushka Singh",
+          "Sumit Kumar",
+          "Vipul Arora"
+        ],
+        "summary": "Deep neural networks are often overconfident, assigning high confidence even to incorrect predictions. Consequently, users lack a reliable signal for deciding when a prediction can be trusted. Post-hoc confidence estimation addresses this by training a lightweight auxiliary head over a frozen classi",
+        "url": "http://arxiv.org/abs/2608.20326v1",
+        "pdf": "https://arxiv.org/pdf/2608.20326v1",
+        "published": "2026-08-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection",
+        "authors": [
+          "Anton Lambrecht",
+          "Reda El Hail",
+          "Xianjun Jiao",
+          "Pieter Crombez",
+          "Dominique Schreurs"
+        ],
+        "summary": "Despite their growing importance for contact-free radio frequency (RF) based healthcare monitoring, different radio technologies such as frequency-modulated continuous wave (FMCW) radar, impulse radio ultra-wideband (IR-UWB), and Wi-Fi sensing are rarely compared under identical deployment condition",
+        "url": "http://arxiv.org/abs/2608.20322v1",
+        "pdf": "https://arxiv.org/pdf/2608.20322v1",
+        "published": "2026-08-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records",
+        "authors": [
+          "Jun Ni Du",
+          "Lukas Adamek",
+          "Maxim Kryukov",
+          "Flavio Dormont",
+          "Ziv Bar-Joseph"
+        ],
+        "summary": "Predictive models over structured electronic health records (EHRs) remain central to machine learning for healthcare, but few have jointly emphasized quantitative laboratory information and interpretability with respect to input medical events. We present BERT-LER, a BERT-style model for coded EHR t",
+        "url": "http://arxiv.org/abs/2608.20315v1",
+        "pdf": "https://arxiv.org/pdf/2608.20315v1",
+        "published": "2026-08-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Physical-Support Confidence Sets for Highly Coherent Dictionaries",
+        "authors": [
+          "Guan-Ju Peng"
+        ],
+        "summary": "Sparse pursuit after dictionary learning can yield a precise atom support even when its physical interpretation is not justified by the calibration data, especially for highly coherent dictionaries where alternative calibration-compatible dictionaries may assign different physical meanings to the sa",
+        "url": "http://arxiv.org/abs/2608.20295v1",
+        "pdf": "https://arxiv.org/pdf/2608.20295v1",
+        "published": "2026-08-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Dynamic Structural Causal Modeling for Sleep",
+        "authors": [
+          "Ranveer Singh",
+          "Saurabh Mathur",
+          "Pranuthi Tenali",
+          "Arun Badi",
+          "Sriraam Natarajan"
+        ],
+        "summary": "The causal dynamics of sleep-disordered breathing are complex and vary across patient populations, hindering the development of targeted interventions. We learn dynamic causal graphs of sleep-disordered breathing from Home Sleep Apnea Test (HSAT) recordings, revealing systematic differences in causa",
+        "url": "http://arxiv.org/abs/2608.20285v1",
+        "pdf": "https://arxiv.org/pdf/2608.20285v1",
+        "published": "2026-08-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Which Eviction Policy Should an LLM Cache Use? A Systematic Study Across Workloads, Capacities, and Encoders",
+        "authors": [
+          "Yash Kulkarni",
+          "Shubham Harkare",
+          "Arvind Suresh Yogesh Babu"
+        ],
+        "summary": "Semantic caches reuse an LLM response when the incoming query embedding lies near a cached query, but proposed eviction policies have rarely been compared under one protocol. Using CLEVER, we evaluate FIFO, LRU, LFU, ARC, GDSF, a single-pass streaming adaptation of SISO, and a semantic-redundancy po",
+        "url": "http://arxiv.org/abs/2608.20280v1",
+        "pdf": "https://arxiv.org/pdf/2608.20280v1",
+        "published": "2026-08-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "DICS: Data-Informed Centroid Splitting for Decision Tree Classifiers",
+        "authors": [
+          "MD Saifur Rahman Mazumder",
+          "Feng Yu"
+        ],
+        "summary": "Decision tree-based models are widely used in machine learning due to their interpretability and strong empirical performance. However, training decision trees can be computationally expensive, particularly for large and high-dimensional datasets, largely due to the exhaustive search over candidate ",
+        "url": "http://arxiv.org/abs/2608.20258v1",
+        "pdf": "https://arxiv.org/pdf/2608.20258v1",
+        "published": "2026-08-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 29,
+        "title": "Transfer Learning in Nonparametric Regression with Deep ReLU Networks",
+        "authors": [
+          "Junpeng Ren",
+          "Carlos Misael Madrid Padilla",
+          "Yanzhen Chen",
+          "Oscar Hernan Madrid Padilla"
+        ],
+        "summary": "This paper develops a general transfer learning framework for nonparametric regression with data consisting of multiple groups. Under the assumption that groups share a common structure along with group-specific deviations in additive form, the proposed method employs a two-stage offset learning pro",
+        "url": "http://arxiv.org/abs/2608.20255v1",
+        "pdf": "https://arxiv.org/pdf/2608.20255v1",
+        "published": "2026-08-20",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
