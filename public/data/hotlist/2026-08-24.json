@@ -1,0 +1,606 @@
+{
+  "date": "2026-08-24",
+  "generated": "2026-08-24T03:03:41.035222",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "s1dashu/ip-as-logo-skill",
+        "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+        "stars": 3939,
+        "language": null,
+        "url": "https://github.com/s1dashu/ip-as-logo-skill",
+        "created": "2026-08-18"
+      },
+      {
+        "rank": 2,
+        "name": "MengTo/threeui",
+        "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+        "stars": 2996,
+        "language": "HTML",
+        "url": "https://github.com/MengTo/threeui",
+        "created": "2026-08-21"
+      },
+      {
+        "rank": 3,
+        "name": "wang2122/sprix-sage-router",
+        "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+        "stars": 1447,
+        "language": "Python",
+        "url": "https://github.com/wang2122/sprix-sage-router",
+        "created": "2026-08-18"
+      },
+      {
+        "rank": 4,
+        "name": "vvxw/deploy-vercel",
+        "description": "Install Command：npm install",
+        "stars": 1224,
+        "language": "JavaScript",
+        "url": "https://github.com/vvxw/deploy-vercel",
+        "created": "2026-08-18"
+      },
+      {
+        "rank": 5,
+        "name": "duty1g/x64dbg-mcp-server",
+        "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg progra",
+        "stars": 950,
+        "language": "Zig",
+        "url": "https://github.com/duty1g/x64dbg-mcp-server",
+        "created": "2026-08-22"
+      },
+      {
+        "rank": 6,
+        "name": "ShadowAqueduct/watermark-remover",
+        "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+        "stars": 760,
+        "language": "Python",
+        "url": "https://github.com/ShadowAqueduct/watermark-remover",
+        "created": "2026-08-23"
+      },
+      {
+        "rank": 7,
+        "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+        "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+        "stars": 741,
+        "language": "JavaScript",
+        "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
+        "created": "2026-08-18"
+      },
+      {
+        "rank": 8,
+        "name": "DenisSergeevitch/desktop-fly",
+        "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
+        "stars": 706,
+        "language": "Swift",
+        "url": "https://github.com/DenisSergeevitch/desktop-fly",
+        "created": "2026-08-18"
+      },
+      {
+        "rank": 9,
+        "name": "cclank/lanshu-create-ai-presenter-video",
+        "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+        "stars": 685,
+        "language": "Python",
+        "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+        "created": "2026-08-20"
+      },
+      {
+        "rank": 10,
+        "name": "missuo/herdrm",
+        "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+        "stars": 613,
+        "language": "Swift",
+        "url": "https://github.com/missuo/herdrm",
+        "created": "2026-08-19"
+      },
+      {
+        "rank": 11,
+        "name": "amirh00sain/SpiderPanel",
+        "description": "",
+        "stars": 613,
+        "language": "Python",
+        "url": "https://github.com/amirh00sain/SpiderPanel",
+        "created": "2026-08-18"
+      },
+      {
+        "rank": 12,
+        "name": "iAmCorey/Wake",
+        "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
+        "stars": 549,
+        "language": "Rust",
+        "url": "https://github.com/iAmCorey/Wake",
+        "created": "2026-08-18"
+      },
+      {
+        "rank": 13,
+        "name": "lanicer/cve-2026-41940-PoC",
+        "description": "A cPanel and WHM authentication bypassing tool",
+        "stars": 527,
+        "language": "Python",
+        "url": "https://github.com/lanicer/cve-2026-41940-PoC",
+        "created": "2026-08-19"
+      },
+      {
+        "rank": 14,
+        "name": "nateherkai/scroll-craft",
+        "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+        "stars": 510,
+        "language": "JavaScript",
+        "url": "https://github.com/nateherkai/scroll-craft",
+        "created": "2026-08-22"
+      },
+      {
+        "rank": 15,
+        "name": "xdreizein666/getcontact-cli",
+        "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+        "stars": 479,
+        "language": "Python",
+        "url": "https://github.com/xdreizein666/getcontact-cli",
+        "created": "2026-08-20"
+      },
+      {
+        "rank": 16,
+        "name": "PentagonConure42/youtube-downloader-zen",
+        "description": "Youtube Downloader Zen",
+        "stars": 461,
+        "language": null,
+        "url": "https://github.com/PentagonConure42/youtube-downloader-zen",
+        "created": "2026-08-18"
+      },
+      {
+        "rank": 17,
+        "name": "Forsy-AI/biosecurity-agent",
+        "description": "AI agent that builds a live biosecurity world around any target.",
+        "stars": 418,
+        "language": "TypeScript",
+        "url": "https://github.com/Forsy-AI/biosecurity-agent",
+        "created": "2026-08-22"
+      },
+      {
+        "rank": 18,
+        "name": "amagine-ai/Amagine3D",
+        "description": "Amagine3D: From hardware requirements to editable 3D designs",
+        "stars": 346,
+        "language": "TypeScript",
+        "url": "https://github.com/amagine-ai/Amagine3D",
+        "created": "2026-08-19"
+      },
+      {
+        "rank": 19,
+        "name": "air-embodied-brain/Zetta-Embodiment",
+        "description": "",
+        "stars": 316,
+        "language": "Python",
+        "url": "https://github.com/air-embodied-brain/Zetta-Embodiment",
+        "created": "2026-08-18"
+      },
+      {
+        "rank": 20,
+        "name": "MengTo/sylva",
+        "description": "An interactive Three.js landscape study with a procedural, pointer-responsive moss world.",
+        "stars": 306,
+        "language": "HTML",
+        "url": "https://github.com/MengTo/sylva",
+        "created": "2026-08-18"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Primal Acceleration of Newton's Method",
+        "authors": [
+          "Nikita Doikov"
+        ],
+        "summary": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simple predetermined choice of parameters, it achieves the global convergence rate of",
+        "url": "http://arxiv.org/abs/2608.21359v1",
+        "pdf": "https://arxiv.org/pdf/2608.21359v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+        "authors": [
+          "Elaine Lau",
+          "Thanuka Udumulla",
+          "Lee Izhaki-Tavor",
+          "Francisco Guzmán",
+          "Nicholas Magazine"
+        ],
+        "summary": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions. We introduce VIALS, a visual question-answering benchmark with 161 such interpretation ",
+        "url": "http://arxiv.org/abs/2608.21357v1",
+        "pdf": "https://arxiv.org/pdf/2608.21357v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "AI with Authority, from Application to Silicon",
+        "authors": [
+          "Jason Hickey"
+        ],
+        "summary": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verification is not only economical but essential to productivity --- it is the incorruptible referee tha",
+        "url": "http://arxiv.org/abs/2608.21356v1",
+        "pdf": "https://arxiv.org/pdf/2608.21356v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
+        "authors": [
+          "Vladimir Bataev",
+          "Lilit Grigoryan",
+          "Andrei Andrusenko",
+          "Nikolay Karpov",
+          "Vitaly Lavrukhin"
+        ],
+        "summary": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many context-biasing methods improve recognition accuracy, they often do not address the practical requiremen",
+        "url": "http://arxiv.org/abs/2608.21343v1",
+        "pdf": "https://arxiv.org/pdf/2608.21343v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation",
+        "authors": [
+          "David P. Stonko"
+        ],
+        "summary": "Deep-learning models of anatomy can be numerically plausible yet anatomically impossible, and they generalize poorly when data are scarce. We introduce Anatomy-Informed Neural Networks (AINN), in which soft anatomic priors enter as penalty terms in the loss (e.g., a branching penalty that treats a r",
+        "url": "http://arxiv.org/abs/2608.21332v1",
+        "pdf": "https://arxiv.org/pdf/2608.21332v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets",
+        "authors": [
+          "Jingtao Tang",
+          "Hang Ma"
+        ],
+        "summary": "We formalize the Steiner Traveling Salesman Problem (Steiner-TSP) on Graphs of Convex Sets (GCS), which seeks a minimum-cost closed trajectory through required convex sets while allowing optional transit vertices and revisits. To explore the resulting infinite solution space, we propose a unified br",
+        "url": "http://arxiv.org/abs/2608.21319v1",
+        "pdf": "https://arxiv.org/pdf/2608.21319v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry",
+        "authors": [
+          "Adriana Watson",
+          "Marco Bücheler",
+          "Grant Richards"
+        ],
+        "summary": "The European Union (EU) has emerged as a leading regulatory body in the development of sustainability and privacy regulations. While new regulation requirements vary, many include a documentation artifact to ensure compliance. Notably, the Ecodesign for Sustainable Products Regulation (ESPR) introdu",
+        "url": "http://arxiv.org/abs/2608.21317v1",
+        "pdf": "https://arxiv.org/pdf/2608.21317v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning",
+        "authors": [
+          "Haonan Jia",
+          "Shichao Dong",
+          "Zenghui Sun",
+          "Jiawen Zheng",
+          "Ziqi Miao"
+        ],
+        "summary": "Reinforcement Learning (RL) has demonstrated significant gains in image captioning, yet it is still limited in encouraging Large Vision-Language Models (LVLMs) to explore novel reasoning strategies. This limitation leads to a performance gap between RL and Supervised Fine-Tuning (SFT). In this paper",
+        "url": "http://arxiv.org/abs/2608.21305v1",
+        "pdf": "https://arxiv.org/pdf/2608.21305v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization",
+        "authors": [
+          "Huizu Lin",
+          "Chengkai Huang",
+          "Tianqi Gao",
+          "Tao Huang",
+          "Daijiao Liu"
+        ],
+        "summary": "Skills play different roles as an agent's policy evolves: they should first provide learnable knowledge, then support capability formation, and finally be invoked only when they improve individual decisions. Existing methods rarely model this lifecycle. They either keep skills outside the model, ful",
+        "url": "http://arxiv.org/abs/2608.21292v1",
+        "pdf": "https://arxiv.org/pdf/2608.21292v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment",
+        "authors": [
+          "Chengxiao Wang",
+          "Enyi Jiang",
+          "Xiaojing Liao",
+          "Sanmi Koyejo"
+        ],
+        "summary": "Improving the safety of large language models (LLMs) often comes at the expense of utility, as globally applied safety tuning may affect model responses to both harmful and benign inputs. We propose \\textbf{C}ontinuous \\textbf{L}at\\textbf{E}nt \\textbf{A}dapter \\textbf{R}outing (CLEAR), a conditional",
+        "url": "http://arxiv.org/abs/2608.21278v1",
+        "pdf": "https://arxiv.org/pdf/2608.21278v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering",
+        "authors": [
+          "Xuanyu Meng",
+          "Jiashuo Sun",
+          "Jash Rajesh Parekh",
+          "Jiawei Han"
+        ],
+        "summary": "Question answering (QA) over long, connected documents remains challenging because relevant evidence may span multiple entities and their relationships. Existing retrieval-augmented generation (RAG) methods typically index documents as raw chunks and retrieve them through embedding similarity. Their",
+        "url": "http://arxiv.org/abs/2608.21252v1",
+        "pdf": "https://arxiv.org/pdf/2608.21252v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Adapting Knowledge Graphs for Behavior Denoising in Sequential Recommendation",
+        "authors": [
+          "Zichun Jin",
+          "Zihan Zhou",
+          "Yinan Liu",
+          "Bin Wang",
+          "Xiaochun Yang"
+        ],
+        "summary": "Sequential recommendation predicts the next item from a user's interaction history, but not every interaction is equally informative. Real logs combine persistent preferences with temporary needs, exploration, and incidental behavior, so some interactions can distort history representations or provi",
+        "url": "http://arxiv.org/abs/2608.21243v1",
+        "pdf": "https://arxiv.org/pdf/2608.21243v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Fine-Grain GPU Parallelization of the Generalized Partition Crossover for Large-Scale Traveling Salesman Problems",
+        "authors": [
+          "Swetha Varadarajan",
+          "Darrell Whitley"
+        ],
+        "summary": "The Traveling Salesman Problem (TSP) is one of the most extensively studied NP-hard optimization problems. Genetic Algorithm (GA)-based solvers, such as the Edge Assembly Crossover (EAX), achieve state-of-the-art performance on many benchmark instances. However, the scalability of these approaches i",
+        "url": "http://arxiv.org/abs/2608.21233v1",
+        "pdf": "https://arxiv.org/pdf/2608.21233v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Utility Under Attack: Agent Memory Poisoning and the Limits of Content Screening and Provenance Ranking",
+        "authors": [
+          "Arulnidhi Karunanidhi"
+        ],
+        "summary": "Persistent memory makes false information durable: once a false statement is stored, it can be retrieved into future sessions that match it. We measure the cost of this failure mode using plainly worded false assertions generated in a single pass, with no instruction, trigger, or retriever optimizat",
+        "url": "http://arxiv.org/abs/2608.21230v1",
+        "pdf": "https://arxiv.org/pdf/2608.21230v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Ontology-supported AI Model and Dataset Management",
+        "authors": [
+          "Jan Novacek",
+          "Ali Ahari",
+          "Tobias Müller",
+          "Sebastian Reiter",
+          "Alexander Viehl"
+        ],
+        "summary": "Recently, there has been a great deal of research into improving AI methods and their application. The main focus is on tracking progress, enabling transparent comparisons, and fostering a more profound understanding of AI. In that process, different organizations generate and use plenty of assets t",
+        "url": "http://arxiv.org/abs/2608.21224v1",
+        "pdf": "https://arxiv.org/pdf/2608.21224v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Enhancing LLMs in Predictive Political QA with Semi-Structured Data",
+        "authors": [
+          "Yinan Liu",
+          "Zihan Zhou",
+          "Zichun Jin",
+          "Xinyu Wang",
+          "Bin Wang"
+        ],
+        "summary": "Predictive political question answering (QA), such as predicting how a political actor will vote, goes beyond factual lookup. External political resources offer rich historical evidence, but rarely contain the answer itself. Existing LLM augmentation methods, including actor-profile-based simulation",
+        "url": "http://arxiv.org/abs/2608.21218v1",
+        "pdf": "https://arxiv.org/pdf/2608.21218v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Personalized Privacy Control in LLMs via Attention Head Intervention",
+        "authors": [
+          "Junseok Kim",
+          "Nakyeong Yang",
+          "Kyomin Jung"
+        ],
+        "summary": "The rise of agentic AI enables LLMs to access diverse user data, raising critical privacy concerns. Prior work on contextual privacy studies whether LLMs regulate information disclosure according to context-dependent norms. However, acceptable disclosure boundaries may vary across users even within ",
+        "url": "http://arxiv.org/abs/2608.21209v1",
+        "pdf": "https://arxiv.org/pdf/2608.21209v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Specification Portability Across LLM Development Agents: Cross-Agent Compatibility in Specification-Driven Software Migration",
+        "authors": [
+          "Oleg Grynets",
+          "Oleksii Ilchuk",
+          "Dariia Zatulna",
+          "Vasyl Lyashkevych"
+        ],
+        "summary": "This paper investigates cross-agent specification portability using Oracle-to-PostgreSQL migration as a controlled software transformation task. The study combines two experimental stages. First, a specification-first migration pipeline was evaluated on 1,006 PL/SQL files, of which 623 were successf",
+        "url": "http://arxiv.org/abs/2608.21208v1",
+        "pdf": "https://arxiv.org/pdf/2608.21208v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Curriculum-Aware Interpolate-then-Refine: Learned Physiological Time-Series Imputation under Realistic Missingness",
+        "authors": [
+          "Yu-Chao Huang",
+          "Haochen Zhang",
+          "Nicholas Konz",
+          "Tianlong Chen"
+        ],
+        "summary": "Imputing physiological time series (arterial blood pressure, blood glucose, etc.) is essential for addressing the missingness that pervades clinical data. Yet modern imputation methods perform poorly in this domain: a recent benchmark found that simple linear interpolation outperformed every learned",
+        "url": "http://arxiv.org/abs/2608.21207v1",
+        "pdf": "https://arxiv.org/pdf/2608.21207v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "No PUN Intended: Plausible Unknown Names for Person-Centred LLM Evaluation",
+        "authors": [
+          "Dimitri Staufer",
+          "David Hartmann",
+          "Ibrahim Baroud"
+        ],
+        "summary": "Person names are widely used as prompt variables in LLM evaluations of factuality, privacy leakage, bias and abstention, but when a name's evidential status is uncontrolled, measurements may conflate memorisation, retrieval, name priors and wrong-person attribution. We operationalise an unknown name",
+        "url": "http://arxiv.org/abs/2608.21206v1",
+        "pdf": "https://arxiv.org/pdf/2608.21206v1",
+        "published": "2026-08-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
+        "authors": [
+          "Yoshitaka Inoue",
+          "Minoh Jeong",
+          "Alfred Hero",
+          "Rui Kuang",
+          "Augustin Luna"
+        ],
+        "summary": "Scarce data and tumor heterogeneity limit patient-level cancer treatment-response prediction. Existing approaches predict response from pretreatment molecular profiles and drug representations, without explicitly modeling the molecular changes expected under treatment. We propose PerturbRx, a treatm",
+        "url": "http://arxiv.org/abs/2608.21349v1",
+        "pdf": "https://arxiv.org/pdf/2608.21349v1",
+        "published": "2026-08-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Truthful Calibration Measures for Sequential Prediction",
+        "authors": [
+          "Anagha Gokul",
+          "Jason Hartline",
+          "Lunjia Hu",
+          "Jonathan Ullman",
+          "Yifan Wu"
+        ],
+        "summary": "Calibration requires probabilistic reports to be conditionally unbiased and reliably interpretable as probabilities. A calibration measure assigns numerical error to miscalibrated reports. Haghtalab et al. (2024) proposed an approximately truthful calibration measure for online prediction, leaving o",
+        "url": "http://arxiv.org/abs/2608.21348v1",
+        "pdf": "https://arxiv.org/pdf/2608.21348v1",
+        "published": "2026-08-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Asymmetric Capacity Allocation in Self-Refinement Pipelines",
+        "authors": [
+          "Zhuoyi Yang",
+          "Ian G. Harris",
+          "Salar Hashemitaheri",
+          "Cassie Huang",
+          "Yuangang Li"
+        ],
+        "summary": "Self-refinement, typically structured as generation, critique, and revision, is a widely adopted paradigm for improving LLM generation and serves as a core mechanism in many LLM agents. While the three stages involve different cognitive demands, most existing approaches conveniently treat the model ",
+        "url": "http://arxiv.org/abs/2608.21345v1",
+        "pdf": "https://arxiv.org/pdf/2608.21345v1",
+        "published": "2026-08-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price Trajectories",
+        "authors": [
+          "Pedro Cadahia Delgado"
+        ],
+        "summary": "Short observational pricing panels can contain many observations while offering only a small number of distinct price movements. This paper studies the inferential consequences of that distinction in a synthetic data-generating process calibrated to a sparse pricing regime. We separate uncertainty c",
+        "url": "http://arxiv.org/abs/2608.21334v1",
+        "pdf": "https://arxiv.org/pdf/2608.21334v1",
+        "published": "2026-08-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Time-Aware Tranformer-Based Prediction Model for AECOPD",
+        "authors": [
+          "Weihao Qu",
+          "Ling Zheng",
+          "Dongyang Wang",
+          "Jiacun Wang",
+          "Haowen Pan"
+        ],
+        "summary": "The rapid symptom change of Acute exacerbation of chronic obstructive pulmonary disease (AECOPD) makes it critical to have time-sensitive prediction models. However, most current machine learning models studying AECOPD use clinical and laboratory data, which will inevitably cause latency. To ensure ",
+        "url": "http://arxiv.org/abs/2608.21324v1",
+        "pdf": "https://arxiv.org/pdf/2608.21324v1",
+        "published": "2026-08-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Rethinking Expressivity and Efficiency in Test-Time Training",
+        "authors": [
+          "Zeyun Zhong",
+          "Joya Chen",
+          "Manuel Martin",
+          "Frederik Diederichs",
+          "Juergen Gall"
+        ],
+        "summary": "Test-Time Training (TTT) enables long-context processing via continuous weight updates during inference, but current methods struggle to balance the expressivity of per-token update dynamics with the hardware efficiency of chunk-wise approximations. We propose E$^2$-TTT (Expressive and Efficient TTT",
+        "url": "http://arxiv.org/abs/2608.21308v1",
+        "pdf": "https://arxiv.org/pdf/2608.21308v1",
+        "published": "2026-08-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "SPARCL: Spectral Partitioned Analytic Continual Learning",
+        "authors": [
+          "James Hartley",
+          "Zeropy Surio",
+          "Daniel Whitmore",
+          "Hannah Clarke",
+          "Thomas Reed"
+        ],
+        "summary": "Analytic continual learning has emerged as a strong exemplar-free alternative to gradient-based class-incremental learning because it replaces iterative optimization with closed-form ridge updates. Yet the usual forgetting narrative, centered on stochastic gradient overwriting, does not explain why ",
+        "url": "http://arxiv.org/abs/2608.21307v1",
+        "pdf": "https://arxiv.org/pdf/2608.21307v1",
+        "published": "2026-08-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "ConceptTS: LLM-Guided Concept Bottlenecks for Interpretable Multivariate Time-Series Forecasting",
+        "authors": [
+          "Yichen Jiang",
+          "Yueqiao Chen",
+          "Dongyu Liu"
+        ],
+        "summary": "State-of-the-art multivariate time-series forecasters can model complex temporal and cross-variable dependencies, yet their opaque representations provide limited insight into why a particular forecast is produced. This lack of transparency restricts their use in settings where practitioners must un",
+        "url": "http://arxiv.org/abs/2608.21277v1",
+        "pdf": "https://arxiv.org/pdf/2608.21277v1",
+        "published": "2026-08-21",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
