@@ -1,0 +1,609 @@
+{
+  "date": "2026-08-25",
+  "generated": "2026-08-25T02:59:05.846258",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "MengTo/threeui",
+        "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+        "stars": 3563,
+        "language": "HTML",
+        "url": "https://github.com/MengTo/threeui",
+        "created": "2026-08-21"
+      },
+      {
+        "rank": 2,
+        "name": "b-nnett/grok-bot-0.18-reconstructed",
+        "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+        "stars": 1891,
+        "language": "TypeScript",
+        "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+        "created": "2026-08-23"
+      },
+      {
+        "rank": 3,
+        "name": "duty1g/x64dbg-mcp-server",
+        "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg progra",
+        "stars": 1249,
+        "language": "Zig",
+        "url": "https://github.com/duty1g/x64dbg-mcp-server",
+        "created": "2026-08-22"
+      },
+      {
+        "rank": 4,
+        "name": "tobi/walgit",
+        "description": "",
+        "stars": 1095,
+        "language": "Rust",
+        "url": "https://github.com/tobi/walgit",
+        "created": "2026-08-23"
+      },
+      {
+        "rank": 5,
+        "name": "cclank/lanshu-create-ai-presenter-video",
+        "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+        "stars": 844,
+        "language": "Python",
+        "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+        "created": "2026-08-20"
+      },
+      {
+        "rank": 6,
+        "name": "ShadowAqueduct/watermark-remover",
+        "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+        "stars": 774,
+        "language": "Python",
+        "url": "https://github.com/ShadowAqueduct/watermark-remover",
+        "created": "2026-08-23"
+      },
+      {
+        "rank": 7,
+        "name": "nateherkai/scroll-craft",
+        "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+        "stars": 652,
+        "language": "JavaScript",
+        "url": "https://github.com/nateherkai/scroll-craft",
+        "created": "2026-08-22"
+      },
+      {
+        "rank": 8,
+        "name": "missuo/herdrm",
+        "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+        "stars": 623,
+        "language": "Swift",
+        "url": "https://github.com/missuo/herdrm",
+        "created": "2026-08-19"
+      },
+      {
+        "rank": 9,
+        "name": "lanicer/cve-2026-41940-PoC",
+        "description": "A cPanel and WHM authentication bypassing tool",
+        "stars": 528,
+        "language": "Python",
+        "url": "https://github.com/lanicer/cve-2026-41940-PoC",
+        "created": "2026-08-19"
+      },
+      {
+        "rank": 10,
+        "name": "Forsy-AI/biosecurity-agent",
+        "description": "AI agent that builds a live biosecurity world around any target.",
+        "stars": 513,
+        "language": "TypeScript",
+        "url": "https://github.com/Forsy-AI/biosecurity-agent",
+        "created": "2026-08-22"
+      },
+      {
+        "rank": 11,
+        "name": "xdreizein666/getcontact-cli",
+        "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+        "stars": 484,
+        "language": "Python",
+        "url": "https://github.com/xdreizein666/getcontact-cli",
+        "created": "2026-08-20"
+      },
+      {
+        "rank": 12,
+        "name": "Zyrexnn/Cybermes",
+        "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+        "stars": 465,
+        "language": "Python",
+        "url": "https://github.com/Zyrexnn/Cybermes",
+        "created": "2026-08-19"
+      },
+      {
+        "rank": 13,
+        "name": "localai-org/kimodo.cpp",
+        "description": "NVIDIA Kimodo ported to C++/GGML",
+        "stars": 429,
+        "language": "C++",
+        "url": "https://github.com/localai-org/kimodo.cpp",
+        "created": "2026-08-22"
+      },
+      {
+        "rank": 14,
+        "name": "amagine-ai/Amagine3D",
+        "description": "Amagine3D: From hardware requirements to editable 3D designs",
+        "stars": 403,
+        "language": "TypeScript",
+        "url": "https://github.com/amagine-ai/Amagine3D",
+        "created": "2026-08-19"
+      },
+      {
+        "rank": 15,
+        "name": "LB623/no-negative-echo",
+        "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
+        "stars": 351,
+        "language": "Python",
+        "url": "https://github.com/LB623/no-negative-echo",
+        "created": "2026-08-21"
+      },
+      {
+        "rank": 16,
+        "name": "mrhlaingbwardev/Telegram-Secure-Storage-Bot",
+        "description": "A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
+        "stars": 345,
+        "language": "JavaScript",
+        "url": "https://github.com/mrhlaingbwardev/Telegram-Secure-Storage-Bot",
+        "created": "2026-08-19"
+      },
+      {
+        "rank": 17,
+        "name": "kgoedecke/doop",
+        "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+        "stars": 325,
+        "language": "TypeScript",
+        "url": "https://github.com/kgoedecke/doop",
+        "created": "2026-08-22"
+      },
+      {
+        "rank": 18,
+        "name": "rome-os/rome",
+        "description": "Rome is the agentic OS.",
+        "stars": 296,
+        "language": "TypeScript",
+        "url": "https://github.com/rome-os/rome",
+        "created": "2026-08-23"
+      },
+      {
+        "rank": 19,
+        "name": "inkboard/system-atlas",
+        "description": "An agent skill that turns an architecture discussion into an explorable isometric atlas: one data file, an interactive map and a generated SYSTEM.md",
+        "stars": 260,
+        "language": "HTML",
+        "url": "https://github.com/inkboard/system-atlas",
+        "created": "2026-08-20"
+      },
+      {
+        "rank": 20,
+        "name": "bam-bam-2/solo-skills",
+        "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
+        "stars": 256,
+        "language": "Python",
+        "url": "https://github.com/bam-bam-2/solo-skills",
+        "created": "2026-08-22"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "How to Train a Critic Stably and Efficiently",
+        "authors": [
+          "Penghui Qi",
+          "Xiangxin Zhou",
+          "Wee Sun Lee"
+        ],
+        "summary": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstable. ",
+        "url": "http://arxiv.org/abs/2608.23566v1",
+        "pdf": "https://arxiv.org/pdf/2608.23566v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+        "authors": [
+          "Zhifei Chen",
+          "Luozhou Wang",
+          "Guibao Shen",
+          "Dongyu Yan",
+          "Shuai Yang"
+        ],
+        "summary": "An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounded one. ReWorld separates the two during training and bounds them at inference. Mixed per-head attent",
+        "url": "http://arxiv.org/abs/2608.23565v1",
+        "pdf": "https://arxiv.org/pdf/2608.23565v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+        "authors": [
+          "Deyao Hong",
+          "Yizhe Chi",
+          "Wenyi Li",
+          "Xiaoqiu Wang",
+          "Mingju Gao"
+        ],
+        "summary": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they autonomously perform such migrations? Existing benchmarks cannot answer this question because they e",
+        "url": "http://arxiv.org/abs/2608.23564v1",
+        "pdf": "https://arxiv.org/pdf/2608.23564v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
+        "authors": [
+          "Md Thamed Bin Zaman Chowdhury",
+          "Moazzem Hossain"
+        ],
+        "summary": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and the high cost of large-scale field inspections. To address this problem, we propose Expert-Grounded Di",
+        "url": "http://arxiv.org/abs/2608.23563v1",
+        "pdf": "https://arxiv.org/pdf/2608.23563v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
+        "authors": [
+          "Yuanyuan Zhang",
+          "Yida Zhang",
+          "Jiahui Li",
+          "Yuyan Wu",
+          "Fei Dou"
+        ],
+        "summary": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed interaction with shifted fiducial points in temporal or amplitude axis, and BP varies with personal hemody",
+        "url": "http://arxiv.org/abs/2608.23562v1",
+        "pdf": "https://arxiv.org/pdf/2608.23562v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Prime Agent: A Self-Improving RLM Harness",
+        "authors": [
+          "Seth Karten",
+          "Alex L. Zhang",
+          "Kevin Thomas",
+          "Sebastian Müller",
+          "Elie Bakouch"
+        ],
+        "summary": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long-horizon evaluation and coding-agent workflows. A persistent IPython REPL follows the Recursive Lang",
+        "url": "http://arxiv.org/abs/2608.23552v1",
+        "pdf": "https://arxiv.org/pdf/2608.23552v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
+        "authors": [
+          "Na Li",
+          "Yuchen Jiao",
+          "Changxiao Cai",
+          "Gen Li"
+        ],
+        "summary": "Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders supervised with cross entropy (CE) because the flow trajectories are not guaranteed to terminate at val",
+        "url": "http://arxiv.org/abs/2608.23551v1",
+        "pdf": "https://arxiv.org/pdf/2608.23551v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles",
+        "authors": [
+          "Shang Wu",
+          "Catarina G Belem",
+          "Shuyuan Fu",
+          "Mark Steyvers",
+          "Padhraic Smyth"
+        ],
+        "summary": "While AI assistance can improve human task performance in the short term, it may also undermine the development of skills in the longer term. We examine this tension in a controlled logic-puzzle experiment involving on-demand AI assistance, where participants complete tasks before, during, and after",
+        "url": "http://arxiv.org/abs/2608.23543v1",
+        "pdf": "https://arxiv.org/pdf/2608.23543v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams",
+        "authors": [
+          "Summer Eunhyung Ann",
+          "Haokun Liu",
+          "Chenhao Tan"
+        ],
+        "summary": "Does multi-agent LLM interaction help or hurt? Some work reports gains from debate (Du et al., 2024), critique loops (Chen et al., 2025), and mixture-of-agents synthesis (Wang et al., 2025), while other work finds that interaction adds cost without improving quality under equal budgets (Tran & Kiela",
+        "url": "http://arxiv.org/abs/2608.23541v1",
+        "pdf": "https://arxiv.org/pdf/2608.23541v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Adapter-Based Few-Shot Continual Learning for Malicious Packet Recognition",
+        "authors": [
+          "Kyle Stein",
+          "Guillermo Francia",
+          "III Eman El-Sheikh",
+          "Andrew Arash Mahyari"
+        ],
+        "summary": "The continual evolution of malware variants necessitates detection systems that can adapt to new threats without retraining from scratch. However, continually updating models on new data often leads to catastrophic forgetting, where previously learned knowledge is overwritten. While continual learni",
+        "url": "http://arxiv.org/abs/2608.23536v1",
+        "pdf": "https://arxiv.org/pdf/2608.23536v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Correcting a learned physical invariant improves world-model rollouts",
+        "authors": [
+          "Richard Bao"
+        ],
+        "summary": "World models can predict video without learning dynamics that they reliably preserve. We test whether a frozen DreamerV3 trained only on pendulum video learns a scalar that its own latent transition treats as approximately conserved. A label-free search recovers the same energy-like invariant across",
+        "url": "http://arxiv.org/abs/2608.23526v1",
+        "pdf": "https://arxiv.org/pdf/2608.23526v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards",
+        "authors": [
+          "Zhiqing Cui",
+          "Xinxiang Yin",
+          "Yihong Tang",
+          "Xinglang Zhang",
+          "Yuanzhe Hu"
+        ],
+        "summary": "Earth-system analysis reconstructs changing physical processes from observations that differ in source, scale, timing, and modality. Natural hazards make this work consequential because incomplete evidence can change estimates of severity, exposure, and mechanism. We introduce EarthVerse, a benchmar",
+        "url": "http://arxiv.org/abs/2608.23525v1",
+        "pdf": "https://arxiv.org/pdf/2608.23525v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "The Measurement Revolution? Credible Measurement and Inference in the Age of AI",
+        "authors": [
+          "Melissa Dell",
+          "Ashesh Rambachan"
+        ],
+        "summary": "Artificial intelligence (AI) is transforming measurement in economics. AI models convert unstructured data, such as text and images, into structured variables at low cost, making previously prohibitive measurement feasible at scale. This shifts the bottleneck from finding any scalable measure of a p",
+        "url": "http://arxiv.org/abs/2608.23524v1",
+        "pdf": "https://arxiv.org/pdf/2608.23524v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World",
+        "authors": [
+          "Xiang Chen",
+          "Zeyu Zhang"
+        ],
+        "summary": "Historical people may appear under different languages, scripts, and transcription traditions, while distinct individuals may share highly similar or even identical names. This makes historical identity reconciliation more than a problem of string matching or transliteration. We introduce MHER, a pr",
+        "url": "http://arxiv.org/abs/2608.23507v1",
+        "pdf": "https://arxiv.org/pdf/2608.23507v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty",
+        "authors": [
+          "Yipeng Zhao",
+          "Qishun Yang",
+          "Shenzhe Zhu",
+          "Shu Yang",
+          "Di Wang"
+        ],
+        "summary": "Reasoning-Induced Misalignment, where fine-tuning on reasoning data containing no harmful content, including mathematics, code, and problem-solving with chain-of-thought traces can induce harmful behaviors of LLM, posing a serious challenge to the safety of LLM reasoning. Cross-architecture, cross-s",
+        "url": "http://arxiv.org/abs/2608.23497v1",
+        "pdf": "https://arxiv.org/pdf/2608.23497v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning",
+        "authors": [
+          "Jialong Liu",
+          "Yuling Shi",
+          "Ning Yang",
+          "Xiaodong Gu",
+          "Zuchao Li"
+        ],
+        "summary": "Self-reflection is a powerful mechanism for credit assignment in human learning, converting sparse outcome feedback into actionable guidance. However, its potential for post-training Large Language Models (LLMs) remains underexplored. We propose Self-Reflective Policy Optimization (SRPO), a framewor",
+        "url": "http://arxiv.org/abs/2608.23493v1",
+        "pdf": "https://arxiv.org/pdf/2608.23493v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Multi-Modal Semantic Expansion with Constrained LLM Reranking for Conversational Music Recommendation",
+        "authors": [
+          "Naman Garg",
+          "Sarika Jain",
+          "George Fazekas"
+        ],
+        "summary": "We present Team Semiintelligencn's solution for the ACM RecSys 2026 TalkPlayData Challenge, addressing conversational music recommendation through a multi-modal and personalized conversational recommender system. Our submitted system employs a three-stage pipeline: (1) multi-modal retrieval construc",
+        "url": "http://arxiv.org/abs/2608.23484v1",
+        "pdf": "https://arxiv.org/pdf/2608.23484v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models",
+        "authors": [
+          "Sangoh Lee",
+          "Sangwoo Mo",
+          "Wook-Shin Han"
+        ],
+        "summary": "Vision-Language-Action (VLA) models can turn multimodal context into robot actions, but their action decoders are still trained largely by behavior cloning. This supervises which motor command was demonstrated while leaving implicit the local objective served by the behavior under the instruction. F",
+        "url": "http://arxiv.org/abs/2608.23478v1",
+        "pdf": "https://arxiv.org/pdf/2608.23478v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "StrategyBench: Evaluating Explicit Strategy Induction in Large Language Models",
+        "authors": [
+          "Jinghan Tan",
+          "Yuanzheng Wang",
+          "Lu Chen",
+          "Zijun Chen",
+          "Yuqian Wang"
+        ],
+        "summary": "As large language models are increasingly used in data-scarce and evolving task scenarios, few-shot in-context learning (ICL) has become a key paradigm for task adaptation. However, direct ICL often uses a small set of examples without explicitly abstracting task rules, making it sensitive to exampl",
+        "url": "http://arxiv.org/abs/2608.23475v1",
+        "pdf": "https://arxiv.org/pdf/2608.23475v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "What's the Catch? Evaluating Temporal Consistency in Vision-Language Models",
+        "authors": [
+          "Marek Hradil",
+          "Danae Sánchez Villegas"
+        ],
+        "summary": "Vision-language models (VLMs) achieve strong performance on video and image-sequence benchmarks, yet it remains unclear whether they capture temporal structure. To study this question, we formulate temporal grounding as an anomaly detection problem, providing a simple and controlled evaluation that ",
+        "url": "http://arxiv.org/abs/2608.23474v1",
+        "pdf": "https://arxiv.org/pdf/2608.23474v1",
+        "published": "2026-08-24",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Provably adaptive sampling with uniform and remasking discrete diffusion models",
+        "authors": [
+          "Daniil Dmitriev",
+          "Zhihan Huang",
+          "Yuting Wei"
+        ],
+        "summary": "Discrete diffusion models offer a promising alternative to autoregressive generation by enabling parallel updates, but their sampling efficiency can depend strongly on the choice of the forward process and the sampler. For the uniform forward process, existing lower bounds for the standard $τ$-leapi",
+        "url": "http://arxiv.org/abs/2608.23554v1",
+        "pdf": "https://arxiv.org/pdf/2608.23554v1",
+        "published": "2026-08-24",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination",
+        "authors": [
+          "Mustafa Umut Ozbek",
+          "Taiwo Ojo",
+          "Pooria Madani",
+          "Khalil El-Khatib",
+          "Li Yang"
+        ],
+        "summary": "Machine-learning-based anomaly detection is increasingly used in industrial control systems (ICS), yet most studies assume that detector training data is trustworthy. In practice, training data may be corrupted through compromised logs, labeling errors, manipulated historian records, or unsafe retra",
+        "url": "http://arxiv.org/abs/2608.23547v1",
+        "pdf": "https://arxiv.org/pdf/2608.23547v1",
+        "published": "2026-08-24",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Inertial Manifold Neural Operator for Dissipative Time-Dependent Partial Differential Equations",
+        "authors": [
+          "Xiaoyang Xie",
+          "Clarence W. Rowley"
+        ],
+        "summary": "In this paper, we introduce the Inertial Manifold Neural Operator (IMNO) for solving dissipative time-dependent partial differential equations (PDEs). The long-time dynamics of such systems often exhibit an effective low-dimensional structure due to dissipation. Unlike standard neural operator archi",
+        "url": "http://arxiv.org/abs/2608.23546v1",
+        "pdf": "https://arxiv.org/pdf/2608.23546v1",
+        "published": "2026-08-24",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Interpretable AI with Local Distillation",
+        "authors": [
+          "Erin Craig",
+          "Yiling Huang",
+          "Snigdha Panigrahi"
+        ],
+        "summary": "Modern AI models such as tabular foundation models and gradient-boosted ensembles can outpredict classical methods, but provide little basis for reasoning about their predictions. High-stakes decisions call for models that are both accurate and interpretable as built. Local linear modeling offers a ",
+        "url": "http://arxiv.org/abs/2608.23538v1",
+        "pdf": "https://arxiv.org/pdf/2608.23538v1",
+        "published": "2026-08-24",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Predicting Multiple Clinical Outcomes Related to Functional Recovery and Social Isolation Among Older Adults After Lower-Limb Fracture or Hip Replacement",
+        "authors": [
+          "Santosh Ray",
+          "Pratik K. Mishra",
+          "Ali Abedi",
+          "Charlene H. Chu",
+          "Amir Ahmad"
+        ],
+        "summary": "Older adults recovering after lower-limb fracture or hip replacement may experience complex recovery trajectories. Most of the time, these clinical aspects are studied in isolation, masking their joint impact on recovery. This study used the MAISON-LLF dataset, which contains multimodal sensor and c",
+        "url": "http://arxiv.org/abs/2608.23531v1",
+        "pdf": "https://arxiv.org/pdf/2608.23531v1",
+        "published": "2026-08-24",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Primal--Dual Alternating Neural Learning for Timely Classification with Performance Guarantees",
+        "authors": [
+          "Jiaming Qiu",
+          "Yingye Zheng",
+          "Ying-Qi Zhao"
+        ],
+        "summary": "Timely risk classification is essential in many clinical monitoring settings, where decisions must balance the benefit of classifying patients early for subsequent intervention against the value of observing additional data. Yet most existing statistical and machine-learning methods are designed for",
+        "url": "http://arxiv.org/abs/2608.23480v1",
+        "pdf": "https://arxiv.org/pdf/2608.23480v1",
+        "published": "2026-08-24",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters",
+        "authors": [
+          "ChengAo Shen",
+          "Wenchao Yu",
+          "Fangyu Wu",
+          "Dongjin Song",
+          "Hanghang Tong"
+        ],
+        "summary": "Time series forecasting (TSF) is evolving toward multimodal and agentic settings, yet using foundation models remains uneconomical in resource-constrained scenarios, where compact, specialized forecasters are more desirable. However, lightweight forecasters typically require substantial training dat",
+        "url": "http://arxiv.org/abs/2608.23473v1",
+        "pdf": "https://arxiv.org/pdf/2608.23473v1",
+        "published": "2026-08-24",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "RAD: Rule-Augmented Relational Anomaly Detection",
+        "authors": [
+          "Noah Dahle",
+          "Anne Tumlin",
+          "Ngoc Tran",
+          "Xenofon Koutsoukos",
+          "Tyler Derr"
+        ],
+        "summary": "Anomaly detection is often applied to data stored in relational databases, yet most existing methods require flattening multiple tables into a single feature matrix. This flattening can obscure entity identity, schema structure, and multi-hop dependencies, limiting the detection of anomalies that de",
+        "url": "http://arxiv.org/abs/2608.23468v1",
+        "pdf": "https://arxiv.org/pdf/2608.23468v1",
+        "published": "2026-08-24",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
