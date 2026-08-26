@@ -1,0 +1,610 @@
+{
+  "date": "2026-08-26",
+  "generated": "2026-08-26T03:05:24.088277",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "MengTo/threeui",
+        "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+        "stars": 3965,
+        "language": "HTML",
+        "url": "https://github.com/MengTo/threeui",
+        "created": "2026-08-21"
+      },
+      {
+        "rank": 2,
+        "name": "b-nnett/grok-bot-0.18-reconstructed",
+        "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+        "stars": 2579,
+        "language": "TypeScript",
+        "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+        "created": "2026-08-23"
+      },
+      {
+        "rank": 3,
+        "name": "tobi/walgit",
+        "description": "",
+        "stars": 1594,
+        "language": "Rust",
+        "url": "https://github.com/tobi/walgit",
+        "created": "2026-08-23"
+      },
+      {
+        "rank": 4,
+        "name": "duty1g/x64dbg-mcp-server",
+        "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg progra",
+        "stars": 1392,
+        "language": "Zig",
+        "url": "https://github.com/duty1g/x64dbg-mcp-server",
+        "created": "2026-08-22"
+      },
+      {
+        "rank": 5,
+        "name": "cclank/lanshu-create-ai-presenter-video",
+        "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+        "stars": 925,
+        "language": "Python",
+        "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+        "created": "2026-08-20"
+      },
+      {
+        "rank": 6,
+        "name": "nateherkai/scroll-craft",
+        "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+        "stars": 920,
+        "language": "JavaScript",
+        "url": "https://github.com/nateherkai/scroll-craft",
+        "created": "2026-08-22"
+      },
+      {
+        "rank": 7,
+        "name": "ShadowAqueduct/watermark-remover",
+        "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+        "stars": 792,
+        "language": "Python",
+        "url": "https://github.com/ShadowAqueduct/watermark-remover",
+        "created": "2026-08-23"
+      },
+      {
+        "rank": 8,
+        "name": "ApodexAI/FrontierAgent",
+        "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+        "stars": 634,
+        "language": "Python",
+        "url": "https://github.com/ApodexAI/FrontierAgent",
+        "created": "2026-08-22"
+      },
+      {
+        "rank": 9,
+        "name": "bryllim/workout-guide",
+        "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+        "stars": 545,
+        "language": "Astro",
+        "url": "https://github.com/bryllim/workout-guide",
+        "created": "2026-08-24"
+      },
+      {
+        "rank": 10,
+        "name": "Forsy-AI/biosecurity-agent",
+        "description": "AI agent that builds a live biosecurity world around any target.",
+        "stars": 514,
+        "language": "TypeScript",
+        "url": "https://github.com/Forsy-AI/biosecurity-agent",
+        "created": "2026-08-22"
+      },
+      {
+        "rank": 11,
+        "name": "xdreizein666/getcontact-cli",
+        "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+        "stars": 486,
+        "language": "Python",
+        "url": "https://github.com/xdreizein666/getcontact-cli",
+        "created": "2026-08-20"
+      },
+      {
+        "rank": 12,
+        "name": "localai-org/kimodo.cpp",
+        "description": "NVIDIA Kimodo ported to C++/GGML",
+        "stars": 467,
+        "language": "C++",
+        "url": "https://github.com/localai-org/kimodo.cpp",
+        "created": "2026-08-22"
+      },
+      {
+        "rank": 13,
+        "name": "LB623/no-negative-echo",
+        "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
+        "stars": 414,
+        "language": "Python",
+        "url": "https://github.com/LB623/no-negative-echo",
+        "created": "2026-08-21"
+      },
+      {
+        "rank": 14,
+        "name": "RobertGolds1/Gradient",
+        "description": "Gradient",
+        "stars": 409,
+        "language": "Python",
+        "url": "https://github.com/RobertGolds1/Gradient",
+        "created": "2026-08-23"
+      },
+      {
+        "rank": 15,
+        "name": "kgoedecke/doop",
+        "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+        "stars": 371,
+        "language": "TypeScript",
+        "url": "https://github.com/kgoedecke/doop",
+        "created": "2026-08-22"
+      },
+      {
+        "rank": 16,
+        "name": "kunchenguid/backpass",
+        "description": "You don't write AGENTS.md. You train it with gradient descent.",
+        "stars": 346,
+        "language": "JavaScript",
+        "url": "https://github.com/kunchenguid/backpass",
+        "created": "2026-08-21"
+      },
+      {
+        "rank": 17,
+        "name": "fzakaria/selfdb",
+        "description": "",
+        "stars": 340,
+        "language": "Python",
+        "url": "https://github.com/fzakaria/selfdb",
+        "created": "2026-08-23"
+      },
+      {
+        "rank": 18,
+        "name": "rome-os/rome",
+        "description": "Rome is the agentic OS.",
+        "stars": 337,
+        "language": "TypeScript",
+        "url": "https://github.com/rome-os/rome",
+        "created": "2026-08-23"
+      },
+      {
+        "rank": 19,
+        "name": "themartiano/try-omarchy",
+        "description": "Try Omarchy on Apple Silicon without any setup.",
+        "stars": 312,
+        "language": "Shell",
+        "url": "https://github.com/themartiano/try-omarchy",
+        "created": "2026-08-23"
+      },
+      {
+        "rank": 20,
+        "name": "inkboard/system-atlas",
+        "description": "An agent skill that turns an architecture discussion into an explorable isometric atlas: one data file, an interactive map and a generated SYSTEM.md",
+        "stars": 305,
+        "language": "HTML",
+        "url": "https://github.com/inkboard/system-atlas",
+        "created": "2026-08-20"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+        "authors": [
+          "Zhaochen Yu",
+          "Yingcheng Wu",
+          "Zhenfei Yin",
+          "Kaiyuan Chen",
+          "Zhe Zhao"
+        ],
+        "summary": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Working Memory architecture for long-horizon agent harnesses, in which Working Memory tracks task progress",
+        "url": "http://arxiv.org/abs/2608.24876v1",
+        "pdf": "https://arxiv.org/pdf/2608.24876v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
+        "authors": [
+          "Kai Ruan",
+          "Jinghao Lin",
+          "Qianshan Wei",
+          "Ziqi Zhou",
+          "Zihe Huang"
+        ],
+        "summary": "Group-relative reinforcement learning waits for sibling rollouts of the same prompt, which is costly for long and variable tool-use trajectories. Single-stream Policy Optimization (SPO) removes this dependency with a persistent prompt-level value estimate, but its recipe whitens one advantage per tr",
+        "url": "http://arxiv.org/abs/2608.24870v1",
+        "pdf": "https://arxiv.org/pdf/2608.24870v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs",
+        "authors": [
+          "Md Saikat Islam Khan Bappy",
+          "Oshani Seneviratne"
+        ],
+        "summary": "Real-world data for knowledge graph question answering is often distributed across different organizations due to governance and data sovereignty constraints. While centralized systems exist, they cannot answer multi-hop questions when the required facts are split across vertically partitioned silos",
+        "url": "http://arxiv.org/abs/2608.24846v1",
+        "pdf": "https://arxiv.org/pdf/2608.24846v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training",
+        "authors": [
+          "Andreas Hochlehnert",
+          "Marianna Nezhurina",
+          "Mehdi Cherti",
+          "Andrej Radonjic",
+          "Thaddäus Wiedemer"
+        ],
+        "summary": "We present LAION-BVD, a large-scale open video dataset for multimodal learning, which contains 1.3B platform-specific video URLs collected from CommonCrawl. From these, we download 80M videos with a total duration of 10 million hours. The dataset is designed for multimodal pre-training across the vi",
+        "url": "http://arxiv.org/abs/2608.24845v1",
+        "pdf": "https://arxiv.org/pdf/2608.24845v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows",
+        "authors": [
+          "Miao Liu",
+          "Zhizhe Liu"
+        ],
+        "summary": "Large language models (LLMs) are increasingly deployed as AI analysts to process financial disclosures and support AI-assisted investment decisions. Yet such systems are usually evaluated by what they can retrieve, not whether retrieved information affects their judgments. We identify a retrieval-in",
+        "url": "http://arxiv.org/abs/2608.24842v1",
+        "pdf": "https://arxiv.org/pdf/2608.24842v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments",
+        "authors": [
+          "Jing Huang",
+          "Jihong Zhang",
+          "Hua-Hua Chang"
+        ],
+        "summary": "The rapid expansion of large-scale assessments and the growing adoption of automatic item generation have intensified concerns about incidental content redundancy, where construct-irrelevant elements such as wording or contextual framing become unintentionally repetitive across items. Traditional si",
+        "url": "http://arxiv.org/abs/2608.24825v1",
+        "pdf": "https://arxiv.org/pdf/2608.24825v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Constrained Entity Selection under Partial Knowledge for LLM-Based Knowledge Graph QA",
+        "authors": [
+          "Emanuel Kitzelmann"
+        ],
+        "summary": "Large language models are increasingly used for knowledge graph question answering (KGQA), but can fail to correctly ground answers in the underlying graph. Current approaches to LLM-based KGQA either rely on full semantic parsing into executable queries such as SPARQL, which is brittle in practice ",
+        "url": "http://arxiv.org/abs/2608.24824v1",
+        "pdf": "https://arxiv.org/pdf/2608.24824v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core",
+        "authors": [
+          "Yogesh Kumar"
+        ],
+        "summary": "Recent work has applied Mamba style state space models (SSMs) to video anomaly detection, yet existing approaches still rely on buffering clips or windows internally, lack a theoretical account of how temporal memory relates to detection latency, and benchmark efficiency only through GPU throughput ",
+        "url": "http://arxiv.org/abs/2608.24810v1",
+        "pdf": "https://arxiv.org/pdf/2608.24810v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Automatic Model Card Generation Using an LLM",
+        "authors": [
+          "Tajkia Rahman Toma",
+          "Balreet Grewal",
+          "Cor-Paul Bezemer"
+        ],
+        "summary": "Model cards are structured documents that summarize key information about machine learning models to improve transparency, usability, and accountability. However, they often lack a consistent structure, and many models provide no model cards, making comparison and interpretation difficult. This pape",
+        "url": "http://arxiv.org/abs/2608.24807v1",
+        "pdf": "https://arxiv.org/pdf/2608.24807v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments",
+        "authors": [
+          "Esakkivel Esakkiraja",
+          "Denis Akhiyarov",
+          "Vikas Yadav",
+          "Sai Rajeswar",
+          "Patrice Bechard"
+        ],
+        "summary": "We present StarHarness, a framework for evolving environment-specific agent harnesses while keeping model weights fixed. The evolved harness can include prompt and task framing, tool interfaces, skills, MCP-backed providers, subagent structure, and agent-loop configuration. StarHarness constructs a ",
+        "url": "http://arxiv.org/abs/2608.24804v1",
+        "pdf": "https://arxiv.org/pdf/2608.24804v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "CAFE: Self-Improving Search Agents Need Co-Evolving Feedback",
+        "authors": [
+          "Boyang Liu",
+          "Senjie Jin",
+          "Peixin Wang",
+          "Zhangyue Yin",
+          "Yibo Wang"
+        ],
+        "summary": "Outcome-supervised search agents learn when and how to retrieve evidence, but terminal rewards neither localize intermediate errors nor redirect an ongoing trajectory before those errors compound. Treating corrective feedback as a learned in-trajectory intervention couples the two roles: the agent m",
+        "url": "http://arxiv.org/abs/2608.24794v1",
+        "pdf": "https://arxiv.org/pdf/2608.24794v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Right Diagnoses, Decorative Reasoning:A Perturbation Audit of Medical Chain-of-Thought",
+        "authors": [
+          "Mengzhu Xu",
+          "Jifan Gao",
+          "Xia Jiang",
+          "Yaoxin Wu",
+          "Xi Long"
+        ],
+        "summary": "Clinicians read chain-of-thought (CoT) rationales as evidence of medical reasoning, but whether the visible chain plays that role is rarely tested. General-domain CoT-faithfulness probes ignore clinical cost, and medical LLM evaluations treat the chain as a black box. We close this gap with a medica",
+        "url": "http://arxiv.org/abs/2608.24790v1",
+        "pdf": "https://arxiv.org/pdf/2608.24790v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing",
+        "authors": [
+          "Zhijie Zheng",
+          "Yu Li",
+          "Chen Qian",
+          "Yuqian Fu",
+          "Yanwei Fu"
+        ],
+        "summary": "LLM-based agents can interact with external environments through tool invocation, but this capability also introduces security risks such as file modification, information leakage, and unauthorized actions. Existing guardrails often evaluate completed trajectories, leaving pre-execution monitoring o",
+        "url": "http://arxiv.org/abs/2608.24777v1",
+        "pdf": "https://arxiv.org/pdf/2608.24777v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Ensemble of Convolutional Neural Networks for StrokePrediction: Towards Improved Diagnostic Accuracy",
+        "authors": [
+          "Md Shahriar Sajid"
+        ],
+        "summary": "Brain stroke, known for its high mortality and incidence rates, poses significant health risks and requires rapid intervention for survival. Early diagnosis and preventive measures can greatly reduce life loss and disabilities. Recent advancements in deep learning have led to novel computer-aided di",
+        "url": "http://arxiv.org/abs/2608.24771v1",
+        "pdf": "https://arxiv.org/pdf/2608.24771v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Score-Based Ideal Observer Approximation via Denoising Score Matching for Signal-Known-Exactly Detection Tasks",
+        "authors": [
+          "Weimin Zhou"
+        ],
+        "summary": "The Bayesian Ideal Observer (IO) establishes the theoretical upper bound on task performance for binary detection tasks. However, analytical computation of the IO test statistic is generally intractable. Numerical approaches based on Markov-chain Monte Carlo (MCMC) methods, including their recent de",
+        "url": "http://arxiv.org/abs/2608.24768v1",
+        "pdf": "https://arxiv.org/pdf/2608.24768v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Evidence Blindness in Direct Corpus Interaction: Persistent Navigation with AtlasNav",
+        "authors": [
+          "Hongyu Guo",
+          "Zhiyu Zheng",
+          "Zhao Cao"
+        ],
+        "summary": "Large language model agents are moving beyond conventional retrieval-augmented generation toward direct interaction with external corpora. Direct Corpus Interaction (DCI) keeps the full corpus accessible, yet reachable evidence can remain unusable under finite interaction budgets. Required evidence ",
+        "url": "http://arxiv.org/abs/2608.24764v1",
+        "pdf": "https://arxiv.org/pdf/2608.24764v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Beyond Uniform Local Isometry and Topology: FactoMap for Disentangled Representations",
+        "authors": [
+          "Sohini Gupta",
+          "Bahareh Tolooshams"
+        ],
+        "summary": "Many disentanglement methods represent generative factors using Euclidean product coordinates, although the underlying factor spaces may wrap, collapse, or have position-dependent geometry. We introduce factor-space structure, combining factor domains, generator-induced identifications, and position",
+        "url": "http://arxiv.org/abs/2608.24762v1",
+        "pdf": "https://arxiv.org/pdf/2608.24762v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "RACE: Scalable Statistical Estimation of Functional Consistency in LLM Neurons",
+        "authors": [
+          "Runyu Wang",
+          "Bo Liu",
+          "Xiaxin Zhang",
+          "Yu Han",
+          "Jiawei Cao"
+        ],
+        "summary": "Discovering stable neuron behavior across entire domains remains a challenge in mechanistic interpretability. Existing methods often rely on instance-level point estimates or computationally expensive procedures, which either obscure population-level variability or limit scalable domain-wide analysi",
+        "url": "http://arxiv.org/abs/2608.24758v1",
+        "pdf": "https://arxiv.org/pdf/2608.24758v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "The RAT: A Unified Bayesian Model for RAG Evaluation",
+        "authors": [
+          "Pius von Däniken",
+          "Felix Matthias Saaro",
+          "Mark Cieliebak",
+          "Jan Deriu"
+        ],
+        "summary": "Evaluating Retrieval-Augmented Generation (RAG) systems requires assessing not only end-to-end correctness but also how individual components interact and how errors propagate through the pipeline. We introduce a Bayesian evaluation framework that jointly models retrieval success, abstention behavio",
+        "url": "http://arxiv.org/abs/2608.24753v1",
+        "pdf": "https://arxiv.org/pdf/2608.24753v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Method, Mind, and Morality: How People Make Sense of Artificial Intelligence",
+        "authors": [
+          "Jacy Reese Anthis",
+          "Erik Brynjolfsson",
+          "James Evans"
+        ],
+        "summary": "How can humans make sense of the rapid takeoff of artificial intelligence (AI)? We studied the sensemaking dynamics of AI through an open-ended, mixed-methods study with computational text analysis of millions of AI-related newspaper articles and social media posts grounded in 57 semi-structured int",
+        "url": "http://arxiv.org/abs/2608.24748v1",
+        "pdf": "https://arxiv.org/pdf/2608.24748v1",
+        "published": "2026-08-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation",
+        "authors": [
+          "Hao Chen"
+        ],
+        "summary": "Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported scalar gap alone is not a calibrated test against sampling variation. FID's moment restriction has con",
+        "url": "http://arxiv.org/abs/2608.24881v1",
+        "pdf": "https://arxiv.org/pdf/2608.24881v1",
+        "published": "2026-08-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes",
+        "authors": [
+          "Aritra Das",
+          "Vincent Froese",
+          "Moritz Grillo",
+          "Debayan Gupta",
+          "Christoph Hertrich"
+        ],
+        "summary": "Lipschitz constants are a standard way to quantify the sensitivity of neural networks to small input perturbations, but computing them is difficult even for shallow ReLU networks. We study this problem for two-layer input-convex neural networks (ICNNs), a restricted architecture where nonnegative ou",
+        "url": "http://arxiv.org/abs/2608.24865v1",
+        "pdf": "https://arxiv.org/pdf/2608.24865v1",
+        "published": "2026-08-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement",
+        "authors": [
+          "Arthur Corrêa",
+          "Paulo Nascimento",
+          "Samuel Moniz"
+        ],
+        "summary": "Multi-task vehicle routing problem (VRP) solvers seek to handle multiple VRP variants within a single unified model, avoiding the need to train a separate model for every variant. In spite of recent progress, current approaches remain limited on two fronts. On the training side, reinforcement learni",
+        "url": "http://arxiv.org/abs/2608.24859v1",
+        "pdf": "https://arxiv.org/pdf/2608.24859v1",
+        "published": "2026-08-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Bellman Calibration for Marginalized Importance Weighting in Offline Reinforcement Learning",
+        "authors": [
+          "Lars van der Laan",
+          "Nathan Kallus"
+        ],
+        "summary": "Marginalized importance weighting evaluates a target policy by reweighting offline state-action samples with its discounted occupancy ratio, characterized by an adjoint Bellman equation. Existing minimax, primal-dual, and fitted fixed-point estimators can leave residual occupancy-balance violations ",
+        "url": "http://arxiv.org/abs/2608.24858v1",
+        "pdf": "https://arxiv.org/pdf/2608.24858v1",
+        "published": "2026-08-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "BioKERN: Biological Kernel Regularization for Histology-to-Transcriptomics Neighborhood Retrieval",
+        "authors": [
+          "Seungik Cho",
+          "Betul Orcan-Ekmekci"
+        ],
+        "summary": "Spatially resolved biology requires representations that preserve biological neighborhood structure rather than only exact cross-modal correspondences. Existing histology--transcriptomics objectives can emphasize instance-level matching even when non-paired spots share molecular or spatial context. ",
+        "url": "http://arxiv.org/abs/2608.24823v1",
+        "pdf": "https://arxiv.org/pdf/2608.24823v1",
+        "published": "2026-08-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "A Geometric Theory of Robust Fairness Audits",
+        "authors": [
+          "Binita Maity"
+        ],
+        "summary": "Neighborhood-based fairness audits evaluate individual fairness by comparing predictions among similar individuals in feature space. Despite their widespread use, little is known about the robustness of the auditing procedure itself. Because these audits rely on nearest neighbor relationships, small",
+        "url": "http://arxiv.org/abs/2608.24818v1",
+        "pdf": "https://arxiv.org/pdf/2608.24818v1",
+        "published": "2026-08-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Effective Learning Rate Governs Loss Dynamics in Language Model Pretraining",
+        "authors": [
+          "Zihan Liu",
+          "Ruiheng Zheng",
+          "Shaobo Zhang",
+          "Changxin Tian",
+          "Kunlong Chen"
+        ],
+        "summary": "We uncover ELR collapse in language model pretraining: learning rate (LR) and parameter norm govern loss dynamics primarily through their ratio, the effective learning rate (ELR). When ELR is matched across runs, their loss trajectories collapse throughout training despite substantially different LR",
+        "url": "http://arxiv.org/abs/2608.24814v1",
+        "pdf": "https://arxiv.org/pdf/2608.24814v1",
+        "published": "2026-08-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "MDTE: Minority-Aware Diffusion over Temporal Edge Events for Imbalanced Node Classification",
+        "authors": [
+          "Zhou Zelong",
+          "Zhang Tianming",
+          "Yang Zhengyi",
+          "Tang Yifu",
+          "Hou Chenyu"
+        ],
+        "summary": "Class-imbalanced node classification on temporal graphs is challenging because majority-dominated temporal propagation progressively assimilates minority representations, while conventional node and neighborhood information provides insufficient discriminative evidence for minority classes. To addre",
+        "url": "http://arxiv.org/abs/2608.24812v1",
+        "pdf": "https://arxiv.org/pdf/2608.24812v1",
+        "published": "2026-08-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 29,
+        "title": "LION: A Clifford Neural Paradigm for Multimodal-Attributed Graph Learning",
+        "authors": [
+          "Xunkai Li",
+          "Zekai Chen",
+          "Zhengyu Wu",
+          "Henan Sun",
+          "Daohan Su"
+        ],
+        "summary": "Recently, the rapid advancement of multimodal domains has driven a data-centric paradigm shift in graph ML, transitioning from text-attributed to multimodal-attributed graphs. This advancement significantly enhances data representation and expands the scope of graph downstream tasks, such as modalit",
+        "url": "http://arxiv.org/abs/2608.24795v1",
+        "pdf": "https://arxiv.org/pdf/2608.24795v1",
+        "published": "2026-08-25",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
