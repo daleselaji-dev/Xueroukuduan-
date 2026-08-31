@@ -1,0 +1,566 @@
+{
+  "date": "2026-08-31",
+  "generated": "2026-08-31T08:13:49.560642",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "sapientinc/PRAXIST",
+        "description": "Autonomous research system for measurable, computer-executable research.",
+        "stars": 4814,
+        "language": "Python",
+        "url": "https://github.com/sapientinc/PRAXIST",
+        "created": "2026-08-27"
+      },
+      {
+        "rank": 2,
+        "name": "HEJustinSun/my-girlfriend-jingtian-latex",
+        "description": "",
+        "stars": 4168,
+        "language": "TeX",
+        "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
+        "created": "2026-08-27"
+      },
+      {
+        "rank": 3,
+        "name": "XiaoDuoYa/codex-with-chatgpt",
+        "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+        "stars": 1575,
+        "language": "TypeScript",
+        "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 4,
+        "name": "MetaMask-AI/metamask-desktop",
+        "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+        "stars": 1228,
+        "language": "CSS",
+        "url": "https://github.com/MetaMask-AI/metamask-desktop",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 5,
+        "name": "wide-trace/open-higgsfield",
+        "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+        "stars": 1104,
+        "language": "TypeScript",
+        "url": "https://github.com/wide-trace/open-higgsfield",
+        "created": "2026-08-26"
+      },
+      {
+        "rank": 6,
+        "name": "Nanako0129/sepia",
+        "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+        "stars": 1021,
+        "language": null,
+        "url": "https://github.com/Nanako0129/sepia",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 7,
+        "name": "Tencent/WeMM-Embedding",
+        "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+        "stars": 954,
+        "language": "Python",
+        "url": "https://github.com/Tencent/WeMM-Embedding",
+        "created": "2026-08-25"
+      },
+      {
+        "rank": 8,
+        "name": "tradecatlabs/shulihuazixuecongshu",
+        "description": "",
+        "stars": 814,
+        "language": "Python",
+        "url": "https://github.com/tradecatlabs/shulihuazixuecongshu",
+        "created": "2026-08-27"
+      },
+      {
+        "rank": 9,
+        "name": "jub0t/Concat",
+        "description": "Free & Open-Source CapCut replacement.",
+        "stars": 772,
+        "language": "TypeScript",
+        "url": "https://github.com/jub0t/Concat",
+        "created": "2026-08-25"
+      },
+      {
+        "rank": 10,
+        "name": "cbrock84/headcount",
+        "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+        "stars": 755,
+        "language": "Markdown",
+        "url": "https://github.com/cbrock84/headcount",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 11,
+        "name": "jprx/darwin-vm",
+        "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+        "stars": 646,
+        "language": "Python",
+        "url": "https://github.com/jprx/darwin-vm",
+        "created": "2026-08-27"
+      },
+      {
+        "rank": 12,
+        "name": "chrisgreg/boop",
+        "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+        "stars": 643,
+        "language": "Go",
+        "url": "https://github.com/chrisgreg/boop",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 13,
+        "name": "crmne/fastpotify",
+        "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+        "stars": 620,
+        "language": "Rust",
+        "url": "https://github.com/crmne/fastpotify",
+        "created": "2026-08-27"
+      },
+      {
+        "rank": 14,
+        "name": "gtlhuyidan-sketch/life-ipo",
+        "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+        "stars": 593,
+        "language": "TypeScript",
+        "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
+        "created": "2026-08-25"
+      },
+      {
+        "rank": 15,
+        "name": "POUND0423/AI-drama-pound",
+        "description": "",
+        "stars": 516,
+        "language": null,
+        "url": "https://github.com/POUND0423/AI-drama-pound",
+        "created": "2026-08-26"
+      },
+      {
+        "rank": 16,
+        "name": "damejan80/tokentab",
+        "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+        "stars": 456,
+        "language": "Python",
+        "url": "https://github.com/damejan80/tokentab",
+        "created": "2026-08-27"
+      },
+      {
+        "rank": 17,
+        "name": "s0xDk/refactoring-ui-skill",
+        "description": "A Claude Code skill that applies the concrete design rules from the book Refactoring UI (Wathan & Schoger) — constrained spacing/type/color/shadow scales, hierarchy through weight and color, and depth",
+        "stars": 452,
+        "language": "CSS",
+        "url": "https://github.com/s0xDk/refactoring-ui-skill",
+        "created": "2026-08-26"
+      },
+      {
+        "rank": 18,
+        "name": "breslee1707/VI-Translate",
+        "description": "",
+        "stars": 442,
+        "language": "Python",
+        "url": "https://github.com/breslee1707/VI-Translate",
+        "created": "2026-08-25"
+      },
+      {
+        "rank": 19,
+        "name": "hkqr/my-free-code",
+        "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+        "stars": 430,
+        "language": "Python",
+        "url": "https://github.com/hkqr/my-free-code",
+        "created": "2026-08-27"
+      },
+      {
+        "rank": 20,
+        "name": "OnlyTerp/opengrok",
+        "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+        "stars": 385,
+        "language": "JavaScript",
+        "url": "https://github.com/OnlyTerp/opengrok",
+        "created": "2026-08-27"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
+        "authors": [
+          "Nan Wang",
+          "Mohit Yadav",
+          "Jonathan Wulff",
+          "Aidan Rosenbaum",
+          "Kezhou Chen"
+        ],
+        "summary": "Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a cable removes the requirement that a motor fit inside the joint it drives, so smaller and cheaper mot",
+        "url": "http://arxiv.org/abs/2608.28578v1",
+        "pdf": "https://arxiv.org/pdf/2608.28578v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
+        "authors": [
+          "Chengpiao Huang",
+          "Kaizheng Wang"
+        ],
+        "summary": "Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a general framework for synthetic-augmented inference across a population of related tasks. It characterizes",
+        "url": "http://arxiv.org/abs/2608.28576v1",
+        "pdf": "https://arxiv.org/pdf/2608.28576v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Blog: Survey of Optimizers",
+        "authors": [
+          "Ruoran Xu"
+        ],
+        "summary": "Neural-network optimization in 2025-2026 is no longer well described as a succession of new Adam variants. The design space has expanded from coordinates to matrices and layers, from fixed training horizons to policies over time, and from mathematical update rules to state representations that must ",
+        "url": "http://arxiv.org/abs/2608.28557v1",
+        "pdf": "https://arxiv.org/pdf/2608.28557v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Logos: An Agent Harness on a Cross-Process Bus",
+        "authors": [
+          "Hanzhang Jia",
+          "Liheng Zeng",
+          "Hao Cheng",
+          "Yi Gao",
+          "Bo Ma"
+        ],
+        "summary": "Modern agent systems assemble capabilities at runtime, and this dynamic composition has recently received a complete formal treat ment in the spatiotemporal-composability calculus, in which a capability is a component carrying a tracked inverse, and agents are assembled as plugins. This plugin form ",
+        "url": "http://arxiv.org/abs/2608.28553v1",
+        "pdf": "https://arxiv.org/pdf/2608.28553v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Video Generative Models as Geometry Learner",
+        "authors": [
+          "Haosen Yang",
+          "Jifei Song",
+          "Zhensong Zhang",
+          "Xiatian Zhu",
+          "Jiankang Deng"
+        ],
+        "summary": "Recent generative approaches to geometry estimation adapt pretrained image diffusion models and treat the task as image-conditioned generation. Leveraging off-the-shelf image diffusion models, they either (i) train task-specific geometry models (for depth and surface normal estimation) independently",
+        "url": "http://arxiv.org/abs/2608.28549v1",
+        "pdf": "https://arxiv.org/pdf/2608.28549v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "An Enclosed Mode Is a Gauge Choice: Topology Relative to Reach in Certified Code World Models",
+        "authors": [
+          "Javier Aguilar Martín"
+        ],
+        "summary": "A code world model accepted by a sampling gate can be exactly right on everything the gate can see and arbitrarily wrong beyond it. We characterize what a certified model can know, and what its errors can cost, when the omission is an annular freeze mode enclosing an unreachable interior. The gate q",
+        "url": "http://arxiv.org/abs/2608.28541v1",
+        "pdf": "https://arxiv.org/pdf/2608.28541v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "InstructMesh: Selective Refinement of Generative 3D Models for Fabrication",
+        "authors": [
+          "Faraz Faruqi",
+          "Ahmed Katary",
+          "Demircan Tas",
+          "Theresa Hradilak",
+          "Ning Zhang"
+        ],
+        "summary": "Recent advances in generative AI allow users to create 3D models from text or images. However, these models prioritize visual plausibility over geometric accuracy, often generating results with flaws that compromise their intended use post-fabrication. We present InstructMesh, an interactive post-ge",
+        "url": "http://arxiv.org/abs/2608.28534v1",
+        "pdf": "https://arxiv.org/pdf/2608.28534v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Texture Image Classification Using DWT AlexNet Feature Fusion and Deep Neural Networks",
+        "authors": [
+          "Arun D. Kulkarni"
+        ],
+        "summary": "Texture image classification plays a significant role in computer vision applications, including industrial inspection, medical image analysis, remote sensing, and object recognition. Handcrafted features can capture local texture characteristics but may have limited capability to represent complex ",
+        "url": "http://arxiv.org/abs/2608.28524v1",
+        "pdf": "https://arxiv.org/pdf/2608.28524v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI",
+        "authors": [
+          "Sihan Jia",
+          "Oliver Lemon"
+        ],
+        "summary": "We investigate whether automatic speech recognition (ASR) errors in user input can lead to unsafe outputs from Embodied AI (EAI) models. We find that ASR errors can lead to harmful instructions being accepted and executed by EAI models, thereby reducing safety. We simulate ASR errors and combine the",
+        "url": "http://arxiv.org/abs/2608.28518v1",
+        "pdf": "https://arxiv.org/pdf/2608.28518v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Conformal Uncertainty Quantification Guarantees for Neural Operators",
+        "authors": [
+          "Tom Stent",
+          "Nicolas Boullé"
+        ],
+        "summary": "Neural operators provide fast surrogate models for approximating operators between function spaces, but their predictions often lack uncertainty quantification. We develop a split conformal framework to guarantee that a calibrated pointwise band around the neural operator output contains the true so",
+        "url": "http://arxiv.org/abs/2608.28515v1",
+        "pdf": "https://arxiv.org/pdf/2608.28515v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Training Communication-Efficient Mixture-of-Experts Language Models with Layer Re-Configuration",
+        "authors": [
+          "Simeng Sun",
+          "Roger Waleffe"
+        ],
+        "summary": "When training Mixture-of-Experts (MoE) language models with expert parallelism, all-to-all token dispatch and combine collectives can consume a substantial fraction of end-to-end training time. In this work, we study communication-efficient MoE models (CE-MoE), in which we adopt a heterogeneous laye",
+        "url": "http://arxiv.org/abs/2608.28511v1",
+        "pdf": "https://arxiv.org/pdf/2608.28511v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "On the Maintenance and Co-evolution of Agent Plugins: An Empirical Study of Claude Code Plugin Marketplaces",
+        "authors": [
+          "Ahmed Hereiz",
+          "Yingzhe Lyu",
+          "Hao Li",
+          "Bram Adams",
+          "Ahmed E. Hassan"
+        ],
+        "summary": "AI coding agents, software tools that automate development tasks through reasoning and tool use, are increasingly extended through plugin marketplaces, yet the structure, maintenance, and co-evolution dynamics of these emerging repositories remain empirically unexplored. Unlike traditional software ",
+        "url": "http://arxiv.org/abs/2608.28497v1",
+        "pdf": "https://arxiv.org/pdf/2608.28497v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction",
+        "authors": [
+          "Yafei Zhang",
+          "Nan Wu"
+        ],
+        "summary": "Predicting robot videos requires both precise motion reasoning and preservation of high-frequency appearance, yet monolithic pixel models entangle these objectives and often conceal their progress behind a strong last-frame baseline. We present AcrossVAM1.0, a lightweight, text-assisted video action",
+        "url": "http://arxiv.org/abs/2608.28491v1",
+        "pdf": "https://arxiv.org/pdf/2608.28491v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment",
+        "authors": [
+          "Jingjing Nie",
+          "Jiawei Guo",
+          "Krishna Meda",
+          "Haipeng Cai"
+        ],
+        "summary": "Software and systems security workflows are typically procedural: analysts inspect heterogeneous artifacts, form hypotheses, invoke tools, interpret outputs, and revise plans. Large language model (LLM)-based agents, which can plan, use tools, retain state, and revise actions across multi-step workf",
+        "url": "http://arxiv.org/abs/2608.28490v1",
+        "pdf": "https://arxiv.org/pdf/2608.28490v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "How Proper Scoring Rules Shape LLM Forecasting",
+        "authors": [
+          "Benjamin Turtel",
+          "Paul Wilczewski",
+          "Kris Skotheim",
+          "Ville A. Satopää",
+          "Philip E. Tetlock"
+        ],
+        "summary": "This paper evaluates how reward function choice shapes the performance and behavior of LLM forecasters. We compare five proper scoring rules as training objectives for binary forecasts of resolved real-world events. Although the rules share the same theoretical incentive for truthful probability rep",
+        "url": "http://arxiv.org/abs/2608.28482v1",
+        "pdf": "https://arxiv.org/pdf/2608.28482v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "NL2AGBench: Benchmarking LLM Auto-Formalization for AlphaGeometry",
+        "authors": [
+          "Samuel Xiao",
+          "Judy Song",
+          "Rory Hu",
+          "Ziliang Zong"
+        ],
+        "summary": "Recent advances in large language models (LLMs) have demonstrated strong capabilities in natural language understanding and mathematical reasoning. However, their ability to translate informal mathematical problems into formal representations remains underexplored. This limitation is particularly im",
+        "url": "http://arxiv.org/abs/2608.28481v1",
+        "pdf": "https://arxiv.org/pdf/2608.28481v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "COVER: Identifiable Evaluation of Coalition Routing",
+        "authors": [
+          "Raghul Sugumar",
+          "Amrit Gopinath"
+        ],
+        "summary": "When a multi-agent system changes its team, it also changes the messages and final answer it produces, so an end-to-end accuracy gap does not by itself identify a routing effect. We introduce method, an evaluation contract that fixes a public information boundary, downstream stack G, and finite lega",
+        "url": "http://arxiv.org/abs/2608.28475v1",
+        "pdf": "https://arxiv.org/pdf/2608.28475v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade",
+        "authors": [
+          "Nicola C. Amorisco",
+          "Kamran Pentland",
+          "Adriano Agnello",
+          "George K. Holt",
+          "Alasdair Ross"
+        ],
+        "summary": "Conventional plasma shape control in tokamaks relies on virtual circuits (VCs) that are computed offline from linearisations around a small, tailored number of reference equilibria, and deployed as expertly prepared schedules during the discharge. Here, we report on the first experimental deployment",
+        "url": "http://arxiv.org/abs/2608.28468v1",
+        "pdf": "https://arxiv.org/pdf/2608.28468v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V",
+        "authors": [
+          "Pablo Lozano-Jimenez",
+          "Sergio Romero-Tapiador",
+          "Ruben Tolosana"
+        ],
+        "summary": "We present an anatomy-aware, promptable model for whole-body lesion segmentation in FDG and PSMA PET/CT, developed for the AUTOPET V challenge. The proposed method is built as family of nnU-Net-based models and trained in two stages: i) a pre-training stage that produces a strong initial segmentatio",
+        "url": "http://arxiv.org/abs/2608.28461v1",
+        "pdf": "https://arxiv.org/pdf/2608.28461v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "ARC-CT: Anatomy-Routed Contrastive Vision-Language Learning for 3D Chest CT",
+        "authors": [
+          "Huseyin Umut Isik",
+          "Mehmet Alp Ozaydin",
+          "Sila Kurugol",
+          "Şeyda Ertekin"
+        ],
+        "summary": "Contrastive vision-language learning uses paired chest CT volumes and radiology reports to learn abnormality classifiers without manually annotated labels. However, two characteristics of chest CT challenge conventional global contrastive learning. First, many critical abnormalities are small or ana",
+        "url": "http://arxiv.org/abs/2608.28455v1",
+        "pdf": "https://arxiv.org/pdf/2608.28455v1",
+        "published": "2026-08-28",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
+        "authors": [
+          "Vaibhav Mehandiratta",
+          "Saket Ramchandra"
+        ],
+        "summary": "We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a general computational implementation in which the solution on each edge of the graph is approximated by",
+        "url": "http://arxiv.org/abs/2608.28589v1",
+        "pdf": "https://arxiv.org/pdf/2608.28589v1",
+        "published": "2026-08-28",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "On two proofs of $d^2$ mixing of weighted Dikin walks",
+        "authors": [
+          "Yuansi Chen",
+          "Yunbum Kook"
+        ],
+        "summary": "We study the mixing time of weighted Dikin walks for sampling from exponential distributions on polytopes and truncated positive-semidefinite (PSD) cones. Our first result gives a general total-variation mixing bound under strong self-concordance, $\\barν$-symmetry, and mixed-trace regularity on the ",
+        "url": "http://arxiv.org/abs/2608.28566v1",
+        "pdf": "https://arxiv.org/pdf/2608.28566v1",
+        "published": "2026-08-28",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Learning between the peaks: sharp asymptotics for kernel ridge regression under power-law anisotropy",
+        "authors": [
+          "Lorenzo Rizzi",
+          "Arie Wortsman Zurich",
+          "Bruno Loureiro"
+        ],
+        "summary": "We study kernel ridge regression under anisotropic Gaussian data, where the input covariance decays as a power law with exponent $α\\geq 0$ for polynomial inner-product kernels. We derive asymptotically sharp expressions for the kernel spectrum and the generalization error in the polynomial high-dime",
+        "url": "http://arxiv.org/abs/2608.28564v1",
+        "pdf": "https://arxiv.org/pdf/2608.28564v1",
+        "published": "2026-08-28",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Advancing Interaction-Sensitive Feature Selection: Novel Relief-Based Algorithms, Expanded Comparisons, and Recommendations for Biomedical Data Mining",
+        "authors": [
+          "Kia Kazemi-Nia",
+          "Harsh Bandhey",
+          "Philip J. Freda",
+          "Ryan J. Urbanowicz"
+        ],
+        "summary": "As a precursor to high-dimensional biomedical data modeling, reliable feature selection can reduce computational expense, improve modeling performance, and yield simpler, more interpretable models. However, most filter-based feature selection methods struggle to detect feature interactions, while wr",
+        "url": "http://arxiv.org/abs/2608.28552v1",
+        "pdf": "https://arxiv.org/pdf/2608.28552v1",
+        "published": "2026-08-28",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "DARTS: Decoder-Aware Representation Tuning via Surgery for Model Merging",
+        "authors": [
+          "Aaryan Ajay Sharma",
+          "Sai Nishanth Padala",
+          "Seganrasan Subramanian"
+        ],
+        "summary": "Model merging combines multiple task-specific fine-tuned LLMs into a single multi-task model without additional training. However, merged models are known to suffer from representation bias: systematic drift between the merged model's hidden states and those of each individual source model. Prior wo",
+        "url": "http://arxiv.org/abs/2608.28547v1",
+        "pdf": "https://arxiv.org/pdf/2608.28547v1",
+        "published": "2026-08-28",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "REPLICANT: Learning Policies for Evading and Hardening Malware Detectors",
+        "authors": [
+          "Shae McFadden",
+          "Ilias Tsingenopoulos",
+          "Mario D'Onghia",
+          "Alexander Herzog",
+          "Myles Foley"
+        ],
+        "summary": "To determine the real-world effectiveness of machine learning based malware detection, it is vital to evaluate its robustness against highly capable adversaries. However, state-of-the-art attacks do not effectively model realistic adversaries, as they often assume access to privileged information su",
+        "url": "http://arxiv.org/abs/2608.28499v1",
+        "pdf": "https://arxiv.org/pdf/2608.28499v1",
+        "published": "2026-08-28",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
