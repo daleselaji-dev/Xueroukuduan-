@@ -1,0 +1,560 @@
+{
+  "date": "2026-09-02",
+  "generated": "2026-09-02T06:53:13.872788",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "sapientinc/PRAXIST",
+        "description": "Autonomous research system for measurable, computer-executable research.",
+        "stars": 6383,
+        "language": "Python",
+        "url": "https://github.com/sapientinc/PRAXIST",
+        "created": "2026-08-27"
+      },
+      {
+        "rank": 2,
+        "name": "XiaoDuoYa/codex-with-chatgpt",
+        "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+        "stars": 2182,
+        "language": "TypeScript",
+        "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 3,
+        "name": "crmne/fastpotify",
+        "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+        "stars": 1605,
+        "language": "Rust",
+        "url": "https://github.com/crmne/fastpotify",
+        "created": "2026-08-27"
+      },
+      {
+        "rank": 4,
+        "name": "Nanako0129/sepia",
+        "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, ",
+        "stars": 1379,
+        "language": "Python",
+        "url": "https://github.com/Nanako0129/sepia",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 5,
+        "name": "MetaMask-AI/metamask-desktop",
+        "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+        "stars": 1229,
+        "language": "CSS",
+        "url": "https://github.com/MetaMask-AI/metamask-desktop",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 6,
+        "name": "damejan80/tokentab",
+        "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+        "stars": 1141,
+        "language": "Python",
+        "url": "https://github.com/damejan80/tokentab",
+        "created": "2026-08-27"
+      },
+      {
+        "rank": 7,
+        "name": "cbrock84/headcount",
+        "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+        "stars": 984,
+        "language": "Markdown",
+        "url": "https://github.com/cbrock84/headcount",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 8,
+        "name": "jprx/darwin-vm",
+        "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+        "stars": 900,
+        "language": "Python",
+        "url": "https://github.com/jprx/darwin-vm",
+        "created": "2026-08-27"
+      },
+      {
+        "rank": 9,
+        "name": "GangTailorUpgrade/CoomeRtool",
+        "description": "Coomer Tool",
+        "stars": 856,
+        "language": "Python",
+        "url": "https://github.com/GangTailorUpgrade/CoomeRtool",
+        "created": "2026-08-31"
+      },
+      {
+        "rank": 10,
+        "name": "tradecatlabs/shulihuazixuecongshu",
+        "description": "",
+        "stars": 852,
+        "language": "Python",
+        "url": "https://github.com/tradecatlabs/shulihuazixuecongshu",
+        "created": "2026-08-27"
+      },
+      {
+        "rank": 11,
+        "name": "chrisgreg/boop",
+        "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+        "stars": 679,
+        "language": "Go",
+        "url": "https://github.com/chrisgreg/boop",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 12,
+        "name": "Git-Agni/prod-FARM-IOS-Core",
+        "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+        "stars": 664,
+        "language": "TypeScript",
+        "url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
+        "created": "2026-08-27"
+      },
+      {
+        "rank": 13,
+        "name": "hkqr/my-free-code",
+        "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+        "stars": 618,
+        "language": "Python",
+        "url": "https://github.com/hkqr/my-free-code",
+        "created": "2026-08-27"
+      },
+      {
+        "rank": 14,
+        "name": "brayonpi/hexstellar",
+        "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable executio",
+        "stars": 584,
+        "language": "Python",
+        "url": "https://github.com/brayonpi/hexstellar",
+        "created": "2026-08-27"
+      },
+      {
+        "rank": 15,
+        "name": "jlrouzies-fr/DLSS5-Feeder",
+        "description": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+        "stars": 528,
+        "language": "C++",
+        "url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
+        "created": "2026-08-29"
+      },
+      {
+        "rank": 16,
+        "name": "Player-YN/PawWork_ZhuaZhua",
+        "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+        "stars": 431,
+        "language": "JavaScript",
+        "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 17,
+        "name": "2akouwu/codex-cli-portable-setup-kit",
+        "description": "Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-friction execution.",
+        "stars": 412,
+        "language": "Python",
+        "url": "https://github.com/2akouwu/codex-cli-portable-setup-kit",
+        "created": "2026-08-31"
+      },
+      {
+        "rank": 18,
+        "name": "OnlyTerp/opengrok",
+        "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+        "stars": 410,
+        "language": "JavaScript",
+        "url": "https://github.com/OnlyTerp/opengrok",
+        "created": "2026-08-27"
+      },
+      {
+        "rank": 19,
+        "name": "mouredev/hello-sdd",
+        "description": "Curso de SDD (Spec-Driven Development) desde cero",
+        "stars": 400,
+        "language": "Python",
+        "url": "https://github.com/mouredev/hello-sdd",
+        "created": "2026-08-27"
+      },
+      {
+        "rank": 20,
+        "name": "amap-cvlab/ABot-Recon",
+        "description": "Streaming 3D reconstruction from only video input: Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction",
+        "stars": 381,
+        "language": "Python",
+        "url": "https://github.com/amap-cvlab/ABot-Recon",
+        "created": "2026-08-27"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation",
+        "authors": [
+          "Kefeng Duan",
+          "Dewu Zheng",
+          "Yanlin Wang",
+          "Xiwen Wang",
+          "Ensheng Shi"
+        ],
+        "summary": "Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation methods select representative subsets to estimate full-benchmark performance, but are largely result-only",
+        "url": "http://arxiv.org/abs/2609.01603v1",
+        "pdf": "https://arxiv.org/pdf/2609.01603v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation",
+        "authors": [
+          "Kefeng Duan",
+          "Dewu Zheng",
+          "Yanlin Wang",
+          "Terry Yue Zhuo",
+          "Mingwei Liu"
+        ],
+        "summary": "The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories often exceed the input length limits of LLMs, existing approaches commonly adopt retrieval-augmented gene",
+        "url": "http://arxiv.org/abs/2609.01601v1",
+        "pdf": "https://arxiv.org/pdf/2609.01601v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?",
+        "authors": [
+          "Damien Sileo",
+          "Dimitri Kachler"
+        ],
+        "summary": "Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependencies and cleanup. We introduce CordisBench, a 1,200-question benchmark of this lifecycle reasoning. It ",
+        "url": "http://arxiv.org/abs/2609.01600v1",
+        "pdf": "https://arxiv.org/pdf/2609.01600v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "The Rise of Verbal Reinforcement Learning",
+        "authors": [
+          "Kshitij Tayal",
+          "Arun Sharma",
+          "Genta Indra Winata",
+          "Anirban Das",
+          "Sambit Sahu"
+        ],
+        "summary": "Natural language is emerging as a primary feedback channel for improving language agents, capable of conveying intent, preferences, and causal structure in forms interpretable by both humans and modern language models. We call this paradigm Verbal Reinforcement Learning (VRL) and offer the first uni",
+        "url": "http://arxiv.org/abs/2609.01597v1",
+        "pdf": "https://arxiv.org/pdf/2609.01597v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Mechanism Design for Alignment and Control",
+        "authors": [
+          "Dirk Bergemann",
+          "Andrew Koh",
+          "Stephen Morris"
+        ],
+        "summary": "We develop a framework for mechanism design with AI agents whose alignment (preferences) and capabilities (feasible actions and information) are unknown. We want such agents to act on our behalf so mechanisms must incentivize both honesty and obedience. A one-sided imitation structure---capabilities",
+        "url": "http://arxiv.org/abs/2609.01595v1",
+        "pdf": "https://arxiv.org/pdf/2609.01595v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Designing Proactive Thought Partners for Writing",
+        "authors": [
+          "Chao Zhang",
+          "Abe Davis",
+          "Chih-Wei Chen",
+          "Chin-Chia Hsu"
+        ],
+        "summary": "Writing involves diverse cognitive activities, from ideation to revision, and writers' needs vary across individuals and moments. Proactive AI promises to provide the right support at the right time, yet existing proactive tools largely focus on generic textual assistance, such as autocomplete. This",
+        "url": "http://arxiv.org/abs/2609.01588v1",
+        "pdf": "https://arxiv.org/pdf/2609.01588v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs",
+        "authors": [
+          "Jingtan Wang",
+          "Arun Verma",
+          "Xiaoqiang Lin",
+          "Zhengyuan Liu",
+          "Nancy F. Chen"
+        ],
+        "summary": "How to divide a fixed annotation budget between supervised fine-tuning (SFT) and reinforcement learning (RL) during LLM post-training remains an open problem. Existing work characterizes only broad trends (e.g., SFT dominates in low-data regimes), lacks a principled allocation framework, and does no",
+        "url": "http://arxiv.org/abs/2609.01573v1",
+        "pdf": "https://arxiv.org/pdf/2609.01573v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers",
+        "authors": [
+          "Matteo Merler",
+          "Giovanni Bonetta",
+          "Davide Zago",
+          "Rossella Cancelliere",
+          "Bernardo Magnini"
+        ],
+        "summary": "Vision-Language Models (VLMs) provide useful priors for interactive decision-making, but using them directly as policies is expensive and brittle: they must be queried at every step, do not improve from environment interaction, and can repeat systematic errors. We study how to learn a cheap autonomo",
+        "url": "http://arxiv.org/abs/2609.01567v1",
+        "pdf": "https://arxiv.org/pdf/2609.01567v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "From Confusion to Clarity: Confusion-Aware Retrieval and Knowledge Injection for Text Classification",
+        "authors": [
+          "Manish Gupta",
+          "Chaitanya Giri",
+          "Jayasimha Talur"
+        ],
+        "summary": "Large language models (LLMs) struggle to classify text into taxonomies with many semantically similar labels, as the distinctions are domain-specific and not captured by pre-training. To handle large label spaces, a common approach retrieves top-$K$ candidate labels by embedding similarity and promp",
+        "url": "http://arxiv.org/abs/2609.01564v1",
+        "pdf": "https://arxiv.org/pdf/2609.01564v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "H3-World: Turning Language Understanding into World Control",
+        "authors": [
+          "Danze Chen",
+          "Zeqing Wang",
+          "Ziyue Lin",
+          "Xingyi Yang",
+          "Yeying Jin"
+        ],
+        "summary": "We present H3-World, an efficient framework that turns the 33B MiniMax-H3 video generator into an interactive world model. Our key finding is that, as large video generators become more capable, language is emerging as a natural interface for control. MiniMax-H3, for example, already supports zero-s",
+        "url": "http://arxiv.org/abs/2609.01560v1",
+        "pdf": "https://arxiv.org/pdf/2609.01560v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories",
+        "authors": [
+          "Nabira Rashid",
+          "Manolis Kellis"
+        ],
+        "summary": "We evaluate embedding retrieval where surface form and meaning are pulled apart on purpose: retrieving items that share underlying structure but not wording, in two unrelated domains under one protocol, competition mathematics (MathNet-Retrieve; 500 queries, 117,088-item corpus) and embodied-agent t",
+        "url": "http://arxiv.org/abs/2609.01556v1",
+        "pdf": "https://arxiv.org/pdf/2609.01556v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "BS: Take the Hint - Interactive Multitracer PET/CT Lesion Segmentation with a Scribble-Conditioned ResEnc U-Net",
+        "authors": [
+          "Marven Sherif",
+          "Amgad Elmasry",
+          "Youssef Ghazal",
+          "Ayman Elghotni"
+        ],
+        "summary": "Automated lesion segmentation in whole-body PET/CT is complicated by the variety of physiological tracer uptake patterns and by the differing appearance of lesions across tracers. The autoPET/CT V challenge addresses this by making segmentation interactive: user scribbles marking foreground and back",
+        "url": "http://arxiv.org/abs/2609.01554v1",
+        "pdf": "https://arxiv.org/pdf/2609.01554v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Can LLMs Discover Scientific Laws in Real and Parallel Worlds?",
+        "authors": [
+          "Yiming Huang",
+          "Ziche Liu",
+          "Zhuohang Wu",
+          "Yiqian Wang",
+          "Junxia Cui"
+        ],
+        "summary": "Scientific equation discovery has long been central to scientific progress, proceeding through iterative cycles of hypothesis generation, observational testing, and refinement under scientific constraints. As LLM capabilities advance and their role in AI for Science expands, it remains an open probl",
+        "url": "http://arxiv.org/abs/2609.01552v1",
+        "pdf": "https://arxiv.org/pdf/2609.01552v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "A Mathematical Theory of Reusable Neural Bases for Network Compression",
+        "authors": [
+          "Binshuai Wang"
+        ],
+        "summary": "As large AI models become increasingly prevalent across a wide range of applications, memory cost has become a critical bottleneck in both training and inference. To mitigate this issue, we introduce the Linear Reusable Neural Bases Architecture (LRNBA), a novel framework aimed at improving paramete",
+        "url": "http://arxiv.org/abs/2609.01550v1",
+        "pdf": "https://arxiv.org/pdf/2609.01550v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Can LLMs Design Video Coding Tools? A Case Study on Planar Mode",
+        "authors": [
+          "Yingwen Zhang",
+          "Meng Wang",
+          "Liqiang He",
+          "Shiqi Wang"
+        ],
+        "summary": "This paper explores whether large language models (LLMs) can design video coding tools, a highly challenging task due to the intricate algorithmic coupling of tool modifications. In particular, we present an empirical case study on the Planar mode, a long-standing intra prediction tool in video codi",
+        "url": "http://arxiv.org/abs/2609.01535v1",
+        "pdf": "https://arxiv.org/pdf/2609.01535v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "EvoSCM: Scientific Belief Revision Through Causal Model Evolution and Experimentation",
+        "authors": [
+          "Qing Zhao",
+          "Haowei Li",
+          "Weijian Deng",
+          "Pengxu Wei",
+          "Liang Lin"
+        ],
+        "summary": "Scientific agents must learn not only how to reason, but also what to believe. However, existing LLM agents typically express scientific hypotheses in free-form text, leaving their beliefs implicit and difficult to test or revise. We introduce EvoSCM, which equips scientific agents with explicit str",
+        "url": "http://arxiv.org/abs/2609.01526v1",
+        "pdf": "https://arxiv.org/pdf/2609.01526v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Relational-Core Graph Analytics Querying graphs at SQL scale, and why the node/edge model is a performance tax, not a truer picture of connected data",
+        "authors": [
+          "Gene Zhang"
+        ],
+        "summary": "A durable assumption holds that graph analytics requires a purpose-built graph engine, and that relational systems are ill-suited to connected data. We argue the opposite for the workloads enterprises actually run. A columnar relational engine fronted by a graph query language matches or exceeds nat",
+        "url": "http://arxiv.org/abs/2609.01525v1",
+        "pdf": "https://arxiv.org/pdf/2609.01525v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "When Guardrails Look Effective: Construct Validity Failures in LLM Agent Commerce Evaluation",
+        "authors": [
+          "Peiying Zhu",
+          "Sidi Chang"
+        ],
+        "summary": "Interactive simulations increasingly evaluate policies in markets populated by language-model agents. Their outputs can look economic---prices, profits, consumer surplus, and welfare---without instantiating the behavior named in the claim. We audit this risk in a multi-turn buyer--seller testbed for",
+        "url": "http://arxiv.org/abs/2609.01519v1",
+        "pdf": "https://arxiv.org/pdf/2609.01519v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "TempCloze: Can Video-LLMs Identify the Missing Middle?",
+        "authors": [
+          "Wenqi Pei",
+          "Henry Hengyuan Zhao",
+          "Yilai Liu",
+          "Jiahao Meng",
+          "Han Chen"
+        ],
+        "summary": "Temporal reasoning benchmarks for Video-LLMs are often mediated by language, leaving room for linguistic shortcuts from option wording, answer correlations, or language priors. To reduce such shortcuts, we introduce TempCloze, a video cloze benchmark for evaluating visual temporal reasoning in Video",
+        "url": "http://arxiv.org/abs/2609.01515v1",
+        "pdf": "https://arxiv.org/pdf/2609.01515v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "LatentPress: Context Compression Beyond Text and Vision",
+        "authors": [
+          "Zhengze Zhou",
+          "Hejian Sang"
+        ],
+        "summary": "Compressed context is usually carried as human-readable text or as rendered images that must be decoded, even when its consumer is a language model. We introduce LatentPress, which writes conversational histories and long documents into a third representation: continuous memory tokens that a frozen ",
+        "url": "http://arxiv.org/abs/2609.01507v1",
+        "pdf": "https://arxiv.org/pdf/2609.01507v1",
+        "published": "2026-09-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
+        "authors": [
+          "Himil Vasava",
+          "Ming Jiang"
+        ],
+        "summary": "LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remains poorly understood. We investigate this procedure mechanistically through an eight-attack perturba",
+        "url": "http://arxiv.org/abs/2609.01604v1",
+        "pdf": "https://arxiv.org/pdf/2609.01604v1",
+        "published": "2026-09-01",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation",
+        "authors": [
+          "Haoyuan Deng",
+          "Haichao Liu",
+          "Wenkai Guo",
+          "Yuan Ling",
+          "Zaijia Yang"
+        ],
+        "summary": "Real-world robotic assembly at sub-millimeter tolerances demands spatial precision, compliant interaction, and robustness to contact failures. We present Facet-0, a robotic foundation model that predicts and values the contact consequences of its actions. Facet-0 unifies multimodal representation le",
+        "url": "http://arxiv.org/abs/2609.01596v1",
+        "pdf": "https://arxiv.org/pdf/2609.01596v1",
+        "published": "2026-09-01",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "The Structure of Quantization Damage in LLMs: Why the Next Bit Should Be Spent Globally",
+        "authors": [
+          "Jundong Hu",
+          "Shekar Ramachandran"
+        ],
+        "summary": "Post-training quantization (PTQ) is widely used to reduce the cost of serving large language models (LLMs), but its accuracy cost is uneven and is often tuned per model. We study where quantization damage occurs and how to allocate a small additional precision budget. Using causal mixed-precision in",
+        "url": "http://arxiv.org/abs/2609.01587v1",
+        "pdf": "https://arxiv.org/pdf/2609.01587v1",
+        "published": "2026-09-01",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Gradient-Update Mismatch: Rethinking Conflict-Free Training of Physics-Informed Neural Networks",
+        "authors": [
+          "Jing Xiao",
+          "Xinhai Chen",
+          "Qinglin Wang",
+          "Menghan Jia",
+          "Zhiquan Lai"
+        ],
+        "summary": "Training Physics-Informed Neural Networks (PINNs) requires jointly optimizing physics residual and initial/boundary condition loss terms, which often induce conflicting gradients. Gradient surgery methods mitigate this issue by constructing directions from loss-specific gradients to reduce conflict ",
+        "url": "http://arxiv.org/abs/2609.01558v1",
+        "pdf": "https://arxiv.org/pdf/2609.01558v1",
+        "published": "2026-09-01",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "NashDreamer: Model-Based Reinforcement Learning for Zero-Sum Imperfect-Information Games",
+        "authors": [
+          "Tomáš Holeček",
+          "Viliam Lisý"
+        ],
+        "summary": "Model-based reinforcement learning (MBRL) has achieved remarkable results in single-agent domains, yet its extension to competitive imperfect information games (IIGs) remains underexplored. In multi-agent settings, opponent-induced non-stationarity complicates the learning process, and decentralized",
+        "url": "http://arxiv.org/abs/2609.01549v1",
+        "pdf": "https://arxiv.org/pdf/2609.01549v1",
+        "published": "2026-09-01",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
