@@ -1,0 +1,585 @@
+{
+  "date": "2026-09-03",
+  "generated": "2026-09-03T06:56:47.594600",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "XiaoDuoYa/codex-with-chatgpt",
+        "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+        "stars": 2299,
+        "language": "TypeScript",
+        "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 2,
+        "name": "Nanako0129/sepia",
+        "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, ",
+        "stars": 1688,
+        "language": "Python",
+        "url": "https://github.com/Nanako0129/sepia",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 3,
+        "name": "MetaMask-AI/metamask-desktop",
+        "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+        "stars": 1230,
+        "language": "CSS",
+        "url": "https://github.com/MetaMask-AI/metamask-desktop",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 4,
+        "name": "cbrock84/headcount",
+        "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+        "stars": 1129,
+        "language": "Markdown",
+        "url": "https://github.com/cbrock84/headcount",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 5,
+        "name": "GangTailorUpgrade/undress-service",
+        "description": "Dress AI Sponsor",
+        "stars": 950,
+        "language": "Python",
+        "url": "https://github.com/GangTailorUpgrade/undress-service",
+        "created": "2026-08-31"
+      },
+      {
+        "rank": 6,
+        "name": "anthropics/commerce-agents",
+        "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+        "stars": 781,
+        "language": "Python",
+        "url": "https://github.com/anthropics/commerce-agents",
+        "created": "2026-09-01"
+      },
+      {
+        "rank": 7,
+        "name": "rakanki911/DLSS5-Swapper",
+        "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5",
+        "stars": 733,
+        "language": "JavaScript",
+        "url": "https://github.com/rakanki911/DLSS5-Swapper",
+        "created": "2026-08-29"
+      },
+      {
+        "rank": 8,
+        "name": "shadcn-ui/cn",
+        "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+        "stars": 694,
+        "language": "TypeScript",
+        "url": "https://github.com/shadcn-ui/cn",
+        "created": "2026-08-31"
+      },
+      {
+        "rank": 9,
+        "name": "chrisgreg/boop",
+        "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+        "stars": 689,
+        "language": "Go",
+        "url": "https://github.com/chrisgreg/boop",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 10,
+        "name": "Player-YN/PawWork_ZhuaZhua",
+        "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+        "stars": 661,
+        "language": "JavaScript",
+        "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 11,
+        "name": "jlrouzies-fr/DLSS5-Feeder",
+        "description": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+        "stars": 615,
+        "language": "C++",
+        "url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
+        "created": "2026-08-29"
+      },
+      {
+        "rank": 12,
+        "name": "2akouwu/reverify",
+        "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+        "stars": 609,
+        "language": "Python",
+        "url": "https://github.com/2akouwu/reverify",
+        "created": "2026-08-31"
+      },
+      {
+        "rank": 13,
+        "name": "fanhao375/microduck-replica",
+        "description": "Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck",
+        "stars": 381,
+        "language": "Python",
+        "url": "https://github.com/fanhao375/microduck-replica",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 14,
+        "name": "subsy/skill-cabinet",
+        "description": "",
+        "stars": 370,
+        "language": "JavaScript",
+        "url": "https://github.com/subsy/skill-cabinet",
+        "created": "2026-08-31"
+      },
+      {
+        "rank": 15,
+        "name": "lightorigins/LightNav-0",
+        "description": "",
+        "stars": 368,
+        "language": "Python",
+        "url": "https://github.com/lightorigins/LightNav-0",
+        "created": "2026-08-28"
+      },
+      {
+        "rank": 16,
+        "name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+        "description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataF",
+        "stars": 361,
+        "language": "Shell",
+        "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+        "created": "2026-08-29"
+      },
+      {
+        "rank": 17,
+        "name": "aimen08/noty",
+        "description": "Sticky notes that live at the edge of your screen. Native macOS, SwiftUI + AppKit, local-only with encrypted note bodies.",
+        "stars": 325,
+        "language": "HTML",
+        "url": "https://github.com/aimen08/noty",
+        "created": "2026-08-29"
+      },
+      {
+        "rank": 18,
+        "name": "siknet/FreePEP",
+        "description": "人教社电子教材下载器",
+        "stars": 316,
+        "language": "Python",
+        "url": "https://github.com/siknet/FreePEP",
+        "created": "2026-08-31"
+      },
+      {
+        "rank": 19,
+        "name": "Merserk/dlss5-visual-enhancer",
+        "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+        "stars": 305,
+        "language": "Python",
+        "url": "https://github.com/Merserk/dlss5-visual-enhancer",
+        "created": "2026-08-30"
+      },
+      {
+        "rank": 20,
+        "name": "useagenthq/useagent",
+        "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex",
+        "stars": 276,
+        "language": "TypeScript",
+        "url": "https://github.com/useagenthq/useagent",
+        "created": "2026-08-29"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Discriminative World Models for Web Agents",
+        "authors": [
+          "Kelvin Li",
+          "Dhruv Pendharkar",
+          "Anish Pahilajani",
+          "Chuyi Shang",
+          "Leon Oks"
+        ],
+        "summary": "Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PRM). These world models are typically trained via supervised next-state prediction to generate fixed ",
+        "url": "http://arxiv.org/abs/2609.02885v1",
+        "pdf": "https://arxiv.org/pdf/2609.02885v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework",
+        "authors": [
+          "Cagri Temel"
+        ],
+        "summary": "Autonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper presents TRACE (Transparent Reasoning Architecture for Credible Execution), a decision framework that ensure",
+        "url": "http://arxiv.org/abs/2609.02861v1",
+        "pdf": "https://arxiv.org/pdf/2609.02861v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
+        "authors": [
+          "Aleksander Ficek",
+          "Sean Narenthiran",
+          "Mehrzad Samadi",
+          "Somshubra Majumdar",
+          "Boris Ginsburg"
+        ],
+        "summary": "Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-end specialization pipeline combining large-scale problem curation, synthetic reasoning traces, super",
+        "url": "http://arxiv.org/abs/2609.02849v1",
+        "pdf": "https://arxiv.org/pdf/2609.02849v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "AI Contextual Measurement for Recovering Individual and Group-Level Effects: Validation Against Survey Measures and an Occupational Application",
+        "authors": [
+          "Wenxin Jiang",
+          "Xuyang Wang",
+          "Yuxiao Wu"
+        ],
+        "summary": "Researchers increasingly use artificial intelligence to construct measures of social, organizational, and occupational characteristics that are absent from conventional surveys. We propose AICOME, AI COntextual MEasurement, a framework for evaluating whether AI-derived respondent-level measures can ",
+        "url": "http://arxiv.org/abs/2609.02821v1",
+        "pdf": "https://arxiv.org/pdf/2609.02821v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis",
+        "authors": [
+          "Hao Zhou",
+          "Mandar Kulkarni",
+          "Hao Chen",
+          "Yan Xin",
+          " Charlie"
+        ],
+        "summary": "Root cause analysis (RCA) is a critical task in telecom network operations, but diagnosing performance degradations in modern 5G and emerging 6G networks remains challenging due to complex cross-layer dependencies. While large language models (LLMs) offer promising capabilities for reasoning and kno",
+        "url": "http://arxiv.org/abs/2609.02805v1",
+        "pdf": "https://arxiv.org/pdf/2609.02805v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "frb100-40 After Two Decades: An Optimality Certificate and a Preregistered Search Study",
+        "authors": [
+          "Onur Uğurlu"
+        ],
+        "summary": "For more than 20 years, the Model-RB benchmark frb100-40 remained an open challenge; since 2014, its public record had stood at 99 of 100 variables. We give a directly checkable 100-vertex independent set for its 4,000-vertex graph. Together with a verified partition into 100 cliques of size 40, the",
+        "url": "http://arxiv.org/abs/2609.02804v1",
+        "pdf": "https://arxiv.org/pdf/2609.02804v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Dutch Books for Language Models",
+        "authors": [
+          "Isaiah Andrews",
+          "Suproteem Sarkar"
+        ],
+        "summary": "People increasingly use language models to support life decisions. Many such decisions involve a probabilistic forecast: How likely is a major life event, a natural disaster, or an economic outcome? Users of language models may implicitly trust that these forecasts fall out of a coherent world model",
+        "url": "http://arxiv.org/abs/2609.02797v1",
+        "pdf": "https://arxiv.org/pdf/2609.02797v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment",
+        "authors": [
+          "Qinghua Mao",
+          "Wanying Qu",
+          "Dadi Guo",
+          "Leitao Yuan",
+          "Qingyu Liu"
+        ],
+        "summary": "The performance of LLM-based agents is jointly shaped by the base model and the harness used when interacting with the environment. This exposes them to safety risks in both harmful final responses and multi-step execution trajectories. Existing safety alignment mechanisms often rely on either exter",
+        "url": "http://arxiv.org/abs/2609.02786v1",
+        "pdf": "https://arxiv.org/pdf/2609.02786v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "From Reweighting to Rewriting: Unlocking the Intervention Effects of Influential Samples in Training Data Attribution",
+        "authors": [
+          "Yuzhang Luo",
+          "Chenpeng Wang",
+          "Jianhui Chen",
+          "Liangming Pan"
+        ],
+        "summary": "Training data attribution (TDA) aims to identify training examples that shape model behavior, but its intervention value depends on both which examples are selected and how they are modified. Influence functions (IF) estimate behavioral changes under infinitesimal reweighting, yet IF-selected exampl",
+        "url": "http://arxiv.org/abs/2609.02771v1",
+        "pdf": "https://arxiv.org/pdf/2609.02771v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Measurement-Driven Sub-Network Selection for On-Premise Retrieval-Augmented Factory Agents",
+        "authors": [
+          "Vasileios Rizeakos",
+          "Georgios Paisios",
+          "Alexandros Machairas",
+          "Michael Birbas",
+          "Athanasios Bachoumis"
+        ],
+        "summary": "On-premise assistants can give factory workers conversational access to machine documentation, but models capable of the task rarely fit shop-floor hardware. We show that after structural compression and retrieval-grounded adaptation, model size is no longer a reliable predictor of adapted answer qu",
+        "url": "http://arxiv.org/abs/2609.02760v1",
+        "pdf": "https://arxiv.org/pdf/2609.02760v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Untangling the Mechanisms of Misleading Context in Medical Question Answering",
+        "authors": [
+          "Robin Linzmayer",
+          "Noémie Elhadad"
+        ],
+        "summary": "Large language models now answer medical questions with expert-level performance. However, the context these systems act on can be misleading, and misleading context can corrupt a model's medical judgment. To understand how misleading context corrupts this judgment, we examine the model's susceptibi",
+        "url": "http://arxiv.org/abs/2609.02754v1",
+        "pdf": "https://arxiv.org/pdf/2609.02754v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems",
+        "authors": [
+          "Yihang Chen",
+          "Yuxiang Chen",
+          "Yuxuan Huang",
+          "Meng Fang",
+          "Weilin Luo"
+        ],
+        "summary": "Multi-agent LLM systems commonly use an orchestrator to decompose a task for a team of workers and then improve through textual reflection. Despite strong empirical results, these systems lack a unified account of coordination, memory improvement, and the role of external verification. We model orch",
+        "url": "http://arxiv.org/abs/2609.02750v1",
+        "pdf": "https://arxiv.org/pdf/2609.02750v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills",
+        "authors": [
+          "Jianlyu Chen",
+          "Yuyang Hu",
+          "Hongjin Qian",
+          "Jiawei Liu",
+          "Wenqing Wei"
+        ],
+        "summary": "Autonomous agents are beginning to carry out machine-learning (ML) research end to end. These agents combine a model backbone with a harness for planning, execution, memory, and verification, but this architecture still leaves domain-specific know-how outside the agent. We call this missing layer op",
+        "url": "http://arxiv.org/abs/2609.02749v1",
+        "pdf": "https://arxiv.org/pdf/2609.02749v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "HiPoly: a hierarchical polymer-native AI framework for property prediction and generative design",
+        "authors": [
+          "Ge Sun",
+          "Gervasio Zaldivar",
+          "Yuan Tian",
+          "Gustavo Perez Lemus",
+          "Juhae Park"
+        ],
+        "summary": "Polymeric materials are central to modern technologies, with applications ranging from energy to health and transportation. Although AI has made significant advances in materials discovery, the hierarchical structure of polymers across multiple length scales makes them inherently difficult to repres",
+        "url": "http://arxiv.org/abs/2609.02746v1",
+        "pdf": "https://arxiv.org/pdf/2609.02746v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Language Models Can Control Their Own Attention",
+        "authors": [
+          "Namgyu Ho",
+          "Huzama Ahmad",
+          "Woosung Koh",
+          "Se-Young Yun",
+          "Tal Schuster"
+        ],
+        "summary": "Language models spend most of their attention on a small fraction of context, yet they read the entire KV cache to find the few tokens that matter. If the user asks about a previous detail in a 1M-token conversation, global attention layers must scan the full context to generate each token of the re",
+        "url": "http://arxiv.org/abs/2609.02737v1",
+        "pdf": "https://arxiv.org/pdf/2609.02737v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "RVSD: Retrieval Vision Sparse Decoding for Mitigating Visual Hallucinations in Large Vision-Language Models",
+        "authors": [
+          "Canjie Liu",
+          "Jiawen Kang",
+          "Jinbo Wen",
+          "Zishao Zhong"
+        ],
+        "summary": "Large vision-language models have achieved remarkable success in vision-language tasks. However, they remain prone to Visual Hallucinations (VHs), undermining their reliability in real-world applications. Existing solutions typically require curated datasets, additional training, or multi-round deco",
+        "url": "http://arxiv.org/abs/2609.02731v1",
+        "pdf": "https://arxiv.org/pdf/2609.02731v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Door-in-the-Face Requests and Refusal Behaviour in Large Language Models",
+        "authors": [
+          "Til Jordan"
+        ],
+        "summary": "Does the door-in-the-face technique work on language models? In humans, a large request that is refused makes a smaller follow-up request more likely to be granted. We test this on nine production models from three providers: each model refuses a large request, then receives a smaller version of the",
+        "url": "http://arxiv.org/abs/2609.02707v1",
+        "pdf": "https://arxiv.org/pdf/2609.02707v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "DKL: Decoupled Knowledge Learning for Instruction-Tuned Language Models",
+        "authors": [
+          "Kushagra Bhushan",
+          "Meghanadh Pulivarthi",
+          "Sai Krishna Reddy Sathi",
+          "Gaurav Pandey",
+          "Sonam Gupta"
+        ],
+        "summary": "RAG has become the de facto method for incorporating new, corpus-specific knowledge into an instruction following LLM (Instruct LLM). Although RAG-based prompting improves factual grounding, it fails when retrieval is incorrect or incomplete, leading to hallucinations. Finetuning methods such as RAF",
+        "url": "http://arxiv.org/abs/2609.02685v1",
+        "pdf": "https://arxiv.org/pdf/2609.02685v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "From Tokens to Semantics: Leveraging Complementary Signals for Hallucination Detection in Black-Box LLMs",
+        "authors": [
+          "Urja Pawar",
+          "Rajitha Ramanayake",
+          "Owen O'Neill",
+          "Nabeel Kemal",
+          "Abhishek Mandal"
+        ],
+        "summary": "When LLMs support public-facing or high-stakes workflows, missed fabrications can harm users and institutions, while false alarms consume limited human-review capacity. When no trusted context or reference document is available, we study two signals accessible through black-box model APIs: semantic ",
+        "url": "http://arxiv.org/abs/2609.02679v1",
+        "pdf": "https://arxiv.org/pdf/2609.02679v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Loom: Weaving Diagnostic Strands into Free-Text Consensus via Embedding-Space Reweighting",
+        "authors": [
+          "Ron Begleiter",
+          "Katya Egert Berg",
+          "Gilad Saban",
+          "Gil Shabat"
+        ],
+        "summary": "Aggregating noisy, conflicting textual hypotheses into a reliable consensus is a fundamental challenge when deploying NLP systems in real-world industrial settings. While monolithic Large Language Model (LLM) agents offer unbounded expressivity for tasks like Root Cause Analysis (RCA), they suffer f",
+        "url": "http://arxiv.org/abs/2609.02649v1",
+        "pdf": "https://arxiv.org/pdf/2609.02649v1",
+        "published": "2026-09-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
+        "authors": [
+          "Dulhan Jayalath",
+          "Benjamin Ballyk",
+          "Oiwi Parker Jones"
+        ],
+        "summary": "Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natural human-computer interaction. Despite this promise, the field lacks a common measure of progress b",
+        "url": "http://arxiv.org/abs/2609.02887v1",
+        "pdf": "https://arxiv.org/pdf/2609.02887v1",
+        "published": "2026-09-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Graph Machine: Towards Better Pretraining via Edges",
+        "authors": [
+          "Lintai Hou"
+        ],
+        "summary": "We introduce the Graph Machine (GM), an architecture that maintains an $O(n)$-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static routing, GM preserves $O(n)$ complexity in its sparse layers without restricting the potentially acces",
+        "url": "http://arxiv.org/abs/2609.02881v1",
+        "pdf": "https://arxiv.org/pdf/2609.02881v1",
+        "published": "2026-09-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
+        "authors": [
+          "Alessio Spurio Mancini"
+        ],
+        "summary": "Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajectories suit graphics processing units (GPUs), but current GPU software forces a trade-off: the faste",
+        "url": "http://arxiv.org/abs/2609.02876v1",
+        "pdf": "https://arxiv.org/pdf/2609.02876v1",
+        "published": "2026-09-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Improved Gradient Descent Lower Bounds Beyond Nesterov",
+        "authors": [
+          "Yuhan Ye",
+          "Kaizhao Liu"
+        ],
+        "summary": "We study how far gradient descent (GD) can be accelerated by predetermined stepsizes in smooth convex optimization. Going beyond the classical $Ω(n^{-2})$ first-order oracle lower bound of Nemirovsky and Yudin, we prove an $Ω(n^{-1.6342})$ non-anytime lower bound and an $Ω(n^{-1.2408})$ anytime lowe",
+        "url": "http://arxiv.org/abs/2609.02855v1",
+        "pdf": "https://arxiv.org/pdf/2609.02855v1",
+        "published": "2026-09-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "The Implications of Linguistic Illegibility for LLM Security",
+        "authors": [
+          "James Mickens"
+        ],
+        "summary": "LLMs are trained to generate natural language. However, various strands of evidence indicate that an LLM's externalized linguistic outputs and mechanistically-extracted linguistic features can be an unreliable lens for understanding internal model computation. We introduce the term ``linguistic ille",
+        "url": "http://arxiv.org/abs/2609.02852v1",
+        "pdf": "https://arxiv.org/pdf/2609.02852v1",
+        "published": "2026-09-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "UE5M3 FP4 Block Scaling for Stable Language Model Pretraining",
+        "authors": [
+          "Robert Hu",
+          "Carlo Luschi",
+          "Paul Balanca"
+        ],
+        "summary": "Stable 4-bit floating-point (FP4) pretraining is difficult because the E2M1 payload represents only a narrow range of magnitudes. NVIDIA's Transformer Engine \\nv{} recipe addresses this with current-tensor scaling, a randomized Hadamard transform (RHT), and bfloat16 (BF16) final layers, adding work ",
+        "url": "http://arxiv.org/abs/2609.02846v1",
+        "pdf": "https://arxiv.org/pdf/2609.02846v1",
+        "published": "2026-09-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Learning Spectral-Like Mesh-Free Discretisations",
+        "authors": [
+          "Lucas Gerken Starepravo",
+          "Henry Broadley",
+          "Steven Lind",
+          "Jack R. C. King"
+        ],
+        "summary": "Meshfree methods such as smoothed particle hydrodynamics (SPH) with kernel corrections, radial basis function-generated finite differences (RBF-FD), and the local anisotropic basis function method (LABFM) construct discrete differential operators by imposing polynomial consistency on a local stencil",
+        "url": "http://arxiv.org/abs/2609.02833v1",
+        "pdf": "https://arxiv.org/pdf/2609.02833v1",
+        "published": "2026-09-02",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
