@@ -1,0 +1,583 @@
+{
+  "date": "2026-09-06",
+  "generated": "2026-09-06T06:55:29.208347",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "lnkiai/m3e-canvas",
+        "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+        "stars": 3928,
+        "language": "TypeScript",
+        "url": "https://github.com/lnkiai/m3e-canvas",
+        "created": "2026-09-02"
+      },
+      {
+        "rank": 2,
+        "name": "anthropics/commerce-agents",
+        "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+        "stars": 2105,
+        "language": "Python",
+        "url": "https://github.com/anthropics/commerce-agents",
+        "created": "2026-09-01"
+      },
+      {
+        "rank": 3,
+        "name": "shadcn-ui/cn",
+        "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+        "stars": 1182,
+        "language": "TypeScript",
+        "url": "https://github.com/shadcn-ui/cn",
+        "created": "2026-08-31"
+      },
+      {
+        "rank": 4,
+        "name": "GangTailorUpgrade/undress-service",
+        "description": "Dress AI Sponsor",
+        "stars": 1109,
+        "language": "Python",
+        "url": "https://github.com/GangTailorUpgrade/undress-service",
+        "created": "2026-08-31"
+      },
+      {
+        "rank": 5,
+        "name": "2akouwu/reverify",
+        "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is ",
+        "stars": 927,
+        "language": "Python",
+        "url": "https://github.com/2akouwu/reverify",
+        "created": "2026-08-31"
+      },
+      {
+        "rank": 6,
+        "name": "yczz/oc-english",
+        "description": "养成类游戏英语学习",
+        "stars": 823,
+        "language": "JavaScript",
+        "url": "https://github.com/yczz/oc-english",
+        "created": "2026-09-01"
+      },
+      {
+        "rank": 7,
+        "name": "anthropics/fermats-last-theorem",
+        "description": "",
+        "stars": 730,
+        "language": "Lean",
+        "url": "https://github.com/anthropics/fermats-last-theorem",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 8,
+        "name": "danielblnc/DLSS-NR-on-AMD",
+        "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+        "stars": 674,
+        "language": null,
+        "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+        "created": "2026-09-03"
+      },
+      {
+        "rank": 9,
+        "name": "ashemag/human-atlas",
+        "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+        "stars": 629,
+        "language": "TypeScript",
+        "url": "https://github.com/ashemag/human-atlas",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 10,
+        "name": "nahrek/polyledger",
+        "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+        "stars": 620,
+        "language": "Python",
+        "url": "https://github.com/nahrek/polyledger",
+        "created": "2026-09-02"
+      },
+      {
+        "rank": 11,
+        "name": "sebbbi/NoGraphicsAPI",
+        "description": "Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my \"No Graphics API\" blog post and the SIGGRAPH talk.",
+        "stars": 530,
+        "language": "C++",
+        "url": "https://github.com/sebbbi/NoGraphicsAPI",
+        "created": "2026-08-31"
+      },
+      {
+        "rank": 12,
+        "name": "MSNightmare/FalconFlank",
+        "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+        "stars": 520,
+        "language": "C",
+        "url": "https://github.com/MSNightmare/FalconFlank",
+        "created": "2026-09-03"
+      },
+      {
+        "rank": 13,
+        "name": "codejunkie99/fable-orchestrator",
+        "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
+        "stars": 520,
+        "language": "Shell",
+        "url": "https://github.com/codejunkie99/fable-orchestrator",
+        "created": "2026-09-02"
+      },
+      {
+        "rank": 14,
+        "name": "Human-Agent-Society/reef",
+        "description": "Continual learning infra for self-improving agents",
+        "stars": 513,
+        "language": "Python",
+        "url": "https://github.com/Human-Agent-Society/reef",
+        "created": "2026-08-31"
+      },
+      {
+        "rank": 15,
+        "name": "Rion-Wu-tech/wechat-intelligence-hub",
+        "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+        "stars": 505,
+        "language": "Python",
+        "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 16,
+        "name": "Albert-Weasker/niubigeo",
+        "description": "Open-source AI brand visibility and competitor reports",
+        "stars": 488,
+        "language": "TypeScript",
+        "url": "https://github.com/Albert-Weasker/niubigeo",
+        "created": "2026-09-03"
+      },
+      {
+        "rank": 17,
+        "name": "faisalkindi/DLSS5oneclick",
+        "description": "One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for gam",
+        "stars": 463,
+        "language": "Rust",
+        "url": "https://github.com/faisalkindi/DLSS5oneclick",
+        "created": "2026-08-31"
+      },
+      {
+        "rank": 18,
+        "name": "ahujasid/camera-to-blender",
+        "description": "Take a photo of real objects, and paste them in Blender",
+        "stars": 451,
+        "language": "JavaScript",
+        "url": "https://github.com/ahujasid/camera-to-blender",
+        "created": "2026-09-03"
+      },
+      {
+        "rank": 19,
+        "name": "sonicloudco/recorder",
+        "description": "Recorder Sdk",
+        "stars": 444,
+        "language": "Objective-C",
+        "url": "https://github.com/sonicloudco/recorder",
+        "created": "2026-09-02"
+      },
+      {
+        "rank": 20,
+        "name": "siknet/FreePEP",
+        "description": "人教社电子教材下载器",
+        "stars": 442,
+        "language": "Python",
+        "url": "https://github.com/siknet/FreePEP",
+        "created": "2026-08-31"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+        "authors": [
+          "Yuntian Deng",
+          "Pengyu Nie",
+          "Stuart Shieber"
+        ],
+        "summary": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusable n",
+        "url": "http://arxiv.org/abs/2609.04199v1",
+        "pdf": "https://arxiv.org/pdf/2609.04199v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+        "authors": [
+          "Haoyaun Zhu",
+          "Jie Zhang"
+        ],
+        "summary": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to the same model name, reads the same tomorrow. We audited that assumption in two preregistered campai",
+        "url": "http://arxiv.org/abs/2609.04198v1",
+        "pdf": "https://arxiv.org/pdf/2609.04198v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+        "authors": [
+          "Lihao Liu",
+          "Peng Tang",
+          "Kunwar Yashraj Singh",
+          "Shabnam Ghadar"
+        ],
+        "summary": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies - incomplete error observation, limited search diversity, and unreliable selection - and ",
+        "url": "http://arxiv.org/abs/2609.04197v1",
+        "pdf": "https://arxiv.org/pdf/2609.04197v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
+        "authors": [
+          "Adheesh Sunil Juvekar",
+          "Onkar Kishor Susladkar",
+          "Kiet A. Nguyen",
+          "Muntasir Wahed",
+          "Nabeel Bashir"
+        ],
+        "summary": "Video editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a training-free framework combining sparse causal memory for local coherence, correspondence-based post",
+        "url": "http://arxiv.org/abs/2609.04190v1",
+        "pdf": "https://arxiv.org/pdf/2609.04190v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
+        "authors": [
+          "Ye-Chan Kim",
+          "Seunghee Choi",
+          "SeungJu Cha",
+          "Si-Woo Kim",
+          "Hwiseon Kim"
+        ],
+        "summary": "Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxiliary transition captions via LLM to provide additional vision-language alignment, but these captions la",
+        "url": "http://arxiv.org/abs/2609.04183v1",
+        "pdf": "https://arxiv.org/pdf/2609.04183v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
+        "authors": [
+          "Joseph Lee",
+          "Yidi Huang",
+          "Dokyoon Kim",
+          "Shu Yang",
+          "Li Shen"
+        ],
+        "summary": "Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learning. We design controlled experiments to isolate this. First, we confirm that repetition is necessary ",
+        "url": "http://arxiv.org/abs/2609.04180v1",
+        "pdf": "https://arxiv.org/pdf/2609.04180v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "A Computationally Feasible Framework for Causal Probabilistic Explanation",
+        "authors": [
+          "Rafal Urbaniak",
+          "Sam Witty",
+          "Daniel Waxman",
+          "Andy Zane",
+          "Poorva Garg"
+        ],
+        "summary": "Explaining why a specific outcome occurred, and which inputs deserve the blame or credit, is central to philosophical, scientific, and policy analysis. Existing tools split into two camps. The theory of actual causality (AC) gives principled verdicts, but only for toy-sized models, because computing",
+        "url": "http://arxiv.org/abs/2609.04177v1",
+        "pdf": "https://arxiv.org/pdf/2609.04177v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+        "authors": [
+          "Zixuan Fu",
+          "Bingxiang He",
+          "Yuxin Zuo",
+          "Haohuan Huang",
+          "Jinqian Zhang"
+        ],
+        "summary": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear. We examine this role at the data-minimal limit by training on a single query. One-",
+        "url": "http://arxiv.org/abs/2609.04172v1",
+        "pdf": "https://arxiv.org/pdf/2609.04172v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
+        "authors": [
+          "Davide Paglieri",
+          "Logan Cross",
+          "Tim Genewein",
+          "Joel Z. Leibo",
+          "Nenad Tomasev"
+        ],
+        "summary": "Multi-agent AI science ecosystems rely on agents possessing tools that allow them to communicate, coordinate, and build on each other's work. Yet this shared infrastructure can also introduce vulnerabilities by creating a substrate for the contagious spread of unintended and undesirable behaviors. W",
+        "url": "http://arxiv.org/abs/2609.04170v1",
+        "pdf": "https://arxiv.org/pdf/2609.04170v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents",
+        "authors": [
+          "Xin He",
+          "Yanlin Wang",
+          "Mingwei Liu",
+          "Jiachi Chen",
+          "Hongyu Zhang"
+        ],
+        "summary": "Repository-level software engineering benchmarks have significantly advanced the evaluation of coding agents, but existing benchmarks primarily measure whether generated patches pass functional tests and overlook review-derived acceptance constraints (review constraints) that often influence whether",
+        "url": "http://arxiv.org/abs/2609.04167v1",
+        "pdf": "https://arxiv.org/pdf/2609.04167v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research",
+        "authors": [
+          "Yakov Pyotr Shkolnikov"
+        ],
+        "summary": "Research and news coverage of language-model deception increasingly attributes human-like mental-state concepts to language models. Such claims can blur the distinction between behavior that looks deceptive and a mechanism that is actually deceptive.\n  We introduce a causal taxonomy separating prior",
+        "url": "http://arxiv.org/abs/2609.04166v1",
+        "pdf": "https://arxiv.org/pdf/2609.04166v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center",
+        "authors": [
+          "Uday Vallabhaneni",
+          "Cassie L. Cagwin",
+          "David J. Wild"
+        ],
+        "summary": "Large language model (LLM) agents are increasingly proposed as autonomous SOC analysts, but two limitations make them unreliable at enterprise scale: a finite context window cannot hold a multi-thousand-host authentication graph, and free-form generation offers no guarantee that a recommended contai",
+        "url": "http://arxiv.org/abs/2609.04159v1",
+        "pdf": "https://arxiv.org/pdf/2609.04159v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+        "authors": [
+          "Jie Wu",
+          "Zhenru Zhang",
+          "Beichen Zhang",
+          "Xuwu Wang",
+          "Yuhui Su"
+        ],
+        "summary": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedbac",
+        "url": "http://arxiv.org/abs/2609.04148v1",
+        "pdf": "https://arxiv.org/pdf/2609.04148v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle",
+        "authors": [
+          "Gustavo Claudio Karl Couto",
+          "Eric Aislan Antonelo",
+          "Gabriel George Zipperer"
+        ],
+        "summary": "This paper presents a low-cost, open experimental platform for research in end-to-end autonomous driving with miniature Ackermann vehicles. The platform combines a physical vehicle, a printed urban track, data collection tools, trajectory registration, and a Webots digital twin, enabling controlled ",
+        "url": "http://arxiv.org/abs/2609.04147v1",
+        "pdf": "https://arxiv.org/pdf/2609.04147v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Efficient Test-Time Adaptation through Human-AI Interaction",
+        "authors": [
+          "Zora Zhiruo Wang",
+          "Apurva Gandhi",
+          "Rulin Shao",
+          "Aspen Chen",
+          "Jonas Mueller"
+        ],
+        "summary": "AI agents are trained on population-scale data to encode broad capabilities spanning those of many practitioners. Yet the artifacts they produce rarely meet the personal bar professionals need to stake their reputation on. On realistic, open-ended tasks where success criteria are heterogeneous and i",
+        "url": "http://arxiv.org/abs/2609.04141v1",
+        "pdf": "https://arxiv.org/pdf/2609.04141v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "The Natural Language Interaction Protocol and Standard for AI Agents",
+        "authors": [
+          "Luyi Xing",
+          "Rasit Onur Topaloglu",
+          "Ranjan Sinha",
+          "Abhay Ratnaparkhi",
+          "Samuel Ndichu"
+        ],
+        "summary": "AI agents are increasingly being developed and deployed across organizations using heterogeneous agent-development frameworks, AI models, tool interfaces, protocols, and execution environments. To realize their potential social and business impact, these agents must be able to interoperate through a",
+        "url": "http://arxiv.org/abs/2609.04135v1",
+        "pdf": "https://arxiv.org/pdf/2609.04135v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Environment Evolution for Terminal Agents",
+        "authors": [
+          "Zhiyuan Fan",
+          "Tinghao Yu",
+          "Yuanjun Cai",
+          "Jiang Zhou",
+          "Jiangtao Guan"
+        ],
+        "summary": "Scaling interactive and verifiable environments is critical for training terminal agents. As frontier models become more capable, environments synthesized from scratch become less challenging and thus provide limited learning signals. Recent co-evolution methods iteratively synthesize environments n",
+        "url": "http://arxiv.org/abs/2609.04128v1",
+        "pdf": "https://arxiv.org/pdf/2609.04128v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Epistemic Warrant for LLM Recommendations: Characterizing the Basis for Reliance When Ground Truth Is Unavailable",
+        "authors": [
+          "Shai Vardi",
+          "João Sedoc"
+        ],
+        "summary": "Large language models are increasingly used to support organizational decisions, yet users often lack a principled basis for assessing whether to rely on a specific recommendation. Existing approaches typically evaluate broad model properties, such as reliability, uncertainty, or robustness, or focu",
+        "url": "http://arxiv.org/abs/2609.04127v1",
+        "pdf": "https://arxiv.org/pdf/2609.04127v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR",
+        "authors": [
+          "Boyan Li",
+          "Bingsen Chen",
+          "Chenghao Yang",
+          "Ping Nie",
+          "Chen Zhao"
+        ],
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) and on-policy distillation (OPD) have emerged as two dominant methods for post-training reasoning LLMs. Prior work uses OPD's dense token-level supervision to complement the sparse RL reward, fusing the two signals within a single step: either as",
+        "url": "http://arxiv.org/abs/2609.04108v1",
+        "pdf": "https://arxiv.org/pdf/2609.04108v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
+        "authors": [
+          "Sergii Kozyrev",
+          "Davyd Maiboroda"
+        ],
+        "summary": "Hybrid LLMs pair softmax attention with linear-attention layers such as Gated DeltaNet (GDN), whose recurrent state summarizes the context in fixed size. Early community 4-bit quantizations of Qwen3.8-27B (48 GDN layers, 16 attention layers) left the GDN block in 8- or 16-bit precision -- especially",
+        "url": "http://arxiv.org/abs/2609.04098v1",
+        "pdf": "https://arxiv.org/pdf/2609.04098v1",
+        "published": "2026-09-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+        "authors": [
+          "Kevin Du",
+          "Alexander Hoyle",
+          "Laura Ruis",
+          "Acyr Locatelli"
+        ],
+        "summary": "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, evaluate faithfulness, and provide step-level supervision via process reward models and generative c",
+        "url": "http://arxiv.org/abs/2609.04194v1",
+        "pdf": "https://arxiv.org/pdf/2609.04194v1",
+        "published": "2026-09-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Robust PAC Learning of Concurrent Stochastic Games",
+        "authors": [
+          "Angel Y. He",
+          "David Parker"
+        ],
+        "summary": "We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash equilibrium (NE) existence. Our algorithm maintains data-driven $L^1$ confidence sets over transition ",
+        "url": "http://arxiv.org/abs/2609.04189v1",
+        "pdf": "https://arxiv.org/pdf/2609.04189v1",
+        "published": "2026-09-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs",
+        "authors": [
+          "Yujie Zhang",
+          "Huiying Lan",
+          "Ehsan Aghapour",
+          "Zhiyuan Ning",
+          "Peng Zan"
+        ],
+        "summary": "As edge-based deep learning applications become more complex, optimizing performance on heterogeneous System-on-Chips (SoCs) presents unique challenges. Traditional pipelining techniques distributing the computation across different on-chip processing units, while effective for throughput, do not ad",
+        "url": "http://arxiv.org/abs/2609.04168v1",
+        "pdf": "https://arxiv.org/pdf/2609.04168v1",
+        "published": "2026-09-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Parameterised graph theory for tensor networks: entanglement rerouting, structural simplification, and agnostic tomography",
+        "authors": [
+          "Matthias C. Caro",
+          "Natalie McHugh",
+          "Sergii Strelchuk"
+        ],
+        "summary": "Parameterised graph theory studies how the complexity of graph-theoretic problems depends on structural parameters of the input graph. This perspective has proved useful in analysing tensor-network simulation (Markov and Shi, 2008). Its implications for tensor-network representations and tomography ",
+        "url": "http://arxiv.org/abs/2609.04165v1",
+        "pdf": "https://arxiv.org/pdf/2609.04165v1",
+        "published": "2026-09-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Prospective Coding Improves Learning in Deep Continuous-Time Recurrent Networks",
+        "authors": [
+          "Shivang Rawat",
+          "Mirko Morello",
+          "Flaviano Morone",
+          "David J. Heeger"
+        ],
+        "summary": "Temporal integration gives continuous-time recurrent networks memory, but in deep stacks it also delays bottom-up signals and attenuates top-down errors. We develop Recursive Quadrature Filters (RQFs), biologically motivated complex-valued temporal filters that are a special case of diagonal state-s",
+        "url": "http://arxiv.org/abs/2609.04134v1",
+        "pdf": "https://arxiv.org/pdf/2609.04134v1",
+        "published": "2026-09-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Constant regret in general games via higher-order optimism",
+        "authors": [
+          "Omar Abbadi",
+          "Rida Laraki",
+          "Panayotis Mertikopoulos"
+        ],
+        "summary": "We introduce an uncoupled learning algorithm which, when employed by all players of an arbitrary $N$-player normal form game with up to $K$ actions per player, guarantees $O(N^3\\log^2 K)$ individual regret, uniformly over the horizon of play. The proposed algorithm - which we call higher-order optim",
+        "url": "http://arxiv.org/abs/2609.04113v1",
+        "pdf": "https://arxiv.org/pdf/2609.04113v1",
+        "published": "2026-09-03",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
