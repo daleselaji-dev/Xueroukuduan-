@@ -1,0 +1,604 @@
+{
+  "date": "2026-09-08",
+  "generated": "2026-09-08T06:59:29.193502",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "lnkiai/m3e-canvas",
+        "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+        "stars": 4799,
+        "language": "TypeScript",
+        "url": "https://github.com/lnkiai/m3e-canvas",
+        "created": "2026-09-02"
+      },
+      {
+        "rank": 2,
+        "name": "ashemag/human-atlas",
+        "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+        "stars": 2160,
+        "language": "TypeScript",
+        "url": "https://github.com/ashemag/human-atlas",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 3,
+        "name": "Rion-Wu-tech/wechat-intelligence-hub",
+        "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+        "stars": 1880,
+        "language": "Python",
+        "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 4,
+        "name": "pierrenade/short-video-generator-AI",
+        "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+        "stars": 1189,
+        "language": "Python",
+        "url": "https://github.com/pierrenade/short-video-generator-AI",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 5,
+        "name": "vinzdg/codenotch",
+        "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+        "stars": 968,
+        "language": "Swift",
+        "url": "https://github.com/vinzdg/codenotch",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 6,
+        "name": "anthropics/fermats-last-theorem",
+        "description": "",
+        "stars": 951,
+        "language": "Lean",
+        "url": "https://github.com/anthropics/fermats-last-theorem",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 7,
+        "name": "EverettFish/holo-card-studio",
+        "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill",
+        "stars": 949,
+        "language": "Python",
+        "url": "https://github.com/EverettFish/holo-card-studio",
+        "created": "2026-09-07"
+      },
+      {
+        "rank": 8,
+        "name": "danielblnc/DLSS-NR-on-AMD",
+        "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+        "stars": 874,
+        "language": null,
+        "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+        "created": "2026-09-03"
+      },
+      {
+        "rank": 9,
+        "name": "ahujasid/camera-to-blender",
+        "description": "Take a photo of real objects, and paste them in Blender",
+        "stars": 737,
+        "language": "JavaScript",
+        "url": "https://github.com/ahujasid/camera-to-blender",
+        "created": "2026-09-03"
+      },
+      {
+        "rank": 10,
+        "name": "Albert-Weasker/niubigeo",
+        "description": "Open-source AI brand visibility and competitor reports",
+        "stars": 694,
+        "language": "TypeScript",
+        "url": "https://github.com/Albert-Weasker/niubigeo",
+        "created": "2026-09-03"
+      },
+      {
+        "rank": 11,
+        "name": "KJGX66F/usque-custom-pro",
+        "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+        "stars": 630,
+        "language": "JavaScript",
+        "url": "https://github.com/KJGX66F/usque-custom-pro",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 12,
+        "name": "nahrek/polyledger",
+        "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+        "stars": 621,
+        "language": "Python",
+        "url": "https://github.com/nahrek/polyledger",
+        "created": "2026-09-02"
+      },
+      {
+        "rank": 13,
+        "name": "Jarvis322/macos-sysdata",
+        "description": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
+        "stars": 569,
+        "language": "Swift",
+        "url": "https://github.com/Jarvis322/macos-sysdata",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 14,
+        "name": "codejunkie99/fable-orchestrator",
+        "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
+        "stars": 569,
+        "language": "Shell",
+        "url": "https://github.com/codejunkie99/fable-orchestrator",
+        "created": "2026-09-02"
+      },
+      {
+        "rank": 15,
+        "name": "MSNightmare/FalconFlank",
+        "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+        "stars": 553,
+        "language": "C",
+        "url": "https://github.com/MSNightmare/FalconFlank",
+        "created": "2026-09-03"
+      },
+      {
+        "rank": 16,
+        "name": "sonicloudco/recorder",
+        "description": "声云录音卡 Recorder 是一套面向开发者和行业客户的智能录音硬件接入方案。 项目以录音卡片硬件为核心，开放 BLE 协议 SDK 及 Android、iOS、鸿蒙、Flutter 接入示例，同时提供 Windows/macOS 桌面端 Demo，支持设备连接、录音控制、实时音频、文件传输、OTA 升级和语音转写等能力，帮助开发者快速将录音硬件接入自己的 App、桌面软件或行业系统。 如需获取",
+        "stars": 531,
+        "language": "HTML",
+        "url": "https://github.com/sonicloudco/recorder",
+        "created": "2026-09-02"
+      },
+      {
+        "rank": 17,
+        "name": "burakgon/stop-stutter",
+        "description": "Smoother game streaming on Mac. Automatic AWDL boost for Moonlight, GeForce NOW, Punktfunk, Parsec & Steam Link. Native SwiftUI + Liquid Glass. MIT.",
+        "stars": 496,
+        "language": "Swift",
+        "url": "https://github.com/burakgon/stop-stutter",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 18,
+        "name": "byJoey/warp-masque-actions",
+        "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
+        "stars": 479,
+        "language": "JavaScript",
+        "url": "https://github.com/byJoey/warp-masque-actions",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 19,
+        "name": "okf-memory/okf-agent-memory",
+        "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zer",
+        "stars": 472,
+        "language": "Go",
+        "url": "https://github.com/okf-memory/okf-agent-memory",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 20,
+        "name": "PhiloLabs/fable51-worlds",
+        "description": "worlds via code, from fable 5.1",
+        "stars": 469,
+        "language": "JavaScript",
+        "url": "https://github.com/PhiloLabs/fable51-worlds",
+        "created": "2026-09-02"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
+        "authors": [
+          "Sihwa Park"
+        ],
+        "summary": "Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences control the clarity of AI-generated images and sounds, metaphorically enacting the denoising process",
+        "url": "http://arxiv.org/abs/2609.05404v1",
+        "pdf": "https://arxiv.org/pdf/2609.05404v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
+        "authors": [
+          "Quoc H. Nguyen",
+          "Ali Lafzi",
+          "Abhijeet Phatak",
+          "Siddharth Pratap Singh",
+          "Rohit Upadhyay"
+        ],
+        "summary": "Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preserving training and model personalization. Federated learning offers a natural solution for privacy, bu",
+        "url": "http://arxiv.org/abs/2609.05403v1",
+        "pdf": "https://arxiv.org/pdf/2609.05403v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "A Deep Generative Model for Synthesizing Labeled Wireless Signals",
+        "authors": [
+          "Yuxiao Li",
+          "Keke Hu",
+          "Santiago Mazuelas",
+          "Yuan Shen"
+        ],
+        "summary": "Wireless signals with position-related labels are pivotal for both performance evaluation and model training in the realm of wireless sensing. However, acquiring real-world datasets is often challenged by significant measurement and labeling costs. Traditional methods for synthesizing labeled wirele",
+        "url": "http://arxiv.org/abs/2609.05396v1",
+        "pdf": "https://arxiv.org/pdf/2609.05396v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe",
+        "authors": [
+          "Dain Kim",
+          "Eungi Cho",
+          "Kyumin Kim",
+          "Shinyeong Noh",
+          "Kyuseong Lim"
+        ],
+        "summary": "Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source models consistently underperform in this multi-step setting, and no existing benchmark measures the gap.",
+        "url": "http://arxiv.org/abs/2609.05395v1",
+        "pdf": "https://arxiv.org/pdf/2609.05395v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence",
+        "authors": [
+          "Urja Pawar",
+          "Rajitha Ramanayake",
+          "Nabeel Kemal",
+          "Ashwin Kandath",
+          "Owen O'Neill"
+        ],
+        "summary": "LLM decision components that can operate within agent workflows often produce action-relevant recommendations or judgements together with explanations. Operators may use the named factors to monitor a system, diagnose errors, or decide when to escalate an output. Such use assumes that the explanatio",
+        "url": "http://arxiv.org/abs/2609.05385v1",
+        "pdf": "https://arxiv.org/pdf/2609.05385v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Reflection-aware Generative Novel View Synthesis",
+        "authors": [
+          "GeonU Kim",
+          "Shin Dong-Yeon",
+          "Tae-Hyun Oh"
+        ],
+        "summary": "We propose Ref-GeNVS, a training-free, reflection-aware method for generative novel view synthesis (NVS) in mirror scenes. Existing multi-view diffusion models often fail to recognize the mirror in the scene and cannot exploit reflected content for scene generation. To fix this issue without additio",
+        "url": "http://arxiv.org/abs/2609.05382v1",
+        "pdf": "https://arxiv.org/pdf/2609.05382v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models",
+        "authors": [
+          "Matthias Busch",
+          "Marius Tacke",
+          "Sviatlana V. Lamaka",
+          "Mikhail L. Zheludkevich",
+          "Christian J. Cyron"
+        ],
+        "summary": "Large language models (LLMs) are increasingly evaluated on molecular property benchmarks, but accuracy cannot distinguish a model that predicts a property from one that retrieves a published number. We audit 22 frontier models on 12 regression benchmarks for verbatim retrieval and find that it is wi",
+        "url": "http://arxiv.org/abs/2609.05381v1",
+        "pdf": "https://arxiv.org/pdf/2609.05381v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies",
+        "authors": [
+          "Vivek Chavan",
+          "Pengtao Xie",
+          "Yahuan Shi",
+          "Oliver Heimann",
+          "Kevin Haninger"
+        ],
+        "summary": "Visuomotor imitation policies can achieve high performance under in-distribution visual conditions yet fail when visually similar objects or receptacles are introduced. We study this behavior as a problem of conditional visual grounding: the visual target required for successful control changes with",
+        "url": "http://arxiv.org/abs/2609.05376v1",
+        "pdf": "https://arxiv.org/pdf/2609.05376v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents",
+        "authors": [
+          "Haoting Shi",
+          "Wenhao Wang",
+          "Weicheng Fang",
+          "Yaozhong Liang",
+          "Tian Jin"
+        ],
+        "summary": "Computer-use agents have advanced on benchmarks like OSWorld and AndroidWorld, but still act mostly through the GUI, often producing inefficient trajectories. Real-world computer work is hybrid, combining visual-state inspection with precise, high-throughput command-line operations, so capable agent",
+        "url": "http://arxiv.org/abs/2609.05374v1",
+        "pdf": "https://arxiv.org/pdf/2609.05374v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "When LLM Decompilers Recompile More and Preserve Less",
+        "authors": [
+          "Chang Liu",
+          "Edward Raff",
+          "Kristopher Micinski"
+        ],
+        "summary": "Decompilation recovers high-level source from compiled machine code and serves as a foundation for security tasks such as vulnerability detection and malware analysis. Traditional decompilers like Ghidra and Hex-Rays expose whatever they cannot resolve as visible placeholders and often emit pseudoco",
+        "url": "http://arxiv.org/abs/2609.05370v1",
+        "pdf": "https://arxiv.org/pdf/2609.05370v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Design Docs Are All You Need: An AI-native Machine-Learning Performance Tool",
+        "authors": [
+          "Samuel Kushnir",
+          "Kimia Noorbakhsh",
+          "Kavya Sreedhar",
+          "Liqun Cheng",
+          "Ming Liu"
+        ],
+        "summary": "Machine-learning performance modeling is a uniquely hostile terrain for long-lived software: the assumptions baked into today's abstractions are invalidated by tomorrow's models and systems, forcing perpetual refactoring of performance-modeling frameworks. Meanwhile, AI coding agents have become fas",
+        "url": "http://arxiv.org/abs/2609.05364v1",
+        "pdf": "https://arxiv.org/pdf/2609.05364v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education",
+        "authors": [
+          "Rayed AlGhamdi"
+        ],
+        "summary": "The integration of GenAI tools into higher education assessment raises important questions about how students understand, interpret, and respond to AI-mediated evaluation. As instructors increasingly explore AI tools for providing feedback, prior research has examined whether GenAI-generated feedbac",
+        "url": "http://arxiv.org/abs/2609.05346v1",
+        "pdf": "https://arxiv.org/pdf/2609.05346v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability",
+        "authors": [
+          "Ankit Goyal",
+          "Jaideep Ray"
+        ],
+        "summary": "Model upgrades are routine; memory migrations are not. An agent can keep the same memory store and still forget: a new model may interpret old notes differently, mixed embedding versions may break retrieval, and repair may fail without the original evidence. We compare memory as the same history is ",
+        "url": "http://arxiv.org/abs/2609.05339v1",
+        "pdf": "https://arxiv.org/pdf/2609.05339v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "The History Is the Detector: Executing CVE Patch History, End-to-End",
+        "authors": [
+          "Qiushi Wu",
+          "Kevin Eykholt",
+          "Youngja Park",
+          "Xiaokui Shu",
+          "Dhilung Kirat"
+        ],
+        "summary": "Public vulnerability databases collect rich information about known software flaws, including their weakness types, affected components, and related patches. Fixing commits provide the exact code changes that removed these flaws. While these records capture why the original code was unsafe, they are",
+        "url": "http://arxiv.org/abs/2609.05335v1",
+        "pdf": "https://arxiv.org/pdf/2609.05335v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Lightweight Vision Transformer Compression for On-Device Plant Disease Detection in Resource-Constrained Agricultural Field Conditions",
+        "authors": [
+          "Mahadev Sunil Kumar",
+          "Bhavika Gondi",
+          "Desaisetty Venkata Satya Sai Swapnith",
+          "Gangireddy Rahul Jogi",
+          "Sudheesh Manalil"
+        ],
+        "summary": "Chilli (Capsicum annuum) is one of India's most economically significant crops, yet its productivity is persistently threatened by diseases that are difficult to identify without expert intervention. While Vision Transformers (ViTs) have achieved high classification accuracy, their large computation",
+        "url": "http://arxiv.org/abs/2609.05334v1",
+        "pdf": "https://arxiv.org/pdf/2609.05334v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer Language Models",
+        "authors": [
+          "José Luciano Verçosa Marques",
+          "Frederico Jorge Heitmann",
+          "Daniel Omar Perez",
+          "Marcelo Vinicius de Paula",
+          "Tárcio André dos Santos Barros"
+        ],
+        "summary": "A transformer language model assigns a single, context-independent vector to a word type at its embedding layer, yet is widely believed to individuate that word's occurrences by context in its later layers. Testing this belief cleanly requires a construct that holds the word form fixed while its con",
+        "url": "http://arxiv.org/abs/2609.05333v1",
+        "pdf": "https://arxiv.org/pdf/2609.05333v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "LLM-Driven Algorithm Design for Quantum Circuit Synthesis based on Binary Decision Diagrams",
+        "authors": [
+          "Yoonju Sim",
+          "Federico Berto",
+          "Chuanbo Hua",
+          "Jinkyoo Park",
+          "Changhyun Kwon"
+        ],
+        "summary": "Quantum circuits are central to implementing quantum algorithms on quantum devices, where quantum gates must be reversible. Many quantum algorithms rely on Boolean functions, which must therefore be implemented reversibly within quantum circuits. Reversible circuit synthesis provides a way to transl",
+        "url": "http://arxiv.org/abs/2609.05327v1",
+        "pdf": "https://arxiv.org/pdf/2609.05327v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?",
+        "authors": [
+          "Zhenxuan Fan",
+          "Bo Zhang",
+          "Yutong Lin",
+          "Yuqian Yuan",
+          "Juekai Lin"
+        ],
+        "summary": "Vision-Language-Action (VLA) models have shown promising progress in language-conditioned robotic manipulation. However, existing datasets and benchmarks mainly evaluate task completion under predefined settings, offering limited insight into model reasoning under increasing spatial and procedural c",
+        "url": "http://arxiv.org/abs/2609.05324v1",
+        "pdf": "https://arxiv.org/pdf/2609.05324v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness",
+        "authors": [
+          "Alexander Neubauer",
+          "Tianzhen Hong",
+          "Han Li",
+          "Mengbo Yu",
+          "Amin Darbandi"
+        ],
+        "summary": "Building automation systems generate rich sensor data yet remain insight-poor because heterogeneous point naming, missing metadata, and fragmented documentation obstruct their operational use. This systematic review analyses and codes 66 peer-reviewed studies on large language models (LLMs) for HVAC",
+        "url": "http://arxiv.org/abs/2609.05314v1",
+        "pdf": "https://arxiv.org/pdf/2609.05314v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "How Does mHC Use Its Residual Streams? Selective Routing and Near-Identity Mixing",
+        "authors": [
+          "Pengxiang Zhao",
+          "Xing Li",
+          "Xianzhi Yu",
+          "Wei Guo",
+          "Zhenhua Dong"
+        ],
+        "summary": "Hyper-Connections and their manifold-constrained variant mHC widen a residual pathway from one stream to n, yet how trained models use this capacity remains unclear: how broadly blocks read and write, how strongly the residual pathway mixes streams, and whether the streams carry distinct representat",
+        "url": "http://arxiv.org/abs/2609.05309v1",
+        "pdf": "https://arxiv.org/pdf/2609.05309v1",
+        "published": "2026-09-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+        "authors": [
+          "Linzhan Mou",
+          "Jiahui Lei",
+          "Zhiyang Dou",
+          "Chenyue Cai",
+          "Chaoyue Song"
+        ],
+        "summary": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on category-specific templates or require per-skeleton fine-tuning and reference motions a",
+        "url": "http://arxiv.org/abs/2609.05415v1",
+        "pdf": "https://arxiv.org/pdf/2609.05415v1",
+        "published": "2026-09-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation",
+        "authors": [
+          "Siliang Liu",
+          "Mohammad Ghasemi",
+          "Sapan Patel",
+          "Amin Banitalebi-Dehkordi"
+        ],
+        "summary": "Trade-up recommendation identifies higher-quality alternatives that preserve a customer's purchase intent while offering upgraded benefits. Large language models (LLMs) can reason about such distinctions, but applying them directly to hundreds of millions of product pairs is operationally impractica",
+        "url": "http://arxiv.org/abs/2609.05363v1",
+        "pdf": "https://arxiv.org/pdf/2609.05363v1",
+        "published": "2026-09-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Variational Continuation for Double Pendulum Periodic Orbits",
+        "authors": [
+          "Leo Yao",
+          "Ziming Liu",
+          "Max Tegmark"
+        ],
+        "summary": "We present a Hessian-based approach to numerically continue periodic orbits in dynamical systems. A loop (periodic orbit candidate) is parametrized as a Fourier series; a loss function is defined based on the deviation of the loop from the physical differential equations. Unlike previous work relyin",
+        "url": "http://arxiv.org/abs/2609.05337v1",
+        "pdf": "https://arxiv.org/pdf/2609.05337v1",
+        "published": "2026-09-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Embedded Graph Flows for Categorical Graph Generation",
+        "authors": [
+          "Ethan Ma",
+          "Zihan Wang",
+          "Chris Siu Yeung Chow",
+          "Xinguo Feng",
+          "Qingqing Li"
+        ],
+        "summary": "Generating categorical graphs requires choosing node and edge types that form a coherent structure without depending on node order. Many graph generators encode categories as fixed one-hot vectors, which can impose an artificial geometry in which categories are equidistant. We propose Embedded Graph",
+        "url": "http://arxiv.org/abs/2609.05328v1",
+        "pdf": "https://arxiv.org/pdf/2609.05328v1",
+        "published": "2026-09-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Adaptive Gated Deepfake Detection for Low-Resolution and Resource-Constrained Environments",
+        "authors": [
+          "Vaishnavi Sen",
+          "Cody Laurie",
+          "Rashida Hasan"
+        ],
+        "summary": "Deepfake detection models often rely on high-quality inputs, fixed inference paths, and computationally expensive architectures, limiting their use in low-resolution and resource-constrained settings. This paper proposes AdaGate-DF, an adaptive gated deepfake detection framework that uses image-qual",
+        "url": "http://arxiv.org/abs/2609.05320v1",
+        "pdf": "https://arxiv.org/pdf/2609.05320v1",
+        "published": "2026-09-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Optimal Rates for Agentic Networked Information Aggregation",
+        "authors": [
+          "MohammadHossein Bateni",
+          "Zahra Hadizadeh",
+          "MohammadTaghi Hajiaghayi",
+          "Mahdi JafariRaviz",
+          "Shayan Taherijam"
+        ],
+        "summary": "Building on the pioneering paper of Kearns, Roth, and Ryu (SODA'26), we study information aggregation in a networked learning model. The model captures a central pattern in agentic AI: each agent sees only part of the data and passes on only its own conclusion. Their model considers a linear regress",
+        "url": "http://arxiv.org/abs/2609.05318v1",
+        "pdf": "https://arxiv.org/pdf/2609.05318v1",
+        "published": "2026-09-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Online Change-point Detection for Cooperative Multi-Agent Reinforcement Learning",
+        "authors": [
+          "Fatemeh Saberi Khomami",
+          "Julita Vassileva"
+        ],
+        "summary": "Cooperative multi-agent reinforcement learning (MARL) systems rely on past experience for learning coordinated behaviour, but this experience may become unreliable if the environment or task objective changes during training. In such cases, agents first need a way to recognize that the situation has",
+        "url": "http://arxiv.org/abs/2609.05298v1",
+        "pdf": "https://arxiv.org/pdf/2609.05298v1",
+        "published": "2026-09-04",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
