@@ -1,0 +1,575 @@
+{
+  "date": "2026-09-09",
+  "generated": "2026-09-09T07:08:37.496408",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "ashemag/human-atlas",
+        "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+        "stars": 2576,
+        "language": "TypeScript",
+        "url": "https://github.com/ashemag/human-atlas",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 2,
+        "name": "Albert-Weasker/niubigeo",
+        "description": "Open-source AI brand visibility and competitor reports",
+        "stars": 2183,
+        "language": "TypeScript",
+        "url": "https://github.com/Albert-Weasker/niubigeo",
+        "created": "2026-09-03"
+      },
+      {
+        "rank": 3,
+        "name": "Rion-Wu-tech/wechat-intelligence-hub",
+        "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+        "stars": 1967,
+        "language": "Python",
+        "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 4,
+        "name": "EverettFish/holo-card-studio",
+        "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill",
+        "stars": 1176,
+        "language": "Python",
+        "url": "https://github.com/EverettFish/holo-card-studio",
+        "created": "2026-09-07"
+      },
+      {
+        "rank": 5,
+        "name": "openai/NavierStokesAndEuler",
+        "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+        "stars": 1163,
+        "language": "Lean",
+        "url": "https://github.com/openai/NavierStokesAndEuler",
+        "created": "2026-09-08"
+      },
+      {
+        "rank": 6,
+        "name": "vinzdg/codenotch",
+        "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+        "stars": 1155,
+        "language": "Swift",
+        "url": "https://github.com/vinzdg/codenotch",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 7,
+        "name": "anthropics/fermats-last-theorem",
+        "description": "",
+        "stars": 986,
+        "language": "Lean",
+        "url": "https://github.com/anthropics/fermats-last-theorem",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 8,
+        "name": "danielblnc/DLSS-NR-on-AMD",
+        "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+        "stars": 944,
+        "language": null,
+        "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+        "created": "2026-09-03"
+      },
+      {
+        "rank": 9,
+        "name": "kajisho5/ffmpeg-skill",
+        "description": "",
+        "stars": 792,
+        "language": "Python",
+        "url": "https://github.com/kajisho5/ffmpeg-skill",
+        "created": "2026-09-03"
+      },
+      {
+        "rank": 10,
+        "name": "ahujasid/camera-to-blender",
+        "description": "Take a photo of real objects, and paste them in Blender",
+        "stars": 779,
+        "language": "JavaScript",
+        "url": "https://github.com/ahujasid/camera-to-blender",
+        "created": "2026-09-03"
+      },
+      {
+        "rank": 11,
+        "name": "KJGX66F/usque-custom-pro",
+        "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+        "stars": 691,
+        "language": "JavaScript",
+        "url": "https://github.com/KJGX66F/usque-custom-pro",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 12,
+        "name": "Mantitup-Org/vista",
+        "description": "",
+        "stars": 603,
+        "language": "TypeScript",
+        "url": "https://github.com/Mantitup-Org/vista",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 13,
+        "name": "Jarvis322/macos-sysdata",
+        "description": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
+        "stars": 601,
+        "language": "Swift",
+        "url": "https://github.com/Jarvis322/macos-sysdata",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 14,
+        "name": "MSNightmare/FalconFlank",
+        "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+        "stars": 560,
+        "language": "C",
+        "url": "https://github.com/MSNightmare/FalconFlank",
+        "created": "2026-09-03"
+      },
+      {
+        "rank": 15,
+        "name": "yang0/handraw-style",
+        "description": "手绘风格编号画廊与双语提示词 Skill",
+        "stars": 524,
+        "language": "HTML",
+        "url": "https://github.com/yang0/handraw-style",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 16,
+        "name": "byJoey/warp-masque-actions",
+        "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
+        "stars": 523,
+        "language": "JavaScript",
+        "url": "https://github.com/byJoey/warp-masque-actions",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 17,
+        "name": "okf-memory/okf-agent-memory",
+        "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zer",
+        "stars": 498,
+        "language": "Go",
+        "url": "https://github.com/okf-memory/okf-agent-memory",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 18,
+        "name": "burakgon/stop-stutter",
+        "description": "Smoother game streaming on Mac. Automatic AWDL boost for Moonlight, GeForce NOW, Punktfunk, Parsec & Steam Link. Native SwiftUI + Liquid Glass. MIT.",
+        "stars": 494,
+        "language": "Swift",
+        "url": "https://github.com/burakgon/stop-stutter",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 19,
+        "name": "donvito/codex-astra-luna-orchestrator",
+        "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+        "stars": 436,
+        "language": "Python",
+        "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 20,
+        "name": "AI-FanGe/Microduck-build-tutorial",
+        "description": "A practical hardware and software setup for a compact RL-powered biped robot.",
+        "stars": 417,
+        "language": "Python",
+        "url": "https://github.com/AI-FanGe/Microduck-build-tutorial",
+        "created": "2026-09-04"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
+        "authors": [
+          "Anqi Li",
+          "Yuxin Chen",
+          "Zhaobo Li",
+          "Zhuo Cao",
+          "Junli Ren"
+        ],
+        "summary": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments requires continuous geometry-aware whole-body adaptation, including coordinated arm pl",
+        "url": "http://arxiv.org/abs/2609.09158v1",
+        "pdf": "https://arxiv.org/pdf/2609.09158v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+        "authors": [
+          "Yuxing Lu",
+          "Yicheng Chen",
+          "Shanchan Wu",
+          "Sercan Ö. Arık"
+        ],
+        "summary": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating history, leaving implicit the procedural knowledge of what to do, in what order, and under which con",
+        "url": "http://arxiv.org/abs/2609.09153v1",
+        "pdf": "https://arxiv.org/pdf/2609.09153v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
+        "authors": [
+          "Tobias Susetzky",
+          "Raphael Rehms",
+          "Dmitrii Seletkov",
+          "Özgün Turgut",
+          "Michelle Espranita Liman"
+        ],
+        "summary": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories remains a critical challenge. Current AI models often struggle to capture the complex, irregular tempor",
+        "url": "http://arxiv.org/abs/2609.09140v1",
+        "pdf": "https://arxiv.org/pdf/2609.09140v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes",
+        "authors": [
+          "Maria Alejandra Gomez",
+          "Juan Manuel Castillo"
+        ],
+        "summary": "Robotic Process Automation (RPA) is widely used to reduce administrative burden in United States hospitals, yet an estimated 30-50% of RPA initiatives underperform because processes are selected informally, without a repeatable method to catalogue candidates, prioritize them, match each to an automa",
+        "url": "http://arxiv.org/abs/2609.09137v1",
+        "pdf": "https://arxiv.org/pdf/2609.09137v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
+        "authors": [
+          "Zhou Yu",
+          "Bin Bi",
+          "Shiva Kumar Pentyala",
+          "Shubham Mehrotra",
+          "Sougata Chaudhuri"
+        ],
+        "summary": "Agent harnesses (the system prompt, tool set, execution hooks, and context-management scaffolding around a model) are a critical determinant of agentic task success. Automated harness evolution can enable smaller models to perform well on domain-specific tasks at a fraction of frontier-model cost. S",
+        "url": "http://arxiv.org/abs/2609.09134v1",
+        "pdf": "https://arxiv.org/pdf/2609.09134v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "ExecCritic: Learn to Test, Test to Improve for Coding Agents",
+        "authors": [
+          "Leitian Tao",
+          "Baolin Peng",
+          "Haorui Wang",
+          "Hang Wang",
+          "Hao Cheng"
+        ],
+        "summary": "Execution feedback can guide coding agents toward correct repository repairs, but only when the tests capture the behavior requested by the issue. Agent-generated tests can encode incomplete or incorrect behavioral targets; when the same trajectory writes both the patch and the test, their errors ca",
+        "url": "http://arxiv.org/abs/2609.09133v1",
+        "pdf": "https://arxiv.org/pdf/2609.09133v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "A Generalization of Amari's Bayesian Duality",
+        "authors": [
+          "Mohammad Emtiyaz Khan",
+          "Thomas Möllenhoff"
+        ],
+        "summary": "Amari's contributions to information geometry and machine learning are well known. Here, we revisit Amari's work on Bayesian duality which has not received as much attention. We connect Amari's Bayesian duality to a convex duality of Bayes' rule. Using this connection, we present a generalization of",
+        "url": "http://arxiv.org/abs/2609.09126v1",
+        "pdf": "https://arxiv.org/pdf/2609.09126v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Canonical Color as a Lens into Concept Decodability in Vision Encoders and VLMs",
+        "authors": [
+          "Xiaofu Chen",
+          "Stella Frank",
+          "Yova Kementchedjhieva"
+        ],
+        "summary": "Visual encoders construct a representation of the image input for Vision-Language models. How much conceptual, as opposed to immediately visible, information does this representation contain? We use canonical color as a controlled test case to ask whether vision encoders make canonical-color informa",
+        "url": "http://arxiv.org/abs/2609.09124v1",
+        "pdf": "https://arxiv.org/pdf/2609.09124v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination",
+        "authors": [
+          "Yankai Fu",
+          "Ning Chen",
+          "Junkai Zhao",
+          "Heng Zhang",
+          "Guocai Yao"
+        ],
+        "summary": "Dexterous manipulation involves contact-rich and fine-grained interactions with the physical world, posing significant challenges for existing vision-language-action (VLA) models due to severe visual occlusions and complex contact dynamics. While recent works have incorporated tactile sensing into r",
+        "url": "http://arxiv.org/abs/2609.09119v1",
+        "pdf": "https://arxiv.org/pdf/2609.09119v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "MeClear: Cooperative Game-Theoretic Attribution and Risk-Aware Memory Clearance for Long-Horizon LLM Agents",
+        "authors": [
+          "Boyu Yang",
+          "Jiazheng Sun",
+          "Zilong Lu",
+          "Zhi Qiu",
+          "Xin Peng"
+        ],
+        "summary": "Long horizon Large Language Model (LLM) agents rely on external memory systems to preserve user preferences and task knowledge across extended interactions. Conventional retrieval mechanisms optimize semantic compatibility rather than downstream utility, frequently introducing outdated, misleading, ",
+        "url": "http://arxiv.org/abs/2609.09115v1",
+        "pdf": "https://arxiv.org/pdf/2609.09115v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?",
+        "authors": [
+          "Yuqiao Tan",
+          "Shizhu He",
+          "Jun Zhao",
+          "Kang Liu"
+        ],
+        "summary": "While research on recursive self-improvement (RSI) has predominantly automated model training pipelines, reliable autonomous development demands a missing pillar: post-hoc monitoring and auditing to understand what models learn and ensure safe alignment. Mechanistic interpretability tools are essent",
+        "url": "http://arxiv.org/abs/2609.09113v1",
+        "pdf": "https://arxiv.org/pdf/2609.09113v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "The Surprising Effectiveness of Approximate Value Iteration in Self-Play",
+        "authors": [
+          "Raphael Boige",
+          "Amine Boumaza",
+          "Bruno Scherrer"
+        ],
+        "summary": "Combining search with function approximation has driven major advances in game-playing programs, making self-play algorithms more competitive than ever. Still, the computational overhead of the most popular methods, based on Monte Carlo Tree Search (MCTS), can be substantial. In this work, we invest",
+        "url": "http://arxiv.org/abs/2609.09094v1",
+        "pdf": "https://arxiv.org/pdf/2609.09094v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Measuring LLM Sycophancy under Sustained Multi-Turn Pressure",
+        "authors": [
+          "Leyuan Tang",
+          "Kangda Wei",
+          "Tianyu Jiang",
+          "Ruihong Huang"
+        ],
+        "summary": "Large language models (LLMs) may abandon correct positions when users push back, exhibiting a failure mode known as sycophancy. Existing evaluations typically use short, pre-specified conversations and may therefore miss failures that emerge under sustained, adaptive disagreement. We introduce SPINE",
+        "url": "http://arxiv.org/abs/2609.09090v1",
+        "pdf": "https://arxiv.org/pdf/2609.09090v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "GoDeep: Annotation-Free Open-Vocabulary 3D Scene Understanding via Language-Space Lifting",
+        "authors": [
+          "Thodoris Betsas",
+          "Anastasios Doulamis",
+          "Andreas Georgopoulos"
+        ],
+        "summary": "Open vocabulary 3D semantic segmentation methods typically lift CLIP features into 3D. This embeds points in a joint vision-language space known to behave like a bag-of-words on compositional tasks. Furthermore, even annotation free variants often require a large 3D training corpus and a dedicated 3",
+        "url": "http://arxiv.org/abs/2609.09082v1",
+        "pdf": "https://arxiv.org/pdf/2609.09082v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Everything in Moderation: Per-Domain Coverage Optima and Alignment-Resistant Domain Gaps in Multi-Domain Mid-Training",
+        "authors": [
+          "Yunpeng Xu",
+          "Kun Zheng"
+        ],
+        "summary": "Mid-training, the stage between pre-training and alignment, is where a model's per-domain data composition is typically set by data availability rather than principled design. We ask what that decision buys, and whether a later alignment pass can undo it. In a controlled logical-reasoning setting (Q",
+        "url": "http://arxiv.org/abs/2609.09081v1",
+        "pdf": "https://arxiv.org/pdf/2609.09081v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "ThinkPrior: Zero-Rollout Difficulty Priors for Cold-Start Prompt Selection in RLVR",
+        "authors": [
+          "Tommy Sha",
+          "Skylar Zhai",
+          "Siqi Zhao"
+        ],
+        "summary": "In reinforcement learning with verifiable rewards (RLVR) trained with group relative policy optimization (GRPO), the KL-free reward-advantage term studied here depends on within-group reward variation. If all rollouts in a group are correct or all are wrong, their group-relative advantages are ident",
+        "url": "http://arxiv.org/abs/2609.09075v1",
+        "pdf": "https://arxiv.org/pdf/2609.09075v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Performance of Clinical AI System and Physicians and Frontier Language Models in primary care diagnostics",
+        "authors": [
+          "Andy Nkansah",
+          "Hanna Plotnitskaya",
+          "Stanislau Salavei",
+          "Anna Kozlova",
+          "Piotr Gibas"
+        ],
+        "summary": "Clinical AI evaluation should encompass diagnosis and management after adaptive information gathering. We compared Doctorina, eight physicians and four standalone frontier language models in 150 synthetic Polish-language primary-care consultations. Doctorina achieved 82.0% Top-1 concordance versus 5",
+        "url": "http://arxiv.org/abs/2609.09070v1",
+        "pdf": "https://arxiv.org/pdf/2609.09070v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Time-Varying Data as Sheaves: an Invitation to Narratives",
+        "authors": [
+          "Wilmer Leal",
+          "Benjamin Merlin Bumpus",
+          "Jana K. Nickel",
+          "Johan García",
+          "James Fairbanks"
+        ],
+        "summary": "Modern science and engineering increasingly rely on time-varying data, yet the mathematical tools used to model temporal phenomena are often developed within separate disciplines, obscuring common principles and limiting the transfer of ideas across fields. This chapter presents the theory of narrat",
+        "url": "http://arxiv.org/abs/2609.09056v1",
+        "pdf": "https://arxiv.org/pdf/2609.09056v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Training-Free Task Vectors for LLM Behavioral Control",
+        "authors": [
+          "Gabriel J. Perin",
+          "Lucas Boscaini",
+          "André Araujo",
+          "Nina S. T. Hirata"
+        ],
+        "summary": "Task vectors enable post-training model editing by identifying semantically meaningful directions in weight space, typically computed as the difference between a fine-tuned model and its pretrained initialization. However, this reliance on fine-tuning makes discovering such directions costly and lim",
+        "url": "http://arxiv.org/abs/2609.09054v1",
+        "pdf": "https://arxiv.org/pdf/2609.09054v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "The Audit Decides the Verdict: Instrument Effects Rival Demographic Bias in LLM Decision Audits",
+        "authors": [
+          "Siddharth Vohra",
+          "Manikandan Ravikiran"
+        ],
+        "summary": "Whether a language model looks demographically biased can depend on how the audit asks its question. A charitable-aid benchmark reports that the same models favor minority applicants when rating requests one at a time and penalize some when ranking side by side. We test whether that reversal general",
+        "url": "http://arxiv.org/abs/2609.09048v1",
+        "pdf": "https://arxiv.org/pdf/2609.09048v1",
+        "published": "2026-09-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Learning Length-Extrapolatable Recurrent Models",
+        "authors": [
+          "Hanwen Jiang"
+        ],
+        "summary": "Recurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gradients that vanish or explode along temporal paths. However, dense per-token losses can still train ",
+        "url": "http://arxiv.org/abs/2609.09157v1",
+        "pdf": "https://arxiv.org/pdf/2609.09157v1",
+        "published": "2026-09-08",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration",
+        "authors": [
+          "Yuhan Ye",
+          "Kaizhao Liu"
+        ],
+        "summary": "We study how far gradient descent (GD) can be accelerated by predetermined nonnegative stepsizes in smooth convex optimization. Writing $p_{\\mathrm{sil}}=\\log_2(1+\\sqrt{2})$, we prove an $Ω\\left(n^{-p_{\\mathrm{sil}}-O(\\sqrt{\\log\\log n/\\log n})}\\right)$ non-anytime lower bound. In the anytime setting",
+        "url": "http://arxiv.org/abs/2609.09152v1",
+        "pdf": "https://arxiv.org/pdf/2609.09152v1",
+        "published": "2026-09-08",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Entropy-Regularized Rank-Masked Policy Optimization for Test-Time Reinforcement Learning in Code Generation",
+        "authors": [
+          "Jiacheng Xu",
+          "Feng Chen",
+          "Xiuneng Xu",
+          "Bo An"
+        ],
+        "summary": "Existing methods for test-time reinforcement learning (TTRL) derive rewards from answer-level self-voting on unlabeled test-time tasks with canonical answers, but this breaks down for code generation because programs cannot be compared by surface form and therefore do not directly provide a usable t",
+        "url": "http://arxiv.org/abs/2609.09135v1",
+        "pdf": "https://arxiv.org/pdf/2609.09135v1",
+        "published": "2026-09-08",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Nearly Tight Rademacher Bounds for Sparsely Activated Neural Networks",
+        "authors": [
+          "Xiaoyu Li",
+          "Zhizhou Sha",
+          "Jiaojiao Jiang",
+          "Junbin Gao",
+          "Andi Han"
+        ],
+        "summary": "An input may activate few hidden units even when different inputs collectively use an entire network. We study the statistical complexity of this input-dependent sparsity in the one-hidden-layer ReLU model of Awasthi et al. (COLT 2024). For width $s$, at most $k$ active units per input, and effectiv",
+        "url": "http://arxiv.org/abs/2609.09130v1",
+        "pdf": "https://arxiv.org/pdf/2609.09130v1",
+        "published": "2026-09-08",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "When Does Scale-Invariant Optimization Become Unstable? An Exact Schedule Law with Weight Decay",
+        "authors": [
+          "Hasan Amin",
+          "Wei-Kai Chang",
+          "Rajiv Khanna"
+        ],
+        "summary": "Normalization renders large parts of neural networks effectively scale invariant, inducing a hidden feedback loop in which learning-rate schedules and weight decay interact through the parameter norm to control the effective step taken by the optimizer. We show that this interaction is governed by a",
+        "url": "http://arxiv.org/abs/2609.09116v1",
+        "pdf": "https://arxiv.org/pdf/2609.09116v1",
+        "published": "2026-09-08",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics",
+        "authors": [
+          "Changho Shin",
+          "David Alvarez-Melis"
+        ],
+        "summary": "Curriculum learning is governed by several coupled design choices---how difficulty is defined, how examples are ordered, how much exposure each level receives, and how quickly training moves across levels---making it hard to isolate what actually helps. We present Wasserstein curriculum paths, a sim",
+        "url": "http://arxiv.org/abs/2609.09099v1",
+        "pdf": "https://arxiv.org/pdf/2609.09099v1",
+        "published": "2026-09-08",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
