@@ -1,0 +1,616 @@
+{
+  "date": "2026-09-10",
+  "generated": "2026-09-10T07:05:07.198122",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "ashemag/human-atlas",
+        "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+        "stars": 2916,
+        "language": "TypeScript",
+        "url": "https://github.com/ashemag/human-atlas",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 2,
+        "name": "Rion-Wu-tech/wechat-intelligence-hub",
+        "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+        "stars": 2035,
+        "language": "Python",
+        "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 3,
+        "name": "openai/NavierStokesAndEuler",
+        "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+        "stars": 1611,
+        "language": "Lean",
+        "url": "https://github.com/openai/NavierStokesAndEuler",
+        "created": "2026-09-08"
+      },
+      {
+        "rank": 4,
+        "name": "vinzdg/codenotch",
+        "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+        "stars": 1304,
+        "language": "Swift",
+        "url": "https://github.com/vinzdg/codenotch",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 5,
+        "name": "EverettFish/holo-card-studio",
+        "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill",
+        "stars": 1272,
+        "language": "Python",
+        "url": "https://github.com/EverettFish/holo-card-studio",
+        "created": "2026-09-07"
+      },
+      {
+        "rank": 6,
+        "name": "anthropics/fermats-last-theorem",
+        "description": "",
+        "stars": 1005,
+        "language": "Lean",
+        "url": "https://github.com/anthropics/fermats-last-theorem",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 7,
+        "name": "sdli1995/dlssg_for_sm86",
+        "description": "Here is a dlssg for RTX30 Series GPU ",
+        "stars": 893,
+        "language": null,
+        "url": "https://github.com/sdli1995/dlssg_for_sm86",
+        "created": "2026-09-07"
+      },
+      {
+        "rank": 8,
+        "name": "donvito/codex-astra-luna-orchestrator",
+        "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+        "stars": 821,
+        "language": "Python",
+        "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 9,
+        "name": "KJGX66F/usque-custom-pro",
+        "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+        "stars": 727,
+        "language": "JavaScript",
+        "url": "https://github.com/KJGX66F/usque-custom-pro",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 10,
+        "name": "yang0/handraw-style",
+        "description": "手绘风格编号画廊与双语提示词 Skill",
+        "stars": 713,
+        "language": "HTML",
+        "url": "https://github.com/yang0/handraw-style",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 11,
+        "name": "Mantitup-Org/vista",
+        "description": "",
+        "stars": 617,
+        "language": "TypeScript",
+        "url": "https://github.com/Mantitup-Org/vista",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 12,
+        "name": "Jarvis322/macos-sysdata",
+        "description": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
+        "stars": 614,
+        "language": "Swift",
+        "url": "https://github.com/Jarvis322/macos-sysdata",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 13,
+        "name": "AI-FanGe/Microduck-build-tutorial",
+        "description": "A practical hardware and software setup for a compact RL-powered biped robot.",
+        "stars": 590,
+        "language": "Python",
+        "url": "https://github.com/AI-FanGe/Microduck-build-tutorial",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 14,
+        "name": "achimala/dream-loop",
+        "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+        "stars": 548,
+        "language": "JavaScript",
+        "url": "https://github.com/achimala/dream-loop",
+        "created": "2026-09-07"
+      },
+      {
+        "rank": 15,
+        "name": "byJoey/warp-masque-actions",
+        "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
+        "stars": 543,
+        "language": "JavaScript",
+        "url": "https://github.com/byJoey/warp-masque-actions",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 16,
+        "name": "okf-memory/okf-agent-memory",
+        "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zer",
+        "stars": 527,
+        "language": "Go",
+        "url": "https://github.com/okf-memory/okf-agent-memory",
+        "created": "2026-09-05"
+      },
+      {
+        "rank": 17,
+        "name": "com-phantom/Phantom-Wallet-Desktop",
+        "description": "Phantom Wallet Desktop app for Windows, macOS and Linux. A lightweight desktop client that brings Phantom crypto wallet experience outside the browser with native desktop access.",
+        "stars": 511,
+        "language": "HTML",
+        "url": "https://github.com/com-phantom/Phantom-Wallet-Desktop",
+        "created": "2026-09-08"
+      },
+      {
+        "rank": 18,
+        "name": "burakgon/stop-stutter",
+        "description": "Smoother game streaming on Mac. Automatic AWDL boost for Moonlight, GeForce NOW, Punktfunk, Parsec & Steam Link. Native SwiftUI + Liquid Glass. MIT.",
+        "stars": 500,
+        "language": "Swift",
+        "url": "https://github.com/burakgon/stop-stutter",
+        "created": "2026-09-04"
+      },
+      {
+        "rank": 19,
+        "name": "gazijarin/itsgiving",
+        "description": "Express yourself in meetings (with memes, of course).",
+        "stars": 499,
+        "language": "Python",
+        "url": "https://github.com/gazijarin/itsgiving",
+        "created": "2026-09-08"
+      },
+      {
+        "rank": 20,
+        "name": "OpenWAM-Official/OpenWAM",
+        "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
+        "stars": 447,
+        "language": "Python",
+        "url": "https://github.com/OpenWAM-Official/OpenWAM",
+        "created": "2026-09-06"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+        "authors": [
+          "Yanzhe Chen",
+          "Zechen Bai",
+          "Zhijun Cao",
+          "Wenzheng Zeng",
+          "Kevin Qinghong Lin"
+        ],
+        "summary": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact semantic interface linking intent to action",
+        "url": "http://arxiv.org/abs/2609.10522v1",
+        "pdf": "https://arxiv.org/pdf/2609.10522v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier",
+        "authors": [
+          "Blake Stenstrom",
+          "Charangan Vasantharajan",
+          "Brian Sathianathan"
+        ],
+        "summary": "Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving route, precision, output contract, and harness, yet all 18 audited benchmarks score advertised model identifiers. We treat this as measurement error and give a protocol that makes it reportable. It has",
+        "url": "http://arxiv.org/abs/2609.10494v1",
+        "pdf": "https://arxiv.org/pdf/2609.10494v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization",
+        "authors": [
+          "Andy Zeyi Liu",
+          "Haoran Sun",
+          "Lucas Baker",
+          "Randall Balestriero",
+          "John Sous"
+        ],
+        "summary": "Joint-Embedding Predictive Architecture (JEPA) world models learn a compact latent representation of the world that supports prediction and planning, but their capability to learn physics and generate physically realistic dynamics remains hitherto untested. In this work, we introduce SemiGroup-JEPA ",
+        "url": "http://arxiv.org/abs/2609.10464v1",
+        "pdf": "https://arxiv.org/pdf/2609.10464v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition",
+        "authors": [
+          "Zixiang Chen",
+          "Yuheng Lu",
+          "Zihao Cheng",
+          "Zeming Liu",
+          "Jizeng Bai"
+        ],
+        "summary": "Real-world GUI usage frequently involves workflows that span multiple devices and platforms, requiring the transfer of intermediate results, maintenance of shared state, and coordination across heterogeneous environments. However, existing GUI benchmarks overwhelmingly evaluate agents on single-devi",
+        "url": "http://arxiv.org/abs/2609.10451v1",
+        "pdf": "https://arxiv.org/pdf/2609.10451v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "ConvMem: Convolutional Memory for Long-Context Reasoning",
+        "authors": [
+          "Hongming Zhang",
+          "Zhaozhen Gu",
+          "Fengshuo Bai",
+          "Ming Hao",
+          "Qingyang Zhang"
+        ],
+        "summary": "While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle with extremely long contexts due to fixed context limits. To address this, sequential approaches like MemAgent extend the effective context by reading text in segments and iteratively updating a fixed-s",
+        "url": "http://arxiv.org/abs/2609.10441v1",
+        "pdf": "https://arxiv.org/pdf/2609.10441v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Forgetting Only What Matters: Layer-Selective Unlearning toward Robust LLMs",
+        "authors": [
+          "Ravi Ranjan",
+          "Olivera Kotevska",
+          "Agoritsa Polyzou"
+        ],
+        "summary": "Large Language Models (LLMs) can memorize and reproduce sensitive, copyrighted, or otherwise undesirable training content, creating privacy, safety, and regulatory concerns. Machine unlearning offers a practical alternative to full retraining, but many existing methods apply broad or fixed parameter",
+        "url": "http://arxiv.org/abs/2609.10439v1",
+        "pdf": "https://arxiv.org/pdf/2609.10439v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Emergency Department Revisit Quality Review Screening: Exploring Human Decision-Making and Artificial Intelligence Support",
+        "authors": [
+          "Jonathan A. Handler",
+          "Marlene I. Robles-Granda",
+          "Jacob E. Mefford",
+          "Jeremy S. McGarvey",
+          "Gregory S. Podolej"
+        ],
+        "summary": "Background: Emergency Department (ED) return visits are commonly reviewed for quality assurance, but are often limited (e.g., to revisits within 48-72 hours) to increase actionable finding yield while minimizing chart review burden. Those limitations may lead to missed quality improvement opportunit",
+        "url": "http://arxiv.org/abs/2609.10421v1",
+        "pdf": "https://arxiv.org/pdf/2609.10421v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Fortunate Recall: Ontology-Driven Memory Lifecycle Management for Persistent Coherence in LLMs",
+        "authors": [
+          "Ansuman Mullick",
+          "Eray Tüzün"
+        ],
+        "summary": "Current LLM memory systems treat all personal facts identically, so stores grow without bound while retrieval precision degrades. The core challenge is lifecycle management: which memories should persist, which should be replaced, and at what rate, conditioned on the behavioral type of each fact. Fo",
+        "url": "http://arxiv.org/abs/2609.10413v1",
+        "pdf": "https://arxiv.org/pdf/2609.10413v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Operationalization",
+        "authors": [
+          "Ayan Majumdar",
+          "Shounak Paul",
+          "Pushpdeep Singh",
+          "Ines Abdelaziz",
+          "Sayeh Jarollahi"
+        ],
+        "summary": "The growing complexity of content moderation policies presents a critical challenge for their consistent operationalization. While foundation models possess the basic capabilities needed to confront this challenge, whether they can reliably moderate online content remains an unanswered question. In ",
+        "url": "http://arxiv.org/abs/2609.10410v1",
+        "pdf": "https://arxiv.org/pdf/2609.10410v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "MOONWALK: Mediating Operations with Intent-Evidence-Action Alignment Across Junior-Supervisor Review Workflows in Animation/VFX Pre-Production",
+        "authors": [
+          "Shih-Yu Lai",
+          "Wen-Fan Wang",
+          "Sai Ling",
+          "Shaune Jan",
+          "Bing-Yu Chen"
+        ],
+        "summary": "Animation and VFX pre-production review requires teams to translate loosely specified creative intent--briefs, evolving specifications, heterogeneous references, and verbal decisions--into revisions that junior artists can execute without repeated clarification. In practice, criteria drift across it",
+        "url": "http://arxiv.org/abs/2609.10385v1",
+        "pdf": "https://arxiv.org/pdf/2609.10385v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "PACE: Perceived-Latency-Aware Cascading Service Routing and Filler Control for QoE-Efficient Retrieval-Augmented Dialogue Serving",
+        "authors": [
+          "Lin Huang",
+          "Yujuan Tan",
+          "Weisheng Li",
+          "Lixiang Zeng",
+          "Kun Yang"
+        ],
+        "summary": "We present the PACE, a framework for retrieval-augmented dialogue serving that formalizes Perceived Time-to-First-Response (PTFR) as a QoE objective and minimizes it under quality/cost constraints. Unlike prior work on cascaded routing, semantic caching, or adaptive retrieval, PACE jointly controls ",
+        "url": "http://arxiv.org/abs/2609.10372v1",
+        "pdf": "https://arxiv.org/pdf/2609.10372v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "OmniMed-FL: A Robust Multimodal Federated Learning Framework for Clinical Diagnosis",
+        "authors": [
+          "Ayush Debnath",
+          "Ruelia Saha",
+          "Sudip Misra"
+        ],
+        "summary": "Simultaneous assessment of medical imaging and patient records is often required in clinical diagnosis. However, standard machine learning algorithms cannot analyze these data types together. Meanwhile, compliance with HIPAA and GDPR can constrain centralized aggregation of sensitive patient data. T",
+        "url": "http://arxiv.org/abs/2609.10364v1",
+        "pdf": "https://arxiv.org/pdf/2609.10364v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Cyber-Financial Contagion: Modeling the Propagation of an AI Vendor Compromise Through the Banking System",
+        "authors": [
+          "Alex Leytes"
+        ],
+        "summary": "The banking system now depends on a small set of shared artificial intelligence vendors for fraud screening, credit decisioning, anti-money-laundering triage, customer analytics, and internal decision support. This paper studies how a compromise inside one of those vendors can propagate along a chai",
+        "url": "http://arxiv.org/abs/2609.10350v1",
+        "pdf": "https://arxiv.org/pdf/2609.10350v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Beyond One-Size-Fits-All: Sample-Adaptive Strategy Routing for Vision Token Pruning in MLLMs",
+        "authors": [
+          "Haiji Liang",
+          "Pengfei Zhou",
+          "Zhenglin Wan",
+          "Wei Wang",
+          "Yang You"
+        ],
+        "summary": "Multimodal large language models (MLLMs) process hundreds or thousands of visual tokens per image, incurring prohibitive inference costs. While existing vision token pruning methods mitigate this overhead, they implicitly assume that a single fixed pruning strategy can be applied uniformly across al",
+        "url": "http://arxiv.org/abs/2609.10346v1",
+        "pdf": "https://arxiv.org/pdf/2609.10346v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "From Symbolic Perception to Logical Deduction: A Framework for Guiding Language Models in Geometric Reasoning",
+        "authors": [
+          "Weichen Dai",
+          "Rafael Medeiros Cabral",
+          "Ziyi Shou",
+          "Yan Cao",
+          "Xin Shen"
+        ],
+        "summary": "Plane geometry remains a significant challenge in AI, requiring the integration of visual perception and mathematical reasoning. While Large Multimodal Models (LMMs) naturally handle visuo-linguistic inputs, they are often computationally intensive and opaque. We demonstrate that a pure Large Langua",
+        "url": "http://arxiv.org/abs/2609.10335v1",
+        "pdf": "https://arxiv.org/pdf/2609.10335v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "TRACE: Training Reasoning Agents for Causal Exploration with Synthesized Rewards",
+        "authors": [
+          "Rui Sun",
+          "Zhan Shi",
+          "Bing He"
+        ],
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) has advanced language-model reasoning in domains such as mathematics and code, where objective answers are inexpensive to check. Diagnostic reasoning over complex data lacks this advantage: establishing the true cause of an anomaly often requires",
+        "url": "http://arxiv.org/abs/2609.10315v1",
+        "pdf": "https://arxiv.org/pdf/2609.10315v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "One Loop, Two Gains: Can Active Learning win the Lottery for Free?",
+        "authors": [
+          "Benedikt Tscheschner",
+          "Eduardo Veas",
+          "Marc Masana"
+        ],
+        "summary": "The lottery ticket hypothesis posits the existence of winning tickets: sparse subnetworks that, when trained in isolation from their original initialization, match the accuracy of the full dense network. The predominant method for discovering such tickets, iterative magnitude pruning, alternates pru",
+        "url": "http://arxiv.org/abs/2609.10311v1",
+        "pdf": "https://arxiv.org/pdf/2609.10311v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "RiLM: Parameter-Efficient Language Modeling via Geodesic Decoding",
+        "authors": [
+          "Fang Li"
+        ],
+        "summary": "Language models under one million parameters matter for edge deployment, domain adaptation, and reproducible research, yet a two-layer LSTM or Transformer at embedding width d = 128 still spends roughly one third of its capacity on the output matrix W_out in R^(d x |V|). We propose Riemannian Langua",
+        "url": "http://arxiv.org/abs/2609.10305v1",
+        "pdf": "https://arxiv.org/pdf/2609.10305v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Learning Intrusion Response Strategies for OT Systems",
+        "authors": [
+          "Duc Huy Le",
+          "Rolf Stadler"
+        ],
+        "summary": "Cyberattacks against Operational Technology (OT) systems, which monitor and control industrial processes, pose an increasing threat to essential societal services. For this reason, developing automated intrusion response strategies is highly important. In this paper, we present a formal model of an ",
+        "url": "http://arxiv.org/abs/2609.10298v1",
+        "pdf": "https://arxiv.org/pdf/2609.10298v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "GANDR: Claim Auditing for Verifiable Legal Answer Generation",
+        "authors": [
+          "Chen Qian",
+          "Yimeng Wang",
+          "Yu Chen",
+          "Lingfei Wu",
+          "Andreas Stathopoulos"
+        ],
+        "summary": "In high-stakes domains such as legal practice, a language-model answer is only useful to the extent that a reader can verify each claim against the source the system cites. Current grounded-generation pipelines score the answer as a whole, so a correct conclusion can rest on fabricated or loosely ma",
+        "url": "http://arxiv.org/abs/2609.10293v1",
+        "pdf": "https://arxiv.org/pdf/2609.10293v1",
+        "published": "2026-09-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Likelihood-free inference with nuisance parameters through normalizing flows",
+        "authors": [
+          "Phil Assheton"
+        ],
+        "summary": "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator from the distribution of interest. We show that the statistic is near-pivotal in the ",
+        "url": "http://arxiv.org/abs/2609.10534v1",
+        "pdf": "https://arxiv.org/pdf/2609.10534v1",
+        "published": "2026-09-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "A positive resolution of the gap-entropy conjecture",
+        "authors": [
+          "P. M. Aronow",
+          "Nathan Kallus",
+          "Patrick Lopatto"
+        ],
+        "summary": "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, let $Δ_i=μ_*-μ_i$ be its gap from the optimal mean, and write $H=\\sum_{i\\ne *}Δ_i^{-2}$. Let $p_r$ b",
+        "url": "http://arxiv.org/abs/2609.10529v1",
+        "pdf": "https://arxiv.org/pdf/2609.10529v1",
+        "published": "2026-09-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch",
+        "authors": [
+          "Xiaoyu Li",
+          "Andi Han",
+          "Jiaojiao Jiang",
+          "Junbin Gao"
+        ],
+        "summary": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible exactly when each target can be assigned a finite positive w",
+        "url": "http://arxiv.org/abs/2609.10525v1",
+        "pdf": "https://arxiv.org/pdf/2609.10525v1",
+        "published": "2026-09-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements",
+        "authors": [
+          "Ashwin Nayak",
+          "Xingyu Zhou"
+        ],
+        "summary": "We determine the optimal sample complexity of low-rank quantum state tomography when each measurement may act jointly on at most $t$ samples. For sufficiently small $\\varepsilon$, estimating an unknown state on $\\mathbb{C}^d$ of rank at most $r$ to trace norm error $\\varepsilon$ with constant succes",
+        "url": "http://arxiv.org/abs/2609.10514v1",
+        "pdf": "https://arxiv.org/pdf/2609.10514v1",
+        "published": "2026-09-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Quantum Feature Engineering for Credit Default Prediction: When and Why IQP Circuits Help Linear Classifiers",
+        "authors": [
+          "Menachem Finkelstein",
+          "Diana Legziel Levy",
+          "Zohar Yakhini",
+          "Sarel Cohen"
+        ],
+        "summary": "Credit default prediction is a tabular classification problem in which modest gains in F1 translate directly into reduced financial exposure. We ask whether Instantaneous Quantum Polynomial-time (IQP) circuits can produce features that improve a classifier over both its raw classical baseline and Ke",
+        "url": "http://arxiv.org/abs/2609.10505v1",
+        "pdf": "https://arxiv.org/pdf/2609.10505v1",
+        "published": "2026-09-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Polyp Segmentation",
+        "authors": [
+          "Siddharth Gupta",
+          "Jitin Singla"
+        ],
+        "summary": "In real-time colonoscopy, ground-truth annotations are unavailable at inference, so polyp segmentation models can fail silently. We propose Referee-Based Quality Estimation (RBQE), a reference-free framework measuring agreement between a primary segmentation model and an independently trained refere",
+        "url": "http://arxiv.org/abs/2609.10495v1",
+        "pdf": "https://arxiv.org/pdf/2609.10495v1",
+        "published": "2026-09-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Learning with Covariance Matrices: Principal Component Analysis Meets Learning with Graphs",
+        "authors": [
+          "Saurabh Sihag",
+          "Andrea Cavallo",
+          "Elvin Isufi",
+          "Gonzalo Mateos",
+          "Alejandro Ribeiro"
+        ],
+        "summary": "This feature article provides an overview of the theoretical foundations for coVariance neural networks (VNNs), i.e., graph neural networks (GNNs) operating on covariance matrices as graphs. Covariance matrices are ubiquitous across domains, and hence, the deployment of GNNs often leverages graphs o",
+        "url": "http://arxiv.org/abs/2609.10490v1",
+        "pdf": "https://arxiv.org/pdf/2609.10490v1",
+        "published": "2026-09-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Nonmaximal sums of maximally monotone operators under Rockafellar's constraint qualification",
+        "authors": [
+          "Weifeng Yang"
+        ],
+        "summary": "We construct counterexamples to Rockafellar's sum conjecture in which two maximally monotone operators satisfy the interior-domain condition but their sum is not maximally monotone. We give one counterexample on $c_0$ and another on $\\ell^1$ with its usual norm. We establish a general construction t",
+        "url": "http://arxiv.org/abs/2609.10487v1",
+        "pdf": "https://arxiv.org/pdf/2609.10487v1",
+        "published": "2026-09-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 29,
+        "title": "Deep Learning-Based Detection of Electrical Faults and Power Quality Disturbances in Aerospace Power Systems",
+        "authors": [
+          "Ian C. Guzmán",
+          "Radu Babiceanu",
+          "Berker Peköz"
+        ],
+        "summary": "More Electric Aircraft require fast and reliable monitoring of high-frequency electrical networks, yet most power quality disturbance and fault diagnosis methods are developed for conventional 50 or 60 Hz grids. This work presents a hardware-aware deep learning framework for multiclass detection of ",
+        "url": "http://arxiv.org/abs/2609.10479v1",
+        "pdf": "https://arxiv.org/pdf/2609.10479v1",
+        "published": "2026-09-09",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
