@@ -1,0 +1,560 @@
+{
+  "date": "2026-09-17",
+  "generated": "2026-09-17T07:16:37.928600",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "ai-sucks-butt/ai-sucks-butt",
+        "description": "If you think AI sucks, star the repo.",
+        "stars": 2140,
+        "language": "Python",
+        "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
+        "created": "2026-09-14"
+      },
+      {
+        "rank": 2,
+        "name": "Chuloo/mural",
+        "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+        "stars": 1275,
+        "language": "Kotlin",
+        "url": "https://github.com/Chuloo/mural",
+        "created": "2026-09-12"
+      },
+      {
+        "rank": 3,
+        "name": "yifanzhang-pro/recurrent-looped-tranformer",
+        "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
+        "stars": 863,
+        "language": "HTML",
+        "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
+        "created": "2026-09-12"
+      },
+      {
+        "rank": 4,
+        "name": "kruzovic7/ai-data-extractor",
+        "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+        "stars": 827,
+        "language": "Python",
+        "url": "https://github.com/kruzovic7/ai-data-extractor",
+        "created": "2026-09-11"
+      },
+      {
+        "rank": 5,
+        "name": "zjwzcx/Awesome-Astra-Embodied-AI",
+        "description": "GPT-6 Astra for embodied AI and robotics.",
+        "stars": 797,
+        "language": null,
+        "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
+        "created": "2026-09-12"
+      },
+      {
+        "rank": 6,
+        "name": "eternityspring/reelbench-skills",
+        "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+        "stars": 710,
+        "language": "HTML",
+        "url": "https://github.com/eternityspring/reelbench-skills",
+        "created": "2026-09-11"
+      },
+      {
+        "rank": 7,
+        "name": "agentverse-os/AgentVerse-OS",
+        "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Co",
+        "stars": 698,
+        "language": "Rust",
+        "url": "https://github.com/agentverse-os/AgentVerse-OS",
+        "created": "2026-09-12"
+      },
+      {
+        "rank": 8,
+        "name": "rizqinrr/viserys-agent",
+        "description": "",
+        "stars": 660,
+        "language": "JavaScript",
+        "url": "https://github.com/rizqinrr/viserys-agent",
+        "created": "2026-09-12"
+      },
+      {
+        "rank": 9,
+        "name": "youngyangyang04/llm-master",
+        "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+        "stars": 651,
+        "language": null,
+        "url": "https://github.com/youngyangyang04/llm-master",
+        "created": "2026-09-12"
+      },
+      {
+        "rank": 10,
+        "name": "nilbuild/page-mascot",
+        "description": "A mascot that watches the cursor and blinks when you poke it",
+        "stars": 649,
+        "language": "Python",
+        "url": "https://github.com/nilbuild/page-mascot",
+        "created": "2026-09-14"
+      },
+      {
+        "rank": 11,
+        "name": "Faizpi/bank-sampah",
+        "description": "",
+        "stars": 646,
+        "language": "PHP",
+        "url": "https://github.com/Faizpi/bank-sampah",
+        "created": "2026-09-11"
+      },
+      {
+        "rank": 12,
+        "name": "letorig/video-generator-client",
+        "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+        "stars": 522,
+        "language": "Python",
+        "url": "https://github.com/letorig/video-generator-client",
+        "created": "2026-09-14"
+      },
+      {
+        "rank": 13,
+        "name": "saragordic/window-sweaters",
+        "description": "A macOS menu-bar app that dresses your windows in knitted borders.",
+        "stars": 451,
+        "language": "C",
+        "url": "https://github.com/saragordic/window-sweaters",
+        "created": "2026-09-15"
+      },
+      {
+        "rank": 14,
+        "name": "cobanov/awesome-fly",
+        "description": "A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools.",
+        "stars": 425,
+        "language": null,
+        "url": "https://github.com/cobanov/awesome-fly",
+        "created": "2026-09-12"
+      },
+      {
+        "rank": 15,
+        "name": "atria-asi/Atria-Dawn-Preview",
+        "description": "",
+        "stars": 423,
+        "language": null,
+        "url": "https://github.com/atria-asi/Atria-Dawn-Preview",
+        "created": "2026-09-12"
+      },
+      {
+        "rank": 16,
+        "name": "anonymous-report-421/GPT-as-Policy",
+        "description": "GPT as Policy",
+        "stars": 418,
+        "language": "HTML",
+        "url": "https://github.com/anonymous-report-421/GPT-as-Policy",
+        "created": "2026-09-13"
+      },
+      {
+        "rank": 17,
+        "name": "theoephraim/awesome-cloudflare-selfhosted",
+        "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+        "stars": 393,
+        "language": "JavaScript",
+        "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
+        "created": "2026-09-15"
+      },
+      {
+        "rank": 18,
+        "name": "DefiLeoo/YOINK",
+        "description": "",
+        "stars": 379,
+        "language": "Python",
+        "url": "https://github.com/DefiLeoo/YOINK",
+        "created": "2026-09-11"
+      },
+      {
+        "rank": 19,
+        "name": "browser-use/jev-ultrafast",
+        "description": "",
+        "stars": 376,
+        "language": "Python",
+        "url": "https://github.com/browser-use/jev-ultrafast",
+        "created": "2026-09-16"
+      },
+      {
+        "rank": 20,
+        "name": "zhengkid/Dream-RSI",
+        "description": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
+        "stars": 367,
+        "language": null,
+        "url": "https://github.com/zhengkid/Dream-RSI",
+        "created": "2026-09-13"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
+        "authors": [
+          "Ahmetcan Yavuz",
+          "Clara Meister",
+          "Tiago Pimentel"
+        ],
+        "summary": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) and their search procedure (bottom-up merging vs. top-down pruning). Existing compari",
+        "url": "http://arxiv.org/abs/2609.19145v1",
+        "pdf": "https://arxiv.org/pdf/2609.19145v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
+        "authors": [
+          "Peter Chen",
+          "Xi Chen",
+          "Wotao Yin",
+          "Tianyi Lin"
+        ],
+        "summary": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement motivates alternative ways to extract information from preference pairs with small likelihood margin",
+        "url": "http://arxiv.org/abs/2609.19144v1",
+        "pdf": "https://arxiv.org/pdf/2609.19144v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation",
+        "authors": [
+          "Guanhua Ji",
+          "Tianyu Li",
+          "Dayoon Suh",
+          "Yuqian Zhang",
+          "Boyan Zhang"
+        ],
+        "summary": "Recent advances in video generation allow robots to learn manipulation trajectories from generated videos. However, these approaches produce purely kinematic trajectories that lack force information, causing failures in contact-rich tasks where appropriate contact forces are essential for success. I",
+        "url": "http://arxiv.org/abs/2609.19137v1",
+        "pdf": "https://arxiv.org/pdf/2609.19137v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
+        "authors": [
+          "João Meneses dos Santos",
+          "Arlindo L. Oliveira"
+        ],
+        "summary": "Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-process agent that combines a fast action proposer with a slower planner, using two modular cognitive ex",
+        "url": "http://arxiv.org/abs/2609.19128v1",
+        "pdf": "https://arxiv.org/pdf/2609.19128v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Affora: A Design System for Agent-Friendly Interfaces",
+        "authors": [
+          "Jin Gao"
+        ],
+        "summary": "Computer-use agents increasingly operate software designed for people, but interfaces often leave actions or task state unclear to machine readers. We present Affora, a design system that supports both readers while preserving visual freedom and familiar human workflows. Three controlled studies exa",
+        "url": "http://arxiv.org/abs/2609.19125v1",
+        "pdf": "https://arxiv.org/pdf/2609.19125v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Flag Game: A Toy Model for Mechanistic Swarm Interpretability",
+        "authors": [
+          "Elizabeth Pavlova",
+          "Hidenori Tanaka"
+        ],
+        "summary": "Emergent coordinated behaviors of AI agents are starting to present critical safety risks. A key phenomenon driving these behaviors is the rapid formation and spread of beliefs about the world, and mechanistic understanding is crucial for collective alignment. To this end, we introduce the Flag Game",
+        "url": "http://arxiv.org/abs/2609.19124v1",
+        "pdf": "https://arxiv.org/pdf/2609.19124v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference",
+        "authors": [
+          "Kaijun Zhou",
+          "Zhiyang Li",
+          "Le Chen",
+          "Jinyu Gu"
+        ],
+        "summary": "Factory work is a promising early scenario for embodied AI: assigning repetitive manual jobs to robots has clear economic payoff, and a structured station keeps the jobs tractable for current policies. Vision-Language-Action (VLA) models now dominate as the policy paradigm for these robots. The infe",
+        "url": "http://arxiv.org/abs/2609.19104v1",
+        "pdf": "https://arxiv.org/pdf/2609.19104v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical Adoption of Artificial Intelligence in Nigeria",
+        "authors": [
+          "Abbas M. Rabiu",
+          "Abdulrazaq A. Zubair",
+          "Um-mulkhairi Ibrahim",
+          "Tolulope Olusuyi",
+          "Shaheeda Farouq"
+        ],
+        "summary": "Artificial intelligence (AI) is increasingly integrated into healthcare systems worldwide, yet its successful clinical adoption depends critically on workforce readiness, particularly in low- and middle-income countries (LMICs) where infrastructural and training gaps persist. This cross-sectional st",
+        "url": "http://arxiv.org/abs/2609.19096v1",
+        "pdf": "https://arxiv.org/pdf/2609.19096v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation",
+        "authors": [
+          "Daniel P. Jeong",
+          "Charles Q. Li",
+          "Hossein Hosseiny",
+          "Nitya M. Bhalla",
+          "Fatma Uyar Morency"
+        ],
+        "summary": "Radiologists follow heterogeneous reporting practices. Two radiologists examining the same image and identifying the same clinical findings might nevertheless compose superficially distinct reports, varying in terminology, shorthand, formatting, and level of detail. These variations in reporting nor",
+        "url": "http://arxiv.org/abs/2609.19093v1",
+        "pdf": "https://arxiv.org/pdf/2609.19093v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Securing quantum error correction against misleading advice from AI agents",
+        "authors": [
+          "A. Barış Özgüler"
+        ],
+        "summary": "Can an attacker turn influence over an artificial intelligence (AI) adviser into a harmful quantum error-correction update? We identify an ambiguity in passive syndrome records that obstructs recovery selection, then show how additional calibration measurements support certified recovery updates und",
+        "url": "http://arxiv.org/abs/2609.19090v1",
+        "pdf": "https://arxiv.org/pdf/2609.19090v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education",
+        "authors": [
+          "Luyao Zhu",
+          "Xun Wei Yee",
+          "Wei Li",
+          "Mun Thye Mak",
+          "Wee Siong Ng"
+        ],
+        "summary": "Large vision-language models have achieved remarkable progress in multi-modal understanding, yet their capabilities in educational settings remain insufficiently evaluated. In AI-assisted language learning, models must interpret artistic imagery, understand its semantic, affective, and cultural cont",
+        "url": "http://arxiv.org/abs/2609.19088v1",
+        "pdf": "https://arxiv.org/pdf/2609.19088v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Probabilistic Linear Explanations",
+        "authors": [
+          "Frederic Koriche",
+          "Jean-Marie Lagniez",
+          "Chi Tran"
+        ],
+        "summary": "Formal explainability provides mathematically grounded justifications for individual predictions. However, abductive explanations often exceed human cognitive limits by involving too many features, while probabilistic relaxations have remained largely limited to categorical classification. We presen",
+        "url": "http://arxiv.org/abs/2609.19077v1",
+        "pdf": "https://arxiv.org/pdf/2609.19077v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Double descent is the principle of least action",
+        "authors": [
+          "Congzhou M Sha"
+        ],
+        "summary": "The test error of a model plotted against its number of parameters $d$ falls, peaks when the model can just fit the training data, and falls again, exhibiting the double descent phenomenon. We explain the phenomenon with statistical mechanics. The training trajectory of a stochastic gradient-based m",
+        "url": "http://arxiv.org/abs/2609.19076v1",
+        "pdf": "https://arxiv.org/pdf/2609.19076v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "RLLBC-Lib: An Educational Code Library for Reinforcement Learning and Learning-Based Control",
+        "authors": [
+          "Bernd Frauenknecht",
+          "Emma Cramer",
+          "Artur Eisele",
+          "Paul Kruse",
+          "Lukas Kesper"
+        ],
+        "summary": "Reinforcement learning (RL) is an exciting concept as well as a remarkable success story worth sharing. However, RL builds on rather complex interactions between different objects that play out over several cycles. Such dynamics are often best explained with an easily accessible implementation. We p",
+        "url": "http://arxiv.org/abs/2609.19074v1",
+        "pdf": "https://arxiv.org/pdf/2609.19074v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Social Laws for Multi-agent Coordination in Stochastic Environments",
+        "authors": [
+          "Rolando Fernandez",
+          "Caleb Probine",
+          "Tyler Lee",
+          "Jeffrey Chen",
+          "Erez Karpas"
+        ],
+        "summary": "In multi-agent environments, coordinating agents to prevent interference and ensure robust individual performance is a critical challenge. Previous research on social laws for multi-agent systems has primarily focused on deterministic, goal-based settings. This paper extends the concept of social la",
+        "url": "http://arxiv.org/abs/2609.18929v1",
+        "pdf": "https://arxiv.org/pdf/2609.18929v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Higher-order pruning of experts in mixture-of-experts language models",
+        "authors": [
+          "Alex M. Tseng",
+          "Prannay Kaul",
+          "Luca Zancato",
+          "Wei Xia",
+          "Stefano Soatto"
+        ],
+        "summary": "Mixture-of-Experts (MoE) language models suffer from large parameter counts, which create a significant memory bottleneck. Expert pruning is the most direct approach for reducing this parameter count, yet existing methods make pruning decisions for each expert independently, and assume experts' cont",
+        "url": "http://arxiv.org/abs/2609.18916v1",
+        "pdf": "https://arxiv.org/pdf/2609.18916v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Beyond Outcomes: Dual-View Relational Learning for Efficient Agent Benchmarking",
+        "authors": [
+          "Xinshuai Guo",
+          "Junjie Wu",
+          "Dolly Deng",
+          "Yinghui Li",
+          "Hai-Tao Zheng"
+        ],
+        "summary": "Agent benchmarks are substantially more costly to evaluate than conventional LLM benchmarks. Benchmark compression is therefore a natural solution, yet existing methods primarily model redundancy in task--model final-score distributions, which is important in agentic evaluation. To address this limi",
+        "url": "http://arxiv.org/abs/2609.18909v1",
+        "pdf": "https://arxiv.org/pdf/2609.18909v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "ASLEval: Measuring Privacy Exposure Displacement in LLM Agent Sessions",
+        "authors": [
+          "Guosen Wu",
+          "Huizhen Huang",
+          "Guoxiong Long",
+          "Tao Huang",
+          "Chen Hou"
+        ],
+        "summary": "Privacy evaluations of tool-using LLM agents often inspect a designated action, final response, or attacker report. These local proxies can miss unauthorized exposure elsewhere in a multi-step session and lack common ground truth across outlets, reports, and tool paths. We introduce privacy exposure",
+        "url": "http://arxiv.org/abs/2609.18864v1",
+        "pdf": "https://arxiv.org/pdf/2609.18864v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection",
+        "authors": [
+          "Girish A. Koushik",
+          "Diptesh Kanojia",
+          "Helen Treharne"
+        ],
+        "summary": "When a large vision-language model misclassifies a harmful meme, the failure may reflect missing internal evidence or an inability to route represented evidence to its output. We distinguish these cases in Gemma-3 and Qwen3.5 using sparse autoencoders, role-conditioned probes, causal interventions, ",
+        "url": "http://arxiv.org/abs/2609.18860v1",
+        "pdf": "https://arxiv.org/pdf/2609.18860v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Taming the Agentic RAN: Stability-Guaranteed Arbitration of Autonomous AI Agents in O-RAN",
+        "authors": [
+          "Seyed Bagher Hashemi Natanzi",
+          "Bo Tang"
+        ],
+        "summary": "The O-RAN control plane is becoming agentic: autonomous AI agents, deployed as rApps by different vendors, independently close control loops over shared radio resources. We demonstrate on a live O-RAN system that this independence is unsafe. Two agents with individually correct objectives, one prote",
+        "url": "http://arxiv.org/abs/2609.18857v1",
+        "pdf": "https://arxiv.org/pdf/2609.18857v1",
+        "published": "2026-09-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging",
+        "authors": [
+          "Pranaya Jajoo"
+        ],
+        "summary": "Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? We show that it can when the logger depends on history. For every horizon $H \\ge 3$, we construct two POMDPs with at most two latent states per stage, three actions, and a",
+        "url": "http://arxiv.org/abs/2609.19135v1",
+        "pdf": "https://arxiv.org/pdf/2609.19135v1",
+        "published": "2026-09-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents",
+        "authors": [
+          "Zixi Chen",
+          "Akshay Vegesna",
+          "Samip Dahal",
+          "Andrew Gordon Wilson"
+        ],
+        "summary": "Scaling laws predict how loss decreases with increases in computation. We show, contrary to conventional wisdom, that architectural interventions can modify scaling exponents in pre-training, leading to exponential improvements in performance with increases in computation. As an anchoring point, we ",
+        "url": "http://arxiv.org/abs/2609.19107v1",
+        "pdf": "https://arxiv.org/pdf/2609.19107v1",
+        "published": "2026-09-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations",
+        "authors": [
+          "Leon Bergen",
+          "Usha Bhalla",
+          "Andrew Lee",
+          "Barak Widawsky",
+          "Linas Nasvytis"
+        ],
+        "summary": "As models scale, reward hacking becomes more frequent, more sophisticated, and more consequential. Does it leave a telltale signature in model representations? This work analyzes how reward hacking is represented internally in frontier open source LLMs, and how those representations can be used to u",
+        "url": "http://arxiv.org/abs/2609.19101v1",
+        "pdf": "https://arxiv.org/pdf/2609.19101v1",
+        "published": "2026-09-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Evidence-Grounded Agentic Formulation Development in an Autonomous Laboratory",
+        "authors": [
+          "Michael M. Craig",
+          "Riley J. Hickman",
+          "Yingshan Ma",
+          "Rémi Piché-Taillefer",
+          "Christine Allen"
+        ],
+        "summary": "Self-emulsifying drug delivery systems (SEDDS) can improve the oral bioavailability of poorly soluble drugs, but identifying high-performing formulations remains experimentally intensive. We present Andromeda 2, an agentic system that reasons over structured in-house experimental evidence and invoke",
+        "url": "http://arxiv.org/abs/2609.19099v1",
+        "pdf": "https://arxiv.org/pdf/2609.19099v1",
+        "published": "2026-09-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "A General Kernel Framework for Non-CND Distance Measures Using |D|-Dimensional Sparse Landmark Embeddings",
+        "authors": [
+          "Marcus M. Noack",
+          "Maher B. Alghalayini",
+          "Mark D. Risser"
+        ],
+        "summary": "Kernel methods, and Gaussian Processes (GPs) in particular, require a Hilbertian distance measure---one whose square is conditionally negative definite (CND)---to guarantee positive semi-definiteness (PSD) of the kernel matrix; a condition that fails for many natural input spaces, including smooth m",
+        "url": "http://arxiv.org/abs/2609.19083v1",
+        "pdf": "https://arxiv.org/pdf/2609.19083v1",
+        "published": "2026-09-16",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
