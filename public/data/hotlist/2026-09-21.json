@@ -1,0 +1,629 @@
+{
+  "date": "2026-09-21",
+  "generated": "2026-09-21T07:42:54.510384",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "browser-use/jev-ultrafast",
+        "description": "i. am. speed.",
+        "stars": 13293,
+        "language": "Python",
+        "url": "https://github.com/browser-use/jev-ultrafast",
+        "created": "2026-09-16"
+      },
+      {
+        "rank": 2,
+        "name": "NandhaKishorM/laya",
+        "description": "",
+        "stars": 5981,
+        "language": "Python",
+        "url": "https://github.com/NandhaKishorM/laya",
+        "created": "2026-09-18"
+      },
+      {
+        "rank": 3,
+        "name": "tamaratran/fast-jev-compaction",
+        "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbati",
+        "stars": 5571,
+        "language": "TypeScript",
+        "url": "https://github.com/tamaratran/fast-jev-compaction",
+        "created": "2026-09-17"
+      },
+      {
+        "rank": 4,
+        "name": "zai-org/ZCode",
+        "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+        "stars": 4228,
+        "language": "TypeScript",
+        "url": "https://github.com/zai-org/ZCode",
+        "created": "2026-09-20"
+      },
+      {
+        "rank": 5,
+        "name": "robbietilton/Compositor",
+        "description": "The Photoshop alternative for Mac",
+        "stars": 3921,
+        "language": "Swift",
+        "url": "https://github.com/robbietilton/Compositor",
+        "created": "2026-09-16"
+      },
+      {
+        "rank": 6,
+        "name": "TheoLeeCJ/SemIf",
+        "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+        "stars": 2651,
+        "language": "Python",
+        "url": "https://github.com/TheoLeeCJ/SemIf",
+        "created": "2026-09-16"
+      },
+      {
+        "rank": 7,
+        "name": "mcncarl/jianying-headless",
+        "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+        "stars": 2170,
+        "language": "Python",
+        "url": "https://github.com/mcncarl/jianying-headless",
+        "created": "2026-09-15"
+      },
+      {
+        "rank": 8,
+        "name": "mizorewww/laya-mlx",
+        "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+        "stars": 2136,
+        "language": "Python",
+        "url": "https://github.com/mizorewww/laya-mlx",
+        "created": "2026-09-19"
+      },
+      {
+        "rank": 9,
+        "name": "jarrodwatts/jev-trader",
+        "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+        "stars": 1639,
+        "language": "TypeScript",
+        "url": "https://github.com/jarrodwatts/jev-trader",
+        "created": "2026-09-16"
+      },
+      {
+        "rank": 10,
+        "name": "TianyuCodings/NanoJev",
+        "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+        "stars": 1611,
+        "language": "Python",
+        "url": "https://github.com/TianyuCodings/NanoJev",
+        "created": "2026-09-17"
+      },
+      {
+        "rank": 11,
+        "name": "bespokelabsai/nimble",
+        "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+        "stars": 1294,
+        "language": "Python",
+        "url": "https://github.com/bespokelabsai/nimble",
+        "created": "2026-09-18"
+      },
+      {
+        "rank": 12,
+        "name": "jaredpalmer/kev",
+        "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+        "stars": 1278,
+        "language": "Python",
+        "url": "https://github.com/jaredpalmer/kev",
+        "created": "2026-09-17"
+      },
+      {
+        "rank": 13,
+        "name": "vinnylarouge/jevlike",
+        "description": "",
+        "stars": 1117,
+        "language": "Python",
+        "url": "https://github.com/vinnylarouge/jevlike",
+        "created": "2026-09-16"
+      },
+      {
+        "rank": 14,
+        "name": "theoephraim/awesome-cloudflare-selfhosted",
+        "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+        "stars": 746,
+        "language": "JavaScript",
+        "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
+        "created": "2026-09-15"
+      },
+      {
+        "rank": 15,
+        "name": "yibie/awesome-jev",
+        "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+        "stars": 741,
+        "language": "Python",
+        "url": "https://github.com/yibie/awesome-jev",
+        "created": "2026-09-17"
+      },
+      {
+        "rank": 16,
+        "name": "korcarc/text-humanizer",
+        "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+        "stars": 737,
+        "language": "Python",
+        "url": "https://github.com/korcarc/text-humanizer",
+        "created": "2026-09-16"
+      },
+      {
+        "rank": 17,
+        "name": "Mak5er/AirCard",
+        "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+        "stars": 729,
+        "language": "Swift",
+        "url": "https://github.com/Mak5er/AirCard",
+        "created": "2026-09-16"
+      },
+      {
+        "rank": 18,
+        "name": "awlevin/typesafe-computer-use",
+        "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
+        "stars": 683,
+        "language": "Python",
+        "url": "https://github.com/awlevin/typesafe-computer-use",
+        "created": "2026-09-16"
+      },
+      {
+        "rank": 19,
+        "name": "githubnext/localjev",
+        "description": "",
+        "stars": 648,
+        "language": "TypeScript",
+        "url": "https://github.com/githubnext/localjev",
+        "created": "2026-09-18"
+      },
+      {
+        "rank": 20,
+        "name": "saragordic/window-sweaters",
+        "description": "A macOS menu-bar app that dresses your windows in knitted borders.",
+        "stars": 639,
+        "language": "C",
+        "url": "https://github.com/saragordic/window-sweaters",
+        "created": "2026-09-15"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+        "authors": [
+          "Hongyang Du",
+          "Lan Yan",
+          "Christian Flores",
+          "Asim Kadav"
+        ],
+        "summary": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional design ",
+        "url": "http://arxiv.org/abs/2609.22086v1",
+        "pdf": "https://arxiv.org/pdf/2609.22086v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+        "authors": [
+          "Bowen Ye",
+          "Lei Li",
+          "Shicheng Li",
+          "Zihao Yue",
+          "Linghao Zhang"
+        ],
+        "summary": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as issues and commits, limiting the range of tasks that can be e",
+        "url": "http://arxiv.org/abs/2609.22068v1",
+        "pdf": "https://arxiv.org/pdf/2609.22068v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw",
+        "authors": [
+          "Renkai Ma",
+          "Ruyuan Wan",
+          "Xuan Lu",
+          "Fan Yang",
+          "Chen Chen"
+        ],
+        "summary": "Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with LLM assistance, 73,093 first-person Reddit posts about using OpenClaw, each for its human value, agent ",
+        "url": "http://arxiv.org/abs/2609.22067v1",
+        "pdf": "https://arxiv.org/pdf/2609.22067v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Gricea: An Open Science Platform for Conversational AI Research",
+        "authors": [
+          "Nikhil Sharma",
+          "Yunlin Gong",
+          "Xinyang Cheng",
+          "Ziang Xiao"
+        ],
+        "summary": "We need studies on conversational AI (CAI) at scale to understand human behavior and shape CAI design. However, fragmented reporting of systems and study configurations hinders replication, extension, and knowledge accumulation. We present Gricea, an open-science platform representing studies as con",
+        "url": "http://arxiv.org/abs/2609.22039v1",
+        "pdf": "https://arxiv.org/pdf/2609.22039v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "DiaVLo: Diagnosing Behaviours of Vision-Language Models",
+        "authors": [
+          "Lorenzo Corti",
+          "Jie Yang"
+        ],
+        "summary": "Vision-language models (VLMs) rely on storing and transferring appropriate information across their sub-components. Verifying that the VLMs exhibit desired behaviours, while avoiding harmful ones, is central to their reliable deployment. Yet, methods that identify VLM behaviours remain scarce. We pr",
+        "url": "http://arxiv.org/abs/2609.22008v1",
+        "pdf": "https://arxiv.org/pdf/2609.22008v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Bayesian Belief Layer for Controllable Opinion Dynamics in LLM Agents",
+        "authors": [
+          "Hafsa Akbar",
+          "Daniel Platnick",
+          "Marjan Alirezaie",
+          "Hossein Rahnama"
+        ],
+        "summary": "LLM agents in social simulation revise their opinions implicitly, in context: how open an agent is to persuasion can neither be specified nor verified, and collective outcomes inherit the model's training prior. We introduce Bayesian Chronicle Agents (BCA), a minimal belief layer separating \\emph{wh",
+        "url": "http://arxiv.org/abs/2609.21997v1",
+        "pdf": "https://arxiv.org/pdf/2609.21997v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "A Lie Detector Test for Language Models: Reading Knowledge a Model Won't Reveal",
+        "authors": [
+          "Hiskias Dingeto"
+        ],
+        "summary": "Large language models can hold knowledge they do not report. A model may sandbag on a capability evaluation, or answer against what it internally knows, and its outputs alone cannot tell whether it is hiding an answer or simply does not have one. We borrow the Concealed Information Test, a forensic ",
+        "url": "http://arxiv.org/abs/2609.21996v1",
+        "pdf": "https://arxiv.org/pdf/2609.21996v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "NemotronLabs VoiceChat: An Open Full-duplex Speech-to-Speech Model with Tool Calling Capabilities",
+        "authors": [
+          "Jagadeesh Balam",
+          "Travis Bartley",
+          "Edresson Casanova",
+          "Sanjay Chauhan",
+          "Chen Chen"
+        ],
+        "summary": "We introduce NemotronLabs VoiceChat, an open full-duplex speech-to-speech model with native tool-calling capabilities. NemotronLabs VoiceChat combines a streaming speech encoder and decoder-only language model with parallel specialized output streams for agent text and structured function calls, an ",
+        "url": "http://arxiv.org/abs/2609.21967v1",
+        "pdf": "https://arxiv.org/pdf/2609.21967v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Learning Cardiac Features: ECG Biometrics Across Time and~Exercise",
+        "authors": [
+          "Luca Thiebaud",
+          "Paul Chauchat",
+          "Mustapha Ouladsine",
+          "Stéphane Delliaux"
+        ],
+        "summary": "Electrocardiograms (ECGs) carry subject-specific patterns enabling reliable individual discrimination, forming the basis of ECG biometrics. Beyond authentication, this paradigm holds significant potential to secure sensitive cardiac data and to serve as a pretext task in self-supervised learning. Ye",
+        "url": "http://arxiv.org/abs/2609.21962v1",
+        "pdf": "https://arxiv.org/pdf/2609.21962v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "When Should a Failing Robot Ask? Initiating Corrective Human-Robot Dialogue from Audited Sensor Evidence",
+        "authors": [
+          "Eshika Pathak",
+          "Leela Krishna"
+        ],
+        "summary": "A robot that fails at a task faces the first decision in corrective dialogue: act on its own diagnosis, consult another onboard sensor, or interrupt a person. Choosing well requires knowing how much the robot's sensors reveal about the cause and how reliable the robot's own diagnosis is. We build a ",
+        "url": "http://arxiv.org/abs/2609.21942v1",
+        "pdf": "https://arxiv.org/pdf/2609.21942v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "AutoViewMem: Self-Configuring Orthogonal Views for Conversational Long-Term Memory",
+        "authors": [
+          "Zijie Cao",
+          "Xijun Qu",
+          "Zhicheng Gu",
+          "Xiaoshu Chen",
+          "Duanyang Yuan"
+        ],
+        "summary": "Long-term memory is essential for large language model (LLM) agents to maintain consistency and personalization over extended interactions. Existing memory systems typically rely on fixed granularities or static schemas, but these designs struggle when heterogeneous information, such as preferences,",
+        "url": "http://arxiv.org/abs/2609.21940v1",
+        "pdf": "https://arxiv.org/pdf/2609.21940v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "What Should We Ask Next? Retrieval-Aware Question Learning under Partial Evidence",
+        "authors": [
+          "Lyucheng Qian",
+          "John Yuehan Zhang",
+          "Pingyu Wang"
+        ],
+        "summary": "Interactive retrieval under partial evidence is a sequential information-acquisition problem: an agent must decide which question will create the most useful evidence for the next retrieval update. Existing systems train this decision by imitating an offline ordering of candidate QA pairs, although ",
+        "url": "http://arxiv.org/abs/2609.21924v1",
+        "pdf": "https://arxiv.org/pdf/2609.21924v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Detecting Pretraining Data in Large Language Models from a Free-Energy Perspective",
+        "authors": [
+          "Chenye Ke",
+          "Zirui Liu",
+          "Qi Liu",
+          "Yan Zhuang",
+          "Jintao Zhang"
+        ],
+        "summary": "Detecting pretraining data in large language models is challenging because high likelihood can reflect either training exposure or strong generalization. In the joint space of prediction loss and predictive entropy, a likelihood-only detector uses a horizontal boundary and can mistake predictable no",
+        "url": "http://arxiv.org/abs/2609.21888v1",
+        "pdf": "https://arxiv.org/pdf/2609.21888v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Benchmarking the Explanatory Quality of Open-Weight Vision-Language Models in Face Recognition",
+        "authors": [
+          "Laurent Colbois",
+          "Sébastien Marcel"
+        ],
+        "summary": "Vision-Language Models (VLMs) have recently been proposed as promising tools for face recognition, as they can produce natural language explanations alongside similarity scores. This capability is considered appealing for face comparisons in forensic contexts, which require decisions to be transpare",
+        "url": "http://arxiv.org/abs/2609.21879v1",
+        "pdf": "https://arxiv.org/pdf/2609.21879v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Neural Cellular Automata Learn General Features in their Hidden Channels",
+        "authors": [
+          "Etienne Guichard",
+          "Stefano Nichele"
+        ],
+        "summary": "Modern deep learning models achieve impressive generalization through over-parameterization, but this paradigm often struggles with overfitting and memorization in few-shot regimes. Neural Cellular Automata (NCAs) offer a highly parameter-efficient alternative, yet research has focused primarily on ",
+        "url": "http://arxiv.org/abs/2609.21870v1",
+        "pdf": "https://arxiv.org/pdf/2609.21870v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "AutoRecLab: Describe the Experiment, Get the Code!",
+        "authors": [
+          "Moritz Baumgart",
+          "Philipp Meister",
+          "Justus Krell",
+          "Michael Schmidt",
+          "Bela Gipp"
+        ],
+        "summary": "Empirical evaluation is central to recommender-systems (RecSys) research, but turning experimental designs into executable code remains a manual and error-prone task. We present AutoRecLab, a Python-based autonomous RecSys lab that automates RecSys experiments from natural-language prompts. Given a ",
+        "url": "http://arxiv.org/abs/2609.21863v1",
+        "pdf": "https://arxiv.org/pdf/2609.21863v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Do Personality-Tuned LLMs Make Better Social Agents?",
+        "authors": [
+          "Tim Krabbe",
+          "Xiaodan Shi"
+        ],
+        "summary": "LLMs are increasingly used in social simulations for socially interactive agents and robots, offering more flexibility than rule-based systems. However, even though they mimic human behaviour very well, there is a persistent alienness to them. This work investigates whether personality-aware fine-tu",
+        "url": "http://arxiv.org/abs/2609.21857v1",
+        "pdf": "https://arxiv.org/pdf/2609.21857v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise",
+        "authors": [
+          "Abbas Raza Ali",
+          "Muhammad Ajmal Siddiqui",
+          "Moona Zahid"
+        ],
+        "summary": "Frontier language models now produce professional deliverables that expert graders judge to match human work on a substantial share of economically valuable tasks, yet most enterprise GenAI initiatives fail to show a measurable business effect and a large fraction of agentic projects are expected to",
+        "url": "http://arxiv.org/abs/2609.21841v1",
+        "pdf": "https://arxiv.org/pdf/2609.21841v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Federated Deep Clustering Networks for High-Dimensional and Heterogeneous Data",
+        "authors": [
+          "Morris Stallmann",
+          "Charalampos S. Kouzinopoulos",
+          "Marcin Pietrasik",
+          "Anna Wilbik"
+        ],
+        "summary": "Clustering high-dimensional data is a fundamental task in unsupervised machine learning with applications to a variety of domains. In the centralized data scenario, this task is commonly solved using deep clustering methods that utilize deep neural network architectures to learn clustering-friendly ",
+        "url": "http://arxiv.org/abs/2609.21829v1",
+        "pdf": "https://arxiv.org/pdf/2609.21829v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Touvigation: Embodied Adaptive Object Acquisition for Blind and Low-Vision Users in Unfamiliar Indoor Environments",
+        "authors": [
+          "George Xi Wang",
+          "Xiangyu Li",
+          "Shaoyue Wen",
+          "Jiaqian Hu",
+          "Junan Xie"
+        ],
+        "summary": "Blind and low-vision users often face challenges when locating and physically acquiring objects in unfamiliar indoor environments. Existing vision-language-model-based assistants can provide semantic descriptions but may introduce latency, hallucinations, and guidance that is poorly aligned with emb",
+        "url": "http://arxiv.org/abs/2609.21828v1",
+        "pdf": "https://arxiv.org/pdf/2609.21828v1",
+        "published": "2026-09-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings",
+        "authors": [
+          "Alexandre Andre",
+          "Shivashriganesh P. Mahato",
+          "Vinam Arora",
+          "Keshav Balaji",
+          "Divyansha Lachi"
+        ],
+        "summary": "Advances in large-scale neural recording have made it possible to collect data across many animals and distributed brain regions, raising the question of whether this scale can be exploited to learn general-purpose neural representations transferable across diverse downstream tasks. Yet, progress to",
+        "url": "http://arxiv.org/abs/2609.22064v1",
+        "pdf": "https://arxiv.org/pdf/2609.22064v1",
+        "published": "2026-09-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Predictable Failure in Multi-Hop Retrieval: Score-Distributional Confidence Scoring and Abstention",
+        "authors": [
+          "Andre Bacellar"
+        ],
+        "summary": "Multi-hop retrieval failures are not uniformly distributed across queries: they cluster in structurally predictable subpopulations. We prove two results formalizing this structure. First (CWAR Reducibility): confident-failure reduction is achievable if and only if retrieval features carry mutual inf",
+        "url": "http://arxiv.org/abs/2609.22056v1",
+        "pdf": "https://arxiv.org/pdf/2609.22056v1",
+        "published": "2026-09-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Benchmarking World Models for Continual Learning on Compositional Tasks",
+        "authors": [
+          "Haoyu Zhou",
+          "Joe Watson",
+          "Anson Lei",
+          "Ingmar Posner"
+        ],
+        "summary": "A desirable property of a world model is the ability to learn continually across tasks, adapting to new environments without forgetting what the agent has already learnt. In particular, the ability to retain and reuse knowledge obtained from prior experiences underpins an agent's ability to efficien",
+        "url": "http://arxiv.org/abs/2609.22055v1",
+        "pdf": "https://arxiv.org/pdf/2609.22055v1",
+        "published": "2026-09-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise",
+        "authors": [
+          "Fabricio Breve"
+        ],
+        "summary": "Graph Convolutional Networks (GCNs) are highly sensitive to label noise, since corrupted supervision can propagate through the graph and degrade learned node representations. This work proposes PCC+GCN, a hybrid framework that uses Particle Competition and Cooperation (PCC) as a graph-based label-re",
+        "url": "http://arxiv.org/abs/2609.22053v1",
+        "pdf": "https://arxiv.org/pdf/2609.22053v1",
+        "published": "2026-09-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Available Guardrails: Certifying Selective Prediction across ML Systems",
+        "authors": [
+          "Parivesh Priye",
+          "Yufeng Wang",
+          "Haibin Ling",
+          "Michael Chaykowsky"
+        ],
+        "summary": "A selective predictor acts as a safety gate: it returns an output only when the prediction appears sufficiently trustworthy. Deployments increasingly require this reliability to be certified at a target precision for every reporting unit of interest, such as a tool, policy label, or patient subgroup",
+        "url": "http://arxiv.org/abs/2609.22048v1",
+        "pdf": "https://arxiv.org/pdf/2609.22048v1",
+        "published": "2026-09-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "$λ$-Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource",
+        "authors": [
+          "Yufeng Wang",
+          "Parivesh Priye",
+          "Meeshawn Marathe",
+          "Ramit Pahwa"
+        ],
+        "summary": "Reinforcement learning is increasingly used to align image generators with reward signals, and Flow-GRPO recently extended this paradigm to flow-matching models by treating the denoising sampler as a stochastic policy that can be optimized from reward feedback. Training in this setting is unstable i",
+        "url": "http://arxiv.org/abs/2609.22041v1",
+        "pdf": "https://arxiv.org/pdf/2609.22041v1",
+        "published": "2026-09-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "COMPLEX: A Closed-Form Certified Embedding of Multiparameter Persistence Modules",
+        "authors": [
+          "Sushovan Majhi",
+          "Atish Mitra",
+          "Žiga Virk",
+          "Pramita Bagchi"
+        ],
+        "summary": "Every multiparameter persistence vectorization we know of carries a one-sided Lipschitz upper bound and nothing below it: without a lower gauge there is no sense in which the features are faithful, and no per-prediction guarantee can be built on them. This paper supplies the missing side. COMPLEX is",
+        "url": "http://arxiv.org/abs/2609.22012v1",
+        "pdf": "https://arxiv.org/pdf/2609.22012v1",
+        "published": "2026-09-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Abstention and Noise Filtering: Two Missing Primitives of Softmax Attention",
+        "authors": [
+          "Richard Zhe Wang"
+        ],
+        "summary": "Gating the value pathway of attention reportedly improves language model pretraining, and prior studies disagree on why. We argue and provide experimental evidence that such gates supply two different things that softmax attention lacks: abstention and noise filtering. The first is abstention, which",
+        "url": "http://arxiv.org/abs/2609.22005v1",
+        "pdf": "https://arxiv.org/pdf/2609.22005v1",
+        "published": "2026-09-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 29,
+        "title": "Assessment of Machine Learning-Based Critical Heat Flux Models in the CTF Subchannel Code for Square Rod Bundle Prediction",
+        "authors": [
+          "Aidan Furlong",
+          "Vinicius de Melo Monteiro",
+          "Robert Salko",
+          "Juliana Pacheco Duarte",
+          "Xu Wu"
+        ],
+        "summary": "The prediction of critical heat flux (CHF), a key safety-related quantity in nuclear thermal hydraulics, remains an important challenge due to its direct relationship with fuel performance and reactor safety. Recent studies have demonstrated that relative to traditional empirical correlations and lo",
+        "url": "http://arxiv.org/abs/2609.21995v1",
+        "pdf": "https://arxiv.org/pdf/2609.21995v1",
+        "published": "2026-09-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 30,
+        "title": "Time series generation with spectrally aligned latent flow matching",
+        "authors": [
+          "Camilo Carvajal Reyes",
+          "Felipe Tobar"
+        ],
+        "summary": "Latent flow models have proven to be a reliable and cost-effective method for time series generation. However, the latent compression induces unwanted artefacts, such as a spectral mismatch with respect to the underlying dataset, thus hindering their use as training surrogates. In this article, we p",
+        "url": "http://arxiv.org/abs/2609.21989v1",
+        "pdf": "https://arxiv.org/pdf/2609.21989v1",
+        "published": "2026-09-18",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
