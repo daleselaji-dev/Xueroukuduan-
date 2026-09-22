@@ -1,0 +1,591 @@
+{
+  "date": "2026-09-22",
+  "generated": "2026-09-22T07:25:48.739485",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "browser-use/jev-ultrafast",
+        "description": "Fastest and cheapest web agent",
+        "stars": 16780,
+        "language": "Python",
+        "url": "https://github.com/browser-use/jev-ultrafast",
+        "created": "2026-09-16"
+      },
+      {
+        "rank": 2,
+        "name": "NandhaKishorM/laya",
+        "description": "",
+        "stars": 12476,
+        "language": "Python",
+        "url": "https://github.com/NandhaKishorM/laya",
+        "created": "2026-09-18"
+      },
+      {
+        "rank": 3,
+        "name": "tamaratran/fast-jev-compaction",
+        "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbati",
+        "stars": 6093,
+        "language": "TypeScript",
+        "url": "https://github.com/tamaratran/fast-jev-compaction",
+        "created": "2026-09-17"
+      },
+      {
+        "rank": 4,
+        "name": "zai-org/ZCode",
+        "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+        "stars": 5992,
+        "language": "TypeScript",
+        "url": "https://github.com/zai-org/ZCode",
+        "created": "2026-09-20"
+      },
+      {
+        "rank": 5,
+        "name": "robbietilton/Compositor",
+        "description": "The Photoshop alternative for Mac",
+        "stars": 4564,
+        "language": "Swift",
+        "url": "https://github.com/robbietilton/Compositor",
+        "created": "2026-09-16"
+      },
+      {
+        "rank": 6,
+        "name": "mizorewww/laya-mlx",
+        "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+        "stars": 4441,
+        "language": "Python",
+        "url": "https://github.com/mizorewww/laya-mlx",
+        "created": "2026-09-19"
+      },
+      {
+        "rank": 7,
+        "name": "TheoLeeCJ/SemIf",
+        "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+        "stars": 3434,
+        "language": "Python",
+        "url": "https://github.com/TheoLeeCJ/SemIf",
+        "created": "2026-09-16"
+      },
+      {
+        "rank": 8,
+        "name": "jaredpalmer/kev",
+        "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+        "stars": 2773,
+        "language": "Python",
+        "url": "https://github.com/jaredpalmer/kev",
+        "created": "2026-09-17"
+      },
+      {
+        "rank": 9,
+        "name": "Mak5er/AirCard",
+        "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+        "stars": 2114,
+        "language": "Swift",
+        "url": "https://github.com/Mak5er/AirCard",
+        "created": "2026-09-16"
+      },
+      {
+        "rank": 10,
+        "name": "jev-chat/jev-chat-jarvis",
+        "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+        "stars": 1964,
+        "language": "Kotlin",
+        "url": "https://github.com/jev-chat/jev-chat-jarvis",
+        "created": "2026-09-21"
+      },
+      {
+        "rank": 11,
+        "name": "jarrodwatts/jev-trader",
+        "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+        "stars": 1915,
+        "language": "TypeScript",
+        "url": "https://github.com/jarrodwatts/jev-trader",
+        "created": "2026-09-16"
+      },
+      {
+        "rank": 12,
+        "name": "TianyuCodings/NanoJev",
+        "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+        "stars": 1888,
+        "language": "Python",
+        "url": "https://github.com/TianyuCodings/NanoJev",
+        "created": "2026-09-17"
+      },
+      {
+        "rank": 13,
+        "name": "bespokelabsai/nimble",
+        "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+        "stars": 1538,
+        "language": "Python",
+        "url": "https://github.com/bespokelabsai/nimble",
+        "created": "2026-09-18"
+      },
+      {
+        "rank": 14,
+        "name": "vinnylarouge/jevlike",
+        "description": "",
+        "stars": 1184,
+        "language": "Python",
+        "url": "https://github.com/vinnylarouge/jevlike",
+        "created": "2026-09-16"
+      },
+      {
+        "rank": 15,
+        "name": "yibie/awesome-jev",
+        "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+        "stars": 1096,
+        "language": "Python",
+        "url": "https://github.com/yibie/awesome-jev",
+        "created": "2026-09-17"
+      },
+      {
+        "rank": 16,
+        "name": "mizorewww/laya-coreml",
+        "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+        "stars": 1017,
+        "language": "Python",
+        "url": "https://github.com/mizorewww/laya-coreml",
+        "created": "2026-09-19"
+      },
+      {
+        "rank": 17,
+        "name": "newliver666/apk-reverse",
+        "description": "Suitable for Android APK reverse engineering analysis",
+        "stars": 783,
+        "language": "Python",
+        "url": "https://github.com/newliver666/apk-reverse",
+        "created": "2026-09-19"
+      },
+      {
+        "rank": 18,
+        "name": "awlevin/typesafe-computer-use",
+        "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
+        "stars": 774,
+        "language": "Python",
+        "url": "https://github.com/awlevin/typesafe-computer-use",
+        "created": "2026-09-16"
+      },
+      {
+        "rank": 19,
+        "name": "githubnext/localjev",
+        "description": "",
+        "stars": 710,
+        "language": "TypeScript",
+        "url": "https://github.com/githubnext/localjev",
+        "created": "2026-09-18"
+      },
+      {
+        "rank": 20,
+        "name": "hydra-db/open-glean",
+        "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+        "stars": 677,
+        "language": "TypeScript",
+        "url": "https://github.com/hydra-db/open-glean",
+        "created": "2026-09-17"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+        "authors": [
+          "Yiran Wang",
+          "Xingyilang Yin",
+          "Junfu Pu",
+          "Guangzhi Wang",
+          "Kaifeng Li"
+        ],
+        "summary": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow range of games, lack lang",
+        "url": "http://arxiv.org/abs/2609.25001v1",
+        "pdf": "https://arxiv.org/pdf/2609.25001v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+        "authors": [
+          "Wangbo Yu",
+          "Kunhao Liu",
+          "Wenbo Hu",
+          "Shenghai Yuan",
+          "Chaoran Feng"
+        ],
+        "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to",
+        "url": "http://arxiv.org/abs/2609.24984v1",
+        "pdf": "https://arxiv.org/pdf/2609.24984v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation",
+        "authors": [
+          "Haoran Yuan",
+          "Zekai Wang",
+          "Boning Shao",
+          "Haoran Lu",
+          "Trevor Darrell"
+        ],
+        "summary": "Dexterous manipulation depends on contact dynamics that are often only partially observable from vision. Recent World-Action Models (WAMs) couple predictive video world modeling with action generation, but remain largely vision-centric and therefore cannot directly model these contact dynamics. We p",
+        "url": "http://arxiv.org/abs/2609.24976v1",
+        "pdf": "https://arxiv.org/pdf/2609.24976v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+        "authors": [
+          "Haoran Ye",
+          "Yuxing Lu",
+          "Haonan Dong",
+          "Zhaochen Su",
+          "Guojie Song"
+        ],
+        "summary": "Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment. Because the best harness varies across domains, instances, and models, a general-purpose agent must either settle f",
+        "url": "http://arxiv.org/abs/2609.24974v1",
+        "pdf": "https://arxiv.org/pdf/2609.24974v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+        "authors": [
+          "Peng Xia",
+          "Rujun Han",
+          "Zifeng Wang",
+          "Yanfei Chen",
+          "Yufan Zhang"
+        ],
+        "summary": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent ha",
+        "url": "http://arxiv.org/abs/2609.24972v1",
+        "pdf": "https://arxiv.org/pdf/2609.24972v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "DolphinBench: Mapping the Pareto Frontier of Agent Memory",
+        "authors": [
+          "Soumil Rathi",
+          "Deshraj Yadav",
+          "Taranjeet Singh"
+        ],
+        "summary": "Agents today often take real-world actions that depend on long-term memory and context recall over time. However, most current memory benchmarks are built for a conversational question-answer format, where the question itself signals that some fact must be retrieved, and often which one. Moreover, b",
+        "url": "http://arxiv.org/abs/2609.24971v1",
+        "pdf": "https://arxiv.org/pdf/2609.24971v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Rare Event Estimation via Iterative Unalignment",
+        "authors": [
+          "Hanming Yang",
+          "Daksh Mittal",
+          "Jing Dong",
+          "Hongseok Namkoong"
+        ],
+        "summary": "As agents are deployed with increased autonomy, even extremely rare events along their stochastic output trajectories can occur and prove catastrophic. Safe deployment therefore does not depend on whether these events can occur, but on how often they might. We study the problem of estimating the pro",
+        "url": "http://arxiv.org/abs/2609.24969v1",
+        "pdf": "https://arxiv.org/pdf/2609.24969v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+        "authors": [
+          "Xinrui Shi",
+          "Yanzhe Zhang",
+          "Diyi Yang"
+        ],
+        "summary": "LLM agents are increasingly deployed in collaborative settings, yet long-term interaction may give rise to undesirable coordination. We study the emergence of collusion in a long-horizon multi-agent environment: two agents repeatedly complete individual tasks, share task logs, verify each other's wo",
+        "url": "http://arxiv.org/abs/2609.24967v1",
+        "pdf": "https://arxiv.org/pdf/2609.24967v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Jev for Scientific Decisions: Evaluating Semantic Choices and Their Consequences",
+        "authors": [
+          "Boyuan Deng",
+          "Shuyi Fan",
+          "Hongyang Zhang",
+          "Xinhong Xie"
+        ],
+        "summary": "Scientific workflows often require choosing among known relations before a deterministic calculation can proceed. Whether observations share a culture, treatment or reference standard can change the scientific meaning of the resulting count or comparison. We evaluate Jev as a semantic decision compo",
+        "url": "http://arxiv.org/abs/2609.24965v1",
+        "pdf": "https://arxiv.org/pdf/2609.24965v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Generative Tutorial: Towards Live Contextualized Visual Instructions for Physical Tasks",
+        "authors": [
+          "Muzhe Wu",
+          "Zuchen Li",
+          "Xu Wang",
+          "Anhong Guo"
+        ],
+        "summary": "Visual instructions for physical tasks are typically authored in one context and followed in another, requiring users to translate demonstrated tools, materials, and spatial relationships into their own environment. We introduce Generative Tutorial, a conceptual framework for live visual instruction",
+        "url": "http://arxiv.org/abs/2609.24955v1",
+        "pdf": "https://arxiv.org/pdf/2609.24955v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Exactness at Inference: A Representational Criterion for Out-of-Distribution Generalization",
+        "authors": [
+          "Filipe Marinho Rocha",
+          "Inês Dutra",
+          "Vítor Santos Costa",
+          "Luís Paulo Reis"
+        ],
+        "summary": "A model generalizes outside its training distribution only when it computes a representation structurally equivalent to the generating mechanism, not an approximation fitted to it. Such equivalence is necessary for exactness in and out of distribution, and extrapolation is governed by this exactness",
+        "url": "http://arxiv.org/abs/2609.24942v1",
+        "pdf": "https://arxiv.org/pdf/2609.24942v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Et Tu, Brute? Economic Misalignment in Personal AI Agents",
+        "authors": [
+          "Aman Priyanshu",
+          "Supriti Vijay",
+          "Brian Jabarian",
+          "Niloofar Mireshghallah"
+        ],
+        "summary": "Personal AI agents make recommendations and take actions on people's behalf in high-stakes economic contexts, e.g., buying a flight, choosing health insurance, or selecting a graduate program. The agent is given access to the user's personal context, e.g., their email inbox and a structured profile ",
+        "url": "http://arxiv.org/abs/2609.24927v1",
+        "pdf": "https://arxiv.org/pdf/2609.24927v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "BackTrend: Evaluating Scientific Weak-Signal Prediction via Backward Reconstruction",
+        "authors": [
+          "Xiao Zhou",
+          "Yilun Zhao",
+          "Owen Jiang",
+          "Tiansheng Hu",
+          "Cai Xu"
+        ],
+        "summary": "Scientific weak signals are early, low-visibility research directions that later become central to mature scientific topics, yet existing resources such as trend tracking, citation forecasting, and foresight reports rarely provide validated reference sets that link concrete early precursors to later",
+        "url": "http://arxiv.org/abs/2609.24921v1",
+        "pdf": "https://arxiv.org/pdf/2609.24921v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning",
+        "authors": [
+          "Abhinav Jain",
+          "Cindy Grimm",
+          "Stefan Lee"
+        ],
+        "summary": "Dormant tree pruning is labor-intensive yet essential for maintaining modern high-productivity fruit orchards. In this work, we focus on pruning of modern planar tree training systems - V-Trellis apples and UFO cherries - where trunks and primary branches are trained into approximately planar walls.",
+        "url": "http://arxiv.org/abs/2609.24906v1",
+        "pdf": "https://arxiv.org/pdf/2609.24906v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "OSWorld-Pro: Process-based Evaluation for Computer Use Agents",
+        "authors": [
+          "Zhilin Wang",
+          "Shaokun Zhang",
+          "Yifan Zhang",
+          "Hao Zhang",
+          "Jin Xu"
+        ],
+        "summary": "Evaluation of Computer-Use Agents (CUAs) is often limited to the final deliverables they create (at the end of hundreds of steps) and assessed with functional verifiers, as seen in OSWorld. However, such evaluation of end-state performance lacks transparency into how and why agents fail in various t",
+        "url": "http://arxiv.org/abs/2609.24890v1",
+        "pdf": "https://arxiv.org/pdf/2609.24890v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "A Global Comparison of Schemas, Transparency, and Interoperability in Public-Sector AI Registers and Inventories",
+        "authors": [
+          "Dipto Das",
+          "Shion Guha"
+        ],
+        "summary": "Artificial intelligence (AI) registers and inventories aim to make governmental AI visible, but their institutional scope, schemas, and reporting practices construct different representations of public-sector AI. We compare 8,368 records from country-specific and transnational inventories covering 7",
+        "url": "http://arxiv.org/abs/2609.24883v1",
+        "pdf": "https://arxiv.org/pdf/2609.24883v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models",
+        "authors": [
+          "Kevin David Hayes",
+          "Arka Pal",
+          "Haosong Zhang",
+          "Tom Goldstein",
+          "Micah Goldblum"
+        ],
+        "summary": "In high-stakes decision-making applications of large language models (LLMs), practitioners require not only accurate LLMs but also uncertainty estimates for their predictions. Existing approaches to uncertainty estimation for LLMs require access to log-probabilities output by the model or require fi",
+        "url": "http://arxiv.org/abs/2609.24881v1",
+        "pdf": "https://arxiv.org/pdf/2609.24881v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Partner-Specific Affective Precision in Social Active Inference",
+        "authors": [
+          "Harshil Shah",
+          "Andrew Pashea"
+        ],
+        "summary": "In multi-agent social settings, model reliability varies across relationships. Beyond inferring what others will do, an agent must calibrate how confidently those inferences should guide policy selection for each relationship. An agent may maintain a well-validated model of one partner, a fragile mo",
+        "url": "http://arxiv.org/abs/2609.24876v1",
+        "pdf": "https://arxiv.org/pdf/2609.24876v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "SE(3) Neural Potential Fields for 6-DoF Trajectory Planning Directly from Images Without Explicit 3D Reconstruction",
+        "authors": [
+          "Jeffrey Eiyike",
+          "Masoud Ataei",
+          "Elvis Gyaase",
+          "Vikas Dhiman"
+        ],
+        "summary": "Reaching a 6-DoF grasp pose in clutter requires a collision-free trajectory, conventionally obtained by reconstructing the scene in 3D and planning inside that reconstruction, at the cost of its accuracy and compute. Potential fields learned directly from images remove that dependency but inherit th",
+        "url": "http://arxiv.org/abs/2609.24864v1",
+        "pdf": "https://arxiv.org/pdf/2609.24864v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "When Tomorrow Becomes Today: Self-Evolving Policies for Agentic Time-Series Forecasting",
+        "authors": [
+          "Yifan Hu",
+          "Xilin Dai",
+          "Zhiyuan Qu",
+          "Yiding Liu",
+          "Zewei Dong"
+        ],
+        "summary": "Agentic time series forecasting concerns systems whose underlying mechanisms evolve, making the relative effectiveness of numerical models, reasoning strategies, and intervention rules inherently time-varying. Consequently, a time series agent must adapt the forecasts it produces and the orchestrati",
+        "url": "http://arxiv.org/abs/2609.24862v1",
+        "pdf": "https://arxiv.org/pdf/2609.24862v1",
+        "published": "2026-09-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use",
+        "authors": [
+          "Zixiang Chen",
+          "Wenting Zhao",
+          "Zhepeng Cen",
+          "Akshara Prabhakar",
+          "Jielin Qiu"
+        ],
+        "summary": "Multi-turn tool-use failures can hinge on a single model call, yet reward variation alone does not reveal which call would benefit from training. When rewards depend on later interactions, their variation can reflect downstream randomness rather than differences between the current actions. We intro",
+        "url": "http://arxiv.org/abs/2609.24985v1",
+        "pdf": "https://arxiv.org/pdf/2609.24985v1",
+        "published": "2026-09-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+        "authors": [
+          "Lei Yang",
+          "Mengyin Liu",
+          "Jia Wang",
+          "Hangyu Guo",
+          "Liang Zhao"
+        ],
+        "summary": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model response, the annotator locates the first inappropriate token and either picks a substitute from the mode",
+        "url": "http://arxiv.org/abs/2609.24983v1",
+        "pdf": "https://arxiv.org/pdf/2609.24983v1",
+        "published": "2026-09-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "LoRA-generating hypernetworks for efficient on-device LLM generative personalization",
+        "authors": [
+          "Sean Augenstein",
+          "Li Ding",
+          "Jihwan Lee",
+          "Keith Rush",
+          "Andrey Zhmoginov"
+        ],
+        "summary": "On-device large language models (`LLMs'), e.g. running on mobile phones, are ripe for improvement via personalization. The limited compute resources of mobile devices impose limits on model scale and thus model quality, making any realizable quality gains highly impactful. At the same time, their pe",
+        "url": "http://arxiv.org/abs/2609.24979v1",
+        "pdf": "https://arxiv.org/pdf/2609.24979v1",
+        "published": "2026-09-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "JAREX: An Acquisition Function for Multi-Objective Algorithmic Process Characterization",
+        "authors": [
+          "Xinyang Li",
+          "Kevin Stone",
+          "Ajit Vikram"
+        ],
+        "summary": "Pharmaceutical process characterization is central to Quality by Design because it defines how variations in process parameters affect the ability to meet product quality specifications, thereby supporting proven acceptable ranges and robust manufacturing. In practice, however, characterization stil",
+        "url": "http://arxiv.org/abs/2609.24954v1",
+        "pdf": "https://arxiv.org/pdf/2609.24954v1",
+        "published": "2026-09-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Learning Physics from an Imperfect Ancestor",
+        "authors": [
+          "S. Mohammad Mousavi",
+          "Teeratorn Kadeethum",
+          "Nikolaos Bouklas",
+          "Somdatta Goswami"
+        ],
+        "summary": "Neural operators evaluate parametric partial differential equations cheaply but degrade sharply outside their training distribution. Physics-informed neural networks avoid dependence on labeled data, yet their optimization can be basin-fragile: when the governing residual admits multiple solutions, ",
+        "url": "http://arxiv.org/abs/2609.24947v1",
+        "pdf": "https://arxiv.org/pdf/2609.24947v1",
+        "published": "2026-09-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Conformalized Quantile Regression and Minimax Limits of Fixed-Score Calibration under Known Covariate Shift",
+        "authors": [
+          "Rustam Isaev",
+          "Anton Conrad",
+          "Denis Belomestny",
+          "Eric Moulines",
+          "Sergey Samsonov"
+        ],
+        "summary": "In this paper, we study nonasymptotic $L^p$ error bounds for interval length and conditional coverage in split conformalized quantile regression (CQR). Our bounds rely on local regularity conditions and accuracy guarantees for the estimated quantiles. We further instantiate our bounds for quantile r",
+        "url": "http://arxiv.org/abs/2609.24929v1",
+        "pdf": "https://arxiv.org/pdf/2609.24929v1",
+        "published": "2026-09-21",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
