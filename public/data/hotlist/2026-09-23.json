@@ -1,0 +1,583 @@
+{
+  "date": "2026-09-23",
+  "generated": "2026-09-23T07:27:56.555735",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "NandhaKishorM/laya",
+        "description": "",
+        "stars": 18009,
+        "language": "Python",
+        "url": "https://github.com/NandhaKishorM/laya",
+        "created": "2026-09-18"
+      },
+      {
+        "rank": 2,
+        "name": "zai-org/ZCode",
+        "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+        "stars": 6416,
+        "language": "TypeScript",
+        "url": "https://github.com/zai-org/ZCode",
+        "created": "2026-09-20"
+      },
+      {
+        "rank": 3,
+        "name": "tamaratran/fast-jev-compaction",
+        "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbati",
+        "stars": 6400,
+        "language": "TypeScript",
+        "url": "https://github.com/tamaratran/fast-jev-compaction",
+        "created": "2026-09-17"
+      },
+      {
+        "rank": 4,
+        "name": "mizorewww/laya-mlx",
+        "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+        "stars": 5657,
+        "language": "Python",
+        "url": "https://github.com/mizorewww/laya-mlx",
+        "created": "2026-09-19"
+      },
+      {
+        "rank": 5,
+        "name": "jaredpalmer/kev",
+        "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+        "stars": 4842,
+        "language": "Python",
+        "url": "https://github.com/jaredpalmer/kev",
+        "created": "2026-09-17"
+      },
+      {
+        "rank": 6,
+        "name": "jev-chat/jev-chat-jarvis",
+        "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+        "stars": 4613,
+        "language": "Kotlin",
+        "url": "https://github.com/jev-chat/jev-chat-jarvis",
+        "created": "2026-09-21"
+      },
+      {
+        "rank": 7,
+        "name": "TianyuCodings/NanoJev",
+        "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+        "stars": 2040,
+        "language": "Python",
+        "url": "https://github.com/TianyuCodings/NanoJev",
+        "created": "2026-09-17"
+      },
+      {
+        "rank": 8,
+        "name": "bespokelabsai/nimble",
+        "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+        "stars": 1655,
+        "language": "Python",
+        "url": "https://github.com/bespokelabsai/nimble",
+        "created": "2026-09-18"
+      },
+      {
+        "rank": 9,
+        "name": "yibie/awesome-jev",
+        "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+        "stars": 1371,
+        "language": "Python",
+        "url": "https://github.com/yibie/awesome-jev",
+        "created": "2026-09-17"
+      },
+      {
+        "rank": 10,
+        "name": "mizorewww/laya-coreml",
+        "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+        "stars": 1329,
+        "language": "Python",
+        "url": "https://github.com/mizorewww/laya-coreml",
+        "created": "2026-09-19"
+      },
+      {
+        "rank": 11,
+        "name": "unreallabsai/unreal-agent",
+        "description": "Async-first agent harness",
+        "stars": 1270,
+        "language": "Go",
+        "url": "https://github.com/unreallabsai/unreal-agent",
+        "created": "2026-09-21"
+      },
+      {
+        "rank": 12,
+        "name": "newliver666/apk-reverse",
+        "description": "Suitable for Android APK reverse engineering analysis",
+        "stars": 1025,
+        "language": "Python",
+        "url": "https://github.com/newliver666/apk-reverse",
+        "created": "2026-09-19"
+      },
+      {
+        "rank": 13,
+        "name": "hydra-db/open-glean",
+        "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+        "stars": 871,
+        "language": "TypeScript",
+        "url": "https://github.com/hydra-db/open-glean",
+        "created": "2026-09-17"
+      },
+      {
+        "rank": 14,
+        "name": "githubnext/localjev",
+        "description": "",
+        "stars": 734,
+        "language": "TypeScript",
+        "url": "https://github.com/githubnext/localjev",
+        "created": "2026-09-18"
+      },
+      {
+        "rank": 15,
+        "name": "Lumid-Off/AirCard-Windows",
+        "description": "",
+        "stars": 705,
+        "language": "Rust",
+        "url": "https://github.com/Lumid-Off/AirCard-Windows",
+        "created": "2026-09-18"
+      },
+      {
+        "rank": 16,
+        "name": "v-modal/awesome-jev-tools",
+        "description": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
+        "stars": 668,
+        "language": null,
+        "url": "https://github.com/v-modal/awesome-jev-tools",
+        "created": "2026-09-19"
+      },
+      {
+        "rank": 17,
+        "name": "incoai/splash",
+        "description": "A local inference engine for Apple silicon, built around the model.",
+        "stars": 647,
+        "language": "Python",
+        "url": "https://github.com/incoai/splash",
+        "created": "2026-09-18"
+      },
+      {
+        "rank": 18,
+        "name": "heyjunpenn/awesome-jev",
+        "description": "A verified, community-maintained catalog of 832 open-source projects built with Jev.",
+        "stars": 638,
+        "language": "TypeScript",
+        "url": "https://github.com/heyjunpenn/awesome-jev",
+        "created": "2026-09-19"
+      },
+      {
+        "rank": 19,
+        "name": "volotat/mini-AGI",
+        "description": "Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data.",
+        "stars": 637,
+        "language": "Python",
+        "url": "https://github.com/volotat/mini-AGI",
+        "created": "2026-09-19"
+      },
+      {
+        "rank": 20,
+        "name": "kerpopule/hermes-jev-skills",
+        "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
+        "stars": 635,
+        "language": "Python",
+        "url": "https://github.com/kerpopule/hermes-jev-skills",
+        "created": "2026-09-18"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+        "authors": [
+          "Haobo Zheng",
+          "Tan Tang",
+          "Yan Chen",
+          "Weijie Wang",
+          "Yingcai Wu"
+        ],
+        "summary": "Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, how individuals perceive one another, what information is shared by the group, and how states change o",
+        "url": "http://arxiv.org/abs/2609.26780v1",
+        "pdf": "https://arxiv.org/pdf/2609.26780v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents",
+        "authors": [
+          "Trang Nguyen",
+          "Eulrang Cho",
+          "Bingqing Chen",
+          "Tim Dettmers"
+        ],
+        "summary": "Agents often work on complex problems that require millions of tokens of context, which necessitates compacting across sessions due to limited context windows. We develop CliffCompaction, an autocompaction technique that reduces cost by up to 50% under a bounded context while maintaining or improvin",
+        "url": "http://arxiv.org/abs/2609.26779v1",
+        "pdf": "https://arxiv.org/pdf/2609.26779v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving",
+        "authors": [
+          "Jennifer Williams",
+          "Dave Farris",
+          "Jeff Farris",
+          "Jiantao Jiao"
+        ],
+        "summary": "We introduce SWE-Serve, a benchmark for evaluating agents on production inference engineering tasks. Implementing an inference feature can require coordinating multiple changes across the serving stack, including model support, runtime execution, and public APIs. Existing benchmarks provide limited ",
+        "url": "http://arxiv.org/abs/2609.26777v1",
+        "pdf": "https://arxiv.org/pdf/2609.26777v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem",
+        "authors": [
+          "Laizhen Li",
+          "Xuan Wang",
+          "Peicheng Zhao",
+          "Juanjuan Zhao",
+          "Kejiang Ye"
+        ],
+        "summary": "Agents using the Model Context Protocol (MCP) rely on semantic matching to select tools from third-party servers, exposing a semantic supply-chain risk through attacker-controlled metadata and outputs. We introduce A2M (Attraction-to-Manipulation), a two-stage black-box framework for hijacking MCP a",
+        "url": "http://arxiv.org/abs/2609.26761v1",
+        "pdf": "https://arxiv.org/pdf/2609.26761v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents",
+        "authors": [
+          "Laizhen Li",
+          "Jiarui Li",
+          "Juanjuan Zhao",
+          "Kejiang Ye",
+          "Ye Li"
+        ],
+        "summary": "Large language model (LLM) agents often handle streams of related tasks, yet standard harnesses repeatedly ask the model to reconstruct the same control decisions inside each task's context. We study whether task feedback can instead turn recurring control into reusable executable code, while reserv",
+        "url": "http://arxiv.org/abs/2609.26760v1",
+        "pdf": "https://arxiv.org/pdf/2609.26760v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Type-Safe Is Not Error-Free: A Constrained Decision Head Follows the Option Name, Not the Rubric Bound to It",
+        "authors": [
+          "Yu Sun",
+          "Junhao Xu"
+        ],
+        "summary": "Typed decision models are built for settings where model outputs are consumed directly by software. Instead of generating free-form text, they return a decision over a predefined set of options. By construction, every output conforms to the required schema. Yet this guarantee does not tell us whethe",
+        "url": "http://arxiv.org/abs/2609.26758v1",
+        "pdf": "https://arxiv.org/pdf/2609.26758v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "FleXray: Universal Clinical X-ray Segmentation",
+        "authors": [
+          "Victor Ion Butoi",
+          "Vivek Gopalakrishnan",
+          "John V. Guttag",
+          "Adrian V. Dalca",
+          "Neel Dey"
+        ],
+        "summary": "X-ray is medicine's most widely used imaging modality, yet remains among its least quantitative. Unlike volumetric modalities like CT or MRI, X-ray collapses 3D anatomy into a 2D projection, causing structures to overlap and anatomical boundaries to be ambiguous, even to experts. As a result, labeli",
+        "url": "http://arxiv.org/abs/2609.26756v1",
+        "pdf": "https://arxiv.org/pdf/2609.26756v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Metrics Failure in LLM-Based Code Vulnerability Repair: An Empirical Study and a Change-Aware Screen",
+        "authors": [
+          "Om Nepal",
+          "Sushant Aryal",
+          "Oluseyi Olukola",
+          "Nick Rahimi"
+        ],
+        "summary": "Large language models (LLMs) are increasingly applied to the automated repair of C/C++ security vulnerabilities, and compile rate is a commonly reported proxy for progress: whether the generated patch compiles. We argue that compile rate is a scientifically unreliable metric for single-function vuln",
+        "url": "http://arxiv.org/abs/2609.26749v1",
+        "pdf": "https://arxiv.org/pdf/2609.26749v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Does AI Save Time on Product Design? A Randomized Controlled Experiment of AI Prompt-to-Design Workflows",
+        "authors": [
+          "Remy Stewart",
+          "Olabode Anise",
+          "Andrew Hogan",
+          "Augustus Griffin"
+        ],
+        "summary": "AI tools for digital product design now offer prompt-to-design capabilities, allowing designers and their non-designer colleagues to create prototypes through conversational workflows with large language models (LLMs). While these tools promise time savings, experimental evidence in product design r",
+        "url": "http://arxiv.org/abs/2609.26725v1",
+        "pdf": "https://arxiv.org/pdf/2609.26725v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "The Sirens' Song: When Proximal Background Context Overshadows Distant Evidence",
+        "authors": [
+          "Xiaoyu Yang",
+          "Jie Lu",
+          "Wei Duan",
+          "En Yu"
+        ],
+        "summary": "Long-context LLMs focus on retrieving distant evidence from extensive context, yet existing work has largely focused on overcoming distance alone. In this work, we identify the Proximity Trap, insufficient attention to distant evidence often arises less from distance itself than from cumulative comp",
+        "url": "http://arxiv.org/abs/2609.26718v1",
+        "pdf": "https://arxiv.org/pdf/2609.26718v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "TraceVIC: Causal Reasoning over Code Evolution for Identifying Vulnerability-Inducing Commits",
+        "authors": [
+          "Fnu Tanish",
+          "Samiha Shimmi",
+          "Samikshya Chapagain",
+          "Hamed Okhravi",
+          "Mona Rahimi"
+        ],
+        "summary": "Software vulnerabilities are often discovered long after they are introduced, making it difficult to identify the vulnerability-inducing commit (VIC) responsible for introducing the underlying vulnerable condition. Existing VIC identification techniques largely rely on git blame to trace vulnerable ",
+        "url": "http://arxiv.org/abs/2609.26711v1",
+        "pdf": "https://arxiv.org/pdf/2609.26711v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Train Where the Quantized Model Goes: On-Policy Distillation for Low-Bit Reasoning",
+        "authors": [
+          "Yuanteng Chen",
+          "Zhilei Liu",
+          "Peisong Wang",
+          "Yuantian Shao",
+          "Chuangyi Li"
+        ],
+        "summary": "Quantization-aware distillation (QAD) restores much of the short-form question-answering performance lost to sub-3-bit quantization, yet leaves mathematical and code reasoning substantially impaired. Long generations often degenerate into repetitive loops, exhausting the decoding budget without comp",
+        "url": "http://arxiv.org/abs/2609.26708v1",
+        "pdf": "https://arxiv.org/pdf/2609.26708v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Beyond Repeated Sampling: Learning Search Policies for LLM Reasoning",
+        "authors": [
+          "Ismail Labiad",
+          "Matthieu Kowalski",
+          "Marc Schoenauer",
+          "Rémi Munos",
+          "Julia Kempe"
+        ],
+        "summary": "Large language models increasingly tackle hard reasoning problems by spending more test-time compute, yet the dominant strategy remains naive repeated sampling: draw many independent solutions and hope one is correct. Because such sampling explores only through local decoding noise, it tends to prod",
+        "url": "http://arxiv.org/abs/2609.26704v1",
+        "pdf": "https://arxiv.org/pdf/2609.26704v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Measuring the Serving Stack Instead of the Model: Hidden Confounds in Local Tool-Use Evaluation",
+        "authors": [
+          "Lijuan Tang",
+          "Yuemeng Zheng"
+        ],
+        "summary": "A coding agent must emit a valid tool call--a parseable invocation of a tool in the provided schema--before the harness can execute its chosen action. We study how local serving stacks affect this protocol step and show that measured outcomes can depend on the serving layer rather than model behavio",
+        "url": "http://arxiv.org/abs/2609.26693v1",
+        "pdf": "https://arxiv.org/pdf/2609.26693v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "From Alignment to Access Control: A Framework for GenAI Policy Enforcement",
+        "authors": [
+          "Nathalie Baracaldo"
+        ],
+        "summary": "Generative AI (GenAI) applications have flourished enabling users to chat with large language models, and to create agents to act on their behalf for a variety of tasks. The pace of development of capabilities in this field is incredibly fast with security and safety taking a back seat. Unfortunatel",
+        "url": "http://arxiv.org/abs/2609.26682v1",
+        "pdf": "https://arxiv.org/pdf/2609.26682v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "A Spectral Theory of Grokking: Weight Decay induces Feature Learning",
+        "authors": [
+          "Lenz Pracher",
+          "Pascal de Jong",
+          "Oskar Lieshaus",
+          "Alan Jeffares",
+          "Steffen Rulands"
+        ],
+        "summary": "In grokking an early fit to the training data separates from a much later improvement in generalization. During this delay, training can move from a fixed neural tangent kernel (NTK) regime to one in which task-relevant kernel eigendirections continue to evolve. We provide a quantitative theory for ",
+        "url": "http://arxiv.org/abs/2609.26679v1",
+        "pdf": "https://arxiv.org/pdf/2609.26679v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "The Delegation Blind Spot: Auditing Product Decisions from Agent Choices",
+        "authors": [
+          "Shivam Gupta"
+        ],
+        "summary": "Successful agent execution need not identify which future product improvement its user would value. We present a decision-specific audit that maps a declared observation channel and product-value contrast to compatible intervals and witness populations. Its foundations are established identification",
+        "url": "http://arxiv.org/abs/2609.26642v1",
+        "pdf": "https://arxiv.org/pdf/2609.26642v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Capable yet Parsimonious: Extracting and Characterizing Hidden Chain-of-Thought in Frontier Models",
+        "authors": [
+          "Xiaoyu Luo",
+          "Tao Ren",
+          "Wenrui Yu",
+          "Xiao Li",
+          "Qiongxiu Li"
+        ],
+        "summary": "The rapid capability gains of frontier language models are widely attributed to improved reasoning abilities, yet this cannot be verified as raw CoT traces in closed-source systems are hidden. By registering a simple custom tool through a standard API feature, we induce frontier models to externaliz",
+        "url": "http://arxiv.org/abs/2609.26637v1",
+        "pdf": "https://arxiv.org/pdf/2609.26637v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Greedy Decoding Is Not Precision-Invariant: Cross-Precision Output Divergence in LLM Inference",
+        "authors": [
+          "Gaoyuan Du",
+          "Anam Nawaz Khan",
+          "Rex Zhou",
+          "Xiaoyang Liu",
+          "Deepayan Chakrabarti"
+        ],
+        "summary": "Greedy decoding from large language models is commonly treated as deterministic. We show it is not precision-invariant: the same model, prompt, and decoding algorithm produce different outputs in BF16 versus FP16 on identical hardware. Across our evaluations of six models (1.1B-7B parameters, four f",
+        "url": "http://arxiv.org/abs/2609.26621v1",
+        "pdf": "https://arxiv.org/pdf/2609.26621v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Towards Hierarchical GNNs for multi-grid power flow: generalization across operating scenarios",
+        "authors": [
+          "Carmine Delle Femine",
+          "Leire Garin Atxaga",
+          "Asier Diaz-Iglesias",
+          "Juan Pablo Maroto Herrera",
+          "Ane Miren Florez-Tapia"
+        ],
+        "summary": "Hierarchical latent communication improves the generalization of a multi-grid power-flow model to new operating scenarios. The module exchanges information through two reduced graphs within a GENCO-based corrective network. We compare Kron-derived transports, a same-anchor Quotient construction and ",
+        "url": "http://arxiv.org/abs/2609.26603v1",
+        "pdf": "https://arxiv.org/pdf/2609.26603v1",
+        "published": "2026-09-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing",
+        "authors": [
+          "Xiaoxing Ren",
+          "Thomas Parisini",
+          "Andreas A. Malikopoulos"
+        ],
+        "summary": "We study decentralized partially observable team decision problems with low-rank latent dynamics and unknown system models. The proposed framework combines team-theoretic equivalence with low-rank model representations to address cooperative decision-making in partially observable Markov decision pr",
+        "url": "http://arxiv.org/abs/2609.26783v1",
+        "pdf": "https://arxiv.org/pdf/2609.26783v1",
+        "published": "2026-09-22",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "EquivSVA: A Formally Verified Dataset of Behavioral Assertions Across Equivalent RTL Implementations",
+        "authors": [
+          "FNU Aditi"
+        ],
+        "summary": "Large language models are increasingly used to generate SystemVerilog Assertions from natural-language specifica- tions and register-transfer-level designs. Existing datasets and benchmarks support important goals such as large- scale training, formal evaluation, specification-to-assertion generatio",
+        "url": "http://arxiv.org/abs/2609.26751v1",
+        "pdf": "https://arxiv.org/pdf/2609.26751v1",
+        "published": "2026-09-22",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Automatic depth-based local center clustering via $β$-integrated local depth and adaptive grouping",
+        "authors": [
+          "Siyi Wang",
+          "Alexandre Leblanc",
+          "Paul D. McNicholas"
+        ],
+        "summary": "Clustering is an unsupervised learning technique that partitions unlabeled data into groups. Most existing methods require user-specified parameters, such as the number of clusters or neighborhood size. Conversely, we propose automatic depth-based local center clustering (A-DLCC), a fully data-drive",
+        "url": "http://arxiv.org/abs/2609.26748v1",
+        "pdf": "https://arxiv.org/pdf/2609.26748v1",
+        "published": "2026-09-22",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Diffusion-Induced Spatial Attention Overlapping Community Detection",
+        "authors": [
+          "Kosti Koistinen",
+          "Vesa Kuikka",
+          "Joni Herttuainen",
+          "Matthew Hendren",
+          "Brian Holt"
+        ],
+        "summary": "Detection of overlapping communities is essential for modelling networks in which nodes participate simultaneously in multiple structural or functional groups. Existing graph neural network approaches commonly rely on local message passing, which can obscure community boundaries through smoothing an",
+        "url": "http://arxiv.org/abs/2609.26737v1",
+        "pdf": "https://arxiv.org/pdf/2609.26737v1",
+        "published": "2026-09-22",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Optimal Sequential Annotations for Off-Policy Evaluation",
+        "authors": [
+          "Woojin Chae",
+          "Ezinne Nwankwo",
+          "Haitong Qin",
+          "Angela Zhou"
+        ],
+        "summary": "Offline reinforcement learning and off-policy evaluation evaluates dynamic treatment rules based on retrospectively collected data prior to deployment. In recent AI applications, state and reward information is recorded as complex text or image, which recent AI advancements such as LLM-as-a-judge ca",
+        "url": "http://arxiv.org/abs/2609.26707v1",
+        "pdf": "https://arxiv.org/pdf/2609.26707v1",
+        "published": "2026-09-22",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "When are bosonic Gaussian states classical to learn?",
+        "authors": [
+          "Senrui Chen",
+          "Antonio Anna Mele",
+          "Francesco Anna Mele",
+          "John Preskill"
+        ],
+        "summary": "A fundamental question in physics is: When does classical behavior emerge from quantum systems? Bosonic Gaussian states provide a natural setting to explore this quantum-classical boundary, as they capture both the classical field behavior and the intrinsic quantum nature of light. Here, we address ",
+        "url": "http://arxiv.org/abs/2609.26705v1",
+        "pdf": "https://arxiv.org/pdf/2609.26705v1",
+        "published": "2026-09-22",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
