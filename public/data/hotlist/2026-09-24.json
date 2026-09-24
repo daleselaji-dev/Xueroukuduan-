@@ -1,0 +1,592 @@
+{
+  "date": "2026-09-24",
+  "generated": "2026-09-24T07:20:03.378613",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "NandhaKishorM/laya",
+        "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque",
+        "stars": 21395,
+        "language": "Python",
+        "url": "https://github.com/NandhaKishorM/laya",
+        "created": "2026-09-18"
+      },
+      {
+        "rank": 2,
+        "name": "zai-org/ZCode",
+        "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+        "stars": 6616,
+        "language": "TypeScript",
+        "url": "https://github.com/zai-org/ZCode",
+        "created": "2026-09-20"
+      },
+      {
+        "rank": 3,
+        "name": "mizorewww/laya-mlx",
+        "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+        "stars": 6073,
+        "language": "Python",
+        "url": "https://github.com/mizorewww/laya-mlx",
+        "created": "2026-09-19"
+      },
+      {
+        "rank": 4,
+        "name": "jev-chat/jev-chat-jarvis",
+        "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+        "stars": 5476,
+        "language": "Kotlin",
+        "url": "https://github.com/jev-chat/jev-chat-jarvis",
+        "created": "2026-09-21"
+      },
+      {
+        "rank": 5,
+        "name": "unreallabsai/unreal-agent",
+        "description": "Async-first agent harness",
+        "stars": 1792,
+        "language": "Go",
+        "url": "https://github.com/unreallabsai/unreal-agent",
+        "created": "2026-09-21"
+      },
+      {
+        "rank": 6,
+        "name": "bespokelabsai/nimble",
+        "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+        "stars": 1704,
+        "language": "Python",
+        "url": "https://github.com/bespokelabsai/nimble",
+        "created": "2026-09-18"
+      },
+      {
+        "rank": 7,
+        "name": "mizorewww/laya-coreml",
+        "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+        "stars": 1403,
+        "language": "Python",
+        "url": "https://github.com/mizorewww/laya-coreml",
+        "created": "2026-09-19"
+      },
+      {
+        "rank": 8,
+        "name": "newliver666/apk-reverse",
+        "description": "Suitable for Android APK reverse engineering analysis",
+        "stars": 1355,
+        "language": "Python",
+        "url": "https://github.com/newliver666/apk-reverse",
+        "created": "2026-09-19"
+      },
+      {
+        "rank": 9,
+        "name": "driceroland/Search",
+        "description": "A small, fast WebKit browser for macOS, by Office Commun.",
+        "stars": 831,
+        "language": "Swift",
+        "url": "https://github.com/driceroland/Search",
+        "created": "2026-09-20"
+      },
+      {
+        "rank": 10,
+        "name": "Lumid-Off/AirCard-Windows",
+        "description": "",
+        "stars": 814,
+        "language": "Rust",
+        "url": "https://github.com/Lumid-Off/AirCard-Windows",
+        "created": "2026-09-18"
+      },
+      {
+        "rank": 11,
+        "name": "heyjunpenn/awesome-jev",
+        "description": "A verified, community-maintained catalog of 896 open-source projects built with Jev.",
+        "stars": 785,
+        "language": "Astro",
+        "url": "https://github.com/heyjunpenn/awesome-jev",
+        "created": "2026-09-19"
+      },
+      {
+        "rank": 12,
+        "name": "deepopen-com/deepopen",
+        "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+        "stars": 740,
+        "language": "Python",
+        "url": "https://github.com/deepopen-com/deepopen",
+        "created": "2026-09-21"
+      },
+      {
+        "rank": 13,
+        "name": "githubnext/localjev",
+        "description": "",
+        "stars": 740,
+        "language": "TypeScript",
+        "url": "https://github.com/githubnext/localjev",
+        "created": "2026-09-18"
+      },
+      {
+        "rank": 14,
+        "name": "volotat/mini-AGI",
+        "description": "Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data.",
+        "stars": 727,
+        "language": "Python",
+        "url": "https://github.com/volotat/mini-AGI",
+        "created": "2026-09-19"
+      },
+      {
+        "rank": 15,
+        "name": "SewCabinSpout/cleanupper",
+        "description": "🧹 Free, open-source macOS disk cleanup CLI. Scan & safely remove caches, logs, Xcode DerivedData, npm/Homebrew/pip junk and stale node_modules from your terminal. Trash-first, zero telemetry the termi",
+        "stars": 724,
+        "language": "JavaScript",
+        "url": "https://github.com/SewCabinSpout/cleanupper",
+        "created": "2026-09-23"
+      },
+      {
+        "rank": 16,
+        "name": "kerpopule/hermes-jev-skills",
+        "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
+        "stars": 720,
+        "language": "Python",
+        "url": "https://github.com/kerpopule/hermes-jev-skills",
+        "created": "2026-09-18"
+      },
+      {
+        "rank": 17,
+        "name": "incoai/splash",
+        "description": "A local inference engine for Apple silicon, built around the model.",
+        "stars": 709,
+        "language": "Python",
+        "url": "https://github.com/incoai/splash",
+        "created": "2026-09-18"
+      },
+      {
+        "rank": 18,
+        "name": "v-modal/awesome-jev-tools",
+        "description": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
+        "stars": 699,
+        "language": null,
+        "url": "https://github.com/v-modal/awesome-jev-tools",
+        "created": "2026-09-19"
+      },
+      {
+        "rank": 19,
+        "name": "riba2534/claude-opus-5-5-demo",
+        "description": "claude-opus-5-5-demo",
+        "stars": 673,
+        "language": "JavaScript",
+        "url": "https://github.com/riba2534/claude-opus-5-5-demo",
+        "created": "2026-09-23"
+      },
+      {
+        "rank": 20,
+        "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+        "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+        "stars": 644,
+        "language": "Markdown",
+        "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+        "created": "2026-09-19"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+        "authors": [
+          "Curtis Northcutt",
+          "Inaara Hasmani",
+          "Kevin Feng",
+          "Trevor Khangi",
+          "Andreas Plesner"
+        ],
+        "summary": "Artificial intelligence offers an unprecedented opportunity to augment human capabilities, yet progress at the frontier has focused primarily on advancing model capabilities. We introduce StudentBench, a suite of AI teaching evaluations and a public platform that enables large-scale data collection ",
+        "url": "http://arxiv.org/abs/2609.28470v1",
+        "pdf": "https://arxiv.org/pdf/2609.28470v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction",
+        "authors": [
+          "Zilin Fang",
+          "Zishuo Wang",
+          "Gim Hee Lee",
+          "David Hsu"
+        ],
+        "summary": "Social navigation typically assumes a specified goal and focuses on reaching it while respecting social conventions, whereas robot group joining requires predicting where to join based on the group's real-time activity and formation. This is a highly semantic task, yet an important capability for ap",
+        "url": "http://arxiv.org/abs/2609.28467v1",
+        "pdf": "https://arxiv.org/pdf/2609.28467v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark",
+        "authors": [
+          "Hamed Taherkhani",
+          "Mohammad Abdollahi",
+          "Melika Sepidband",
+          "Hridya Dhulipala",
+          "Tien N. Nguyen"
+        ],
+        "summary": "Large language models (LLMs) are increasingly used in coding tasks, but their ability to reason about code execution remains unclear. Existing repository-level QA benchmarks mainly evaluate static code understanding and often rely on LLM-based evaluation, while execution-reasoning benchmarks are mos",
+        "url": "http://arxiv.org/abs/2609.28449v1",
+        "pdf": "https://arxiv.org/pdf/2609.28449v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Order-Invariant Answers, Order-Sensitive Representations in Mathematical Reasoning",
+        "authors": [
+          "Zhixu Silvia Tao"
+        ],
+        "summary": "Reordering a set of mathematical rules without changing its meaning should preserve the correct answer, but must a model's internal representations stay invariant too? We investigate this question using synthetic multi-step function-composition problems, each presented under multiple rule orderings ",
+        "url": "http://arxiv.org/abs/2609.28442v1",
+        "pdf": "https://arxiv.org/pdf/2609.28442v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+        "authors": [
+          "Shuang Sun",
+          "Guoxin Chen",
+          "Fanzhe Meng",
+          "Jia Deng",
+          "Huatong Song"
+        ],
+        "summary": "Recent advances in large language models (LLMs) have enabled agents to tackle long-horizon tasks across diverse environments. To further improve agent performance, existing language world models typically predict environment observations, yet reconstructing high-entropy, execution-dependent tool res",
+        "url": "http://arxiv.org/abs/2609.28416v1",
+        "pdf": "https://arxiv.org/pdf/2609.28416v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Frozen Flows Forget: Diagnosing and Restoring Lost Motion in a Latent-flow World Model",
+        "authors": [
+          "Xiwen Chen",
+          "Rigaudiere Z. Li",
+          "Zhiruo Zhou",
+          "Xiaojun Zhu",
+          "Houde Liu"
+        ],
+        "summary": "Latent world models that integrate a flow in a frozen self supervised latent space train stably and cheaply, yet silently lose the property manipulation depends on most: motion. The pretrained flow never moves the manipulated object; retraining it with latent-only losses only trades stillness for te",
+        "url": "http://arxiv.org/abs/2609.28414v1",
+        "pdf": "https://arxiv.org/pdf/2609.28414v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Learning Holographic Reduced Representations with Clifford Variational Autoencoders",
+        "authors": [
+          "Mohamed Malek Abid",
+          "P. Michael Furlong"
+        ],
+        "summary": "Vector Symbolic Algebras project data structures into a hyperdimensional vector space through the application of their vector algebras to randomly generated atomic vector symbols and fractional power encodings of real-valued data. Embedding unstructured data remains an open question. We present \\tex",
+        "url": "http://arxiv.org/abs/2609.28409v1",
+        "pdf": "https://arxiv.org/pdf/2609.28409v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "When and Where to Trust the Teacher: Unifying On-Policy Distillation and GRPO through Entropy-Calibrated Credit Assignment",
+        "authors": [
+          "Jie Zhang",
+          "Jingxiao Yang",
+          "Zhehao Huang",
+          "Yuhang Liu",
+          "Xiaolin Huang"
+        ],
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) supervises mathematical reasoning through final-answer correctness, but provides little guidance on individual tokens. On-policy distillation (OPD) supplies dense feedback on student-generated responses, yet teacher preference need not reflect co",
+        "url": "http://arxiv.org/abs/2609.28385v1",
+        "pdf": "https://arxiv.org/pdf/2609.28385v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer",
+        "authors": [
+          "Davood Wadi",
+          "Yu Ma"
+        ],
+        "summary": "Consumers increasingly delegate purchasing decisions to Large Language Models (LLMs) acting as surrogate consumers. Using \"Tool-Lab,\" an adaptation of information-board process tracing that places product attributes behind costly tool calls, we examine how marketing pricing cues (i.e., just-below pr",
+        "url": "http://arxiv.org/abs/2609.28372v1",
+        "pdf": "https://arxiv.org/pdf/2609.28372v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "AnchorReasoning: A Visual Grounding and Causal Reasoning Dataset in Long-Tail Autonomous Driving Scenarios",
+        "authors": [
+          "Zhipeng Bao",
+          "Wenjie Zhao",
+          "Tianle Zhu",
+          "Haohua Que",
+          "Chence Yang"
+        ],
+        "summary": "Vision-language models (VLMs) offer a promising approach to long-tail autonomous driving, but existing driving datasets provide limited supervision for connecting decision-critical visual evidence with reasoning and planning. We introduce AnchorReasoning, a visually grounded reasoning dataset built ",
+        "url": "http://arxiv.org/abs/2609.28366v1",
+        "pdf": "https://arxiv.org/pdf/2609.28366v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "MicroQonv: Reshaping Convolution Tensors for Efficient Microscaling in Training and Inference",
+        "authors": [
+          "Romain Facq",
+          "Sami Ben Ali",
+          "Olivier Sentieys"
+        ],
+        "summary": "Microscaling quantization techniques are increasingly used to represent neural network parameters with 8 bits or fewer while preserving near-full precision accuracy. However, applying these methods efficiently in convolutional layers is not straightforward. A naive approach transfers full-precision ",
+        "url": "http://arxiv.org/abs/2609.28358v1",
+        "pdf": "https://arxiv.org/pdf/2609.28358v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "An Open Pipeline and Dashboard for Systemic-Risk Evidence under the EU AI Act's Code of Practice",
+        "authors": [
+          "Jacob T. Emmerson",
+          "Phuong-Anh Nguyen-Le",
+          "Ronan Romano",
+          "Wilber Sean V. Anterola",
+          "Yann Billeter"
+        ],
+        "summary": "Claims about AI safety reach audiences well beyond the AI community, yet many rely on opaque evidence or static assessments, when supporting evidence is accessible at all. We present the Systemic Risk Index, an open evaluation pipeline and dashboard built to make empirical evidence more transparent ",
+        "url": "http://arxiv.org/abs/2609.28335v1",
+        "pdf": "https://arxiv.org/pdf/2609.28335v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Learning the Cost of Reliable Inference",
+        "authors": [
+          "Dimitrios Rontogiannis",
+          "Ander Artola Velasco",
+          "Manuel Gomez Rodriguez"
+        ],
+        "summary": "Benchmarking and routing platforms increasingly act as intermediaries connecting large language model providers with end-users. However, providers on these platforms typically use a fixed price per token, preventing users from achieving the most competitive price for their tasks. % workloads. In thi",
+        "url": "http://arxiv.org/abs/2609.28322v1",
+        "pdf": "https://arxiv.org/pdf/2609.28322v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Shutdown Sabotage Propensities in Multi-Agent Systems",
+        "authors": [
+          "Amelie Knecht",
+          "Ulysse Schaller",
+          "Christopher Summerfield",
+          "Thilo Hagendorff"
+        ],
+        "summary": "The final safeguard against rogue AI behavior is the human ability to shut systems down. It has been theorized that when an AI is instructed to perform a task, self-preservation can emerge as an instrumental subgoal. Here, we test whether AI agents show a propensity to take actions that avoid human ",
+        "url": "http://arxiv.org/abs/2609.28274v1",
+        "pdf": "https://arxiv.org/pdf/2609.28274v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "MemBodied: Recurrent Associative Memory for Vision-Language-Action Models",
+        "authors": [
+          "Tej Deep Pala",
+          "Navonil Majumder",
+          "Bryce Goh",
+          "Raphael Yee",
+          "Jianfei Yang"
+        ],
+        "summary": "Vision-Language-Action models provide a strong foundation for general-purpose robot control, yet a vast majority of policies do not preserve and leverage episode-level information beyond the current observation. This limitation is consequential in history-dependent manipulation tasks that depend on ",
+        "url": "http://arxiv.org/abs/2609.28256v1",
+        "pdf": "https://arxiv.org/pdf/2609.28256v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Controlling Collectives of AI Agents in Reasoning Space with Spatial Transformers",
+        "authors": [
+          "Frederic Vatnsdal",
+          "Roshan Gopal",
+          "Romina Garcia Camargo",
+          "Vijay Kumar",
+          "Alejandro Ribeiro"
+        ],
+        "summary": "Large Language Models (LLMs) introduce an exciting new paradigm for planning and navigation in robotics, but fail on even simple multi-robot tasks as team sizes grow. We propose COMPASS, a scalable, decentralized multi-robot architecture for controlling large collectives of agentic robots with reaso",
+        "url": "http://arxiv.org/abs/2609.28247v1",
+        "pdf": "https://arxiv.org/pdf/2609.28247v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Beyond Poetry: Can Large Language Models Generate Classical Arabic Maqamat?",
+        "authors": [
+          "AbdulRahman A. Morsy",
+          "Aya Zirikly"
+        ],
+        "summary": "Large language models (LLMs) have shown strong performance in creative text generation, yet their ability to produce culturally grounded and stylistically constrained literary forms remains underexplored. Prior work has focused largely on modern language varieties and poetry, while classical prose t",
+        "url": "http://arxiv.org/abs/2609.28245v1",
+        "pdf": "https://arxiv.org/pdf/2609.28245v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Do Center Biases Propagate? Robustness of Pathology Foundation Models in Whole-Slide Image Classification",
+        "authors": [
+          "Ilán Carretero",
+          "Pablo Meseguer",
+          "Rocío del Amor",
+          "Valery Naranjo"
+        ],
+        "summary": "Pathology foundation models (PFMs) have transformed computational pathology through powerful representation learning from histopathological images. PFMs provide rich, discriminative representations for whole slide image (WSI) analysis, enabling tasks such as slide-level classification under multiple",
+        "url": "http://arxiv.org/abs/2609.28231v1",
+        "pdf": "https://arxiv.org/pdf/2609.28231v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "From Agent Output to Authorized Transition",
+        "authors": [
+          "Christopher Koch"
+        ],
+        "summary": "Agentic engineering systems can edit repositories, run tools and tests, build firmware, synthesize schematics, and prepare deployable or manufacturable artifacts. The assurance problem is therefore shifting from whether an agent can produce an output to whether an engineering lifecycle is justified ",
+        "url": "http://arxiv.org/abs/2609.28216v1",
+        "pdf": "https://arxiv.org/pdf/2609.28216v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "PASTABench: Proactive Assessment of Sequential Trajectories for Agent Safety",
+        "authors": [
+          "Jiapeng Sun",
+          "Yujin Zhou",
+          "Han Zhu",
+          "Pengcheng Wen",
+          "Jiayi Zhou"
+        ],
+        "summary": "As Large Language Models (LLMs) evolve into autonomous agents that alter real-world states, ensuring operational safety across multi-step workflows has become a critical challenge. While recent work has moved beyond single-turn evaluation toward multi-turn paradigms, key limitations persist: step-le",
+        "url": "http://arxiv.org/abs/2609.28197v1",
+        "pdf": "https://arxiv.org/pdf/2609.28197v1",
+        "published": "2026-09-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "On the Diffusibility of High-Dimensional Latents",
+        "authors": [
+          "Chao Feng",
+          "Zhiyang Xu",
+          "Bowei Chen",
+          "Yuanjun Xiong",
+          "Xiyao Wang"
+        ],
+        "summary": "Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf encoders are not optimized for faithful reconstruction, discarding fine-grained visual details. As expected, finetuning these encoders for image reco",
+        "url": "http://arxiv.org/abs/2609.28473v1",
+        "pdf": "https://arxiv.org/pdf/2609.28473v1",
+        "published": "2026-09-23",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Contrastive Learning for Authorship Verification",
+        "authors": [
+          "Peter Kirby"
+        ],
+        "summary": "Our results show that contrastive learning outperforms a classification-based approach to authorship verification under the tested settings. We identify loss function, batch size, training duration, pre-trained model, input context length, and random text span data augmentation as important factors ",
+        "url": "http://arxiv.org/abs/2609.28471v1",
+        "pdf": "https://arxiv.org/pdf/2609.28471v1",
+        "published": "2026-09-23",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Even Sharper Bounds for Transductive Learning and Its Applications",
+        "authors": [
+          "Yingzhen Yang"
+        ],
+        "summary": "We introduce Sharper Transductive Local Complexity (STLC), a localized complexity method for transductive learning under uniform sampling without replacement. The construction starts from a Bernstein-type concentration inequality for the supremum of the test--train empirical process. Its proof uses ",
+        "url": "http://arxiv.org/abs/2609.28459v1",
+        "pdf": "https://arxiv.org/pdf/2609.28459v1",
+        "published": "2026-09-23",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Nonequilibrium Phases of Repulsive Self-Attention: Chaos, Attention Condensation, and Emergent Locality",
+        "authors": [
+          "Qucheng Gao",
+          "Zuyi Yang",
+          "Xiao Chen"
+        ],
+        "summary": "We study the nonequilibrium dynamics of a minimal recurrent transformer with $N$ normalized tokens, $Q=K=I$, and a negative value map $V=-I$. Similarity-based attention selects nearby representations, while the negative value map drives tokens away from the selected field. This feedback can continua",
+        "url": "http://arxiv.org/abs/2609.28448v1",
+        "pdf": "https://arxiv.org/pdf/2609.28448v1",
+        "published": "2026-09-23",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Minimal-Norm Univariate Two-Layer ReLU Classification: Exact Solutions and Global Optimality with Skip Connections",
+        "authors": [
+          "Karolina Drabik",
+          "Ben Lewis",
+          "Antoni Puch",
+          "Etienne Boursier",
+          "Piotr Hofman"
+        ],
+        "summary": "We study minimal-norm interpolation and $\\ell_2$-regularized logistic-loss minimization for binary classification by univariate two-layer ReLU networks. We give complete geometric characterizations of the optimal classifiers in function space, resolving how the solutions depend on whether hidden-lay",
+        "url": "http://arxiv.org/abs/2609.28438v1",
+        "pdf": "https://arxiv.org/pdf/2609.28438v1",
+        "published": "2026-09-23",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Context-Continuous Preference Learning for Exoskeleton Personalization",
+        "authors": [
+          "Sunin Baek",
+          "Sungwoo Park",
+          "Daekyum Kim"
+        ],
+        "summary": "Personalizing exoskeleton assistance across operating conditions is constrained by the time and physical effort required to collect user feedback. We examined whether a user's preference landscape varies smoothly across operating conditions and when this continuity supports learning from limited fee",
+        "url": "http://arxiv.org/abs/2609.28427v1",
+        "pdf": "https://arxiv.org/pdf/2609.28427v1",
+        "published": "2026-09-23",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Repairability of Inexact Solvers in Recursive State Estimation with Machine Learning",
+        "authors": [
+          "Yanjun Ji",
+          "Dennis Willsch",
+          "Orkun Şensebat",
+          "Priyanka Arkalgud Ganeshamurthy",
+          "Zhi Pei"
+        ],
+        "summary": "Recursive state estimation often executes approximate numerical solutions inside a feedback loop, where highly accurate local steps do not guarantee better overall results. For a fixed linear Kalman model, we characterize when a correction within a prescribed subspace and norm budget can meet a loca",
+        "url": "http://arxiv.org/abs/2609.28425v1",
+        "pdf": "https://arxiv.org/pdf/2609.28425v1",
+        "published": "2026-09-23",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
