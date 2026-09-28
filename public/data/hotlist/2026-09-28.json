@@ -1,0 +1,597 @@
+{
+  "date": "2026-09-28",
+  "generated": "2026-09-28T08:20:52.008748",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Contrastive-LM/CLM",
+        "description": "",
+        "stars": 2057,
+        "language": "Python",
+        "url": "https://github.com/Contrastive-LM/CLM",
+        "created": "2026-09-23"
+      },
+      {
+        "rank": 2,
+        "name": "tobi/disktree",
+        "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+        "stars": 1710,
+        "language": "Rust",
+        "url": "https://github.com/tobi/disktree",
+        "created": "2026-09-24"
+      },
+      {
+        "rank": 3,
+        "name": "mexicat/pdoom-video",
+        "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+        "stars": 1447,
+        "language": "TypeScript",
+        "url": "https://github.com/mexicat/pdoom-video",
+        "created": "2026-09-24"
+      },
+      {
+        "rank": 4,
+        "name": "yetone/magpie",
+        "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+        "stars": 1410,
+        "language": "Go",
+        "url": "https://github.com/yetone/magpie",
+        "created": "2026-09-23"
+      },
+      {
+        "rank": 5,
+        "name": "JohnHeibel/PDoomVideo",
+        "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+        "stars": 1316,
+        "language": "JavaScript",
+        "url": "https://github.com/JohnHeibel/PDoomVideo",
+        "created": "2026-09-22"
+      },
+      {
+        "rank": 6,
+        "name": "mikehasa/golive-skill",
+        "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No ",
+        "stars": 1024,
+        "language": "TypeScript",
+        "url": "https://github.com/mikehasa/golive-skill",
+        "created": "2026-09-23"
+      },
+      {
+        "rank": 7,
+        "name": "kryvora-network/kryvora-node",
+        "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
+        "stars": 998,
+        "language": "Go",
+        "url": "https://github.com/kryvora-network/kryvora-node",
+        "created": "2026-09-22"
+      },
+      {
+        "rank": 8,
+        "name": "dzhng/jevgrep",
+        "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+        "stars": 958,
+        "language": "TypeScript",
+        "url": "https://github.com/dzhng/jevgrep",
+        "created": "2026-09-26"
+      },
+      {
+        "rank": 9,
+        "name": "852wa/JIZURA",
+        "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+        "stars": 877,
+        "language": "HTML",
+        "url": "https://github.com/852wa/JIZURA",
+        "created": "2026-09-23"
+      },
+      {
+        "rank": 10,
+        "name": "dgreenheck/tidewater",
+        "description": "Coastal town built with Opus 5.5",
+        "stars": 862,
+        "language": "JavaScript",
+        "url": "https://github.com/dgreenheck/tidewater",
+        "created": "2026-09-23"
+      },
+      {
+        "rank": 11,
+        "name": "riba2534/claude-opus-5-5-demo",
+        "description": "claude-opus-5-5-demo",
+        "stars": 861,
+        "language": "JavaScript",
+        "url": "https://github.com/riba2534/claude-opus-5-5-demo",
+        "created": "2026-09-23"
+      },
+      {
+        "rank": 12,
+        "name": "ollaya-dev/ollaya",
+        "description": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
+        "stars": 752,
+        "language": "Rust",
+        "url": "https://github.com/ollaya-dev/ollaya",
+        "created": "2026-09-23"
+      },
+      {
+        "rank": 13,
+        "name": "asokurasu/text-humanizer",
+        "description": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
+        "stars": 744,
+        "language": "Python",
+        "url": "https://github.com/asokurasu/text-humanizer",
+        "created": "2026-09-23"
+      },
+      {
+        "rank": 14,
+        "name": "yukitorido/short-video-generator-AI",
+        "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+        "stars": 726,
+        "language": "Python",
+        "url": "https://github.com/yukitorido/short-video-generator-AI",
+        "created": "2026-09-23"
+      },
+      {
+        "rank": 15,
+        "name": "anishfn/shapeshift",
+        "description": "An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
+        "stars": 711,
+        "language": "TypeScript",
+        "url": "https://github.com/anishfn/shapeshift",
+        "created": "2026-09-22"
+      },
+      {
+        "rank": 16,
+        "name": "supermemoryai/company-brain",
+        "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+        "stars": 710,
+        "language": "TypeScript",
+        "url": "https://github.com/supermemoryai/company-brain",
+        "created": "2026-09-25"
+      },
+      {
+        "rank": 17,
+        "name": "feitangyuan/onetake",
+        "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and featur",
+        "stars": 607,
+        "language": "Python",
+        "url": "https://github.com/feitangyuan/onetake",
+        "created": "2026-09-26"
+      },
+      {
+        "rank": 18,
+        "name": "alexgreensh/anidoodle",
+        "description": "Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of styles, identical on every render.",
+        "stars": 602,
+        "language": "TypeScript",
+        "url": "https://github.com/alexgreensh/anidoodle",
+        "created": "2026-09-22"
+      },
+      {
+        "rank": 19,
+        "name": "Niko1221/Strata",
+        "description": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+        "stars": 598,
+        "language": "C++",
+        "url": "https://github.com/Niko1221/Strata",
+        "created": "2026-09-24"
+      },
+      {
+        "rank": 20,
+        "name": "kydlikebtc/awesome-jev",
+        "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance ar",
+        "stars": 582,
+        "language": "Python",
+        "url": "https://github.com/kydlikebtc/awesome-jev",
+        "created": "2026-09-22"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
+        "authors": [
+          "Parsa Hosseini",
+          "Akasha Tigalappanavara",
+          "Sumit Nawathe",
+          "Chenrui Fan",
+          "Sourya Basu"
+        ],
+        "summary": "Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping mechanisms or by explicitly encouraging shorter reasoning during training, for example through reinfor",
+        "url": "http://arxiv.org/abs/2609.31619v1",
+        "pdf": "https://arxiv.org/pdf/2609.31619v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Statistical attribute alignment for black-box generative AI via output post-processing",
+        "authors": [
+          "Kevin Jiang",
+          "Morgane Austern",
+          "Edgar Dobriban",
+          "Jason M. Klusowski"
+        ],
+        "summary": "Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-generated output aligns with a user-specified target. This is motivated by examples such as fairness, whe",
+        "url": "http://arxiv.org/abs/2609.31607v1",
+        "pdf": "https://arxiv.org/pdf/2609.31607v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
+        "authors": [
+          "Md Shohel Arman",
+          "Igor Molybog"
+        ],
+        "summary": "We investigate whether natural-language documentation helps coding agents resolve software issues, and we build the tools to construct and evaluate it. We introduce a roundtrip benchmark that scores code descriptions by whether code regenerated from them passes the original tests, and show that comp",
+        "url": "http://arxiv.org/abs/2609.31587v1",
+        "pdf": "https://arxiv.org/pdf/2609.31587v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "OC-GS: Gaussian Splatting for Irregular Turntable Capture",
+        "authors": [
+          "Jae Joong Lee",
+          "Bedrich Benes"
+        ],
+        "summary": "Uneven rotation and dropped frames make equal-angle assumptions unreliable for turntable reconstruction. We present OC-GS, an object-centric Gaussian splatting that refines each image's angle while maintaining a shared camera, rotation axis, and pivot. This orbit-consistent refinement jointly optimi",
+        "url": "http://arxiv.org/abs/2609.31572v1",
+        "pdf": "https://arxiv.org/pdf/2609.31572v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Adapting for AI: How elementary teachers adjust their practices for an AI-integrated curriculum",
+        "authors": [
+          "Fasika Melese",
+          "Ruiyang Wu",
+          "Xinyue Cui",
+          "Joanna Perkins",
+          "Xiaoyi Tian"
+        ],
+        "summary": "Conversational AI tools are entering children's everyday experiences, and schools are interested in adopting them. However, successful classroom integration depends not only on the technology but also on the work teachers do to make it usable and appropriate for their students and classroom context.",
+        "url": "http://arxiv.org/abs/2609.31569v1",
+        "pdf": "https://arxiv.org/pdf/2609.31569v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education",
+        "authors": [
+          "Quang Nguyen",
+          "Hieu Nguyen",
+          "Hien Hoang",
+          "Toan Pham",
+          "Cong Tran"
+        ],
+        "summary": "AI tutoring could markedly improve learning outcomes for students in developing regions such as Vietnam, yet the two obvious paths both fall short. Cloud assistants such as ChatGPT route sensitive student data to foreign servers---violating data-sovereignty laws such as Vietnam's Decree 53---and, pr",
+        "url": "http://arxiv.org/abs/2609.31568v1",
+        "pdf": "https://arxiv.org/pdf/2609.31568v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Multi-agent Scaling Across Disjunctive and Compensatory Tasks",
+        "authors": [
+          "Carolina Fortuna",
+          "Blaz Bertalanic"
+        ],
+        "summary": "Multi-agent LLM systems are often expected to improve as team size increases, yet the scaling behavior may depend on task structure. Our central contribution is to introduce Steiner's taxonomy of group tasks as a framework for analyzing multi-agent LLM scaling and focusing the analysis on disjunctiv",
+        "url": "http://arxiv.org/abs/2609.31563v1",
+        "pdf": "https://arxiv.org/pdf/2609.31563v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "A Flow Matching Framework for Neural Representational Dissimilarity",
+        "authors": [
+          "Zeyuan Ye",
+          "Xue-Xin Wei"
+        ],
+        "summary": "Neural representational dissimilarity quantifies differences between neural response distributions, and is essential for comparing neural codes across stimuli, brain areas, tasks, and models. Commonly used distance metrics involve different assumptions and are estimated with separate methods. Here, ",
+        "url": "http://arxiv.org/abs/2609.31544v1",
+        "pdf": "https://arxiv.org/pdf/2609.31544v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Can You Check That? The Checkability Boundary for Local LLM Network Automation",
+        "authors": [
+          "Maleeha Masood",
+          "Momina Nofal"
+        ],
+        "summary": "Sending every network-automation input to a third-party frontier LLM exports sensitive artifacts such as production configurations, topologies, and logs. Querying small language models (SLMs) locally avoids this egress, but SLM outputs can be error-prone for direct use. This work introduces checkabi",
+        "url": "http://arxiv.org/abs/2609.31540v1",
+        "pdf": "https://arxiv.org/pdf/2609.31540v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "ClearGS: Reliability-Aware Gaussian Splatting from Handheld Videos",
+        "authors": [
+          "Xuanzhi Liu",
+          "Xinyi Wu",
+          "Hang Pan",
+          "Wensi Huang",
+          "Zhenyao Wu"
+        ],
+        "summary": "We present ClearGS for 3D Gaussian Splatting (3DGS) from handheld videos with uneven viewpoint coverage and mixed frame quality. Rather than selecting frames with binary decisions, ClearGS uses Reliability-aware View Allocation (RVA) to assign graded raw-supervision weights based on appearance relia",
+        "url": "http://arxiv.org/abs/2609.31509v1",
+        "pdf": "https://arxiv.org/pdf/2609.31509v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Evaluating Cultural Awareness of LLMs for Haitian Creole",
+        "authors": [
+          "Christelle Clervilsson",
+          "Yanzhu Guo"
+        ],
+        "summary": "Large language models (LLMs) exhibit substantial performance disparities between high- and low-resource languages. Beyond lower task performance, they often fail to capture the cultural norms and values of underrepresented communities. In this work, we present the first systematic evaluation of cult",
+        "url": "http://arxiv.org/abs/2609.31506v1",
+        "pdf": "https://arxiv.org/pdf/2609.31506v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Prompt Minimization: Reducing Input Redundancy Without Sacrificing Output Fidelity",
+        "authors": [
+          "Marius F. R. Juston",
+          "Kevin A. Karim",
+          "Jonathan Gao",
+          "Kevin C. Li",
+          "Rudhi Bashambu"
+        ],
+        "summary": "Despite the growing capabilities of large language models (LLMs), prompt design remains largely heuristic and ad hoc. This project will explore $\\textit{prompt minimization}$, the process of reducing prompts to their smallest, most information-dense form while preserving output fidelity. Practically",
+        "url": "http://arxiv.org/abs/2609.31505v1",
+        "pdf": "https://arxiv.org/pdf/2609.31505v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "UQ-LOB: Uncertainty-Aware Limit Order Book Mid-Price Forecasting",
+        "authors": [
+          "Derrick Gilchrist Edward Manoharan",
+          "Eljas Linna",
+          "Kestutis Baltakys",
+          "Hao Dong",
+          "Juho Kanniainen"
+        ],
+        "summary": "Forecasting short-horizon mid-price movements from limit order book (LOB) data is central to algorithmic trading, yet most deep LOB forecasters are point predictors: they output a direction or a displacement, but never indicate which of their forecasts can be trusted. We introduce UQ-LOB, a lightwei",
+        "url": "http://arxiv.org/abs/2609.31491v1",
+        "pdf": "https://arxiv.org/pdf/2609.31491v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "\"AI is (not) the new...\": A Diagnostic Analogy Framework for Generative AI's Cultural Impacts",
+        "authors": [
+          "Rida Qadri",
+          "Vinodkumar Prabhakaran",
+          "Remi Denton"
+        ],
+        "summary": "Generative AI is reshaping the cultural infrastructures through which knowledge is found, synthesized, and held accountable. To make sense of this shift, scholars and policymakers reach for historical analogies of technologies such as the printing press, steam power or electricity. But these compari",
+        "url": "http://arxiv.org/abs/2609.31482v1",
+        "pdf": "https://arxiv.org/pdf/2609.31482v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Game Arena: Strategic LLM Evaluation in Competitive Environments",
+        "authors": [
+          "Bovard Doerschuk-Tiberi",
+          "Yao Yan",
+          "Justin Chiu",
+          "Hann Wang",
+          "Timothy Chung"
+        ],
+        "summary": "We introduce Kaggle Game Arena, an open and ever-expanding platform to evaluate large language models (LLMs) through competitive games. Different from static benchmarks, game arena enables models to play head-to-head matchups in structured environments where the gameplay strength naturally increases",
+        "url": "http://arxiv.org/abs/2609.31473v1",
+        "pdf": "https://arxiv.org/pdf/2609.31473v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "PriceBench: A Diagnostic Benchmark for Price, Quality, and Brand Preferences in LLM Booking Agents",
+        "authors": [
+          "Pavel Kireyev"
+        ],
+        "summary": "LLMs increasingly act as purchasing agents, which makes the LLM, not the user, the one choosing among the options that satisfy a request; its preferences quietly fix what gets bought and what it costs. Hotel booking is a clean instance: a high-volume choice settled on a few comparable attributes, wh",
+        "url": "http://arxiv.org/abs/2609.31468v1",
+        "pdf": "https://arxiv.org/pdf/2609.31468v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Uncertainty-Aware Federated Learning for Infant Movement Analysis",
+        "authors": [
+          "Edmond S. L. Ho"
+        ],
+        "summary": "Infant movement analysis provides valuable biomarkers for the early identification of neurodevelopmental disorders. Recent advances in deep learning have enabled automated analysis of infant movements from video-derived skeletal representations, achieving performance comparable to expert assessment ",
+        "url": "http://arxiv.org/abs/2609.31463v1",
+        "pdf": "https://arxiv.org/pdf/2609.31463v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Segment-Level Agentic Topic Modeling for Improved Data Exploration and Resource Efficiency",
+        "authors": [
+          "Myeongjun Erik Jang",
+          "Antonios Georgiadis",
+          "Sae Young Moon",
+          "Fran Silavong"
+        ],
+        "summary": "Topic modeling is an effective technique for discovering hidden themes within documents and is widely used in text mining and data analysis across a variety of industry sectors. Recently, large language model (LLM)-based topic models have been emerged that prompt LLMs to generate topics then assign ",
+        "url": "http://arxiv.org/abs/2609.31460v1",
+        "pdf": "https://arxiv.org/pdf/2609.31460v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Different Corruptions, Different Signals: Uncertainty and Loss in Federated Data Quality",
+        "authors": [
+          "Bradley Scott",
+          "Zeqi Luo",
+          "Edmond S. L. Ho"
+        ],
+        "summary": "Federated learning (FL) data corruption can affect either inputs or labels, but it remains unclear whether input-conditional uncertainty and prediction-label loss expose these corruption modes equally. This paper compares two corruption-detection signals in FL: input-conditional uncertainty and pred",
+        "url": "http://arxiv.org/abs/2609.31454v1",
+        "pdf": "https://arxiv.org/pdf/2609.31454v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "From Reward Signal to Visual Utility: A Controlled Audit of Medical VLM Post-Training",
+        "authors": [
+          "Wang Jingxin"
+        ],
+        "summary": "Medical vision-language model (VLM) post-training is commonly evaluated through answer accuracy. We examine how changes in accuracy and training objectives relate to image-conditioned decisions in a controlled Qwen2.5-VL-3B study on PMC-VQA. We compare supervised fine-tuning (SFT) with low-rank adap",
+        "url": "http://arxiv.org/abs/2609.31450v1",
+        "pdf": "https://arxiv.org/pdf/2609.31450v1",
+        "published": "2026-09-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Gap-free Differentially Private PCA for Gaussian Data",
+        "authors": [
+          "Alina Ene",
+          "Huy L. Nguyen"
+        ],
+        "summary": "We give a gap-free differentially private algorithm for the principal component analysis (PCA) problem with Gaussian data.",
+        "url": "http://arxiv.org/abs/2609.31614v1",
+        "pdf": "https://arxiv.org/pdf/2609.31614v1",
+        "published": "2026-09-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "First-Order Stationarity of Reverse Diffusions",
+        "authors": [
+          "Zhifeng Chen",
+          "Chenyang Jiang",
+          "Yazhen Wang"
+        ],
+        "summary": "Recent literature has shown a strong connection between optimization and sampling. We develop the corresponding first-order theory for diffusion models. First, the SDE-based reverse-time flows of overdamped and underdamped Langevin diffusions contract relative Fisher divergences at explicit exponent",
+        "url": "http://arxiv.org/abs/2609.31612v1",
+        "pdf": "https://arxiv.org/pdf/2609.31612v1",
+        "published": "2026-09-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "User Model Extraction via Belief Self-Distillation",
+        "authors": [
+          "Ali Holmov",
+          "Yiran Huang",
+          "Kirill Bykov",
+          "Zeynep Akata"
+        ],
+        "summary": "Large language models (LLMs) implicitly infer attributes of their users and adapt their behavior accordingly, yet these beliefs remain difficult to inspect and causally manipulate. We introduce Belief Self-Distillation (BSD), a unified read-write framework that bridges linear and causal probing by l",
+        "url": "http://arxiv.org/abs/2609.31603v1",
+        "pdf": "https://arxiv.org/pdf/2609.31603v1",
+        "published": "2026-09-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "New LoRA Skills Should Read but Never Write",
+        "authors": [
+          "Zeyan Li",
+          "Panqi Yang",
+          "Qirong Guo",
+          "Shengda Zhuo",
+          "SIyuan Qiu"
+        ],
+        "summary": "Low-rank adapters (LoRA) make it cheap to fine-tune a large language model once per task, but combining several independently trained adapters into one model remains difficult: merging the updates in weight space causes interference, retraining on all task data is expensive, and routing between sepa",
+        "url": "http://arxiv.org/abs/2609.31600v1",
+        "pdf": "https://arxiv.org/pdf/2609.31600v1",
+        "published": "2026-09-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Common-Mode Collapse and Recovery in Direct Feedback Alignment",
+        "authors": [
+          "Varun Reddy",
+          "Bernardo L. Sabatini",
+          "Houman Safaai"
+        ],
+        "summary": "Direct feedback alignment (DFA) trains hidden layers through fixed random projections of output error. With tanh hidden units and independent sigmoid outputs, plain stochastic gradient descent can stall near the loss of a constant predictor of class frequencies. We trace this stall to the error's co",
+        "url": "http://arxiv.org/abs/2609.31589v1",
+        "pdf": "https://arxiv.org/pdf/2609.31589v1",
+        "published": "2026-09-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Trust Guided Decision Transformer",
+        "authors": [
+          "Chainesh Gautam",
+          "Raghuram Bharadwaj Diddigi",
+          "Chandramouli Kamanchi",
+          "Pankaj Dayama",
+          "Sumanta Mukherjee"
+        ],
+        "summary": "Decision Transformer performance degrades on long rollouts because the conditioning context drifts out of the training distribution. We show that this drift is visible through the model's own next state prediction error, which rises during rollout and stays elevated, giving a direct signal of when c",
+        "url": "http://arxiv.org/abs/2609.31586v1",
+        "pdf": "https://arxiv.org/pdf/2609.31586v1",
+        "published": "2026-09-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Uncertainty and Explainability in Deep Rough Volatility: A Neural Information-Theoretic Posterior Approach",
+        "authors": [
+          "Damiano Brigo",
+          "Raphaël Huser",
+          "Dan Leonte"
+        ],
+        "summary": "Deep learning has substantially accelerated the calibration of complex stochastic-volatility models, but neural point calibration alone does not capture the uncertainty remaining after an implied-volatility (IV) surface has been observed. We develop a simulation-based inference framework for rough H",
+        "url": "http://arxiv.org/abs/2609.31570v1",
+        "pdf": "https://arxiv.org/pdf/2609.31570v1",
+        "published": "2026-09-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Weight Pair Encoding: Inducing a Smaller Grammar in Neural Network Weights",
+        "authors": [
+          "Irene Tallini",
+          "Daniele Solombrino",
+          "Alberto Cazzaniga",
+          "Emanuele Rodolà"
+        ],
+        "summary": "We show that neural network weights can be explicilty fintuned to admit a smaller grammar. Weight Pair Encoding (WeightPE) does so by placing a lossy Re-Pair compressor inside a straight-through estimator. The int8 weights of the network are flattened into one string, and near-matching Re-Pair patte",
+        "url": "http://arxiv.org/abs/2609.31564v1",
+        "pdf": "https://arxiv.org/pdf/2609.31564v1",
+        "published": "2026-09-25",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
