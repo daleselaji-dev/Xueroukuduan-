@@ -1,0 +1,557 @@
+{
+  "date": "2026-09-30",
+  "generated": "2026-09-30T08:07:41.263744",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "KKKKhazix/AIHOT",
+        "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+        "stars": 3667,
+        "language": "TypeScript",
+        "url": "https://github.com/KKKKhazix/AIHOT",
+        "created": "2026-09-28"
+      },
+      {
+        "rank": 2,
+        "name": "Niko1221/Strata",
+        "description": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+        "stars": 2037,
+        "language": "C++",
+        "url": "https://github.com/Niko1221/Strata",
+        "created": "2026-09-24"
+      },
+      {
+        "rank": 3,
+        "name": "mexicat/pdoom-video",
+        "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+        "stars": 2022,
+        "language": "TypeScript",
+        "url": "https://github.com/mexicat/pdoom-video",
+        "created": "2026-09-24"
+      },
+      {
+        "rank": 4,
+        "name": "tobi/disktree",
+        "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+        "stars": 1936,
+        "language": "Rust",
+        "url": "https://github.com/tobi/disktree",
+        "created": "2026-09-24"
+      },
+      {
+        "rank": 5,
+        "name": "dzhng/jevgrep",
+        "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+        "stars": 1822,
+        "language": "TypeScript",
+        "url": "https://github.com/dzhng/jevgrep",
+        "created": "2026-09-26"
+      },
+      {
+        "rank": 6,
+        "name": "shihabal3amri/DiPlay",
+        "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+        "stars": 1163,
+        "language": "Kotlin",
+        "url": "https://github.com/shihabal3amri/DiPlay",
+        "created": "2026-09-24"
+      },
+      {
+        "rank": 7,
+        "name": "firelex/jeff",
+        "description": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+        "stars": 1116,
+        "language": "Python",
+        "url": "https://github.com/firelex/jeff",
+        "created": "2026-09-28"
+      },
+      {
+        "rank": 8,
+        "name": "feitangyuan/onetake",
+        "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and featur",
+        "stars": 1005,
+        "language": "Python",
+        "url": "https://github.com/feitangyuan/onetake",
+        "created": "2026-09-26"
+      },
+      {
+        "rank": 9,
+        "name": "yihui-dev/awesome-opus5-5-videos",
+        "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+        "stars": 978,
+        "language": null,
+        "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+        "created": "2026-09-27"
+      },
+      {
+        "rank": 10,
+        "name": "kaankiziltug/logo-design-skill",
+        "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+        "stars": 920,
+        "language": "HTML",
+        "url": "https://github.com/kaankiziltug/logo-design-skill",
+        "created": "2026-09-26"
+      },
+      {
+        "rank": 11,
+        "name": "supermemoryai/company-brain",
+        "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+        "stars": 860,
+        "language": "TypeScript",
+        "url": "https://github.com/supermemoryai/company-brain",
+        "created": "2026-09-25"
+      },
+      {
+        "rank": 12,
+        "name": "wy51ai/floorplan-3d",
+        "description": "",
+        "stars": 698,
+        "language": "HTML",
+        "url": "https://github.com/wy51ai/floorplan-3d",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 13,
+        "name": "lemomo-ai/lemo-opuscar",
+        "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码",
+        "stars": 639,
+        "language": "JavaScript",
+        "url": "https://github.com/lemomo-ai/lemo-opuscar",
+        "created": "2026-09-26"
+      },
+      {
+        "rank": 14,
+        "name": "glanderness/BeefTV",
+        "description": "Local-first, lightweight, AI-native video workspace.",
+        "stars": 577,
+        "language": "TypeScript",
+        "url": "https://github.com/glanderness/BeefTV",
+        "created": "2026-09-24"
+      },
+      {
+        "rank": 15,
+        "name": "feder-cr/dots",
+        "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+        "stars": 559,
+        "language": "Python",
+        "url": "https://github.com/feder-cr/dots",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 16,
+        "name": "OpSafari/hypoarena",
+        "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tourn",
+        "stars": 544,
+        "language": "Python",
+        "url": "https://github.com/OpSafari/hypoarena",
+        "created": "2026-09-30"
+      },
+      {
+        "rank": 17,
+        "name": "amitshekhariitbhu/ai-system-design",
+        "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+        "stars": 471,
+        "language": "Markdown",
+        "url": "https://github.com/amitshekhariitbhu/ai-system-design",
+        "created": "2026-09-25"
+      },
+      {
+        "rank": 18,
+        "name": "SpecterLouse/CapCut-Pro-macOS-Windows",
+        "description": "Capcut Pro Unlocked v2026.7 - Full Premium (Windows & MacOS)",
+        "stars": 454,
+        "language": null,
+        "url": "https://github.com/SpecterLouse/CapCut-Pro-macOS-Windows",
+        "created": "2026-09-25"
+      },
+      {
+        "rank": 19,
+        "name": "zouyuxuan122/dsh-our-free-model",
+        "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Mu",
+        "stars": 452,
+        "language": "JavaScript",
+        "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
+        "created": "2026-09-24"
+      },
+      {
+        "rank": 20,
+        "name": "wangmingxuan666/Tiersense",
+        "description": "",
+        "stars": 450,
+        "language": null,
+        "url": "https://github.com/wangmingxuan666/Tiersense",
+        "created": "2026-09-24"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
+        "authors": [
+          "Zihang Rui",
+          "Renhao Wang",
+          "Haoxu Huang",
+          "Yang Gao"
+        ],
+        "summary": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requiring human demonstration of each correction. Recent agentic sys",
+        "url": "http://arxiv.org/abs/2609.38178v1",
+        "pdf": "https://arxiv.org/pdf/2609.38178v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+        "authors": [
+          "Bingchen Yao",
+          "Haobo Xu",
+          "Haokun Lin",
+          "Yichen Wu",
+          "Ziyu Guo"
+        ],
+        "summary": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recurrent states to low precision often leads to severe accuracy degradation, as quantization errors prop",
+        "url": "http://arxiv.org/abs/2609.38169v1",
+        "pdf": "https://arxiv.org/pdf/2609.38169v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
+        "authors": [
+          "Yi Pan",
+          "Haocheng Xi",
+          "Kan Zhu",
+          "Xingyang Li",
+          "Yibo Wu"
+        ],
+        "summary": "Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context into a fixed-size recurrent state and substantially reduce the cost of long-context processing, repeate",
+        "url": "http://arxiv.org/abs/2609.38166v1",
+        "pdf": "https://arxiv.org/pdf/2609.38166v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies",
+        "authors": [
+          "Hui Ren",
+          "Lei Fan",
+          "Henry Pao",
+          "Han Guo",
+          "Zeeshan Zia"
+        ],
+        "summary": "Answering questions about long videos often requires connecting events involving the same objects across hours or days. Chronological descriptions and text-derived entities can leave physical identity unresolved: different objects may share a description, while observations of the same object remain",
+        "url": "http://arxiv.org/abs/2609.38155v1",
+        "pdf": "https://arxiv.org/pdf/2609.38155v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
+        "authors": [
+          "Paras Dahal",
+          "Anton Bakhtin",
+          "Taco Cohen",
+          "Zhengxing Chen",
+          "Carole-Jean Wu"
+        ],
+        "summary": "As agents take on longer and more complex problems, controlling the execution becomes a task in its own right. Each step in the run brings new control choices, like which partial work to build on, whether to start fresh, or when to stop. We introduce agentic meta-reasoning, an inference-time harness",
+        "url": "http://arxiv.org/abs/2609.38147v1",
+        "pdf": "https://arxiv.org/pdf/2609.38147v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
+        "authors": [
+          "Cheng Qian",
+          "Kunlun Zhu",
+          "Beibin Li",
+          "Zhenhailong Wang",
+          "Heng Ji"
+        ],
+        "summary": "Agent performance depends on both reasoning ability and the environment in which it acts. We study test-time AI-for-AI, asking how a Builder can learn to construct better execution environments for a Target while both models' weights remain fixed. To make the Builder's experience reusable, we introd",
+        "url": "http://arxiv.org/abs/2609.38143v1",
+        "pdf": "https://arxiv.org/pdf/2609.38143v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation",
+        "authors": [
+          "Rishabh Agrawal",
+          "Hejie Cui",
+          "Shasha Li",
+          "Shanchan Wu",
+          "Sercan Ö. Arık"
+        ],
+        "summary": "A small trainable advisor can steer a frozen language-model executor using natural-language advice. In addition to learning from task rewards, the advisor can use feedback from completed interactions to improve its advice. However, a plausible correction need not change execution, yet learning from ",
+        "url": "http://arxiv.org/abs/2609.38142v1",
+        "pdf": "https://arxiv.org/pdf/2609.38142v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE",
+        "authors": [
+          "Yu Xu",
+          "Yuxin Zhang",
+          "Xiao Yang",
+          "Haotian Yang",
+          "Yizhi Wang"
+        ],
+        "summary": "Mixture-of-Experts (MoE), popularized by large language models, is a promising paradigm for scaling visual generative models. However, conventional token-wise MoE routes tokens independently within a homogeneous expert pool and regularizes expert usage toward uniformity, making it poorly matched to ",
+        "url": "http://arxiv.org/abs/2609.38140v1",
+        "pdf": "https://arxiv.org/pdf/2609.38140v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Stochastic World Models for Verifying Vision-Based Neural Feedback Systems",
+        "authors": [
+          "I. Samuel Akinwande",
+          "Mykel J. Kochenderfer",
+          "Clark Barrett"
+        ],
+        "summary": "Verifying a vision-based neural feedback system requires a model of the observations its controller acts upon. Such a model must capture the variation the sensor produces, while remaining tractable for closed-loop analysis. Generative adversarial networks (GANs) have served as perception surrogates,",
+        "url": "http://arxiv.org/abs/2609.38120v1",
+        "pdf": "https://arxiv.org/pdf/2609.38120v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "How Local Mixing Encodes Relative Position in Global NoPE Attention",
+        "authors": [
+          "Cutter Dawes",
+          "Nick Alonso",
+          "Tom Figliolia",
+          "Beren Millidge"
+        ],
+        "summary": "The attention operation is naively position invariant. However, positional information is fundamental to natural language, and therefore a variety of explicit position encodings have been developed in transformer-based models, such as rotary position encoding (RoPE). Although explicit position encod",
+        "url": "http://arxiv.org/abs/2609.38109v1",
+        "pdf": "https://arxiv.org/pdf/2609.38109v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Do LLM Agents Execute the Plans They Declare? From Planning-Mode Declaration to Pattern-Specific Execution",
+        "authors": [
+          "Subba Reddy Oota",
+          "Francisco Herrera",
+          "Jordi Cabot Sagrera",
+          "Marcos López de Prado",
+          "Shadab Khan"
+        ],
+        "summary": "Large language models (LLMs) enable agents to solve long-horizon tasks by generating a plan and then executing it in an environment. However, successful planning requires two distinct capabilities: selecting an appropriate plan for the task and executing it faithfully. Existing planner--executor sys",
+        "url": "http://arxiv.org/abs/2609.38108v1",
+        "pdf": "https://arxiv.org/pdf/2609.38108v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Correct Answers, Invalid Traces: What Verifiable Grade-School Math Reveals About Chain-of-Thought Traces",
+        "authors": [
+          "Ratish Puduppully",
+          "Pranabendu Misra",
+          "Paarth Iyer",
+          "Durgesh Kalwar",
+          "Vardhan Palod"
+        ],
+        "summary": "Chain-of-thought traces are widely read as records of how models reach their answers, informing debugging, agent auditing, and claims about reasoning. Testing this interpretation is difficult because natural-language thinking traces are rarely mechanically verifiable. We revisit it in iGSM, a synthe",
+        "url": "http://arxiv.org/abs/2609.38107v1",
+        "pdf": "https://arxiv.org/pdf/2609.38107v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "NeuronEye: Query-Guided Visual Concept Activation for Vision-Language Reasoning",
+        "authors": [
+          "Ruiyu Yan",
+          "Bowen Chen",
+          "Shaowen Wan",
+          "Lin Zhao"
+        ],
+        "summary": "Current vision-language models (VLMs) encode visual information in dense hidden states where object identity, spatial layout, and local attributes are implicitly entangled rather than explicitly disentangled, limiting their ability to isolate and modulate the specific visual evidence required by a g",
+        "url": "http://arxiv.org/abs/2609.38098v1",
+        "pdf": "https://arxiv.org/pdf/2609.38098v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Character Training for Risk-Averse Agents",
+        "authors": [
+          "Arav Dhoot",
+          "Punya Syon Pandey",
+          "Jamie Johnson",
+          "Daniel Tan",
+          "Elliott Thornley"
+        ],
+        "summary": "Risk aversion in resources could prevent misaligned AI agents from causing catastrophic harm. Misaligned but risk-averse agents would tend to favor safer strategies like making deals with humans over riskier strategies like rebelling. We train agents to be risk averse through character training, fin",
+        "url": "http://arxiv.org/abs/2609.38093v1",
+        "pdf": "https://arxiv.org/pdf/2609.38093v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Neural topology optimization of ship structures under propulsion machinery vibrations",
+        "authors": [
+          "Shengyu Yan",
+          "Muhammad Muztahidul Hakim Zareer",
+          "Jasmin Jelovica"
+        ],
+        "summary": "Ship structural vibrations contribute to noise, fatigue, and equipment damage, while dynamic-compliance topology optimization can produce pathological designs near resonance. This study extends neural-reparameterized topology optimization using a convolutional Kolmogorov-Arnold network (KATO) to for",
+        "url": "http://arxiv.org/abs/2609.38089v1",
+        "pdf": "https://arxiv.org/pdf/2609.38089v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Probability is Not Enough: Exploring and Counting Divergent Tokens for Reasoning Uncertainty Quantification in LLMs",
+        "authors": [
+          "Feiyang Li",
+          "Shengjing Liu",
+          "Qi Zhan",
+          "Sijie Cheng",
+          "Weiqing Wang"
+        ],
+        "summary": "As the chain-of-thought reasoning capabilities of large language models improve, evaluating and calibrating their reasoning confidence is becoming increasingly important for quantifying the uncertainty of their answers. Current methods for estimating the confidence of large language models are gener",
+        "url": "http://arxiv.org/abs/2609.38070v1",
+        "pdf": "https://arxiv.org/pdf/2609.38070v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Jaxolotl: A Unified High-Performance Benchmark Suite for LTL-Based Multi-Task RL",
+        "authors": [
+          "Mathias Jackermeier",
+          "Jacques Cloete",
+          "Alessandro Abate"
+        ],
+        "summary": "Training agents to follow arbitrary instructions is an important goal of multi-task reinforcement learning (RL). Linear temporal logic (LTL) provides a precise and structured formalism for specifying instructions to agents, and has been successfully adopted for training generalist multi-task policie",
+        "url": "http://arxiv.org/abs/2609.38065v1",
+        "pdf": "https://arxiv.org/pdf/2609.38065v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "UserProxyBench: Evaluating LLM User Simulators for Agent Benchmarks and Training",
+        "authors": [
+          "Ashish Jain",
+          "Armaan Sandhu"
+        ],
+        "summary": "Interactive agent benchmarks and multi-turn reinforcement learning increasingly place a second language model in the role of the user. This simulated user controls what information the agent receives and when, yet current benchmarks score only the agent and do not directly measure whether the user c",
+        "url": "http://arxiv.org/abs/2609.38043v1",
+        "pdf": "https://arxiv.org/pdf/2609.38043v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Gender bias across LLMs is common and highly heterogenous",
+        "authors": [
+          "Edoardo Bolzoni",
+          "Valerio Capraro"
+        ],
+        "summary": "Understanding gender biases in large language models (LLMs) is increasingly important as these systems become embedded in decision-support tools with real consequences. Prior research has focused only on a small set of models, leaving open the extent to which gender biases are common and heterogeneo",
+        "url": "http://arxiv.org/abs/2609.38036v1",
+        "pdf": "https://arxiv.org/pdf/2609.38036v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "doPlan: A Variable-Horizon Dataset for Multi-Stage Language-Conditioned Planning in Autonomous Driving",
+        "authors": [
+          "Parthib Roy",
+          "Yash Tandon",
+          "Marcus Blennemann",
+          "Giovanni Tapia Lopez",
+          "Angel Martinez-Sanchez"
+        ],
+        "summary": "Autonomous vehicles interacting with passengers through natural language must reason beyond immediate commands. Passenger intent may span multiple stages of behavior, depend on future events, refer to surrounding agents or landmarks, and remain relevant as driving conditions evolve. Existing languag",
+        "url": "http://arxiv.org/abs/2609.38028v1",
+        "pdf": "https://arxiv.org/pdf/2609.38028v1",
+        "published": "2026-09-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Breakdown of Local Denoising as Semantic Speciation",
+        "authors": [
+          "Guangkuo Liu",
+          "Mert Okyay",
+          "Yifan F. Zhang",
+          "Fangjun Hu",
+          "Rahul Nandkishore"
+        ],
+        "summary": "The dynamics of generative models exhibit two apparently distinct temporal windows: a speciation window, in which a sample commits to a semantic class, and a nonlocality window, in which local context windows become insufficient for generation. Motivated by evidence of their near-concurrence in a va",
+        "url": "http://arxiv.org/abs/2609.38176v1",
+        "pdf": "https://arxiv.org/pdf/2609.38176v1",
+        "published": "2026-09-29",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data",
+        "authors": [
+          "Joseph Metcalfe",
+          "Sara Sharifzadeh",
+          "Fabio Caraffini"
+        ],
+        "summary": "The landscape of satellite imagery time series datasets and boundary-pushing architectures for cropland segmentation has never been richer. However, in this gold rush, important truths are being missed on both fronts, as a drive for the most novel concepts or the largest datasets pushes finer detail",
+        "url": "http://arxiv.org/abs/2609.38165v1",
+        "pdf": "https://arxiv.org/pdf/2609.38165v1",
+        "published": "2026-09-29",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization",
+        "authors": [
+          "Jianru Shen"
+        ],
+        "summary": "Evaluations of graph reconstruction by language models typically report a single aggregate distance between the original and the reconstructed graph. We prove that for the Wasserstein distance between Laplacian spectra such a summary is bracketed by two edge counts, the net change in edge number fro",
+        "url": "http://arxiv.org/abs/2609.38161v1",
+        "pdf": "https://arxiv.org/pdf/2609.38161v1",
+        "published": "2026-09-29",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Multi-Agent Flow Matching with Decoupled Generative Guidance",
+        "authors": [
+          "Ruoyu Lin",
+          "Magnus Egerstedt",
+          "Fabio Pasqualetti"
+        ],
+        "summary": "Generative modeling is widely used for producing diverse objects from complex, multimodal distributions. However, its expressivity does not, in general, come with formal guarantees that the generated objects satisfy hard constraints or requirements. In multi-agent generation, this problem becomes mo",
+        "url": "http://arxiv.org/abs/2609.38133v1",
+        "pdf": "https://arxiv.org/pdf/2609.38133v1",
+        "published": "2026-09-29",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
