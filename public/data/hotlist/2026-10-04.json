@@ -1,0 +1,594 @@
+{
+  "date": "2026-10-04",
+  "generated": "2026-10-04T07:52:46.308919",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "KKKKhazix/AIHOT",
+        "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+        "stars": 5552,
+        "language": "TypeScript",
+        "url": "https://github.com/KKKKhazix/AIHOT",
+        "created": "2026-09-28"
+      },
+      {
+        "rank": 2,
+        "name": "CopilotKit/OpenDots",
+        "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+        "stars": 2758,
+        "language": "TypeScript",
+        "url": "https://github.com/CopilotKit/OpenDots",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 3,
+        "name": "rehan-remade/universal-modder",
+        "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+        "stars": 2734,
+        "language": "Python",
+        "url": "https://github.com/rehan-remade/universal-modder",
+        "created": "2026-09-30"
+      },
+      {
+        "rank": 4,
+        "name": "feder-cr/dots",
+        "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+        "stars": 2582,
+        "language": "Python",
+        "url": "https://github.com/feder-cr/dots",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 5,
+        "name": "wy51ai/floorplan-3d",
+        "description": "",
+        "stars": 1367,
+        "language": "HTML",
+        "url": "https://github.com/wy51ai/floorplan-3d",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 6,
+        "name": "firelex/jeff",
+        "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+        "stars": 1353,
+        "language": "Python",
+        "url": "https://github.com/firelex/jeff",
+        "created": "2026-09-28"
+      },
+      {
+        "rank": 7,
+        "name": "nanaism/yomiyasu",
+        "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+        "stars": 1347,
+        "language": "Python",
+        "url": "https://github.com/nanaism/yomiyasu",
+        "created": "2026-09-30"
+      },
+      {
+        "rank": 8,
+        "name": "edenfunf/reelmimic",
+        "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+        "stars": 1165,
+        "language": "JavaScript",
+        "url": "https://github.com/edenfunf/reelmimic",
+        "created": "2026-09-28"
+      },
+      {
+        "rank": 9,
+        "name": "CAPCOM-TD-OSS/REDox",
+        "description": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
+        "stars": 1001,
+        "language": "C#",
+        "url": "https://github.com/CAPCOM-TD-OSS/REDox",
+        "created": "2026-09-30"
+      },
+      {
+        "rank": 10,
+        "name": "facebookincubator/muse-gadget-sdk",
+        "description": "Open source SDK to build Muse gadgets",
+        "stars": 962,
+        "language": "C",
+        "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+        "created": "2026-10-02"
+      },
+      {
+        "rank": 11,
+        "name": "chasmlol/SkyCraft",
+        "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
+        "stars": 794,
+        "language": "C++",
+        "url": "https://github.com/chasmlol/SkyCraft",
+        "created": "2026-09-30"
+      },
+      {
+        "rank": 12,
+        "name": "nykooi1/vibe-wise",
+        "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+        "stars": 785,
+        "language": "Python",
+        "url": "https://github.com/nykooi1/vibe-wise",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 13,
+        "name": "openai/mcp-extensions",
+        "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+        "stars": 732,
+        "language": "TypeScript",
+        "url": "https://github.com/openai/mcp-extensions",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 14,
+        "name": "Edwardxlai/easyread",
+        "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+        "stars": 697,
+        "language": "Python",
+        "url": "https://github.com/Edwardxlai/easyread",
+        "created": "2026-09-30"
+      },
+      {
+        "rank": 15,
+        "name": "QingYunA/answer-me-with-html",
+        "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+        "stars": 614,
+        "language": "JavaScript",
+        "url": "https://github.com/QingYunA/answer-me-with-html",
+        "created": "2026-10-02"
+      },
+      {
+        "rank": 16,
+        "name": "OpSafari/hypoarena",
+        "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tourn",
+        "stars": 560,
+        "language": "Python",
+        "url": "https://github.com/OpSafari/hypoarena",
+        "created": "2026-09-30"
+      },
+      {
+        "rank": 17,
+        "name": "fsiaonma/elpis",
+        "description": "elpis",
+        "stars": 544,
+        "language": "TypeScript",
+        "url": "https://github.com/fsiaonma/elpis",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 18,
+        "name": "composio-community/open-dot",
+        "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+        "stars": 533,
+        "language": "TypeScript",
+        "url": "https://github.com/composio-community/open-dot",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 19,
+        "name": "deepseek-ai/DeepGEMM-Ascend",
+        "description": "DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs",
+        "stars": 495,
+        "language": "C++",
+        "url": "https://github.com/deepseek-ai/DeepGEMM-Ascend",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 20,
+        "name": "ESPARGOS/esp-sdr",
+        "description": "ESP-SDR uses the undocumented raw I/Q capture functionality of ESP32 family chips to turn them into (low-duty-cycle) Software Defined Radios",
+        "stars": 489,
+        "language": "C",
+        "url": "https://github.com/ESPARGOS/esp-sdr",
+        "created": "2026-09-28"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+        "authors": [
+          "Ramazan Fazylov",
+          "Stamatis Lefkimmiatis",
+          "Ivan Laptev"
+        ],
+        "summary": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshape",
+        "url": "http://arxiv.org/abs/2610.02207v1",
+        "pdf": "https://arxiv.org/pdf/2610.02207v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+        "authors": [
+          "Pengfei Li",
+          "Naufal Suryanto",
+          "Sicheng Zhang",
+          "Muzammal Naseer"
+        ],
+        "summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable comm",
+        "url": "http://arxiv.org/abs/2610.02206v1",
+        "pdf": "https://arxiv.org/pdf/2610.02206v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+        "authors": [
+          "Yen-Jen Wang",
+          "Haozhe Jiang",
+          "Shuying Deng",
+          "Haoru Xue",
+          "Weirui Ye"
+        ],
+        "summary": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot execution systems withou",
+        "url": "http://arxiv.org/abs/2610.02204v1",
+        "pdf": "https://arxiv.org/pdf/2610.02204v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+        "authors": [
+          "Sohyeon Kim",
+          "Yoonho Lee",
+          "Bo Liu",
+          "Dayoon Ko",
+          "Rulin Shao"
+        ],
+        "summary": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of research, a new problem needs. To study this skill, we draw on researchers who know firsthand which ear",
+        "url": "http://arxiv.org/abs/2610.02202v1",
+        "pdf": "https://arxiv.org/pdf/2610.02202v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+        "authors": [
+          "Tianjiao Yu",
+          "Xinzhuo Li",
+          "Yifan Shen",
+          "Ying Shen",
+          "Kiet A. Nguyen"
+        ],
+        "summary": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragments continuous surfaces into many local tokens, inflates generation cost, and often weakens topologi",
+        "url": "http://arxiv.org/abs/2610.02201v1",
+        "pdf": "https://arxiv.org/pdf/2610.02201v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+        "authors": [
+          "Qiushi Han",
+          "Keya Hu",
+          "Linlu Qiu",
+          "Cathy Wu",
+          "Kaiming He"
+        ],
+        "summary": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce VISTA, a visual harness that gives a general-purpose multimodal model long-horizon vision. VISTA allows th",
+        "url": "http://arxiv.org/abs/2610.02200v1",
+        "pdf": "https://arxiv.org/pdf/2610.02200v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
+        "authors": [
+          "Sebastian Sanokowski",
+          "Alireza Sarmadi",
+          "Majid Khadiv"
+        ],
+        "summary": "Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned critic. However, critics are typically trained to predict returns, and accurate value predictions do not necessarily yield accurate action derivatives, potent",
+        "url": "http://arxiv.org/abs/2610.02198v1",
+        "pdf": "https://arxiv.org/pdf/2610.02198v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Hierarchical Continuous Diffusion Language Models",
+        "authors": [
+          "Hui Ren",
+          "Zihan Li",
+          "Chang Liu",
+          "Huidong Liu",
+          "Alexander Schwing"
+        ],
+        "summary": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structural bottleneck: when decoding in parallel, each token is sampled independently from its marginal, sev",
+        "url": "http://arxiv.org/abs/2610.02193v1",
+        "pdf": "https://arxiv.org/pdf/2610.02193v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
+        "authors": [
+          "Zhengming Yu",
+          "Junkun Yuan",
+          "Haotian Yang",
+          "Gordon Guocheng Qian",
+          "Yizhi Wang"
+        ],
+        "summary": "Distribution Matching Distillation (DMD) trains a few-step student from the difference between separately estimated target and student scores, so it must keep an auxiliary diffusion model fitted to the student's evolving distribution at extra memory and computation cost. We introduce DMAD, Distribut",
+        "url": "http://arxiv.org/abs/2610.02188v1",
+        "pdf": "https://arxiv.org/pdf/2610.02188v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry",
+        "authors": [
+          "Yiming Huang",
+          "Yujie Zeng",
+          "Vijay Prakash Dwivedi",
+          "Simone Foti",
+          "Jianmin Wang"
+        ],
+        "summary": "Molecular learning models are strongly shaped by their underlying representations. Yet standard sequential and graph formalisms struggle to explicitly encode higher-order topology, such as ring systems and recurring motifs. Existing higher-order representations can capture these structures directly,",
+        "url": "http://arxiv.org/abs/2610.02186v1",
+        "pdf": "https://arxiv.org/pdf/2610.02186v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "SoftServe: A Scalable Quasi-Newton Method for Deep Learning",
+        "authors": [
+          "Joohwan Ko",
+          "Tetiana Parshakova",
+          "Diana Cai",
+          "Robert M. Gower"
+        ],
+        "summary": "Quasi-Newton (QN) methods have long been among the most effective methods for large-scale unconstrained convex optimization. Two obstacles have limited their use in deep learning: non-convexity and enormous parameter sizes. We introduce SoftServe, a family of QN methods designed to overcome these ob",
+        "url": "http://arxiv.org/abs/2610.02182v1",
+        "pdf": "https://arxiv.org/pdf/2610.02182v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Generative Cinematographer: Composing Camera and Object Motion in 3D",
+        "authors": [
+          "Jiahan Zhang",
+          "Chaohao Yang",
+          "Namitha Guruprasad",
+          "Vivekjyoti Banerjee",
+          "Trong-Tung Nguyen"
+        ],
+        "summary": "Current controllable video generation systems often rely on 2D motion trajectories or sparse drag signals for object motion. These controls are ambiguous because the same 2D trajectory can correspond to different 3D motions, especially when the camera and objects move simultaneously. We present Gene",
+        "url": "http://arxiv.org/abs/2610.02180v1",
+        "pdf": "https://arxiv.org/pdf/2610.02180v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Watch, Infer, Coordinate: Inferring Robot Partner Constraints for Zero-Shot Coordination",
+        "authors": [
+          "Suyu Ye",
+          "Zheyuan Zhang",
+          "Vaishnav Tadiparthi",
+          "Hossein Nourkhiz Mahjoub",
+          "Ehsan Moradi Pari"
+        ],
+        "summary": "Robots operating in the physical world will increasingly need to coordinate with other robots, particularly in manipulation tasks where an object may be too large or heavy for a single robot to carry alone. Physical limitations caused by hardware degradation or actuator faults can restrict the actio",
+        "url": "http://arxiv.org/abs/2610.02170v1",
+        "pdf": "https://arxiv.org/pdf/2610.02170v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication",
+        "authors": [
+          "Hanchu Zhou",
+          "Dechen Gao",
+          "Hang Wang",
+          "Brendan Lynch",
+          "Boqi Zhao"
+        ],
+        "summary": "Vision-language models (VLMs) and vision-language-action models (VLAs) have recently driven rapid progress in general-purpose robots, yet most progress has focused on single-robot settings. Extending these capabilities to multi-robot systems remains challenging because robots must coordinate long-ho",
+        "url": "http://arxiv.org/abs/2610.02161v1",
+        "pdf": "https://arxiv.org/pdf/2610.02161v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "From Knowledge Access to Source Learning: Developing Source-Specific Competence",
+        "authors": [
+          "Lucheng Fu",
+          "Kejing Xia",
+          "Yiyang Wang",
+          "Yiqiao Jin",
+          "Jinjin He"
+        ],
+        "summary": "Large language model (LLM) agents increasingly rely on persistent external sources to solve sequences of knowledge-intensive tasks. Existing methods improve how source content is accessed and organized, while agent-memory systems preserve reusable knowledge from prior interactions, but repeated use ",
+        "url": "http://arxiv.org/abs/2610.02150v1",
+        "pdf": "https://arxiv.org/pdf/2610.02150v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Finetuning with Sampling: SFT Learns Better Than You Think",
+        "authors": [
+          "Aayush Karan",
+          "Sitan Chen",
+          "Yilun Du"
+        ],
+        "summary": "Introducing new capabilities to frontier models has long been the goal of posttraining, which predominantly employs supervised finetuning (SFT) and reinforcement learning (RL) to this end. Conventional wisdom dictates that RL enables strong generalization on new tasks without losing existing capabil",
+        "url": "http://arxiv.org/abs/2610.02140v1",
+        "pdf": "https://arxiv.org/pdf/2610.02140v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "MIRTO: a registration-gated, multiverse-tested evaluation protocol for unsupervised anomaly segmentation in brain MRI",
+        "authors": [
+          "Negin Kafee Hernashki",
+          "Soumick Chatterjee"
+        ],
+        "summary": "Unsupervised anomaly detection (UAD) methods for brain MRI are ranked by a single score, yet that score rests on choices that are rarely reported: how each anomaly map is aligned with the reference, how and on which data the threshold is set, and which false-positive budget, metric, aggregation and ",
+        "url": "http://arxiv.org/abs/2610.02136v1",
+        "pdf": "https://arxiv.org/pdf/2610.02136v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Local Support Learning",
+        "authors": [
+          "Assaf Ben-Kish",
+          "Akarsh Kumar",
+          "James Glass",
+          "Raja Giryes"
+        ],
+        "summary": "We explore catastrophic forgetting in the context of large pre-trained models. By considering forgetting as a geometric problem in the input space of each weight matrix, we uncover a natural retention objective under which updates produced by gradient-based optimizers are suboptimal. Following this ",
+        "url": "http://arxiv.org/abs/2610.02126v1",
+        "pdf": "https://arxiv.org/pdf/2610.02126v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows",
+        "authors": [
+          "Gabriel Tomitsuka",
+          "Arman Raayatsanati",
+          "Emma Xing",
+          "Duke Gand",
+          "Joseph J Ma"
+        ],
+        "summary": "Real-world enterprise data science and analytics workflows require reasoning across dozens of tables, performing statistical analyses, and acting on the results. Established text-to-SQL benchmarks evaluate query generation alone, and audits have found their answer keys frequently wrong. Because real",
+        "url": "http://arxiv.org/abs/2610.02122v1",
+        "pdf": "https://arxiv.org/pdf/2610.02122v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes",
+        "authors": [
+          "Sophia Sirko-Galouchenko",
+          "Monika Wysoczanska",
+          "Andrei Bursuc",
+          "Nicolas Thome",
+          "Spyros Gidaris"
+        ],
+        "summary": "On-policy self-distillation has recently emerged as an effective approach for improving language-model reasoning by supervising students with a frozen or EMA version of themselves that receives privileged information. Its application to multimodal large language models (MLLMs), however, remains larg",
+        "url": "http://arxiv.org/abs/2610.02117v1",
+        "pdf": "https://arxiv.org/pdf/2610.02117v1",
+        "published": "2026-10-01",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Embedding Prediction Helps Image Generation",
+        "authors": [
+          "Sihan Xu",
+          "Ji Xie",
+          "Zilin Wang",
+          "Hui Shen",
+          "Stella X. Yu"
+        ],
+        "summary": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition instead. Next-Embedding Predictive Autoregression (NEPA) trains a Transformer to predict the next cont",
+        "url": "http://arxiv.org/abs/2610.02203v1",
+        "pdf": "https://arxiv.org/pdf/2610.02203v1",
+        "published": "2026-10-01",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
+        "authors": [
+          "Jichao Jiang",
+          "Cristian McGee",
+          "El Houcine Bergou",
+          "Hanqin Cai",
+          "Aritra Dutta"
+        ],
+        "summary": "Full-parameter fine-tuning of large language models (LLMs) incurs substantial optimizer state memory overhead, limiting the model sizes that fit on modern GPUs. Existing approaches either compress optimizer state, abandon first-order gradients, or change the update geometry while retaining dense sta",
+        "url": "http://arxiv.org/abs/2610.02199v1",
+        "pdf": "https://arxiv.org/pdf/2610.02199v1",
+        "published": "2026-10-01",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Cost-augmented Schrödinger bridges on graphs are exactly solvable: a Feynman-Kac tilt replaces learned control",
+        "authors": [
+          "Akshay Balsubramani"
+        ],
+        "summary": "The generalized Schrödinger bridge on a graph moves mass between two distributions while charging a cost for the states visited. It has been approached by learning the rates of a controlled continuous-time Markov chain, with a temporal-difference penalty that restores the cost. A state cost folds in",
+        "url": "http://arxiv.org/abs/2610.02195v1",
+        "pdf": "https://arxiv.org/pdf/2610.02195v1",
+        "published": "2026-10-01",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models",
+        "authors": [
+          "Shuo Xing",
+          "Zilin Dai",
+          "Chengyuan Qian",
+          "Fangzhou Lin",
+          "Wenjing Chen"
+        ],
+        "summary": "While Large Language Models (LLMs) have demonstrated striking capabilities on frontier mathematical problems, it remains unclear whether they possess the structural mathematical understanding underlying their solutions. In this paper, we take a first step toward systematically studying mathematical ",
+        "url": "http://arxiv.org/abs/2610.02191v1",
+        "pdf": "https://arxiv.org/pdf/2610.02191v1",
+        "published": "2026-10-01",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Trust the Direction, Search the Step: Zero-and-First-Order Methods for LLM Fine-Tuning",
+        "authors": [
+          "Cristian McGee",
+          "El Houcine Bergou",
+          "Aritra Dutta"
+        ],
+        "summary": "Step-size selection remains a central challenge in large-scale neural network optimization; conservative steps slow convergence, while aggressive steps can destabilize it. We combine \\textbf{Z}ero-and-\\textbf{F}irst-\\textbf{O}rder optimization~(ZFO) and propose a lightweight framework that decouples",
+        "url": "http://arxiv.org/abs/2610.02190v1",
+        "pdf": "https://arxiv.org/pdf/2610.02190v1",
+        "published": "2026-10-01",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features",
+        "authors": [
+          "Jason X. Liu",
+          "Sebastian Ibarraran",
+          "Frank Hu",
+          "Soojung Yang",
+          "Xinyu A. Feng"
+        ],
+        "summary": "Intrinsically disordered protein regions (IDRs) play central roles in cellular processes such as transcriptional regulation, signal transduction, and subcellular localization, yet their functional design remains challenging. Structure-based design methods do not readily apply to IDRs, and existing p",
+        "url": "http://arxiv.org/abs/2610.02189v1",
+        "pdf": "https://arxiv.org/pdf/2610.02189v1",
+        "published": "2026-10-01",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
