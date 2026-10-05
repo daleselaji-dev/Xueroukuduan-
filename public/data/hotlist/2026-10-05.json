@@ -1,0 +1,620 @@
+{
+  "date": "2026-10-05",
+  "generated": "2026-10-05T08:31:49.616253",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "rehan-remade/universal-modder",
+        "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+        "stars": 3428,
+        "language": "Python",
+        "url": "https://github.com/rehan-remade/universal-modder",
+        "created": "2026-09-30"
+      },
+      {
+        "rank": 2,
+        "name": "CopilotKit/OpenDots",
+        "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+        "stars": 3334,
+        "language": "TypeScript",
+        "url": "https://github.com/CopilotKit/OpenDots",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 3,
+        "name": "feder-cr/dots",
+        "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+        "stars": 2609,
+        "language": "Python",
+        "url": "https://github.com/feder-cr/dots",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 4,
+        "name": "nanaism/yomiyasu",
+        "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+        "stars": 1448,
+        "language": "Python",
+        "url": "https://github.com/nanaism/yomiyasu",
+        "created": "2026-09-30"
+      },
+      {
+        "rank": 5,
+        "name": "wy51ai/floorplan-3d",
+        "description": "",
+        "stars": 1410,
+        "language": "HTML",
+        "url": "https://github.com/wy51ai/floorplan-3d",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 6,
+        "name": "facebookincubator/muse-gadget-sdk",
+        "description": "Open source SDK to build Muse gadgets",
+        "stars": 1293,
+        "language": "C",
+        "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+        "created": "2026-10-02"
+      },
+      {
+        "rank": 7,
+        "name": "QingYunA/answer-me-with-html",
+        "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+        "stars": 1208,
+        "language": "JavaScript",
+        "url": "https://github.com/QingYunA/answer-me-with-html",
+        "created": "2026-10-02"
+      },
+      {
+        "rank": 8,
+        "name": "storytold/photocraft",
+        "description": "",
+        "stars": 1207,
+        "language": "Rust",
+        "url": "https://github.com/storytold/photocraft",
+        "created": "2026-09-30"
+      },
+      {
+        "rank": 9,
+        "name": "nykooi1/vibe-wise",
+        "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+        "stars": 1169,
+        "language": "Python",
+        "url": "https://github.com/nykooi1/vibe-wise",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 10,
+        "name": "kargulstudio/sales-crm",
+        "description": "",
+        "stars": 1111,
+        "language": "TypeScript",
+        "url": "https://github.com/kargulstudio/sales-crm",
+        "created": "2026-10-04"
+      },
+      {
+        "rank": 11,
+        "name": "CAPCOM-TD-OSS/REDox",
+        "description": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
+        "stars": 1044,
+        "language": "C#",
+        "url": "https://github.com/CAPCOM-TD-OSS/REDox",
+        "created": "2026-09-30"
+      },
+      {
+        "rank": 12,
+        "name": "chasmlol/SkyCraft",
+        "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
+        "stars": 909,
+        "language": "C++",
+        "url": "https://github.com/chasmlol/SkyCraft",
+        "created": "2026-09-30"
+      },
+      {
+        "rank": 13,
+        "name": "omlahore/RemoveMacAI",
+        "description": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
+        "stars": 824,
+        "language": "Swift",
+        "url": "https://github.com/omlahore/RemoveMacAI",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 14,
+        "name": "Edwardxlai/easyread",
+        "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+        "stars": 792,
+        "language": "Python",
+        "url": "https://github.com/Edwardxlai/easyread",
+        "created": "2026-09-30"
+      },
+      {
+        "rank": 15,
+        "name": "openai/mcp-extensions",
+        "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+        "stars": 757,
+        "language": "TypeScript",
+        "url": "https://github.com/openai/mcp-extensions",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 16,
+        "name": "sganggs/Stronghold-Protocol",
+        "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+        "stars": 621,
+        "language": "JavaScript",
+        "url": "https://github.com/sganggs/Stronghold-Protocol",
+        "created": "2026-10-02"
+      },
+      {
+        "rank": 17,
+        "name": "composio-community/open-dot",
+        "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+        "stars": 567,
+        "language": "TypeScript",
+        "url": "https://github.com/composio-community/open-dot",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 18,
+        "name": "OpSafari/hypoarena",
+        "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tourn",
+        "stars": 561,
+        "language": "Python",
+        "url": "https://github.com/OpSafari/hypoarena",
+        "created": "2026-09-30"
+      },
+      {
+        "rank": 19,
+        "name": "fsiaonma/elpis",
+        "description": "elpis",
+        "stars": 550,
+        "language": "TypeScript",
+        "url": "https://github.com/fsiaonma/elpis",
+        "created": "2026-09-29"
+      },
+      {
+        "rank": 20,
+        "name": "extend-hq/jevbox",
+        "description": "",
+        "stars": 544,
+        "language": "TypeScript",
+        "url": "https://github.com/extend-hq/jevbox",
+        "created": "2026-09-29"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+        "authors": [
+          "Keerthi Kaashyap",
+          "Dennis Anthony",
+          "Akshay Krishnan",
+          "Nhi Ngoc Nguyen",
+          "Jeremy Collins"
+        ],
+        "summary": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representations. Yet, existing encoder-based NVS methods yield poor representations. This is n",
+        "url": "http://arxiv.org/abs/2610.03717v1",
+        "pdf": "https://arxiv.org/pdf/2610.03717v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+        "authors": [
+          "Ruihong Shen",
+          "Žiga Kovačič",
+          "Peter Kulits",
+          "Xingrui Wang",
+          "Zizhang Li"
+        ],
+        "summary": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, by",
+        "url": "http://arxiv.org/abs/2610.03715v1",
+        "pdf": "https://arxiv.org/pdf/2610.03715v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+        "authors": [
+          "Nishit Anand",
+          "Ramani Duraiswami",
+          "Dinesh Manocha"
+        ],
+        "summary": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World models do not satisfy this condition. Their prediction target is the environment, ",
+        "url": "http://arxiv.org/abs/2610.03713v1",
+        "pdf": "https://arxiv.org/pdf/2610.03713v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+        "authors": [
+          "Kush Hari",
+          "Justin Kerr",
+          "Nidhya Shivakumar",
+          "Samarth Mahapatra",
+          "Carmelo Sferrazza"
+        ],
+        "summary": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene by swiveling two eye viewpoints to center their gaze on it. The resulting images are",
+        "url": "http://arxiv.org/abs/2610.03710v1",
+        "pdf": "https://arxiv.org/pdf/2610.03710v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies",
+        "authors": [
+          "Jungkyu Park",
+          "Dhruva Biswas",
+          "Joseph Cappadona",
+          "Cerise Tang",
+          "Ken G. Zeng"
+        ],
+        "summary": "Scarcity of labeled data limits development of deep learning biomarkers in oncology. We develop a two-stage AI model predicting pathological complete response (pCR) to neoadjuvant therapy in breast cancer. The first stage learns the transcriptome from histopathology using 8,742 patients across 32 ca",
+        "url": "http://arxiv.org/abs/2610.03693v1",
+        "pdf": "https://arxiv.org/pdf/2610.03693v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
+        "authors": [
+          "Hui Chen",
+          "Xuan Qi",
+          "James Xu Zhao",
+          "Zhaopeng Feng",
+          "Shilong Liu"
+        ],
+        "summary": "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically optimizes performance gain over a fixed number of iterations. We argue that practical optimization shou",
+        "url": "http://arxiv.org/abs/2610.03675v1",
+        "pdf": "https://arxiv.org/pdf/2610.03675v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Revisiting Input Time-frequency Representations in Multi-pitch Estimation for Vocal Ensembles",
+        "authors": [
+          "Junyoung Koh",
+          "Hao-Wen Dong"
+        ],
+        "summary": "Multi-pitch estimation in vocal ensembles is challenging because singers occupy overlapping pitch ranges and often sing at closely spaced fundamental frequencies, causing their harmonics to overlap in time-frequency representations. Existing models commonly use harmonic constant-Q transform (HCQT)-b",
+        "url": "http://arxiv.org/abs/2610.03656v1",
+        "pdf": "https://arxiv.org/pdf/2610.03656v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "MRVQ: One Resident Index for Dimension- and Rate-Elastic Vector Search",
+        "authors": [
+          "Sean Culatana",
+          "Shang-En Huang",
+          "Kang Li"
+        ],
+        "summary": "Dense-retrieval services must switch among embedding-prefix dimensions and index bit rates as latency, quality, and memory budgets change. Tuning a quantizer separately for each rate gives the best quality, but the retrieval tier then holds several code streams and quantizer states at once. We intro",
+        "url": "http://arxiv.org/abs/2610.03651v1",
+        "pdf": "https://arxiv.org/pdf/2610.03651v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "On-Board Anomaly Detection for Efficient Marine Environmental Monitoring",
+        "authors": [
+          "Thomas Goudemant",
+          "Clotilde Szywala",
+          "Benjamin Francesconi",
+          "Michelle Aubrun",
+          "Yves Bobichon"
+        ],
+        "summary": "Marine ecosystems are impacted by various threats such as oil spills, algal blooms, and sediment floods, which disrupt habitats, wildlife, and human activities. Advances in satellite imagery and Artificial Intelligence (AI) have enhanced our capabilities for early detection and mitigation of such ha",
+        "url": "http://arxiv.org/abs/2610.03649v1",
+        "pdf": "https://arxiv.org/pdf/2610.03649v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Do Large Language Models Know Colombian Law? A Reliability Benchmark for the Colombian Legal System",
+        "authors": [
+          "Rubén Manrique",
+          "Michelle Castellanos",
+          "Jorge Morales",
+          "Juan David Gutiérrez",
+          "Antonio Barreto Rozo"
+        ],
+        "summary": "Large language models (LLMs) are increasingly used to support legal practice, education, and research, yet their reliability in national legal systems outside the United States remains largely undocumented. We introduce an expert-validated benchmark for evaluating LLM reliability on the Colombian le",
+        "url": "http://arxiv.org/abs/2610.03639v1",
+        "pdf": "https://arxiv.org/pdf/2610.03639v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "LoGo: Local-Global Rewards for Consistent Long-Horizon Video Generation",
+        "authors": [
+          "Ziqi Ma",
+          "Shreya Sharma",
+          "Mohamed El Banani",
+          "Katja Schwarz",
+          "Chongjie Ye"
+        ],
+        "summary": "Camera-controlled video models are rapidly advancing toward long generation horizons and complex camera control. A key failure mode is 3D inconsistency: as the camera moves, objects lose permanence and scene structures shift. Existing post-training techniques, which assign a single scalar reward to ",
+        "url": "http://arxiv.org/abs/2610.03636v1",
+        "pdf": "https://arxiv.org/pdf/2610.03636v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Credit Where It Matters: Dependency-Aware Policy Optimization for Terminal Agents",
+        "authors": [
+          "Yu Li",
+          "Guangfeng Cai",
+          "Long-Fei Li",
+          "Shuo Han",
+          "Shengtian Yang"
+        ],
+        "summary": "Terminal-using agents benefit from reinforcement learning (RL) in coding, debugging, and other multi-step terminal tasks. In these tasks, later commands often depend on information or intermediate results produced by earlier commands. However, existing trajectory-level and step-level credit assignme",
+        "url": "http://arxiv.org/abs/2610.03634v1",
+        "pdf": "https://arxiv.org/pdf/2610.03634v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents",
+        "authors": [
+          "Lijie Ding",
+          "Changwoo Do"
+        ],
+        "summary": "Designing a scientific instrument tests whether language-model agents can do physics rather than recall it, provided the grading cannot be argued with. We introduce NeutronGym, to our knowledge the first executable environment for neutron instrument design: agents build instruments through validatin",
+        "url": "http://arxiv.org/abs/2610.03631v1",
+        "pdf": "https://arxiv.org/pdf/2610.03631v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Depth as Time in One-Step Generative Models",
+        "authors": [
+          "Arnold Caleb Asiimwe",
+          "William Yang",
+          "Sanghyuk Chun",
+          "Esin Tureci",
+          "Olga Russakovsky"
+        ],
+        "summary": "The recent wave of one-step generative models, which compress the multi-step trajectory of diffusion via either distillation or learned flow maps, has reached an inflection point where they can generate high-quality images. Here, we ask a natural question that follows from these advances: what happe",
+        "url": "http://arxiv.org/abs/2610.03626v1",
+        "pdf": "https://arxiv.org/pdf/2610.03626v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Low-Cost Video--Time Priors as a Strong Baseline for EEG--fNIRS Emotion Regression on Familiar Videos",
+        "authors": [
+          "Minghao Kong",
+          "Jiurun Chen",
+          "Ying Gao",
+          "Xiangbin Meng",
+          "Rongjie Wang"
+        ],
+        "summary": "Continuous emotion regression estimates moment-to-moment valence and arousal while a viewer watches a video. In familiar-video deployment, responses fron training participant-specific estimate, and prior-dominating fixed fusion tests whether physiology adds residual correction. In five-fold subject-",
+        "url": "http://arxiv.org/abs/2610.03618v1",
+        "pdf": "https://arxiv.org/pdf/2610.03618v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "When a Correct Reward Is Not Enough: Diagnosing and Guiding PPO in an Analytically Solved Broker-Trader Game",
+        "authors": [
+          "Siu Tung Wong",
+          "Carlo Campajola"
+        ],
+        "summary": "Reinforcement learning (RL) is increasingly used for financial optimal-control problems when complex dynamics make analytical strategies difficult to obtain. There are financial mathematics literactures which provides many solved models whose equations and controls could evaluate and guide learning;",
+        "url": "http://arxiv.org/abs/2610.03598v1",
+        "pdf": "https://arxiv.org/pdf/2610.03598v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "HazardWeaver: Scientific Route Selection for Hazard Analysis Agents",
+        "authors": [
+          "Wangshu Zhu",
+          "Xueqi Cheng",
+          "Liang Wu",
+          "Yushun Dong"
+        ],
+        "summary": "Understanding and assessing natural hazards is essential for disaster preparedness and risk reduction. Recent advances in large language models have spurred growing interest in AI agents for hazard analysis, particularly their ability to integrate scientific data, models, and tools into automated wo",
+        "url": "http://arxiv.org/abs/2610.03591v1",
+        "pdf": "https://arxiv.org/pdf/2610.03591v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Threat-Preserving Representation Sensitivity in Agent-Security Benchmarks",
+        "authors": [
+          "Neeraj Karamchandani",
+          "Piyush Nagasubramaniam",
+          "Xinhong Xie",
+          "Sencun Zhu",
+          "Dinghao Wu"
+        ],
+        "summary": "Security benchmarks for LLM-based agents often report the attack success rate (ASR) as a measure of model robustness and use these scores to compare different models and defense mechanisms, assuming that they describe the security of the agent. In this paper, we explore whether it also influences th",
+        "url": "http://arxiv.org/abs/2610.03585v1",
+        "pdf": "https://arxiv.org/pdf/2610.03585v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Rethinking What to Cache in Few-Step Diffusion Transformers: Solver-Aware Target Selection",
+        "authors": [
+          "Shuo Yang",
+          "Lihao Fang",
+          "Yi Zhang",
+          "Haixiang Wang",
+          "Xincheng Ye"
+        ],
+        "summary": "Diffusion Transformers (DiTs) can generate high-quality images and videos, but generating each sample requires multiple costly DiT forward passes. Two common ways to accelerate DiT sampling are step distillation, which reduces the number of sampling steps, and caching, which skips some DiT evaluatio",
+        "url": "http://arxiv.org/abs/2610.03577v1",
+        "pdf": "https://arxiv.org/pdf/2610.03577v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents",
+        "authors": [
+          "Alham Fikri Aji",
+          "Faiz Rizki Ramadhan",
+          "Zayd M. K. Zuhri",
+          "Seung Hun Eddie Han",
+          "Ryandito Diandaru"
+        ],
+        "summary": "We introduce HyperBrowseComp, a multilingual and multimodal browsing benchmark comprising 423 manually authored and human-validated questions across 13 languages, written by native or highly proficient speakers. Questions are designed to be extremely challenging. Each question targets a concise, pub",
+        "url": "http://arxiv.org/abs/2610.03574v1",
+        "pdf": "https://arxiv.org/pdf/2610.03574v1",
+        "published": "2026-10-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
+        "authors": [
+          "Yiming Huang",
+          "Lennart Bastian",
+          "Hanqun Cao",
+          "Luis Vollmers",
+          "Tolga Birdal"
+        ],
+        "summary": "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing approaches typically treat trajectory generation and dynamics understanding as separate objectives. Here,",
+        "url": "http://arxiv.org/abs/2610.03712v1",
+        "pdf": "https://arxiv.org/pdf/2610.03712v1",
+        "published": "2026-10-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
+        "authors": [
+          "Kuangyu Ding",
+          "Gesualdo Scutari"
+        ],
+        "summary": "We study the minimization of sums of smooth strongly convex functions over undirected graphs, with each function held by one agent and communication restricted to neighbors in the graph. Existing decentralized methods, whether based on gossip or on routing over spanning trees, typically\n  use the ne",
+        "url": "http://arxiv.org/abs/2610.03709v1",
+        "pdf": "https://arxiv.org/pdf/2610.03709v1",
+        "published": "2026-10-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "LESSER: Post-Training Data Selection with Output-Layer Gradients",
+        "authors": [
+          "Lyuxin David Zhang",
+          "Eric Wong",
+          "Surbhi Goel",
+          "Anton Xue"
+        ],
+        "summary": "The choice of post-training data for large language models substantially affects downstream performance. Gradient-based data selection is a popular approach that ranks training data by how well their gradients align with those of a small validation set. However, ranking with full-parameter gradients",
+        "url": "http://arxiv.org/abs/2610.03702v1",
+        "pdf": "https://arxiv.org/pdf/2610.03702v1",
+        "published": "2026-10-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Simulation-Free Learning of Population Dynamics with Wasserstein Lagrangian Residuals",
+        "authors": [
+          "Fedor Sergeev",
+          "Markus Heinonen",
+          "Daniel Waxman",
+          "Tim Cooijmans",
+          "Ricardo Baptista"
+        ],
+        "summary": "The dynamics of cells, organisms, and fluids are often modeled as probability distributions evolving over time. Reconstructing and extrapolating this evolution from unpaired snapshots requires assumptions about the underlying process. Wasserstein gradient flows are a common choice, but they cannot d",
+        "url": "http://arxiv.org/abs/2610.03679v1",
+        "pdf": "https://arxiv.org/pdf/2610.03679v1",
+        "published": "2026-10-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Planning to Learn",
+        "authors": [
+          "Ian Osband"
+        ],
+        "summary": "Policy-gradient methods are central to modern reinforcement learning, including LLM post-training. When they struggle, the usual suspects are exploration, credit assignment and action-sampling noise. Classification has none of them. A classifier is a policy whose expected reward, its \\emph{expected ",
+        "url": "http://arxiv.org/abs/2610.03667v1",
+        "pdf": "https://arxiv.org/pdf/2610.03667v1",
+        "published": "2026-10-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models",
+        "authors": [
+          "Seo Hyun Kim",
+          "Sunwoo Hong",
+          "Younwoo Choi",
+          "Chen-Hao Chao",
+          "Se-Young Yun"
+        ],
+        "summary": "Masked diffusion language models (dLMs) offer a promising parallel alternative to autoregressive models for complex reasoning. However, they face a distinct credit-assignment challenge, since a few commitments during denoising sharply reduce the uncertainty over the remaining masked positions and sh",
+        "url": "http://arxiv.org/abs/2610.03665v1",
+        "pdf": "https://arxiv.org/pdf/2610.03665v1",
+        "published": "2026-10-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Forecasting from Counterfactual Simulator Rollouts: A Sim2Real Evaluation",
+        "authors": [
+          "Angel Wang",
+          "Dominique Perrault-Joncas",
+          "Alvaro Maggiar",
+          "Dean Foster",
+          "Carson Eisenach"
+        ],
+        "summary": "Deploying a new decision policy creates a cold-start problem for prediction models whose targets depend on the policy's actions: historical observations reflect earlier policies, while real observations under the new policy are not yet available. Simulation offers a way to address this gap by rollin",
+        "url": "http://arxiv.org/abs/2610.03662v1",
+        "pdf": "https://arxiv.org/pdf/2610.03662v1",
+        "published": "2026-10-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "PoCoFL: POlicy-COmpliant Federated Learning",
+        "authors": [
+          "Dominik Roy George",
+          "Varesh Mishra",
+          "Aysajan Abidin"
+        ],
+        "summary": "Federated Learning (FL) is a privacy-oriented learning paradigm that enables collaborative model training while keeping training data local to participating clients. However, it does not guarantee that clients submit policy-compliant contributions or that aggregators process admitted contributions c",
+        "url": "http://arxiv.org/abs/2610.03650v1",
+        "pdf": "https://arxiv.org/pdf/2610.03650v1",
+        "published": "2026-10-02",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
