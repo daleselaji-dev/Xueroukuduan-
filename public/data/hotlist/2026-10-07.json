@@ -1,0 +1,610 @@
+{
+  "date": "2026-10-07",
+  "generated": "2026-10-07T08:14:56.600521",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "openai/math",
+        "description": "",
+        "stars": 5571,
+        "language": "Lean",
+        "url": "https://github.com/openai/math",
+        "created": "2026-10-06"
+      },
+      {
+        "rank": 2,
+        "name": "QingYunA/answer-me-with-html",
+        "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+        "stars": 1861,
+        "language": "JavaScript",
+        "url": "https://github.com/QingYunA/answer-me-with-html",
+        "created": "2026-10-02"
+      },
+      {
+        "rank": 3,
+        "name": "kargulstudio/sales-crm",
+        "description": "",
+        "stars": 1602,
+        "language": "TypeScript",
+        "url": "https://github.com/kargulstudio/sales-crm",
+        "created": "2026-10-04"
+      },
+      {
+        "rank": 4,
+        "name": "facebookincubator/muse-gadget-sdk",
+        "description": "Open source SDK to build Muse gadgets",
+        "stars": 1590,
+        "language": "C",
+        "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+        "created": "2026-10-02"
+      },
+      {
+        "rank": 5,
+        "name": "deadinside28/bloodborne_pc",
+        "description": "",
+        "stars": 1364,
+        "language": "C++",
+        "url": "https://github.com/deadinside28/bloodborne_pc",
+        "created": "2026-10-01"
+      },
+      {
+        "rank": 6,
+        "name": "storytold/effectcraft",
+        "description": "",
+        "stars": 1072,
+        "language": "Rust",
+        "url": "https://github.com/storytold/effectcraft",
+        "created": "2026-10-01"
+      },
+      {
+        "rank": 7,
+        "name": "alchaincyf/huashu-art-motion",
+        "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+        "stars": 967,
+        "language": "JavaScript",
+        "url": "https://github.com/alchaincyf/huashu-art-motion",
+        "created": "2026-10-06"
+      },
+      {
+        "rank": 8,
+        "name": "lucasmarkes/hairline",
+        "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+        "stars": 879,
+        "language": "TypeScript",
+        "url": "https://github.com/lucasmarkes/hairline",
+        "created": "2026-10-01"
+      },
+      {
+        "rank": 9,
+        "name": "sganggs/Stronghold-Protocol",
+        "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+        "stars": 858,
+        "language": "JavaScript",
+        "url": "https://github.com/sganggs/Stronghold-Protocol",
+        "created": "2026-10-02"
+      },
+      {
+        "rank": 10,
+        "name": "StayLameBro/backburner",
+        "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+        "stars": 803,
+        "language": "Python",
+        "url": "https://github.com/StayLameBro/backburner",
+        "created": "2026-10-01"
+      },
+      {
+        "rank": 11,
+        "name": "mizorewww/x_gift_bot",
+        "description": "X Premium gift CLI and redemption site",
+        "stars": 756,
+        "language": "Go",
+        "url": "https://github.com/mizorewww/x_gift_bot",
+        "created": "2026-10-02"
+      },
+      {
+        "rank": 12,
+        "name": "Jakeschincariol/replica-skill",
+        "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+        "stars": 742,
+        "language": "Python",
+        "url": "https://github.com/Jakeschincariol/replica-skill",
+        "created": "2026-10-03"
+      },
+      {
+        "rank": 13,
+        "name": "rauchg/gdp-ts",
+        "description": "",
+        "stars": 717,
+        "language": "TypeScript",
+        "url": "https://github.com/rauchg/gdp-ts",
+        "created": "2026-10-04"
+      },
+      {
+        "rank": 14,
+        "name": "storytold/designcraft",
+        "description": "",
+        "stars": 664,
+        "language": "Rust",
+        "url": "https://github.com/storytold/designcraft",
+        "created": "2026-10-01"
+      },
+      {
+        "rank": 15,
+        "name": "elstongun/leviathan",
+        "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-t",
+        "stars": 651,
+        "language": "Rust",
+        "url": "https://github.com/elstongun/leviathan",
+        "created": "2026-10-05"
+      },
+      {
+        "rank": 16,
+        "name": "ythx-101/live-panel-skill",
+        "description": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Cla",
+        "stars": 635,
+        "language": "HTML",
+        "url": "https://github.com/ythx-101/live-panel-skill",
+        "created": "2026-10-03"
+      },
+      {
+        "rank": 17,
+        "name": "AgentMemoryRepo/agentmemoryrepo",
+        "description": "Spec for Agent Memory Repo",
+        "stars": 589,
+        "language": null,
+        "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
+        "created": "2026-10-04"
+      },
+      {
+        "rank": 18,
+        "name": "zzzz7788990213-ops/EvoVLM",
+        "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+        "stars": 507,
+        "language": "Python",
+        "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+        "created": "2026-10-02"
+      },
+      {
+        "rank": 19,
+        "name": "whirlchat/whirl",
+        "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+        "stars": 491,
+        "language": "TypeScript",
+        "url": "https://github.com/whirlchat/whirl",
+        "created": "2026-10-02"
+      },
+      {
+        "rank": 20,
+        "name": "Dingo-Shenanigans/ReSkate",
+        "description": "",
+        "stars": 476,
+        "language": "C++",
+        "url": "https://github.com/Dingo-Shenanigans/ReSkate",
+        "created": "2026-10-02"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
+        "authors": [
+          "Shiqi Li",
+          "Sean Cho",
+          "Yijie Li",
+          "Fengzhi Guo",
+          "Bowen Wen"
+        ],
+        "summary": "Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to unstable interaction prediction. We introduce 4D-HOF, a feed-forward framework that reconstructs 4D ha",
+        "url": "http://arxiv.org/abs/2610.08782v1",
+        "pdf": "https://arxiv.org/pdf/2610.08782v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
+        "authors": [
+          "Ziyu Chen",
+          "Yilun Zhao",
+          "Jiashuo Sun",
+          "Yiling Ma",
+          "Manasi Patwardhan"
+        ],
+        "summary": "Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training language models to perform this form of literature-grounded ideation remains challenging, as existing approaches based on prompting or feedback lack st",
+        "url": "http://arxiv.org/abs/2610.08781v1",
+        "pdf": "https://arxiv.org/pdf/2610.08781v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "DepthWorld: 3D World Model for Robot Manipulation",
+        "authors": [
+          "Jai Bardhan",
+          "Josef Sivic",
+          "Vladimir Petrik"
+        ],
+        "summary": "World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D geometry, yet current video-based world models are trained on RGB alone and produce rollouts that look",
+        "url": "http://arxiv.org/abs/2610.08780v1",
+        "pdf": "https://arxiv.org/pdf/2610.08780v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Sherpa: Teaching LLMs to Teach Adaptively",
+        "authors": [
+          "Weixian Xu",
+          "Yanzhe Zhang",
+          "Zora Zhiruo Wang",
+          "Changyu Chen",
+          "Diyi Yang"
+        ],
+        "summary": "Large language models (LLMs) have become increasingly capable problem solvers, but being able to solve a problem is not the same as being able to teach it. Existing approaches to training LLMs as teachers rely on demonstrations, preference data, or predefined pedagogical criteria that specify what g",
+        "url": "http://arxiv.org/abs/2610.08778v1",
+        "pdf": "https://arxiv.org/pdf/2610.08778v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?",
+        "authors": [
+          "Ankit Sonthalia",
+          "Haritz Puerto",
+          "Alexander Rubinstein",
+          "Martin Gubri",
+          "Seong Joon Oh"
+        ],
+        "summary": "Large language models (LLMs) can solve many narrow tasks, but querying them separately for millions of related instances can be prohibitively expensive. Can LLM agents autonomously create cheaper solutions for such workloads? We call this ability \"bottling\": the ability to turn general capabilities ",
+        "url": "http://arxiv.org/abs/2610.08775v1",
+        "pdf": "https://arxiv.org/pdf/2610.08775v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model",
+        "authors": [
+          "Sarim Hashmi",
+          "Mukul Ranjan",
+          "Kshitij Mishra",
+          "Mikhail Kuznetsov",
+          "Praneeth Vepakomma"
+        ],
+        "summary": "Web agents complete user requests by reading and acting on pages that third parties write, so an instruction planted on a page can redirect the agent away from the user's goal. The agent cannot simply ignore the page, because the page also holds the values and controls the task requires. Current def",
+        "url": "http://arxiv.org/abs/2610.08773v1",
+        "pdf": "https://arxiv.org/pdf/2610.08773v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning",
+        "authors": [
+          "Zewei Zhou",
+          "Rachel Luo",
+          "Yulong Cao",
+          "Chaowei Xiao",
+          "Chensheng Peng"
+        ],
+        "summary": "Self-improving policies continually expose new failure patterns, changing what their judges must be able to verify. However, current fixed judges constrain both optimization feedback and the discovery of useful training examples, limiting further self-improvement. This challenge is even more acute i",
+        "url": "http://arxiv.org/abs/2610.08761v1",
+        "pdf": "https://arxiv.org/pdf/2610.08761v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "WorldSonus: Bringing Sound to Worlds",
+        "authors": [
+          "Pengjun Fang",
+          "Jingyi Fa",
+          "Kam Man Wu",
+          "Jiaming Wang",
+          "Haoyuan Huang"
+        ],
+        "summary": "Recent advances in world models have enabled increasingly realistic visual synthesis. However, these generated environments remain largely silent. Bringing sound to world models poses three core challenges: real-time generation to keep pace with interactive video streams, interactive control to resp",
+        "url": "http://arxiv.org/abs/2610.08760v1",
+        "pdf": "https://arxiv.org/pdf/2610.08760v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Reinforcement Learning with Conformal Action Sets: An Application to Sequential Recommendation",
+        "authors": [
+          "Wenwen Si",
+          "Honghao Wei"
+        ],
+        "summary": "Sequential recommenders typically use a fixed slate size even though the number of useful alternatives changes within a session. We propose Reinforcement Learning with Calibrated Pruning (RLCP), which adapts the retained action set using critic scores and an online threshold. The threshold is update",
+        "url": "http://arxiv.org/abs/2610.08743v1",
+        "pdf": "https://arxiv.org/pdf/2610.08743v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "EgoLAP: Learning from Egocentric Human Data through Language-Action Reasoning",
+        "authors": [
+          "Lihan Zha",
+          "Shresth Grover",
+          "Tenny Yin",
+          "Samuel M. Bateman",
+          "Hengkai Pan"
+        ],
+        "summary": "Egocentric human data offer a path to scaling robot learning beyond costly robot demonstrations, yet the embodiment gap makes raw human trajectories a poor supervisory target for control. Our key insight is that, although low-level actions are embodiment-specific, their underlying motion intent can ",
+        "url": "http://arxiv.org/abs/2610.08726v1",
+        "pdf": "https://arxiv.org/pdf/2610.08726v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Does an Agent's History Tell You When Compaction Will Hurt? A Modest, Bounded Effect on the TRACE Paired-Replay Corpus",
+        "authors": [
+          "Egor Pakhomov",
+          "Erik Nijkamp"
+        ],
+        "summary": "Many long-horizon agents compact their context on a global rule, usually a token budget, blind to what the agent was doing. We ask whether the agent's recent behaviour predicts when a compaction will hurt. TRACE's public corpus of 590 harness-triggered AppWorld compaction boundaries replays each bou",
+        "url": "http://arxiv.org/abs/2610.08722v1",
+        "pdf": "https://arxiv.org/pdf/2610.08722v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?",
+        "authors": [
+          "Siru Jiang",
+          "Yongzhe Lyu",
+          "Shuo Lu",
+          "Yubin Wang",
+          "Yuxiang Zhang"
+        ],
+        "summary": "LLM-based agents are increasingly advancing scientific and engineering problem solving, with physics simulation emerging as a challenging yet practical testbed for reproducing complex physical phenomena with application in embodied AI, games and films. As the workhorse of such simulation, a solver c",
+        "url": "http://arxiv.org/abs/2610.08720v1",
+        "pdf": "https://arxiv.org/pdf/2610.08720v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
+        "authors": [
+          "Guangyi Liu",
+          "Yong Liu",
+          "Jiangning Zhang"
+        ],
+        "summary": "Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation that lasts, closed, in a vendor's cloud, in one country. Such an agent is expected to act on a person",
+        "url": "http://arxiv.org/abs/2610.08699v1",
+        "pdf": "https://arxiv.org/pdf/2610.08699v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "ScienceClaw: Benchmarking Continual Self-Evolution of AI-for-Science Agents Across the Natural and Social Sciences",
+        "authors": [
+          "Mingda Zhang",
+          "Wenjin Liu",
+          "Tiesunlong Shen",
+          "Zikai Xiao",
+          "Zhenghong Lin"
+        ],
+        "summary": "Large language model agents are accelerating scientific automation, yet verified executions rarely become persistent program-level improvements, and existing evaluations do not examine this process across sequential tasks in both the natural and social sciences. We formalize ScienceClaw as fixed-par",
+        "url": "http://arxiv.org/abs/2610.08691v1",
+        "pdf": "https://arxiv.org/pdf/2610.08691v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Coupled but Late: Turn-Taking Between Full-Duplex Speech Models in Unscripted Dialogue",
+        "authors": [
+          "Lichen Zhu",
+          "Yueqian Lin",
+          "Yiheng Wang",
+          "Hai \"Helen\" Li",
+          "Yiran Chen"
+        ],
+        "summary": "Full-duplex speech models are trained to converse with a person, but they are increasingly made to converse with each other, in self-play data generation, agent societies, and model-based evaluation. In that loop no human absorbs a timing error: each model's turn-taking is the other's input. We ask ",
+        "url": "http://arxiv.org/abs/2610.08683v1",
+        "pdf": "https://arxiv.org/pdf/2610.08683v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Secure Speculative Decoding for Large Language Models",
+        "authors": [
+          "Yichi Zhang",
+          "Zhiqi Wang",
+          "Neil Gong",
+          "Yuchen Yang"
+        ],
+        "summary": "Speculative decoding accelerates inference for a large language model (LLM), referred to as the \\emph{target model}, by first using a smaller model, referred to as the \\emph{draft model}, to generate candidate tokens and then verifying them with the target model for acceptance or rejection. Prior st",
+        "url": "http://arxiv.org/abs/2610.08678v1",
+        "pdf": "https://arxiv.org/pdf/2610.08678v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Principled Under Pressure: Post-Training Decides Whether LLMs Act on Their Own Moral Judgment",
+        "authors": [
+          "Orion Reblitz-Richardson"
+        ],
+        "summary": "Language models increasingly act as agents. An agent that says an action is wrong and then takes it anyway is a different failure from one that does not know better, and evaluations of stated values cannot see it. We build a pre-registered panel of 248 scenarios across five kinds of pressure. Each s",
+        "url": "http://arxiv.org/abs/2610.08670v1",
+        "pdf": "https://arxiv.org/pdf/2610.08670v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "MemFLoRA: Memory-Floor LoRA for CNN Adaptation at the Edge",
+        "authors": [
+          "Mehmet Emre Akbulut",
+          "Johannes Geier",
+          "Ulf Schlichtmann"
+        ],
+        "summary": "On-device learning is necessary when the model encounters user-,sensor-, or environment-specific shifts after deployment. Although parameter-efficient fine-tuning (PEFT) methods, particularly Low-Rank Adaptation (LoRA) variants, enable efficient adaptation at the edge, the limiting resource for Conv",
+        "url": "http://arxiv.org/abs/2610.08669v1",
+        "pdf": "https://arxiv.org/pdf/2610.08669v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Semantic Behavioral Watermarking: Paraphrase-Robust and Forgery-Resistant Provenance for LLM Agents",
+        "authors": [
+          "Suxin Ji",
+          "Hungtao Wan",
+          "Shaoxuan Chen",
+          "An Zhang"
+        ],
+        "summary": "Behavioral watermarking embeds an owner identifier in an LLM agent's high-level action choices, giving provenance without touching output tokens. Prior agent watermarks break in two ways. First, all three prior schemes bind the watermark to the exact action symbol, so renaming a tool desynchronizes ",
+        "url": "http://arxiv.org/abs/2610.08668v1",
+        "pdf": "https://arxiv.org/pdf/2610.08668v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "ParanoiaEval: Benchmarking Unnecessary Defensive Work in Agentic Coding",
+        "authors": [
+          "Hanjun Luo",
+          "Xiucheng Zhang",
+          "Zhuoning Xu",
+          "Zhimu Huang",
+          "Yingbin Jin"
+        ],
+        "summary": "As coding agents increasingly undertake real-world work autonomously, judging whether their risk treatments are warranted has become important. Existing work evaluates related agent behaviors from separate perspectives, but lacks a systematic framework for unifying these behaviors. To bridge this ga",
+        "url": "http://arxiv.org/abs/2610.08662v1",
+        "pdf": "https://arxiv.org/pdf/2610.08662v1",
+        "published": "2026-10-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "QF3: Fast Flow RL with Filtered Q-Gradients",
+        "authors": [
+          "Chung Min Kim",
+          "Brent Yi",
+          "David McAllister",
+          "Hongsuk Choi",
+          "Himanshu Gaurav Singh"
+        ],
+        "summary": "Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning them from scratch through interaction. We introduce QF3 (Fast Flow RL with Filtered Q-Gradients), an on",
+        "url": "http://arxiv.org/abs/2610.08789v1",
+        "pdf": "https://arxiv.org/pdf/2610.08789v1",
+        "published": "2026-10-06",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
+        "authors": [
+          "Kevin Zhang",
+          "Stephen Bates"
+        ],
+        "summary": "Conformal prediction is a popular tool for uncertainty quantification that outputs prediction sets with finite-sample coverage guarantees. While prediction set size is commonly used as a heuristic measure of uncertainty, the information-theoretic basis for this interpretation remains poorly understo",
+        "url": "http://arxiv.org/abs/2610.08785v1",
+        "pdf": "https://arxiv.org/pdf/2610.08785v1",
+        "published": "2026-10-06",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Rapid Fredholm stabilization of the Kuramoto--Sivashinsky equation with unrestricted, spatially-varying anti-diffusion",
+        "authors": [
+          "Luke Bhan",
+          "Miroslav Krstic",
+          "Yuanyuan Shi"
+        ],
+        "summary": "We develop the first feedback design for rapid stabilization of the Kuramoto--Sivashinsky equation with a spatially varying anti-diffusion coefficient. For constant coefficients, the single-input Fredholm design of Coron and Lü (2015) excludes a discrete set of values at which repeated unstable eige",
+        "url": "http://arxiv.org/abs/2610.08764v1",
+        "pdf": "https://arxiv.org/pdf/2610.08764v1",
+        "published": "2026-10-06",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Neural Petri flows for chemical reactions",
+        "authors": [
+          "Jose Eduardo Escrig Molina",
+          "Daniel Probst"
+        ],
+        "summary": "Petri nets have been used to describe chemical processes such as reactions.They map well to chemistry: Places are the bonds between atoms and the free valence of each atom, a token is a unit of bond order, a transition forms or breaks a bond, the conserved quantities are the valence budgets of the a",
+        "url": "http://arxiv.org/abs/2610.08750v1",
+        "pdf": "https://arxiv.org/pdf/2610.08750v1",
+        "published": "2026-10-06",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Linear Bandits under Exact Sliding-Window Constraints",
+        "authors": [
+          "Seyed Mohammad Hadi Hosseini",
+          "Yasin Abbasi-Yadkori",
+          "Sattar Vakili"
+        ],
+        "summary": "We study linear bandits under exact sliding-window constraints, where every consecutive block of actions must belong to a prescribed feasible set. In the offline setting, where the reward function is known, we show that convexity and cyclic-shift invariance make a stationary solution optimal when $w",
+        "url": "http://arxiv.org/abs/2610.08745v1",
+        "pdf": "https://arxiv.org/pdf/2610.08745v1",
+        "published": "2026-10-06",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "On the Computational Tractability of Robust Bandits",
+        "authors": [
+          "Vanessa Kosoy",
+          "Vinayak Pathak"
+        ],
+        "summary": "Learning when the environment does not belong to the learner's hypothesis class is typically handled using agnostic learning guarantees. However, for anything beyond supervised learning, agnostic guarantees are difficult to come by. Recently, imprecise bandits (Kosoy, 2025) (later renamed to robust ",
+        "url": "http://arxiv.org/abs/2610.08740v1",
+        "pdf": "https://arxiv.org/pdf/2610.08740v1",
+        "published": "2026-10-06",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling",
+        "authors": [
+          "Mathias Ollu",
+          "Nikos Komodakis"
+        ],
+        "summary": "Diffusion Language Models (DLMs) hold the promise of order-agnostic, parallel text generation. Recently, continuous diffusion and flow matching models have seen substantial gains, driven by carefully crafted token representations and diffusion/flow spaces. In this work, we introduce Hierarchical Con",
+        "url": "http://arxiv.org/abs/2610.08738v1",
+        "pdf": "https://arxiv.org/pdf/2610.08738v1",
+        "published": "2026-10-06",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Optimal and Efficient Online Inverse Optimization",
+        "authors": [
+          "Anupam Gupta",
+          "Guru Guruganesh",
+          "Honghao Lin",
+          "Vahab Mirrokni",
+          "Renato Paes Leme"
+        ],
+        "summary": "In online inverse linear optimization, a learner recommends an action and then observes the choice of an expert who maximizes a fixed, unknown linear objective on $\\mathbb{R}^{d}$; the goal is to learn to optimize this objective without observing it. Sakaue recently obtained the optimal regret $O(\\s",
+        "url": "http://arxiv.org/abs/2610.08735v1",
+        "pdf": "https://arxiv.org/pdf/2610.08735v1",
+        "published": "2026-10-06",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
