@@ -1,0 +1,613 @@
+{
+  "date": "2026-10-08",
+  "generated": "2026-10-08T08:31:10.942369",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "openai/math",
+        "description": "",
+        "stars": 10795,
+        "language": "Lean",
+        "url": "https://github.com/openai/math",
+        "created": "2026-10-06"
+      },
+      {
+        "rank": 2,
+        "name": "QingYunA/answer-me-with-html",
+        "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+        "stars": 2221,
+        "language": "JavaScript",
+        "url": "https://github.com/QingYunA/answer-me-with-html",
+        "created": "2026-10-02"
+      },
+      {
+        "rank": 3,
+        "name": "alchaincyf/huashu-art-motion",
+        "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+        "stars": 2063,
+        "language": "JavaScript",
+        "url": "https://github.com/alchaincyf/huashu-art-motion",
+        "created": "2026-10-06"
+      },
+      {
+        "rank": 4,
+        "name": "facebookincubator/muse-gadget-sdk",
+        "description": "Open source SDK to build Muse gadgets",
+        "stars": 1713,
+        "language": "C",
+        "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+        "created": "2026-10-02"
+      },
+      {
+        "rank": 5,
+        "name": "kargulstudio/sales-crm",
+        "description": "",
+        "stars": 1643,
+        "language": "TypeScript",
+        "url": "https://github.com/kargulstudio/sales-crm",
+        "created": "2026-10-04"
+      },
+      {
+        "rank": 6,
+        "name": "mizorewww/x_gift_bot",
+        "description": "X Premium gift CLI and redemption site",
+        "stars": 1020,
+        "language": "Go",
+        "url": "https://github.com/mizorewww/x_gift_bot",
+        "created": "2026-10-02"
+      },
+      {
+        "rank": 7,
+        "name": "sganggs/Stronghold-Protocol",
+        "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+        "stars": 953,
+        "language": "JavaScript",
+        "url": "https://github.com/sganggs/Stronghold-Protocol",
+        "created": "2026-10-02"
+      },
+      {
+        "rank": 8,
+        "name": "Jakeschincariol/replica-skill",
+        "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+        "stars": 932,
+        "language": "Python",
+        "url": "https://github.com/Jakeschincariol/replica-skill",
+        "created": "2026-10-03"
+      },
+      {
+        "rank": 9,
+        "name": "rauchg/gdp-ts",
+        "description": "",
+        "stars": 749,
+        "language": "TypeScript",
+        "url": "https://github.com/rauchg/gdp-ts",
+        "created": "2026-10-04"
+      },
+      {
+        "rank": 10,
+        "name": "alejandrobujan/tendedero",
+        "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+        "stars": 685,
+        "language": "Swift",
+        "url": "https://github.com/alejandrobujan/tendedero",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 11,
+        "name": "elstongun/leviathan",
+        "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-t",
+        "stars": 676,
+        "language": "Rust",
+        "url": "https://github.com/elstongun/leviathan",
+        "created": "2026-10-05"
+      },
+      {
+        "rank": 12,
+        "name": "ythx-101/live-panel-skill",
+        "description": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Cla",
+        "stars": 654,
+        "language": "HTML",
+        "url": "https://github.com/ythx-101/live-panel-skill",
+        "created": "2026-10-03"
+      },
+      {
+        "rank": 13,
+        "name": "LoreanXavier/pt-pc",
+        "description": "Native PC port of P.T. (runs from your own PS4 game files)",
+        "stars": 653,
+        "language": "C++",
+        "url": "https://github.com/LoreanXavier/pt-pc",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 14,
+        "name": "AgentMemoryRepo/agentmemoryrepo",
+        "description": "Spec for Agent Memory Repo",
+        "stars": 618,
+        "language": null,
+        "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
+        "created": "2026-10-04"
+      },
+      {
+        "rank": 15,
+        "name": "nullmoth/nvidia-macos-driver",
+        "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+        "stars": 597,
+        "language": "Rust",
+        "url": "https://github.com/nullmoth/nvidia-macos-driver",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 16,
+        "name": "pingdotgg/ts-rust",
+        "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+        "stars": 564,
+        "language": "Rust",
+        "url": "https://github.com/pingdotgg/ts-rust",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 17,
+        "name": "DozenTwelve/Papermorph",
+        "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
+        "stars": 548,
+        "language": "HTML",
+        "url": "https://github.com/DozenTwelve/Papermorph",
+        "created": "2026-10-03"
+      },
+      {
+        "rank": 18,
+        "name": "Dingo-Shenanigans/ReSkate",
+        "description": "",
+        "stars": 541,
+        "language": "C++",
+        "url": "https://github.com/Dingo-Shenanigans/ReSkate",
+        "created": "2026-10-02"
+      },
+      {
+        "rank": 19,
+        "name": "blendi-remade/agentcraft",
+        "description": "",
+        "stars": 519,
+        "language": "Java",
+        "url": "https://github.com/blendi-remade/agentcraft",
+        "created": "2026-10-03"
+      },
+      {
+        "rank": 20,
+        "name": "szabadkai/c64-keyboard-font",
+        "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+        "stars": 513,
+        "language": "Python",
+        "url": "https://github.com/szabadkai/c64-keyboard-font",
+        "created": "2026-10-05"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+        "authors": [
+          "Shravan Chaudhari",
+          "William Paul",
+          "Suchi Saria",
+          "Rama Chellappa",
+          "Homanga Bharadhwaj"
+        ],
+        "summary": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied assistant can build a s",
+        "url": "http://arxiv.org/abs/2610.10538v1",
+        "pdf": "https://arxiv.org/pdf/2610.10538v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Decoupling Exploration from Optimization in RLVR",
+        "authors": [
+          "Saif Punjwani",
+          "Micah Goldblum"
+        ],
+        "summary": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data. In practice, however, augm",
+        "url": "http://arxiv.org/abs/2610.10536v1",
+        "pdf": "https://arxiv.org/pdf/2610.10536v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Long-WAM: Scaling the Context of World-Action Models",
+        "authors": [
+          "Wei Huang",
+          "Bohan Zhang",
+          "Chenzhi Liu",
+          "Isabella Liu",
+          "Shuai Yang"
+        ],
+        "summary": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal world-action models under real-time control constraints. Our central finding is that ",
+        "url": "http://arxiv.org/abs/2610.10528v1",
+        "pdf": "https://arxiv.org/pdf/2610.10528v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "RoboJEPA: Scaling Robotic Latent World Models",
+        "authors": [
+          "Artem Zholus",
+          "Nicolas Beltran-Velez",
+          "Jianhao Yuan",
+          "Sarath Chandar",
+          "Tushar Nagarajan"
+        ],
+        "summary": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with model size, data, and compute, an open problem that slows progress in the field. In this work we pr",
+        "url": "http://arxiv.org/abs/2610.10515v1",
+        "pdf": "https://arxiv.org/pdf/2610.10515v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
+        "authors": [
+          "Yinling Zhang",
+          "Langchen Liu",
+          "Dongbin Xiu",
+          "Xueyan Zou",
+          "Xu Kuang"
+        ],
+        "summary": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whether a new scientific model is valid. The AI Science Exam for El Nino-Southern Osci",
+        "url": "http://arxiv.org/abs/2610.10513v1",
+        "pdf": "https://arxiv.org/pdf/2610.10513v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
+        "authors": [
+          "Yilun Hao",
+          "Krishna Sayana",
+          "Isabella Ye",
+          "James S Ren",
+          "Sukhdeep Sodhi"
+        ],
+        "summary": "Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventional Retrieval-Augmented Generation (RAG) relies on fixed similarity-based retrieval, while agentic variants adapt queries and tool use but remain largely retrieval-centric. However, ",
+        "url": "http://arxiv.org/abs/2610.10507v1",
+        "pdf": "https://arxiv.org/pdf/2610.10507v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
+        "authors": [
+          "Daniel Robert Kling Alexander",
+          "Catherine Louise Kling"
+        ],
+        "summary": "Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, which option a user should choose, how to weigh competing values. Stated-preference economics has faced this problem for decades. It judges survey responses without knowing the tru",
+        "url": "http://arxiv.org/abs/2610.10506v1",
+        "pdf": "https://arxiv.org/pdf/2610.10506v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
+        "authors": [
+          "Python Song",
+          "Zhixuan Liang",
+          "Kelsey Fu",
+          "Mengdi Wang",
+          "Junfeng Yang"
+        ],
+        "summary": "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on substantial robot data, which can be costly to collect through methods such as teleoperation. Agentic ha",
+        "url": "http://arxiv.org/abs/2610.10498v1",
+        "pdf": "https://arxiv.org/pdf/2610.10498v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models",
+        "authors": [
+          "Tan Yu",
+          "Alexander Bukharin",
+          "Khushi Bhardwaj",
+          "Jennifer Williams",
+          "Zirui Liu"
+        ],
+        "summary": "How can we predict which base checkpoint is worth an expensive round of agentic post-training? End-to-end pass@$K$ tests whether successful behavior already appears in a base model's distribution, but it is a poor fit for agentic coding: many base checkpoints cannot reliably produce the well-formed ",
+        "url": "http://arxiv.org/abs/2610.10478v1",
+        "pdf": "https://arxiv.org/pdf/2610.10478v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "A Society of Researchers: Designing Institutions for Populations of Autonomous Research Agents",
+        "authors": [
+          "Ali Asaria",
+          "Deep Gandhi",
+          "Tony Salomone"
+        ],
+        "summary": "Deployments of research agents are moving to populations of thousands that share one pool of compute, while most current systems organize one project at a time or leave the population unorganized. We argue that such a population will acquire an organization whether or not its designers provide one, ",
+        "url": "http://arxiv.org/abs/2610.10468v1",
+        "pdf": "https://arxiv.org/pdf/2610.10468v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "How assigned AI use before class shapes active student engagement in class",
+        "authors": [
+          "Dan J. Wang",
+          "Neelam Modi Jain",
+          "Vanessa Burbano",
+          "Jorge Guzman",
+          "Daniel Keum"
+        ],
+        "summary": "AI learning tools are rapidly entering classrooms, but evidence about whether they help students learn is mixed and rests mostly on test scores. Comparatively less research addresses whether the use of AI changes students' live learning behaviors in class. Here, we report the results of a preregiste",
+        "url": "http://arxiv.org/abs/2610.10463v1",
+        "pdf": "https://arxiv.org/pdf/2610.10463v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "FoldBack: Self-Correcting Masked Generative Policy for Long-Horizon Garment Folding",
+        "authors": [
+          "Lipeng Zhuang",
+          "Shiyu Fan",
+          "Yingdong Ru",
+          "Zhuo He",
+          "Florent P. Audonnet"
+        ],
+        "summary": "We present FoldBack, a self-correcting masked generative policy for long-horizon garment folding. Existing long-trajectory policies may continue after a missed or slipped grasp even when the garment has not reached the intended configuration. We structure FoldBack's recovery mechanisms around three ",
+        "url": "http://arxiv.org/abs/2610.10462v1",
+        "pdf": "https://arxiv.org/pdf/2610.10462v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Composing What Each Teacher Learned: Multi-Teacher On-Policy Distillation through Teacher-Relative Shifts",
+        "authors": [
+          "Hejian Sang",
+          "Zhengze Zhou",
+          "Shayan Mohajer Hamidi",
+          "Xiaomin Li",
+          "Rohit Jain"
+        ],
+        "summary": "Multi-teacher on-policy distillation (MOPD) is used in two settings. In common-domain composition, several teachers score each student rollout from one prompt domain and their signals form a single target; in routed-domain distillation, prompts from different domains are assigned to the correspondin",
+        "url": "http://arxiv.org/abs/2610.10460v1",
+        "pdf": "https://arxiv.org/pdf/2610.10460v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "PHRBench: A Behavioral Evaluation of Post-Hallucination Reasoning in LLMs",
+        "authors": [
+          "Linghao Meng",
+          "Feng He",
+          "Xuan Yang",
+          "Junyuan Mao",
+          "Pinze Ren"
+        ],
+        "summary": "Hallucinated information can propagate through multi-stage LLM systems and become part of the context for subsequent reasoning. Existing studies of post-hallucination reasoning (PHR) mainly characterize changes in final outcomes and aggregate reasoning dynamics, leaving how models resolve hallucinat",
+        "url": "http://arxiv.org/abs/2610.10455v1",
+        "pdf": "https://arxiv.org/pdf/2610.10455v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "A Good Self-Teacher Meets the Student Where They Are: Joint On-Policy Learning and Teaching",
+        "authors": [
+          "Randy Ardywibowo",
+          "Arnav Dalal",
+          "Jiantao Jiao"
+        ],
+        "summary": "Reinforcement Learning (RL) from outcome rewards suffers from sparse supervision, particularly on difficult, long-horizon tasks where successful trajectories are rare and costly to generate. On-Policy Distillation (OPD) offers an attractive alternative by providing dense token-level supervision from",
+        "url": "http://arxiv.org/abs/2610.10447v1",
+        "pdf": "https://arxiv.org/pdf/2610.10447v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "RunningTab: Direct Workspace Interaction with Environment-Side Tabs",
+        "authors": [
+          "Jinheon Baek",
+          "Soyeong Jeong",
+          "Yumin Choi",
+          "Dongsu Han",
+          "Sung Ju Hwang"
+        ],
+        "summary": "Much knowledge work produces new deliverables from files a workspace already holds, and LLM agents are beginning to take such work over. Through direct corpus interaction, an agent can search and read any of those files from a terminal with no indexing, and producing a deliverable from many of them ",
+        "url": "http://arxiv.org/abs/2610.10444v1",
+        "pdf": "https://arxiv.org/pdf/2610.10444v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Q-Learning with Scalar Adjoint Matching",
+        "authors": [
+          "Yonghoon Dong",
+          "Minsung Yoon",
+          "Jaehyuk Kim",
+          "Jungwoo Park",
+          "Changyeon Kim"
+        ],
+        "summary": "Flow policies capture rich and diverse action distributions, and fine-tuning them with off-policy RL to improve beyond the demonstrations has drawn growing interest. However, fine-tuning a flow policy against a learned value function is not trivial, because the policy generates its action over many ",
+        "url": "http://arxiv.org/abs/2610.10437v1",
+        "pdf": "https://arxiv.org/pdf/2610.10437v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Training Parallel Speculative Draft Models by Directly Minimizing Expected Decoding Rounds",
+        "authors": [
+          "Yunxiao Zhao",
+          "Changxiao Cai"
+        ],
+        "summary": "Speculative decoding accelerates large language model inference by using a low-cost draft model to propose tokens that the full-size target model verifies in parallel. Parallel and semi-autoregressive (semi- AR) drafters improve drafting efficiency by proposing an entire block in a single forward pa",
+        "url": "http://arxiv.org/abs/2610.10411v1",
+        "pdf": "https://arxiv.org/pdf/2610.10411v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "SOTA: Stock Options Trading Agents Guided by Option-Implied Return Distributions",
+        "authors": [
+          "Yizhen Xie",
+          "Mengyang Liu"
+        ],
+        "summary": "As option markets grow and AI advances, agentic systems for option trading are gaining increasing attention. Language-model-based agents can reason over contextual information such as news, but option trading presents a particularly challenging decision problem: a single stock can have thousands of ",
+        "url": "http://arxiv.org/abs/2610.10407v1",
+        "pdf": "https://arxiv.org/pdf/2610.10407v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Reasoning-Token Spikes Under Prompted Untruthful Responding in Large Language Models",
+        "authors": [
+          "Maverick Morales",
+          "Tomáš Dominik",
+          "Vermut Gao",
+          "Katrina Shirey",
+          "Paulius Rimkevičius"
+        ],
+        "summary": "Monitoring the chain-of-thought of reasoning artificial intelligence (AI) models remains a key approach to detecting deception and other forms of misbehavior in such models. However, semantic chain-of-thought monitoring depends on reasoning traces being legible and sufficiently faithful to the under",
+        "url": "http://arxiv.org/abs/2610.10405v1",
+        "pdf": "https://arxiv.org/pdf/2610.10405v1",
+        "published": "2026-10-07",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
+        "authors": [
+          "Aleksandar Armacki",
+          "Haoyuan Cai",
+          "Ali H. Sayed"
+        ],
+        "summary": "Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized settings, much less is known in decentralized ones, where applying a nonlinearity to local gradients ",
+        "url": "http://arxiv.org/abs/2610.10527v1",
+        "pdf": "https://arxiv.org/pdf/2610.10527v1",
+        "published": "2026-10-07",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+        "authors": [
+          "Mikey Watts",
+          "Yuchen Cui"
+        ],
+        "summary": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can move success by tens of points: $π_{0.5}$ turns on a LIBERO stove 100% of the time for \"switch on the ",
+        "url": "http://arxiv.org/abs/2610.10526v1",
+        "pdf": "https://arxiv.org/pdf/2610.10526v1",
+        "published": "2026-10-07",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
+        "authors": [
+          "Zhewei Chen",
+          "Hao Zhu",
+          "Jiaojiao Jiang",
+          "Ahad N. Zehmakan"
+        ],
+        "summary": "GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use confidence-based reweighting, but they do not specify where the student should preserve the teacher",
+        "url": "http://arxiv.org/abs/2610.10520v1",
+        "pdf": "https://arxiv.org/pdf/2610.10520v1",
+        "published": "2026-10-07",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Why Forget-Only Unlearning Needs Memorization",
+        "authors": [
+          "Luka Radić",
+          "Vikrant Singhal",
+          "Amartya Sanyal"
+        ],
+        "summary": "Machine unlearning asks for a deletion algorithm whose output is close to retraining from scratch without the selected forget examples. In this work, we study forget-only unlearning, where the deletion algorithm receives only the trained model and the examples to forget, with no retained data or ext",
+        "url": "http://arxiv.org/abs/2610.10519v1",
+        "pdf": "https://arxiv.org/pdf/2610.10519v1",
+        "published": "2026-10-07",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Oracle-Efficient and Parameter-Free Agnostic Smoothed Online Learning",
+        "authors": [
+          "Sasha Voitovych",
+          "Adam Block",
+          "Alexander Rakhlin",
+          "Abhishek Shetty"
+        ],
+        "summary": "Online learning is an attractive framework in many domains because it permits well-defined learning even when data are dependent or chosen adversarially. This generality, however, comes at a steep price, introducing significant statistical and computational barriers. Recently, smoothed online learni",
+        "url": "http://arxiv.org/abs/2610.10499v1",
+        "pdf": "https://arxiv.org/pdf/2610.10499v1",
+        "published": "2026-10-07",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2",
+        "authors": [
+          "Kursat Komurcu",
+          "Linas Petkevicius"
+        ],
+        "summary": "Small tabular datasets with expert-designed spectral features are the norm in\n  operational Earth observation, and the networks applied to them are typically\n  hand-designed. We revisit one such published model -- a Sentinel-2 algal\n  bloom classifier -- and ask what architecture search adds, holdin",
+        "url": "http://arxiv.org/abs/2610.10496v1",
+        "pdf": "https://arxiv.org/pdf/2610.10496v1",
+        "published": "2026-10-07",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Best Arm Identification for Bandits with Shifting Means",
+        "authors": [
+          "Lukas Zierahn",
+          "Wouter M. Koolen",
+          "Shubhada Agrawal",
+          "Christina Katsimerou",
+          "Dirk van der Hoeven"
+        ],
+        "summary": "We study the best arm identification problem in a stochastic environment with a novel form of adversarial perturbations, which we coin Shifting Means. While classically the mean rewards of the $K$ arms are stable in time, in Shifting Means only the gaps $\\boldsymbolΔ$ between mean rewards are stable",
+        "url": "http://arxiv.org/abs/2610.10488v1",
+        "pdf": "https://arxiv.org/pdf/2610.10488v1",
+        "published": "2026-10-07",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion",
+        "authors": [
+          "Walid Bendada",
+          "Guillaume Salha-Galvan"
+        ],
+        "summary": "Sampling from a softmax distribution is a fundamental operation in machine learning, but its linear complexity in the number of items makes exact sampling impractical at scale. Two-level softmax (2LS) sampling is a popular alternative enabling sublinear-time sampling. Assuming items are partitioned ",
+        "url": "http://arxiv.org/abs/2610.10483v1",
+        "pdf": "https://arxiv.org/pdf/2610.10483v1",
+        "published": "2026-10-07",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
