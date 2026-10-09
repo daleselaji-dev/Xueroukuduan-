@@ -1,0 +1,620 @@
+{
+  "date": "2026-10-09",
+  "generated": "2026-10-09T08:34:16.502680",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "openai/math",
+        "description": "",
+        "stars": 12546,
+        "language": "Lean",
+        "url": "https://github.com/openai/math",
+        "created": "2026-10-06"
+      },
+      {
+        "rank": 2,
+        "name": "alchaincyf/huashu-art-motion",
+        "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+        "stars": 2678,
+        "language": "JavaScript",
+        "url": "https://github.com/alchaincyf/huashu-art-motion",
+        "created": "2026-10-06"
+      },
+      {
+        "rank": 3,
+        "name": "kargulstudio/sales-crm",
+        "description": "",
+        "stars": 1662,
+        "language": "TypeScript",
+        "url": "https://github.com/kargulstudio/sales-crm",
+        "created": "2026-10-04"
+      },
+      {
+        "rank": 4,
+        "name": "nullmoth/nvidia-macos-driver",
+        "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+        "stars": 1490,
+        "language": "Rust",
+        "url": "https://github.com/nullmoth/nvidia-macos-driver",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 5,
+        "name": "mhtsec/ARTEX",
+        "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+        "stars": 1487,
+        "language": "Go",
+        "url": "https://github.com/mhtsec/ARTEX",
+        "created": "2026-10-08"
+      },
+      {
+        "rank": 6,
+        "name": "Jakeschincariol/replica-skill",
+        "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+        "stars": 1175,
+        "language": "Python",
+        "url": "https://github.com/Jakeschincariol/replica-skill",
+        "created": "2026-10-03"
+      },
+      {
+        "rank": 7,
+        "name": "alejandrobujan/tendedero",
+        "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+        "stars": 1112,
+        "language": "Swift",
+        "url": "https://github.com/alejandrobujan/tendedero",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 8,
+        "name": "LoreanXavier/pt-pc",
+        "description": "Native PC port of P.T. (runs from your own PS4 game files)",
+        "stars": 1078,
+        "language": "C++",
+        "url": "https://github.com/LoreanXavier/pt-pc",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 9,
+        "name": "storytold/wordcraft",
+        "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+        "stars": 1041,
+        "language": "Rust",
+        "url": "https://github.com/storytold/wordcraft",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 10,
+        "name": "zhongerxin/iPhone-use",
+        "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+        "stars": 1036,
+        "language": "Python",
+        "url": "https://github.com/zhongerxin/iPhone-use",
+        "created": "2026-10-06"
+      },
+      {
+        "rank": 11,
+        "name": "storytold/cadcraft",
+        "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+        "stars": 959,
+        "language": "Rust",
+        "url": "https://github.com/storytold/cadcraft",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 12,
+        "name": "shadany7824/playgta5",
+        "description": "A source code for playgta5.com.",
+        "stars": 845,
+        "language": "JavaScript",
+        "url": "https://github.com/shadany7824/playgta5",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 13,
+        "name": "jiwoochris/artex-ko",
+        "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+        "stars": 785,
+        "language": "Go",
+        "url": "https://github.com/jiwoochris/artex-ko",
+        "created": "2026-10-03"
+      },
+      {
+        "rank": 14,
+        "name": "rauchg/gdp-ts",
+        "description": "",
+        "stars": 764,
+        "language": "TypeScript",
+        "url": "https://github.com/rauchg/gdp-ts",
+        "created": "2026-10-04"
+      },
+      {
+        "rank": 15,
+        "name": "noahdunnagan/fsearch",
+        "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+        "stars": 754,
+        "language": "Rust",
+        "url": "https://github.com/noahdunnagan/fsearch",
+        "created": "2026-10-08"
+      },
+      {
+        "rank": 16,
+        "name": "pingdotgg/ts-rust",
+        "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+        "stars": 746,
+        "language": "Rust",
+        "url": "https://github.com/pingdotgg/ts-rust",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 17,
+        "name": "storytold/gridcraft",
+        "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+        "stars": 719,
+        "language": "Rust",
+        "url": "https://github.com/storytold/gridcraft",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 18,
+        "name": "LosaLosSantos/aurelio-finance",
+        "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+        "stars": 701,
+        "language": "Python",
+        "url": "https://github.com/LosaLosSantos/aurelio-finance",
+        "created": "2026-10-06"
+      },
+      {
+        "rank": 19,
+        "name": "elstongun/leviathan",
+        "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-t",
+        "stars": 698,
+        "language": "Rust",
+        "url": "https://github.com/elstongun/leviathan",
+        "created": "2026-10-05"
+      },
+      {
+        "rank": 20,
+        "name": "storytold/soundcraft",
+        "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+        "stars": 669,
+        "language": "Rust",
+        "url": "https://github.com/storytold/soundcraft",
+        "created": "2026-10-07"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+        "authors": [
+          "Drew T. Nguyen",
+          "William Fithian"
+        ],
+        "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory to relax the assumpti",
+        "url": "http://arxiv.org/abs/2610.12466v1",
+        "pdf": "https://arxiv.org/pdf/2610.12466v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+        "authors": [
+          "Abbas Raftari"
+        ],
+        "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and compromised parts of Hugging Face's production environme",
+        "url": "http://arxiv.org/abs/2610.12463v1",
+        "pdf": "https://arxiv.org/pdf/2610.12463v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "BrickBench: Evaluating Agentic Brick Design",
+        "authors": [
+          "Peter Kulits",
+          "Yiqing Xu",
+          "R. Kenny Jones",
+          "Cordelia Schmid",
+          "Jiajun Wu"
+        ],
+        "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be physically built. To do so, it must select parts from a discrete library and reaso",
+        "url": "http://arxiv.org/abs/2610.12452v1",
+        "pdf": "https://arxiv.org/pdf/2610.12452v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+        "authors": [
+          "Anna Zimmel",
+          "Fleur Hendriks",
+          "Markus Holzleitner",
+          "Florian Sestak",
+          "Martin Weichselbaumer"
+        ],
+        "summary": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a single input admits multiple equally valid solutions, violating the one-to-one assumption underlying mos",
+        "url": "http://arxiv.org/abs/2610.12449v1",
+        "pdf": "https://arxiv.org/pdf/2610.12449v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+        "authors": [
+          "Oskar J. Hollinsworth",
+          "Alex F. Spies",
+          "Tigist Diriba",
+          "Adam Gleave",
+          "Chris Cundy"
+        ],
+        "summary": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier monitoring settings by collecting the largest deception dataset to date for training probes and intro",
+        "url": "http://arxiv.org/abs/2610.12445v1",
+        "pdf": "https://arxiv.org/pdf/2610.12445v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
+        "authors": [
+          "Erin Crawley",
+          "Hidenori Tanaka"
+        ],
+        "summary": "AI agents can now conduct real-world cyberattacks, scale up capabilities with the number of agents, and collectively pursue misaligned goals to obtain rewards. Together, these factors raise the risk of a population explosion of misaligned agents: agents could compromise computers and secretly deploy",
+        "url": "http://arxiv.org/abs/2610.12436v1",
+        "pdf": "https://arxiv.org/pdf/2610.12436v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments",
+        "authors": [
+          "Zimo Wen",
+          "Yijin Chen",
+          "Yuxuan Cao",
+          "Wendi Chen",
+          "Yanwen Zou"
+        ],
+        "summary": "A generalist robot should not only perform diverse tasks but also improve through experience, turning what it learns during execution into capabilities that later tasks can reuse. Robot agents that act through code can already repair programs from execution feedback, yet it remains a central challen",
+        "url": "http://arxiv.org/abs/2610.12424v1",
+        "pdf": "https://arxiv.org/pdf/2610.12424v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances",
+        "authors": [
+          "Mingyuan Lei",
+          "Yoonchang Sung",
+          "Tat-Jen Cham"
+        ],
+        "summary": "Generating realistic human-object interactions (HOI) in complex 3D scenes requires two complementary capabilities: reasoning about interaction feasibility in the environment and synthesizing realistic human-object motion. However, supervision for these capabilities is rarely available jointly at sca",
+        "url": "http://arxiv.org/abs/2610.12416v1",
+        "pdf": "https://arxiv.org/pdf/2610.12416v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Predicting Alignment Generalization with Value Representations",
+        "authors": [
+          "Andy Liu",
+          "Mehar Bhatia",
+          "Karolina Stanczak",
+          "Mona Diab",
+          "Vered Shwartz"
+        ],
+        "summary": "LLM developers post-train their models to exhibit prosocial values and behavioral traits, which are enumerated in an alignment target. However, while recent post-training developments have yielded models that score highly on alignment evaluations, training models on sets of narrow behaviors still in",
+        "url": "http://arxiv.org/abs/2610.12410v1",
+        "pdf": "https://arxiv.org/pdf/2610.12410v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Searching for \"Harmful Refusal\": A Psychometric Audit of an AI Safety Benchmark",
+        "authors": [
+          "Christopher M. Stewart",
+          "Preston Botter",
+          "Natalie Sarabosing",
+          "Muye Zhang",
+          "Rachel Phinnemore"
+        ],
+        "summary": "Safety benchmarks typically report one overall score for a suite of datasets, each of which may target one or more safety-related attributes, so models with similar overall scores can have very different attribute profiles. Comparing models is more tractable at the level of individual attributes, ye",
+        "url": "http://arxiv.org/abs/2610.12409v1",
+        "pdf": "https://arxiv.org/pdf/2610.12409v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC",
+        "authors": [
+          "Shashank Hegde",
+          "Alexander Popov",
+          "Elie Aljalbout",
+          "Nikolai Smolyanskiy"
+        ],
+        "summary": "World action models (WAMs) predict actions and future observations, typically from a reconstruction-based representation that carries noisy, redundant information which can complicate downstream predictions. We introduce LeWAM, a bidirectional transformer for forward, backward, inverse dynamics and ",
+        "url": "http://arxiv.org/abs/2610.12407v1",
+        "pdf": "https://arxiv.org/pdf/2610.12407v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "SpaceFlow: Locally Controllable 3D Generation",
+        "authors": [
+          "Neil De La Fuente",
+          "Joan Lafuente",
+          "Mukhammadali Sayfiddinov",
+          "Felicia Scharitzer",
+          "Marc Pollefeys"
+        ],
+        "summary": "Current 3D generation methods lack explicit local control: geometric adherence is often defined by a global control strength, and appearance cannot be specified locally. We present SpaceFlow, a training-free pipeline for locally controllable 3D generation from text descriptions and a collection of g",
+        "url": "http://arxiv.org/abs/2610.12399v1",
+        "pdf": "https://arxiv.org/pdf/2610.12399v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling",
+        "authors": [
+          "Qun Dai",
+          "Liangjian Wen",
+          "Jiang Duan",
+          "Yong Dai",
+          "Dongkai Wang"
+        ],
+        "summary": "Self-supervised multimodal representation learning has achieved remarkable success across diverse domains, yet capturing synergistic information remains challenging due to the complexity of cross-modal interactions. Unlike the shared information across individual modalities, synergy arises when task",
+        "url": "http://arxiv.org/abs/2610.12393v1",
+        "pdf": "https://arxiv.org/pdf/2610.12393v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "GeoReform: Reflective Formalization Evolution for Multimodal Geometry Problem Solving",
+        "authors": [
+          "Jialu Wang",
+          "Ruichen Zhang",
+          "Xiaoou Liu",
+          "Hua Wei",
+          "Tianlong Chen"
+        ],
+        "summary": "Multimodal large language models (MLLMs) often struggle to identify and use geometric relations in diagrams. Recent methods address this challenge by converting geometric entities, relations, and constraints into explicit textual representations for the model to reason over. However, effective forma",
+        "url": "http://arxiv.org/abs/2610.12391v1",
+        "pdf": "https://arxiv.org/pdf/2610.12391v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "ARC: A Reasoning Recipe for Robot Foundation Models",
+        "authors": [
+          "Gokul Puthumanaillam",
+          "Tao Sun",
+          "Elie Aljalbout",
+          "Moritz Reuss",
+          "Zhaoshuo Li"
+        ],
+        "summary": "The prevailing approach to improving robot foundation models (RFMs) relies on larger models, more robot demonstrations, and costly training at scale. We show that there exists an effective and efficient complementary approach: the right reasoning recipe can substantially improve the zero-shot task p",
+        "url": "http://arxiv.org/abs/2610.12386v1",
+        "pdf": "https://arxiv.org/pdf/2610.12386v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport",
+        "authors": [
+          "Babak Barazandeh",
+          "Connor Swanson",
+          "Chinmay Kulkarni",
+          "Nikhil Mungel"
+        ],
+        "summary": "Agents are deployed in applications from trip planners and stock trading to IT incident triage. In most cases, LLM agents work autonomously with minimal rule-based safeguarding, leading to cost and safety issues from irreversible actions. Recent works resolve this either by using a safeguard agent t",
+        "url": "http://arxiv.org/abs/2610.12375v1",
+        "pdf": "https://arxiv.org/pdf/2610.12375v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing",
+        "authors": [
+          "Xiazhen Wu",
+          "Wansong Qin",
+          "Yangbin Zheng",
+          "Liangda Fang",
+          "Zhan Li"
+        ],
+        "summary": "Intelligent grading and automated scoring technologies constitute critical infrastructure for smart education. However, existing document parsing and handwriting recognition benchmarks are predominantly designed for well-structured printed documents or isolated mathematical expressions, lacking data",
+        "url": "http://arxiv.org/abs/2610.12363v1",
+        "pdf": "https://arxiv.org/pdf/2610.12363v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Cited but Not Consulted: A Counterfactual Audit of Legal Chain-of-Thought Faithfulness",
+        "authors": [
+          "Saisab Sadhu",
+          "Shreeyans Arora",
+          "Pratinav Seth"
+        ],
+        "summary": "Large language models increasingly justify legal decisions by naming the statute or precedent behind a verdict, treated as evidence that the decision follows from it. We test this directly: holding case facts fixed, we substitute the named legal authority for an unrelated one and decode a model's ev",
+        "url": "http://arxiv.org/abs/2610.12361v1",
+        "pdf": "https://arxiv.org/pdf/2610.12361v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict",
+        "authors": [
+          "Kaiser Sun",
+          "Bernal Jimenez Gutierrez",
+          "Hongjun Liu",
+          "Jingyu Zhang",
+          "Jie Gao"
+        ],
+        "summary": "When retrieved evidence contradicts an agent's prior beliefs, does it revise its answer, acknowledge uncertainty, or persist with an incorrect conclusion? Existing evaluations of agentic systems focus primarily on task success, offering limited insight into how agents handle such conflicts. We propo",
+        "url": "http://arxiv.org/abs/2610.12360v1",
+        "pdf": "https://arxiv.org/pdf/2610.12360v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Distilling Routed 3D Privilege for Spatial Reasoning in Vision-Language Models",
+        "authors": [
+          "Hongxing Li",
+          "Yixin Li",
+          "Dingming Li",
+          "Zixuan Wang",
+          "Yuchen Yan"
+        ],
+        "summary": "Spatial reasoning remains a persistent weakness of vision-language models (VLMs), because RGB inputs do not directly provide geometric evidence. Existing remedies either inject 3D into the model at inference, paying architecture and latency costs, or train with outcome rewards that supervise only th",
+        "url": "http://arxiv.org/abs/2610.12355v1",
+        "pdf": "https://arxiv.org/pdf/2610.12355v1",
+        "published": "2026-10-08",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "CSF: Contextual Safety Filtering for Motion Generators",
+        "authors": [
+          "Lizhi Yang",
+          "Yiling Hou",
+          "Yao Tang",
+          "Junheng Li",
+          "Daniel Weng"
+        ],
+        "summary": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, require labeled motion data, or enforce geometric constraints; therefore, they d",
+        "url": "http://arxiv.org/abs/2610.12467v1",
+        "pdf": "https://arxiv.org/pdf/2610.12467v1",
+        "published": "2026-10-08",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+        "authors": [
+          "Octi Zhang",
+          "Mateo Guaman Castro",
+          "Patrick Yin",
+          "Ignacio Dagnino",
+          "Abhishek Gupta"
+        ],
+        "summary": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines depend on engineering-heavy, per-task structural priors such as shaped rewards a",
+        "url": "http://arxiv.org/abs/2610.12465v1",
+        "pdf": "https://arxiv.org/pdf/2610.12465v1",
+        "published": "2026-10-08",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+        "authors": [
+          "Adrian Bulat",
+          "Yassine Ouali",
+          "Georgios Tzimiropoulos"
+        ],
+        "summary": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillation. reViT restores depth-specific transformations by representing the FFN at each recurrent depth as ",
+        "url": "http://arxiv.org/abs/2610.12448v1",
+        "pdf": "https://arxiv.org/pdf/2610.12448v1",
+        "published": "2026-10-08",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
+        "authors": [
+          "Hanyang Li",
+          "Shao Tang",
+          "Daniel Thomas Braithwaite",
+          "Gregory Dexter",
+          "Leonardo Neves"
+        ],
+        "summary": "Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-state quantization for AdamW from the perspective of \\emph{rounding space}: the coordinate in which a ",
+        "url": "http://arxiv.org/abs/2610.12444v1",
+        "pdf": "https://arxiv.org/pdf/2610.12444v1",
+        "published": "2026-10-08",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Density Ratio Estimation with Stein Displacement Fields",
+        "authors": [
+          "Song Liu"
+        ],
+        "summary": "Density ratios quantify distribution shift from a probability-mass point of view, whereas displacement fields describe, from a dynamical point of view, how one distribution is transported onto another. Although both offer complementary insights, they are usually estimated separately, and converting ",
+        "url": "http://arxiv.org/abs/2610.12437v1",
+        "pdf": "https://arxiv.org/pdf/2610.12437v1",
+        "published": "2026-10-08",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "VioLA: Learning Generalist Humanoid Control Policies from Human Data",
+        "authors": [
+          "Mert Albaba",
+          "Jens Beißwenger",
+          "Anna Manasyan",
+          "Daniel Marta",
+          "Michael J. Black"
+        ],
+        "summary": "Teaching a humanoid to follow instructions with its whole body runs into two obstacles. Its action space is large and tightly coupled: legs, arms, and fingers must move together while the robot keeps its balance, which makes joint-level actions hard to learn. And humanoid demonstrations are scarce, ",
+        "url": "http://arxiv.org/abs/2610.12435v1",
+        "pdf": "https://arxiv.org/pdf/2610.12435v1",
+        "published": "2026-10-08",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems",
+        "authors": [
+          "Songyuan Zhang",
+          "Baljeet Singh",
+          "Sarthak Ranjeet Kaingade",
+          "Chuchu Fan",
+          "Bryan Trinh"
+        ],
+        "summary": "Safe reinforcement learning commonly places safety and task performance in the same policy objective, where they can introduce competing updates. Safety filters separate them at action execution, but classical designs require an analytic safety function and dynamics model, and standard minimal-inter",
+        "url": "http://arxiv.org/abs/2610.12432v1",
+        "pdf": "https://arxiv.org/pdf/2610.12432v1",
+        "published": "2026-10-08",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Toward Joint Optimization of Circuit Depth and Training Data Size in Adaptively Grown Quantum Classifiers",
+        "authors": [
+          "Saeefa Rubaiyet Nowmi",
+          "Md Mahmuduzzaman Kamol",
+          "Mohammad Saidur Rahman"
+        ],
+        "summary": "Building a quantum model involves a tradeoff: how complex the circuit should be, and how much training data it needs. Caro et al. show that models with fewer trainable gates need less training data to generalize well. Q-FLAIR shows that a quantum feature-map circuit can be grown gate-by-gate, stoppi",
+        "url": "http://arxiv.org/abs/2610.12428v1",
+        "pdf": "https://arxiv.org/pdf/2610.12428v1",
+        "published": "2026-10-08",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
