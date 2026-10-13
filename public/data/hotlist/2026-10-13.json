@@ -1,0 +1,595 @@
+{
+  "date": "2026-10-13",
+  "generated": "2026-10-13T09:03:43.556688",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "storytold/wordcraft",
+        "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+        "stars": 9883,
+        "language": "Rust",
+        "url": "https://github.com/storytold/wordcraft",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 2,
+        "name": "wheresryan22/anatomy",
+        "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+        "stars": 7060,
+        "language": "JavaScript",
+        "url": "https://github.com/wheresryan22/anatomy",
+        "created": "2026-10-08"
+      },
+      {
+        "rank": 3,
+        "name": "storytold/gridcraft",
+        "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+        "stars": 4064,
+        "language": "Rust",
+        "url": "https://github.com/storytold/gridcraft",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 4,
+        "name": "mhtsec/ARTEX",
+        "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+        "stars": 3752,
+        "language": "Go",
+        "url": "https://github.com/mhtsec/ARTEX",
+        "created": "2026-10-08"
+      },
+      {
+        "rank": 5,
+        "name": "storytold/cadcraft",
+        "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+        "stars": 3709,
+        "language": "Rust",
+        "url": "https://github.com/storytold/cadcraft",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 6,
+        "name": "nullmoth/nvidia-macos-driver",
+        "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+        "stars": 2827,
+        "language": "Rust",
+        "url": "https://github.com/nullmoth/nvidia-macos-driver",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 7,
+        "name": "storytold/deckcraft",
+        "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+        "stars": 2718,
+        "language": "Rust",
+        "url": "https://github.com/storytold/deckcraft",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 8,
+        "name": "t4t5/omdrop-owl",
+        "description": "airdrop for non-apple devices",
+        "stars": 2501,
+        "language": "Shell",
+        "url": "https://github.com/t4t5/omdrop-owl",
+        "created": "2026-10-08"
+      },
+      {
+        "rank": 9,
+        "name": "storytold/soundcraft",
+        "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+        "stars": 2352,
+        "language": "Rust",
+        "url": "https://github.com/storytold/soundcraft",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 10,
+        "name": "ARahim3/DigUp",
+        "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+        "stars": 2050,
+        "language": "Swift",
+        "url": "https://github.com/ARahim3/DigUp",
+        "created": "2026-10-08"
+      },
+      {
+        "rank": 11,
+        "name": "alejandrobujan/tendedero",
+        "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+        "stars": 2046,
+        "language": "Swift",
+        "url": "https://github.com/alejandrobujan/tendedero",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 12,
+        "name": "noahdunnagan/fsearch",
+        "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+        "stars": 1996,
+        "language": "Rust",
+        "url": "https://github.com/noahdunnagan/fsearch",
+        "created": "2026-10-08"
+      },
+      {
+        "rank": 13,
+        "name": "storytold/craft-launcher",
+        "description": "The Craft App Launcher",
+        "stars": 1905,
+        "language": "Rust",
+        "url": "https://github.com/storytold/craft-launcher",
+        "created": "2026-10-09"
+      },
+      {
+        "rank": 14,
+        "name": "liseami/CCBaga",
+        "description": "",
+        "stars": 1867,
+        "language": "Rust",
+        "url": "https://github.com/liseami/CCBaga",
+        "created": "2026-10-11"
+      },
+      {
+        "rank": 15,
+        "name": "LoreanXavier/pt-pc",
+        "description": "Native PC port of P.T. (runs from your own PS4 game files)",
+        "stars": 1595,
+        "language": "C++",
+        "url": "https://github.com/LoreanXavier/pt-pc",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 16,
+        "name": "Fei2411/DeepSeek-Bot",
+        "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+        "stars": 1520,
+        "language": "JavaScript",
+        "url": "https://github.com/Fei2411/DeepSeek-Bot",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 17,
+        "name": "shadany7824/playgta5",
+        "description": "A source code for playgta5.com.",
+        "stars": 1516,
+        "language": "JavaScript",
+        "url": "https://github.com/shadany7824/playgta5",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 18,
+        "name": "HelixDB/helix-foundry",
+        "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
+        "stars": 1357,
+        "language": "TypeScript",
+        "url": "https://github.com/HelixDB/helix-foundry",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 19,
+        "name": "bherbruck/solidcraft",
+        "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+        "stars": 1298,
+        "language": "Rust",
+        "url": "https://github.com/bherbruck/solidcraft",
+        "created": "2026-10-07"
+      },
+      {
+        "rank": 20,
+        "name": "pingdotgg/ts-rust",
+        "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+        "stars": 1136,
+        "language": "Rust",
+        "url": "https://github.com/pingdotgg/ts-rust",
+        "created": "2026-10-07"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Can Language Models Play the Wikipedia Game?",
+        "authors": [
+          "Alexander Hickey",
+          "Joanna Knight",
+          "James Bishop"
+        ],
+        "summary": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wikipedia Game to test language models on an analogous information retrieval task. I",
+        "url": "http://arxiv.org/abs/2610.13948v1",
+        "pdf": "https://arxiv.org/pdf/2610.13948v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+        "authors": [
+          "Bhanu Tokas",
+          "Rahul Nair",
+          "Rockwell Jackson",
+          "Hannah Kerner"
+        ],
+        "summary": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regression models. They requi",
+        "url": "http://arxiv.org/abs/2610.13935v1",
+        "pdf": "https://arxiv.org/pdf/2610.13935v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping",
+        "authors": [
+          "Danil Rudenko",
+          "Georgii Bulgakov",
+          "Nikolay Kartashev",
+          "Ivan Rubachev",
+          "Daniil Krasylnikov"
+        ],
+        "summary": "While deep learning models for tabular data have recently received significant research attention, the choice of objective functions for regression tasks remains an understudied degree of freedom. Several lines of research offer alternatives to the standard Mean Squared Error (MSE), but differences ",
+        "url": "http://arxiv.org/abs/2610.13909v1",
+        "pdf": "https://arxiv.org/pdf/2610.13909v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Task Context Shapes Component Roles in Language Models",
+        "authors": [
+          "Sovesh Mohapatra",
+          "Dani S Bassett"
+        ],
+        "summary": "Large language models reuse the same attention heads across tasks, but identifying these shared heads does not explain what they do differently in each task. A natural source of inspiration is task-dependent interactions among shared brain regions, which motivate a network view of language-model com",
+        "url": "http://arxiv.org/abs/2610.13895v1",
+        "pdf": "https://arxiv.org/pdf/2610.13895v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics",
+        "authors": [
+          "Weiliang Chen",
+          "Song Liao"
+        ],
+        "summary": "As AI agents increasingly rely on external tools, accurate retrieval is essential for reliable behavior. Existing methods optimize semantic relevance but largely ignore tool availability during execution. To address this gap, we propose RATED (Reliability-Aware Tool Retrieval via Execution Dynamics)",
+        "url": "http://arxiv.org/abs/2610.13889v1",
+        "pdf": "https://arxiv.org/pdf/2610.13889v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
+        "authors": [
+          "Yeonsung Jung",
+          "Zhiyuan Wang",
+          "Zifan Wang",
+          "Vítor Albiero",
+          "Benjamin Newman"
+        ],
+        "summary": "Personal agents increasingly connect to services across the web and applications by using tools. As the effects of their actions accumulate and interact across services, unintended or harmful outcomes can arise when agents fulfill benign user requests. Proactively identifying these compositional fai",
+        "url": "http://arxiv.org/abs/2610.13886v1",
+        "pdf": "https://arxiv.org/pdf/2610.13886v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Studying Comics at Scale with Artificial Intelligence: The PAGE Framework and Three Studies of American Comics and Japanese Manga",
+        "authors": [
+          "Emilio Ferrara"
+        ],
+        "summary": "Comics are one of the great visual records of the twentieth century: hundreds of thousands of pages in which a mass readership saw its leaders, its wars and its heroes. Most of this record has never been studied as a whole; comics scholarship proceeds one book at a time. We argue that artificial int",
+        "url": "http://arxiv.org/abs/2610.13840v1",
+        "pdf": "https://arxiv.org/pdf/2610.13840v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "SpatialASM: Internalizing Active Mentalization for Spatial Reasoning",
+        "authors": [
+          "Yuhong Liu",
+          "Shenxi Wu",
+          "Junyi Chi",
+          "Beichen Zhang",
+          "Xuanlang Dai"
+        ],
+        "summary": "When solving complex spatial reasoning tasks, ordinary humans naturally revisit the scenes from task-relevant viewpoints and mentally reconstruct the spatial layouts from those viewpoints. But can Large Vision-Language Models (LVLMs) proactively think in the same way? We term this ability Active Spa",
+        "url": "http://arxiv.org/abs/2610.13832v1",
+        "pdf": "https://arxiv.org/pdf/2610.13832v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "MC-EvoBench: Auditing Experience-Driven Self-Improvement in Minecraft Agents",
+        "authors": [
+          "Jingwei Song",
+          "Zhisheng Chen",
+          "Bingfan Zeng",
+          "Jing Tang",
+          "Yubo Hou"
+        ],
+        "summary": "A central challenge in embodied recursive self-improvement is enabling agents to convert interaction history into capabilities that persist beyond one world and transfer to later tasks. A saved memory or successful final action does not by itself establish that a reusable capability was acquired; ev",
+        "url": "http://arxiv.org/abs/2610.13829v1",
+        "pdf": "https://arxiv.org/pdf/2610.13829v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Same Query, Different Answer: Run-to-Run Variance in Semantic Query Processing",
+        "authors": [
+          "Oktie Hassanzadeh",
+          "Dharmashankar Subramanian"
+        ],
+        "summary": "Semantic query engines ask a large language model (LLM) to judge individual rows, and benchmarks compare these engines on the quality of a few executions at temperature 0. We measure how much another execution changes. We re-execute the text and tabular workloads of SemBench, LRO-Bench, and UDA-Benc",
+        "url": "http://arxiv.org/abs/2610.13823v1",
+        "pdf": "https://arxiv.org/pdf/2610.13823v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "FORTE: A Production Framework for Feature Evaluation and Deprecation in Industrial Recommender Systems",
+        "authors": [
+          "Vishnu Arun",
+          "Adam Obeng",
+          "Tianyou Wang",
+          "Zilin Ren",
+          "Mukuntha Narayanan Sundararaman"
+        ],
+        "summary": "Production recommender systems have feature-lifecycle asymmetry: adding new features must produce gains on some metric, while feature removal must not regress any metric. In practice, feature deprecation is hard to prioritize as a feature can fail to be removed if it interacts with other features, i",
+        "url": "http://arxiv.org/abs/2610.13806v1",
+        "pdf": "https://arxiv.org/pdf/2610.13806v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Your Discrete Graph Diffusion Model is Secretly Memorizing",
+        "authors": [
+          "Adarsh Jamadandi",
+          "Nicolas Keriven"
+        ],
+        "summary": "Discrete graph diffusion models (GDMs) corrupt the graph structure by adding noise independently to nodes and edges under a Markovian noise model. In the unconditional setting without node features, an equivariant denoiser trained on a single graph is able to generate novel graphs and sample-level m",
+        "url": "http://arxiv.org/abs/2610.13786v1",
+        "pdf": "https://arxiv.org/pdf/2610.13786v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "UkrMeme: Multimodal Explainable Persuasion Detection in Ukrainian Memes",
+        "authors": [
+          "Nazar Andrushko",
+          "Vera Schmitt",
+          "Veronika Solopova"
+        ],
+        "summary": "Memes play a central role in modern online communication, especially in contexts of political conflict where visual and textual cues combine to convey persuasive messages. We study persuasive technique detection in Ukrainian memes using vision-language models (VLMs). We introduce UkrMeme, a dataset ",
+        "url": "http://arxiv.org/abs/2610.13783v1",
+        "pdf": "https://arxiv.org/pdf/2610.13783v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "ReplaySSM: Cache SSM Inputs, Not State",
+        "authors": [
+          "Ze-Wei Liou",
+          "Harris Nover",
+          "Amey Naik",
+          "Andrii Skliar",
+          "Igor Shovkun"
+        ],
+        "summary": "State-space models (SSMs) maintain a fixed-size recurrent state, but reading and writing it at every decoding step can bottleneck hybrid models. This eager state management causes large state I/O with low arithmetic intensity, leaves speculative decoding no cheap rollback, and feeds state quantizati",
+        "url": "http://arxiv.org/abs/2610.13778v1",
+        "pdf": "https://arxiv.org/pdf/2610.13778v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "DualQuant: Dual-scale Calibration-free Weight-and-Activation Quantization for LLMs",
+        "authors": [
+          "Mahsa Salmani",
+          "Sayeh Sharify",
+          "Hesham Mostafa"
+        ],
+        "summary": "Low-bit inference on accelerators with native 4-bit support requires quantizing both weights and activations to realize the full throughput gains these formats provide. While post-training weight quantization has been extensively studied, activation quantization remains considerably more challenging",
+        "url": "http://arxiv.org/abs/2610.13767v1",
+        "pdf": "https://arxiv.org/pdf/2610.13767v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "When Edge Independence Fails: Joint Graph Diffusion with Latent Sociability Priors",
+        "authors": [
+          "Adarsh Jamadandi",
+          "Nicolas Keriven",
+          "Aline Roumy"
+        ],
+        "summary": "Discrete graph diffusion models corrupt graph structure through independent edge updates with a Markovian noise model. Combined with the exchangeability requirement on the output distribution, the terminal prior is necessarily an Erdős--Rényi (E-R) random graph. This has a fundamental consequence fo",
+        "url": "http://arxiv.org/abs/2610.13765v1",
+        "pdf": "https://arxiv.org/pdf/2610.13765v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Matched-Context Group Policy Optimization for LLM Agent Training",
+        "authors": [
+          "Chenxu Zhang",
+          "Yaorui Shi",
+          "Wenlong Zhang",
+          "Jianchao Tan",
+          "Zihan Wang"
+        ],
+        "summary": "Training long-horizon language model agents requires assigning credit to intermediate decisions from sparse terminal feedback. Within a finite group of sibling rollouts, useful action comparisons depend on their context, evidence for both alternatives, and how that evidence enters learning. We propo",
+        "url": "http://arxiv.org/abs/2610.13755v1",
+        "pdf": "https://arxiv.org/pdf/2610.13755v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "A Privileged Teacher That Only Scores Cannot Search: Critique-Conditioned On-Policy Self-Distillation for Reasoning",
+        "authors": [
+          "Mayug Maniparambil",
+          "Ayush Rai",
+          "Ekansh Verma",
+          "Noel E. O'Connor",
+          "Fergal Reid"
+        ],
+        "summary": "On-policy self-distillation promises to replace the sparse outcome signal of verifiable-reward RL with dense token-level credit: a teacher conditioned on the reference solution scores the student's own rollout, and the resulting distributional shift is distilled back into the policy. We investigate ",
+        "url": "http://arxiv.org/abs/2610.13744v1",
+        "pdf": "https://arxiv.org/pdf/2610.13744v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "SafeDiSTL: Decomposing Joint Constraints for Safe Multi-Agent Reinforcement Learning",
+        "authors": [
+          "Hongrui Zheng",
+          "Aditya Singh",
+          "Rahul Mangharam"
+        ],
+        "summary": "Cooperative multi-agent tasks often impose constraints on a shared objective or collective safety. A team level violation cost function can measure this constraint outcome, but does not distinguish which agents' actions most strongly influence that violation. We present SafeDiSTL, a constrained mult",
+        "url": "http://arxiv.org/abs/2610.13737v1",
+        "pdf": "https://arxiv.org/pdf/2610.13737v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Orthros: Phase-Aware Heterogeneous Attention for Efficient Transformers",
+        "authors": [
+          "Yuhong Chou",
+          "Zehao Liu",
+          "Yuqi Pan",
+          "Qian Liu",
+          "Xianwei Chen"
+        ],
+        "summary": "Efficient attention mechanisms, such as linear and sliding window attention, aim to reduce the computational complexity of Transformers from quadratic to linear. However, their degraded in-context recall often necessitates interleaving full attention layers, leaving the quadratic bottleneck unresolv",
+        "url": "http://arxiv.org/abs/2610.13735v1",
+        "pdf": "https://arxiv.org/pdf/2610.13735v1",
+        "published": "2026-10-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
+        "authors": [
+          "Kosio Beshkov"
+        ],
+        "summary": "The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand binary classification and is often formulated in terms of the Betti numbers of a decision boundary ",
+        "url": "http://arxiv.org/abs/2610.13931v1",
+        "pdf": "https://arxiv.org/pdf/2610.13931v1",
+        "published": "2026-10-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+        "authors": [
+          "Andis Draguns",
+          "Sumeet Ramesh Motwani",
+          "Raymond Douglas",
+          "Christian Schroeder de Witt"
+        ],
+        "summary": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that embed encrypted neural",
+        "url": "http://arxiv.org/abs/2610.13928v1",
+        "pdf": "https://arxiv.org/pdf/2610.13928v1",
+        "published": "2026-10-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
+        "authors": [
+          "Tianyi Wu"
+        ],
+        "summary": "A parallel sampler can choose at random which coordinates to generate together. For a target $p$ and the output law $q_U$ of a schedule $U$ drawn afresh for each output, we compare the schedule-averaged divergence $\\mathbb{E}_U D_{\\mathrm{KL}}(p\\|q_U)$ with the output-law divergence $D_{\\mathrm{KL}}",
+        "url": "http://arxiv.org/abs/2610.13924v1",
+        "pdf": "https://arxiv.org/pdf/2610.13924v1",
+        "published": "2026-10-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning",
+        "authors": [
+          "Sajjad Baghaeea",
+          "Aimin Lib",
+          "Shanmugarajan Balasubramanian",
+          "Elif Uysal"
+        ],
+        "summary": "Deep-space communications operate under intermittent connectivity, long propagation delays, and relay storage constraints. In such networks, the Bundle Protocol enables store-carry-forward communication, requiring relay nodes to manage limited storage and scarce contact opportunities. Relay-side sch",
+        "url": "http://arxiv.org/abs/2610.13923v1",
+        "pdf": "https://arxiv.org/pdf/2610.13923v1",
+        "published": "2026-10-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
+        "authors": [
+          "Daniel Szelogowski"
+        ],
+        "summary": "Clinical sleep medicine repeatedly documents profound divergences between objective sleep duration and subjective daytime impairment, notably exemplified by sleep state misperception in paradoxical insomnia and boundary instability in narcolepsy type 1. Here, we present DyssomniaNN: a multi-scale bi",
+        "url": "http://arxiv.org/abs/2610.13918v1",
+        "pdf": "https://arxiv.org/pdf/2610.13918v1",
+        "published": "2026-10-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Designing Protein Structures from Natural Language",
+        "authors": [
+          "Joseph Lee",
+          "Yanjing Li",
+          "Bo Qiang",
+          "Gregory Lau",
+          "Allyson Ettinger"
+        ],
+        "summary": "A central challenge in de novo protein design is generating proteins with desired structural and functional properties. Existing design models typically require a dedicated input representation for each property, limiting the design objectives they support. We develop Prompteina, the first all-atom ",
+        "url": "http://arxiv.org/abs/2610.13917v1",
+        "pdf": "https://arxiv.org/pdf/2610.13917v1",
+        "published": "2026-10-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Hitting-Time Bounds for Asynchronous Q-Learning",
+        "authors": [
+          "Yang Peng"
+        ],
+        "summary": "We study the last iterate of standard asynchronous Q-learning from a single trajectory of a finite Markov decision process. The trajectory follows a fixed behavior policy whose state--action chain is irreducible and may be periodic. For discount factor $γ$, write $H=(1-γ)^{-1}$, and let $μ_{\\min}$ b",
+        "url": "http://arxiv.org/abs/2610.13901v1",
+        "pdf": "https://arxiv.org/pdf/2610.13901v1",
+        "published": "2026-10-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Prediction Is Not a Sufficient Memory State",
+        "authors": [
+          "Robert Jenkinson Alvarez"
+        ],
+        "summary": "A memory that reproduces every current prediction may still have forgotten how to learn from the next observation. We characterize this distinction for exact cumulative learning and attention. For smooth convex residual losses with unrestricted real features and labels, a continuous recurrent state ",
+        "url": "http://arxiv.org/abs/2610.13881v1",
+        "pdf": "https://arxiv.org/pdf/2610.13881v1",
+        "published": "2026-10-09",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
