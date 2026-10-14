@@ -1,0 +1,538 @@
+{
+  "date": "2026-10-14",
+  "generated": "2026-10-14T07:13:00.275006",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "wheresryan22/anatomy",
+        "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+        "stars": 8695,
+        "language": "JavaScript",
+        "url": "https://github.com/wheresryan22/anatomy",
+        "created": "2026-10-08"
+      },
+      {
+        "rank": 2,
+        "name": "mhtsec/ARTEX",
+        "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+        "stars": 3972,
+        "language": "Go",
+        "url": "https://github.com/mhtsec/ARTEX",
+        "created": "2026-10-08"
+      },
+      {
+        "rank": 3,
+        "name": "ARahim3/DigUp",
+        "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+        "stars": 2853,
+        "language": "Swift",
+        "url": "https://github.com/ARahim3/DigUp",
+        "created": "2026-10-08"
+      },
+      {
+        "rank": 4,
+        "name": "t4t5/omdrop-owl",
+        "description": "airdrop for non-apple devices",
+        "stars": 2616,
+        "language": "Shell",
+        "url": "https://github.com/t4t5/omdrop-owl",
+        "created": "2026-10-08"
+      },
+      {
+        "rank": 5,
+        "name": "storytold/craft-launcher",
+        "description": "The Craft App Launcher",
+        "stars": 2410,
+        "language": "Rust",
+        "url": "https://github.com/storytold/craft-launcher",
+        "created": "2026-10-09"
+      },
+      {
+        "rank": 6,
+        "name": "liseami/CCBaga",
+        "description": "",
+        "stars": 2137,
+        "language": "Rust",
+        "url": "https://github.com/liseami/CCBaga",
+        "created": "2026-10-11"
+      },
+      {
+        "rank": 7,
+        "name": "noahdunnagan/fsearch",
+        "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+        "stars": 2036,
+        "language": "Rust",
+        "url": "https://github.com/noahdunnagan/fsearch",
+        "created": "2026-10-08"
+      },
+      {
+        "rank": 8,
+        "name": "onehumanbeing/esp32-iphone-agent",
+        "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+        "stars": 1773,
+        "language": "Python",
+        "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+        "created": "2026-10-11"
+      },
+      {
+        "rank": 9,
+        "name": "jhaizhou-ops/d2r-mobile",
+        "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
+        "stars": 1366,
+        "language": "C",
+        "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+        "created": "2026-10-12"
+      },
+      {
+        "rank": 10,
+        "name": "NVIDIA-Omniverse/usd-brep",
+        "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
+        "stars": 1264,
+        "language": "C++",
+        "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
+        "created": "2026-10-08"
+      },
+      {
+        "rank": 11,
+        "name": "trhhubsd/ARTEXX",
+        "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
+        "stars": 1207,
+        "language": "Go",
+        "url": "https://github.com/trhhubsd/ARTEXX",
+        "created": "2026-10-08"
+      },
+      {
+        "rank": 12,
+        "name": "wesbos/photo-frame-dashboard",
+        "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+        "stars": 1099,
+        "language": "Python",
+        "url": "https://github.com/wesbos/photo-frame-dashboard",
+        "created": "2026-10-08"
+      },
+      {
+        "rank": 13,
+        "name": "shaongitbd/doory",
+        "description": "Open source canva alternative",
+        "stars": 1093,
+        "language": "TypeScript",
+        "url": "https://github.com/shaongitbd/doory",
+        "created": "2026-10-10"
+      },
+      {
+        "rank": 14,
+        "name": "Arekejoker/qwen21-nsfw-pose-skill",
+        "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+        "stars": 1036,
+        "language": "Python",
+        "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+        "created": "2026-10-13"
+      },
+      {
+        "rank": 15,
+        "name": "anthropics/oss-scanner",
+        "description": "",
+        "stars": 976,
+        "language": "Dockerfile",
+        "url": "https://github.com/anthropics/oss-scanner",
+        "created": "2026-10-08"
+      },
+      {
+        "rank": 16,
+        "name": "rociiu/talorys",
+        "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no tel",
+        "stars": 971,
+        "language": "TypeScript",
+        "url": "https://github.com/rociiu/talorys",
+        "created": "2026-10-10"
+      },
+      {
+        "rank": 17,
+        "name": "T-Auto/dsh-ops",
+        "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+        "stars": 910,
+        "language": "JavaScript",
+        "url": "https://github.com/T-Auto/dsh-ops",
+        "created": "2026-10-08"
+      },
+      {
+        "rank": 18,
+        "name": "marclou/mailcheap",
+        "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+        "stars": 904,
+        "language": "JavaScript",
+        "url": "https://github.com/marclou/mailcheap",
+        "created": "2026-10-10"
+      },
+      {
+        "rank": 19,
+        "name": "zhuyansen/new-term-radar",
+        "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+        "stars": 891,
+        "language": "Python",
+        "url": "https://github.com/zhuyansen/new-term-radar",
+        "created": "2026-10-12"
+      },
+      {
+        "rank": 20,
+        "name": "opengeos/RustGIS",
+        "description": "A fast, free and open-source GIS in pure Rust.",
+        "stars": 872,
+        "language": "Rust",
+        "url": "https://github.com/opengeos/RustGIS",
+        "created": "2026-10-10"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "ChunkAct: Action Chunking for Agentic Robotics",
+        "authors": [
+          "Bingxin Xu",
+          "Wenrui Bao",
+          "Xinxin Liu",
+          "Jiawei Zhou",
+          "Yuzhang Shang"
+        ],
+        "summary": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and thereby generalizes to new tasks without retraining. This generality comes at a steep price in efficie",
+        "url": "http://arxiv.org/abs/2610.18874v1",
+        "pdf": "https://arxiv.org/pdf/2610.18874v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+        "authors": [
+          "Mingxuan Yan",
+          "Litian Gong",
+          "Dihong Huang",
+          "Zhixu Li",
+          "Tianyu Zhang"
+        ],
+        "summary": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across reward definitions and label granularities using 5,000 naturally suboptimal human demonstrations and",
+        "url": "http://arxiv.org/abs/2610.18869v1",
+        "pdf": "https://arxiv.org/pdf/2610.18869v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
+        "authors": [
+          "Wenbo Hu",
+          "Shraman Pramanick",
+          "Krishna Kumar Singh",
+          "Nanyun Peng",
+          "Kai-Wei Chang"
+        ],
+        "summary": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recursive self-improvement (RSI). Yet open-source models still struggle on long-horizon tasks, largely fo",
+        "url": "http://arxiv.org/abs/2610.18868v1",
+        "pdf": "https://arxiv.org/pdf/2610.18868v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
+        "authors": [
+          "Minghao Luo",
+          "Liang Chen"
+        ],
+        "summary": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional training for each model, add a fixed steering vector to the model's hidden states, or use decoding heurist",
+        "url": "http://arxiv.org/abs/2610.18862v1",
+        "pdf": "https://arxiv.org/pdf/2610.18862v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
+        "authors": [
+          "Xin Gao",
+          "Yifan Yang",
+          "Xin Li",
+          "Pan Wang",
+          "Yan Li"
+        ],
+        "summary": "Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see how their choices of layout and color come together on the canvas, often limiting spatial planning and ae",
+        "url": "http://arxiv.org/abs/2610.18860v1",
+        "pdf": "https://arxiv.org/pdf/2610.18860v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Hybrid Reasoning Agents",
+        "authors": [
+          "Jiaru Zou",
+          "Yunzhe Qi",
+          "Sirui Chen",
+          "Federico Bianchi",
+          "Shang Zhu"
+        ],
+        "summary": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning offers an efficient internal medium but lacks native tool access and reasoning transparency. We bridge ",
+        "url": "http://arxiv.org/abs/2610.18861v1",
+        "pdf": "https://arxiv.org/pdf/2610.18861v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Two Clocks: Why Larger Rollout Batches Learn Slower but Fail on Schedule in Reinforcement Learning with Verifiable Rewards",
+        "authors": [
+          "Yuante Li",
+          "Junwei Quan",
+          "Kai Qiu",
+          "Kate Zhang",
+          "Yicheng Tao"
+        ],
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) relies on costly model-generated responses, motivating larger rollout batches and square-root learning-rate scaling. Reported to approximately preserve progress per sample with one optimizer step per rollout, this rule is less understood in pract",
+        "url": "http://arxiv.org/abs/2610.18853v1",
+        "pdf": "https://arxiv.org/pdf/2610.18853v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "MFG: Multi-turn Feedback Guided Molecular Optimization",
+        "authors": [
+          "Trieu Nguyen",
+          "Frazier N. Baker",
+          "Ruoxi Gao",
+          "Daniel Adu-Ampratwum",
+          "Xia Ning"
+        ],
+        "summary": "Multi-objective molecular optimization is a critical process in drug discovery that aims to modify a given molecule to simultaneously improve multiple properties while maintaining a similar overall structure. This process often requires iterative modifications guided by computational or experimental",
+        "url": "http://arxiv.org/abs/2610.18851v1",
+        "pdf": "https://arxiv.org/pdf/2610.18851v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Models",
+        "authors": [
+          "Andrea Yaoyun Cui",
+          "Hanyu Wang",
+          "Xinyi Wang",
+          "Bangzheng Li",
+          "Lin Zhang"
+        ],
+        "summary": "Robot policies are expected to generalize across deployment environments, including variations in the robot itself: cameras are bumped and remounted, calibrations drift, controllers run at different rates, and end-effector pads wear down. We present LIBERO-RIG, a benchmark that perturbs only the rob",
+        "url": "http://arxiv.org/abs/2610.18843v1",
+        "pdf": "https://arxiv.org/pdf/2610.18843v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Who Improves the Robot? Toward Physical Recursive Self-Improvement",
+        "authors": [
+          "Hai Zhou",
+          "Fan Yang",
+          "Zeyi Chen",
+          "Lejun Zhang",
+          "Chenyang Fu"
+        ],
+        "summary": "Robots are increasingly autonomous in task execution, yet their improvement remains largely human-driven. This study investigates Physical Recursive Self-Improvement (Physical RSI), in which physical experience guides lasting updates to both a robot's capabilities and its improvement procedure, maki",
+        "url": "http://arxiv.org/abs/2610.18842v1",
+        "pdf": "https://arxiv.org/pdf/2610.18842v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Fast Rates for Offline Q-Learning with KL Regularization",
+        "authors": [
+          "Yize Hao",
+          "Guangxin Jiang",
+          "Shuang Qiu"
+        ],
+        "summary": "This paper investigates offline Q-learning for finite-horizon Markov decision processes with Kullback-Leibler (KL) regularization. Recent studies have shown that KL regularization can yield fast rates in offline decision-making problems. However, it remains unclear whether Q-learning, which adopts i",
+        "url": "http://arxiv.org/abs/2610.18839v1",
+        "pdf": "https://arxiv.org/pdf/2610.18839v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "RoboSimStudio: An Interactive Toolkit for Rapid Real2Sim of Robot Manipulation Tasks",
+        "authors": [
+          "Kaiyuan Chen",
+          "Shuangyu Xie",
+          "Uksang Yoo",
+          "Xinyue Zhu",
+          "Cael Magner"
+        ],
+        "summary": "It is difficult to accurately model the physics of the interaction between a robot and the objects it manipulates, including contact mechanics, coupled contact dynamics, deformations, stiffness and friction. We present RoboSimStudio (RSS), an interactive toolkit that makes choices of solver, contact",
+        "url": "http://arxiv.org/abs/2610.18835v1",
+        "pdf": "https://arxiv.org/pdf/2610.18835v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Read the Room Before Your Model Generates",
+        "authors": [
+          "Muyao Kong",
+          "Zhihao Lin"
+        ],
+        "summary": "Large language models (LLMs) generally rely on sampling temperature to regulate the amount of randomness in their outputs. Mainstream methods for selecting temperature typically involve fixed, heuristic global settings and context or token-level calibration, rather than a geometrically interpretable",
+        "url": "http://arxiv.org/abs/2610.18820v1",
+        "pdf": "https://arxiv.org/pdf/2610.18820v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Back-Translation Still Matters: Leveraging Monolingual Data for Low-Resource Machine Translation with LLMs",
+        "authors": [
+          "Divyanshu Bathla",
+          "Parag Singla",
+          "Jitin Singla"
+        ],
+        "summary": "Pre-trained Large Language Model (LLMs) are effective on many tasks in zero-shot and few-shot settings. For machine translation of low-resource languages, the obvious options are few-shot prompting and fine-tuning on a small parallel set. We ask: what if moderate amounts of low-resource monolingual ",
+        "url": "http://arxiv.org/abs/2610.18818v1",
+        "pdf": "https://arxiv.org/pdf/2610.18818v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Self-Evolving Agent Harness",
+        "authors": [
+          "Chuyang Wei",
+          "Haoxiang Guan",
+          "Minghang Zhu",
+          "Kexin Zhou",
+          "Jiyan He"
+        ],
+        "summary": "Harness self-evolution revises an agent's software scaffolding, including prompts, memory, workflows, and executable components, while keeping model weights fixed. We formalize a feedback-driven process in which accepted revisions persist across runs. The framework separates update targets from prop",
+        "url": "http://arxiv.org/abs/2610.18813v1",
+        "pdf": "https://arxiv.org/pdf/2610.18813v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Optimizing Team Behavior via Extremum-seeking Control in Multi-agent Reinforcement Learning",
+        "authors": [
+          "Svar Rajankumar Patel",
+          "Kshitij Jerath"
+        ],
+        "summary": "In cooperative Multi-Agent Reinforcement Learning (MARL), agents must learn to coordinate their actions to achieve shared objectives. A key indicator of effective coordination is behavioral diversity, i.e., the agents' potential to enact distinct yet complementary control policies given the same set",
+        "url": "http://arxiv.org/abs/2610.18808v1",
+        "pdf": "https://arxiv.org/pdf/2610.18808v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "SEAR: Self-Evolving Agentic Robotics",
+        "authors": [
+          "Xinyi Wang",
+          "Bangzheng Li",
+          "Hanyu Wang",
+          "Lin Zhang",
+          "Andrea Yaoyun Cui"
+        ],
+        "summary": "Frontier language-model agents can now improve robots on their own: they write control code, test it, and keep what works as skills and memories for the next task. We introduce SEAR (Self-Evolving Agentic Robotics), a framework and benchmark built around two questions. Is the agent really learning, ",
+        "url": "http://arxiv.org/abs/2610.18792v1",
+        "pdf": "https://arxiv.org/pdf/2610.18792v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Bytes to Threats: Byte-Sequence Transformer For Malware Detection",
+        "authors": [
+          "Abdelrahman Yassin Eljamal",
+          "Abdeltawab Hendawi"
+        ],
+        "summary": "Existing malware detection approaches heavily rely on handcrafted features derived from static or dynamic analysis of the executable files. These methods require specialized domain expertise, dedicated analysis tools, and time-consuming analysis, which limits their scalability and robustness in the ",
+        "url": "http://arxiv.org/abs/2610.18787v1",
+        "pdf": "https://arxiv.org/pdf/2610.18787v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Where Do LLM Ensemble Gains Come From? Decomposing Candidate Value, Diversity, and Aggregation",
+        "authors": [
+          "Donghwan Kim"
+        ],
+        "summary": "LLM ensemble gains are often measured against a single baseline, but the value attributed to additional candidates can change with the comparison used. We study an LLM aggregator under four matched conditions: Direct (no candidates), Single-slot (one candidate in a multi-slot interface), Duplicate (",
+        "url": "http://arxiv.org/abs/2610.18786v1",
+        "pdf": "https://arxiv.org/pdf/2610.18786v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents",
+        "authors": [
+          "Yuchen Lu",
+          "Julian McAuley",
+          "Lei Zhang"
+        ],
+        "summary": "Long-horizon agents accumulate progress in persistent task state, yet repeatedly process interaction histories describing how that progress was achieved. This raises a natural question: can long-horizon context instead be organized around reusable progress rather than the history that produced it? I",
+        "url": "http://arxiv.org/abs/2610.18784v1",
+        "pdf": "https://arxiv.org/pdf/2610.18784v1",
+        "published": "2026-10-13",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
+        "authors": [
+          "Chih-Hai Su",
+          "Tsung-Wei Ke",
+          "Yu-Lun Liu"
+        ],
+        "summary": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension off-family. Moreover, cross-family training meets a scaling barrier: residual amplitude varies by mo",
+        "url": "http://arxiv.org/abs/2610.18871v1",
+        "pdf": "https://arxiv.org/pdf/2610.18871v1",
+        "published": "2026-10-13",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Data Free Training of Diffusion Models for Lattice Field Theories",
+        "authors": [
+          "Dennis Grinwald",
+          "Ankur Singha",
+          "Khaled Kahouli",
+          "Karl Jansen",
+          "Shinichi Nakajima"
+        ],
+        "summary": "Sampling equilibrium field configurations remains a major computational bottleneck in lattice field theory, motivating the development of generative samplers that can produce independent configurations. Diffusion models are promising for this purpose, but their standard denoising score matching obje",
+        "url": "http://arxiv.org/abs/2610.18863v1",
+        "pdf": "https://arxiv.org/pdf/2610.18863v1",
+        "published": "2026-10-13",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Exact Topological Compliance: Generating Persistence-Equivalent Graphs",
+        "authors": [
+          "Mattie Ji",
+          "Indradyumna Roy",
+          "Vikas Garg"
+        ],
+        "summary": "Persistent homology summarizes the topological evolution of a graph as persistence diagrams (PDs). Generating graphs whose topology matches a target descriptor is increasingly important, yet existing topology-aware generative models rely on soft regularization, producing graphs whose PDs may only be",
+        "url": "http://arxiv.org/abs/2610.18856v1",
+        "pdf": "https://arxiv.org/pdf/2610.18856v1",
+        "published": "2026-10-13",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
