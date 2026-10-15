@@ -1,0 +1,531 @@
+{
+  "date": "2026-10-15",
+  "generated": "2026-10-15T07:04:50.092217",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "storytold/craft-launcher",
+        "description": "The Craft App Launcher",
+        "stars": 2718,
+        "language": "Rust",
+        "url": "https://github.com/storytold/craft-launcher",
+        "created": "2026-10-09"
+      },
+      {
+        "rank": 2,
+        "name": "jhaizhou-ops/d2r-mobile",
+        "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
+        "stars": 2495,
+        "language": "C",
+        "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+        "created": "2026-10-12"
+      },
+      {
+        "rank": 3,
+        "name": "liseami/CCBaga",
+        "description": "",
+        "stars": 2291,
+        "language": "Rust",
+        "url": "https://github.com/liseami/CCBaga",
+        "created": "2026-10-11"
+      },
+      {
+        "rank": 4,
+        "name": "onehumanbeing/esp32-iphone-agent",
+        "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+        "stars": 2188,
+        "language": "C",
+        "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+        "created": "2026-10-11"
+      },
+      {
+        "rank": 5,
+        "name": "Arekejoker/qwen21-nsfw-pose-skill",
+        "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+        "stars": 1511,
+        "language": "Python",
+        "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+        "created": "2026-10-13"
+      },
+      {
+        "rank": 6,
+        "name": "shaongitbd/doory",
+        "description": "Open source canva alternative",
+        "stars": 1220,
+        "language": "TypeScript",
+        "url": "https://github.com/shaongitbd/doory",
+        "created": "2026-10-10"
+      },
+      {
+        "rank": 7,
+        "name": "opengeos/RustGIS",
+        "description": "A fast, free and open-source GIS in pure Rust.",
+        "stars": 1106,
+        "language": "Rust",
+        "url": "https://github.com/opengeos/RustGIS",
+        "created": "2026-10-10"
+      },
+      {
+        "rank": 8,
+        "name": "storytold/figcraft",
+        "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+        "stars": 1082,
+        "language": "Rust",
+        "url": "https://github.com/storytold/figcraft",
+        "created": "2026-10-09"
+      },
+      {
+        "rank": 9,
+        "name": "rociiu/talorys",
+        "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no tel",
+        "stars": 1010,
+        "language": "TypeScript",
+        "url": "https://github.com/rociiu/talorys",
+        "created": "2026-10-10"
+      },
+      {
+        "rank": 10,
+        "name": "zhuyansen/new-term-radar",
+        "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+        "stars": 983,
+        "language": "Python",
+        "url": "https://github.com/zhuyansen/new-term-radar",
+        "created": "2026-10-12"
+      },
+      {
+        "rank": 11,
+        "name": "marclou/mailcheap",
+        "description": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
+        "stars": 934,
+        "language": "JavaScript",
+        "url": "https://github.com/marclou/mailcheap",
+        "created": "2026-10-10"
+      },
+      {
+        "rank": 12,
+        "name": "jwuthri-cloud/Tracely-ai",
+        "description": "",
+        "stars": 817,
+        "language": "Python",
+        "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+        "created": "2026-10-11"
+      },
+      {
+        "rank": 13,
+        "name": "HeyPuter/everything",
+        "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+        "stars": 817,
+        "language": "JavaScript",
+        "url": "https://github.com/HeyPuter/everything",
+        "created": "2026-10-13"
+      },
+      {
+        "rank": 14,
+        "name": "deeplethe/solid-glass",
+        "description": "A design system for AI applications. Material, physical, tactile, technical.",
+        "stars": 806,
+        "language": "TypeScript",
+        "url": "https://github.com/deeplethe/solid-glass",
+        "created": "2026-10-12"
+      },
+      {
+        "rank": 15,
+        "name": "YeonwooSung/my-claude-code-mods",
+        "description": "Custom Claude Code Mods that I need",
+        "stars": 787,
+        "language": "TypeScript",
+        "url": "https://github.com/YeonwooSung/my-claude-code-mods",
+        "created": "2026-10-09"
+      },
+      {
+        "rank": 16,
+        "name": "CoolkHz/gptibo",
+        "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+        "stars": 772,
+        "language": "TypeScript",
+        "url": "https://github.com/CoolkHz/gptibo",
+        "created": "2026-10-13"
+      },
+      {
+        "rank": 17,
+        "name": "h0m3us3r/w1700k-sdr",
+        "description": "",
+        "stars": 763,
+        "language": "C",
+        "url": "https://github.com/h0m3us3r/w1700k-sdr",
+        "created": "2026-10-11"
+      },
+      {
+        "rank": 18,
+        "name": "outcrawlai/scout",
+        "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+        "stars": 722,
+        "language": "TypeScript",
+        "url": "https://github.com/outcrawlai/scout",
+        "created": "2026-10-13"
+      },
+      {
+        "rank": 19,
+        "name": "n1tr00-10/tiktok-web-signature",
+        "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
+        "stars": 711,
+        "language": "Python",
+        "url": "https://github.com/n1tr00-10/tiktok-web-signature",
+        "created": "2026-10-09"
+      },
+      {
+        "rank": 20,
+        "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
+        "description": "Introduction to Semiconductor Manufacturing",
+        "stars": 709,
+        "language": "Python",
+        "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
+        "created": "2026-10-11"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+        "authors": [
+          "Huixuan Cheng",
+          "Bike Zhang",
+          "Shankar Sastry",
+          "Koushil Sreenath"
+        ],
+        "summary": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional training procedures, while comparatively little attention has been given to direct",
+        "url": "http://arxiv.org/abs/2610.20606v1",
+        "pdf": "https://arxiv.org/pdf/2610.20606v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+        "authors": [
+          "Zhefei Gong",
+          "Hefeifei Jiang",
+          "Zehao Wang",
+          "Jiachen Li"
+        ],
+        "summary": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous modules. In this paper, we propose HiRe-MoMa (Hierarchical Residual Mobile Manip",
+        "url": "http://arxiv.org/abs/2610.20607v1",
+        "pdf": "https://arxiv.org/pdf/2610.20607v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Co-Evolving Acting and Forecasting for Language Agents",
+        "authors": [
+          "Haofei Yu",
+          "Yixing Chen",
+          "Yining Zhao",
+          "Xuyan Ye",
+          "Yuxiang Liu"
+        ],
+        "summary": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate steps largely unused. Prior work exploits this supervision through value targets tha",
+        "url": "http://arxiv.org/abs/2610.20597v1",
+        "pdf": "https://arxiv.org/pdf/2610.20597v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Your Transformer Is Secretly Elastic",
+        "authors": [
+          "Walter Simoncini",
+          "Dheeraj Varghese",
+          "Gertjan J. Burghouts",
+          "Cees G. M. Snoek"
+        ],
+        "summary": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L), forcing users to commit to a model based on hardware and latency constraints. This rigidity is ofte",
+        "url": "http://arxiv.org/abs/2610.20588v1",
+        "pdf": "https://arxiv.org/pdf/2610.20588v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+        "authors": [
+          "Shubhendu Trivedi",
+          "Jacob Eisenstein",
+          "Alekh Agarwal",
+          "Ian Gemp",
+          "Michael Kaisers"
+        ],
+        "summary": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the reward for its response minus its inference costs. First-price auctions (FPAs), in which the highest b",
+        "url": "http://arxiv.org/abs/2610.20587v1",
+        "pdf": "https://arxiv.org/pdf/2610.20587v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Continuum Attention",
+        "authors": [
+          "Afshin Khadangi"
+        ],
+        "summary": "We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query induces an exponential relevance density along the curve. Integrating the density and interpolated ",
+        "url": "http://arxiv.org/abs/2610.20586v1",
+        "pdf": "https://arxiv.org/pdf/2610.20586v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Player-1: Learning to Play from Synthetic Experience",
+        "authors": [
+          "Mingyu Ouyang",
+          "Yiran Wang",
+          "Siyuan Hu",
+          "Xingyilang Yin",
+          "Huiqiang Sun"
+        ],
+        "summary": "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remain challenging and offer a demanding next step toward general digital control. Current game-agent lea",
+        "url": "http://arxiv.org/abs/2610.20584v1",
+        "pdf": "https://arxiv.org/pdf/2610.20584v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
+        "authors": [
+          "Artin Tajdini",
+          "Manpreet Kaur",
+          "Peng Qi"
+        ],
+        "summary": "Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave the underlying task unchanged yet make the agent worse at it. Scoring each sample independently mean",
+        "url": "http://arxiv.org/abs/2610.20576v1",
+        "pdf": "https://arxiv.org/pdf/2610.20576v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization",
+        "authors": [
+          "Anna Mei",
+          "Michael R. Douglas"
+        ],
+        "summary": "We introduce a novel method for verifying Lean formalizations that goes beyond LLM-judged faithfulness. Unlike most verification methods, which rely on LLMs or trained models, our method combines LLM-based semantic review with mechanical numerical and vacuity checks, providing checkable feedback and",
+        "url": "http://arxiv.org/abs/2610.20573v1",
+        "pdf": "https://arxiv.org/pdf/2610.20573v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
+        "authors": [
+          "Kaixiang Zhao",
+          "Tianrun Yu",
+          "Shangzhe Li",
+          "Yuxiao Yang",
+          "Amanda Hughes"
+        ],
+        "summary": "On-policy distillation (OPD) trains a student model on its own rollouts with token-level supervision from a teacher, assuming that the teacher can reach a correct answer from any prefix the student writes. We call this property the recoverability of the teacher and show it fails on incorrect rollout",
+        "url": "http://arxiv.org/abs/2610.20572v1",
+        "pdf": "https://arxiv.org/pdf/2610.20572v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Scaling Discovery Requires Forgetting",
+        "authors": [
+          "Shangyin Tan",
+          "Ben Zhou",
+          "Lakshya A Agrawal",
+          "Jialin Zhang",
+          "Yilin Chen"
+        ],
+        "summary": "Automated research with LLM agents has shown promising results in various domains. Through iterative refinement and scored verifiers, LLM agents are capable of discovering new ideas. There are different ways to scale automated research: let one agent iterate for longer, run several agents in paralle",
+        "url": "http://arxiv.org/abs/2610.20563v1",
+        "pdf": "https://arxiv.org/pdf/2610.20563v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition",
+        "authors": [
+          "Weichen Lyu",
+          "Chong Xia",
+          "Mingyu Dong",
+          "Long Xu",
+          "Shengjun Zhang"
+        ],
+        "summary": "3D object composition is pivotal to digital content creation and robot simulation, while also serving as a critical testbed for physical intelligence in foundation models. Previous methods either leverage large language models to directly predict object coordinates, or utilize generative diffusion p",
+        "url": "http://arxiv.org/abs/2610.20560v1",
+        "pdf": "https://arxiv.org/pdf/2610.20560v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios",
+        "authors": [
+          "Ali Zamani",
+          "Soroush Esfahanian",
+          "Erfan Shahabi",
+          "Mohammad Taher Pilehvar",
+          "Azadeh Shakery"
+        ],
+        "summary": "Understanding the social intelligence of large language models (LLMs) is increasingly important for applications involving human-AI interaction and multi-agent environments. Social intelligence comprises two aspects: cognitive intelligence, the ability to infer others' mental states, and behavioral ",
+        "url": "http://arxiv.org/abs/2610.20548v1",
+        "pdf": "https://arxiv.org/pdf/2610.20548v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Detection of Potato Plant Leaf Diseases using Convolutional Neural Networks",
+        "authors": [
+          "Haimanot Bitew Alemayehu",
+          "Simachew Melaku Ayalew",
+          "Chilotie Desalew Mengesha",
+          "Ayisheshim Almaw Bogale",
+          "Anteneh Birhan Yenew"
+        ],
+        "summary": "Potato is an important food-security crop in Ethiopia, but its production is affected by foliar diseases, particularly early blight and late blight. This study develops a lightweight convolutional neural network (CNN) to classify potato leaves into three categories: healthy, early blight, and late b",
+        "url": "http://arxiv.org/abs/2610.20544v1",
+        "pdf": "https://arxiv.org/pdf/2610.20544v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis",
+        "authors": [
+          "Qiushi Sun",
+          "Jingyang Gong",
+          "Yang Liu",
+          "Qiaosheng Chen",
+          "Zhangyue Yin"
+        ],
+        "summary": "Multimodal code intelligence connects the symbolic world of programs with the visual world their execution creates. Interest in this capability is burgeoning, as models are increasingly asked to produce charts, webpages, animations, and semi-structured documents. Recently, proprietary models have pu",
+        "url": "http://arxiv.org/abs/2610.20538v1",
+        "pdf": "https://arxiv.org/pdf/2610.20538v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "ActiveEvidence: Decision-Focused Evidence Graphs with Verifiable Acquisition Gaps",
+        "authors": [
+          "Miaobo Hu",
+          "Shuhao Hu",
+          "Xiaobo Guo",
+          "Xin Wang",
+          "Bokun Wang"
+        ],
+        "summary": "A multimodal agent must decide whether visual evidence is worth acquiring, which candidate or resolution to query, and when further interaction can no longer change its decision. We study this problem under a strict free-metadata/paid-observation boundary, stochastic vector costs, and a frozen execu",
+        "url": "http://arxiv.org/abs/2610.20532v1",
+        "pdf": "https://arxiv.org/pdf/2610.20532v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "The Wealth of Agents: Scaling Agentic AI Across Developers",
+        "authors": [
+          "Austin W. Hanjie",
+          "Carlos E. Jimenez",
+          "Zirui Wang",
+          "Karthik Narasimhan"
+        ],
+        "summary": "Today's agentic systems are typically designed, built, and deployed by single developers with full control over all participating agents. While this simplifies development, it limits the potential scale of agentic systems. We study multi-developer agentic systems (MDAs) which enable developers to co",
+        "url": "http://arxiv.org/abs/2610.20518v1",
+        "pdf": "https://arxiv.org/pdf/2610.20518v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "VASPO: Self-Distillation with Privileged Value Estimation",
+        "authors": [
+          "Fei Wu",
+          "Zhenrong Zhang",
+          "Jianshu Zhang",
+          "Jun Du"
+        ],
+        "summary": "On-policy self-distillation provides dense supervision for reasoning models via a privileged self-teacher. However, this supervision reflects local token preferences rather than the expected return of an unguided student continuation. Recent methods combine this signal with GRPO. They use GRPO for u",
+        "url": "http://arxiv.org/abs/2610.20516v1",
+        "pdf": "https://arxiv.org/pdf/2610.20516v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "VascuSR: Iterative Anatomy-Aware Diffusion for CT Super-Resolution",
+        "authors": [
+          "Hairong Ni",
+          "Jiahe Huang",
+          "Minghao Guo",
+          "Wojciech Matusik",
+          "Rose Yu"
+        ],
+        "summary": "Generative super-resolution (SR) can recover sharp detail in computed tomography (CT) images from severely downsampled observations, but the missing high-frequency content is not uniquely determined by the low-resolution input. Consequently, visually plausible reconstructions may contain anatomicall",
+        "url": "http://arxiv.org/abs/2610.20509v1",
+        "pdf": "https://arxiv.org/pdf/2610.20509v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Hindsight-Privileged RLVR: Single-Rollout Token Credit Without Group Sampling",
+        "authors": [
+          "Wei Chen",
+          "Yubing Wu",
+          "Zhou Xu",
+          "Haoyue Zhang",
+          "Delu Zeng"
+        ],
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) trains language models from checked task outcomes, but assigning a terminal reward to individual reasoning tokens or actions remains difficult. Group-relative methods such as Group Relative Policy Optimization (GRPO) sample several attempts per p",
+        "url": "http://arxiv.org/abs/2610.20497v1",
+        "pdf": "https://arxiv.org/pdf/2610.20497v1",
+        "published": "2026-10-14",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes",
+        "authors": [
+          "Stavros Nousias",
+          "Akis Nousias",
+          "Konstantinos Gkrispanis"
+        ],
+        "summary": "Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that partitions the solution among vanilla transformer experts, each focused on a different spectral scale. ",
+        "url": "http://arxiv.org/abs/2610.20585v1",
+        "pdf": "https://arxiv.org/pdf/2610.20585v1",
+        "published": "2026-10-14",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Latent Compaction with Test-Time Training",
+        "authors": [
+          "Yingfa Chen",
+          "Xingyu Shen",
+          "Chaojun Xiao",
+          "Xu Han"
+        ],
+        "summary": "Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions. We introduce **Latent Compaction**, which learns a compact document-specific cache through test-time training. We initia",
+        "url": "http://arxiv.org/abs/2610.20582v1",
+        "pdf": "https://arxiv.org/pdf/2610.20582v1",
+        "published": "2026-10-14",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
