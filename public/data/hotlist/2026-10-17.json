@@ -1,0 +1,510 @@
+{
+  "date": "2026-10-17",
+  "generated": "2026-10-17T06:41:15.923657",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "jhaizhou-ops/d2r-mobile",
+        "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
+        "stars": 3575,
+        "language": "C",
+        "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+        "created": "2026-10-12"
+      },
+      {
+        "rank": 2,
+        "name": "onehumanbeing/esp32-iphone-agent",
+        "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+        "stars": 2905,
+        "language": "C",
+        "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+        "created": "2026-10-11"
+      },
+      {
+        "rank": 3,
+        "name": "Arekejoker/qwen21-nsfw-pose-skill",
+        "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+        "stars": 2560,
+        "language": "Python",
+        "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+        "created": "2026-10-13"
+      },
+      {
+        "rank": 4,
+        "name": "liseami/CCBaga",
+        "description": "",
+        "stars": 2437,
+        "language": "Rust",
+        "url": "https://github.com/liseami/CCBaga",
+        "created": "2026-10-11"
+      },
+      {
+        "rank": 5,
+        "name": "HeyPuter/everything",
+        "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+        "stars": 1804,
+        "language": "JavaScript",
+        "url": "https://github.com/HeyPuter/everything",
+        "created": "2026-10-13"
+      },
+      {
+        "rank": 6,
+        "name": "ahwootech/BRUTAL",
+        "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
+        "stars": 1618,
+        "language": "C#",
+        "url": "https://github.com/ahwootech/BRUTAL",
+        "created": "2026-10-14"
+      },
+      {
+        "rank": 7,
+        "name": "chenglou/handwired",
+        "description": "Turn your regular JavaScript code into a neural net.",
+        "stars": 1601,
+        "language": "TypeScript",
+        "url": "https://github.com/chenglou/handwired",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 8,
+        "name": "deeplethe/solid-glass",
+        "description": "A design system for AI applications. Material, physical, tactile, technical.",
+        "stars": 1532,
+        "language": "TypeScript",
+        "url": "https://github.com/deeplethe/solid-glass",
+        "created": "2026-10-12"
+      },
+      {
+        "rank": 9,
+        "name": "feder-cr/git-ai",
+        "description": "Git designed for AI agents.",
+        "stars": 1077,
+        "language": "Go",
+        "url": "https://github.com/feder-cr/git-ai",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 10,
+        "name": "zhuyansen/new-term-radar",
+        "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+        "stars": 1068,
+        "language": "Python",
+        "url": "https://github.com/zhuyansen/new-term-radar",
+        "created": "2026-10-12"
+      },
+      {
+        "rank": 11,
+        "name": "Supermedo/uncharted_pc",
+        "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+        "stars": 1067,
+        "language": "C++",
+        "url": "https://github.com/Supermedo/uncharted_pc",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 12,
+        "name": "Caho1/open-claude-ui",
+        "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+        "stars": 1058,
+        "language": "TypeScript",
+        "url": "https://github.com/Caho1/open-claude-ui",
+        "created": "2026-10-14"
+      },
+      {
+        "rank": 13,
+        "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
+        "description": "Introduction to Semiconductor Manufacturing",
+        "stars": 1016,
+        "language": "Python",
+        "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
+        "created": "2026-10-11"
+      },
+      {
+        "rank": 14,
+        "name": "outcrawlai/scout",
+        "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+        "stars": 905,
+        "language": "TypeScript",
+        "url": "https://github.com/outcrawlai/scout",
+        "created": "2026-10-13"
+      },
+      {
+        "rank": 15,
+        "name": "AjncSystem/ShadowOfTheColossus-PC",
+        "description": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
+        "stars": 898,
+        "language": "C++",
+        "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
+        "created": "2026-10-12"
+      },
+      {
+        "rank": 16,
+        "name": "jwuthri-cloud/Tracely-ai",
+        "description": "",
+        "stars": 829,
+        "language": "Python",
+        "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+        "created": "2026-10-11"
+      },
+      {
+        "rank": 17,
+        "name": "h0m3us3r/w1700k-sdr",
+        "description": "",
+        "stars": 816,
+        "language": "C",
+        "url": "https://github.com/h0m3us3r/w1700k-sdr",
+        "created": "2026-10-11"
+      },
+      {
+        "rank": 18,
+        "name": "CoolkHz/gptibo",
+        "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+        "stars": 813,
+        "language": "TypeScript",
+        "url": "https://github.com/CoolkHz/gptibo",
+        "created": "2026-10-13"
+      },
+      {
+        "rank": 19,
+        "name": "threerocks/sweety-handdraw-video",
+        "description": "从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
+        "stars": 652,
+        "language": "JavaScript",
+        "url": "https://github.com/threerocks/sweety-handdraw-video",
+        "created": "2026-10-12"
+      },
+      {
+        "rank": 20,
+        "name": "Zfinix/eleven",
+        "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+        "stars": 634,
+        "language": "TypeScript",
+        "url": "https://github.com/Zfinix/eleven",
+        "created": "2026-10-13"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+        "authors": [
+          "Zhixu Li",
+          "Keqian Tang",
+          "Litian Gong",
+          "Jingyu Yao",
+          "Wenqian Zhang"
+        ],
+        "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from ",
+        "url": "http://arxiv.org/abs/2610.22372v1",
+        "pdf": "https://arxiv.org/pdf/2610.22372v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Discovering state-of-the-art quantum circuits with large language models",
+        "authors": [
+          "Andi Gu",
+          "Alek H. Kemeny",
+          "Susanne F. Yelin",
+          "Mikhail D. Lukin"
+        ],
+        "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource costs are associated",
+        "url": "http://arxiv.org/abs/2610.22367v1",
+        "pdf": "https://arxiv.org/pdf/2610.22367v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+        "authors": [
+          "Chenyuan Zhou",
+          "Yining Hong",
+          "Huang Huang",
+          "Yunfan Jiang",
+          "Wenlong Huang"
+        ],
+        "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties such as friction and mass to human-defined environmental rules. We introduce T2-Z ",
+        "url": "http://arxiv.org/abs/2610.22364v1",
+        "pdf": "https://arxiv.org/pdf/2610.22364v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
+        "authors": [
+          "Tianjiao Yu",
+          "Zhilin Ou",
+          "Yifan Shen",
+          "Xinzhuo Li",
+          "Yuanzhe Liu"
+        ],
+        "summary": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy's failures and supervision that helps it overcome them. We introduce CoDA, a framework in whic",
+        "url": "http://arxiv.org/abs/2610.22362v1",
+        "pdf": "https://arxiv.org/pdf/2610.22362v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
+        "authors": [
+          "Bingcong Li",
+          "Hao Ma",
+          "Michael Muehlebach",
+          "Niao He",
+          "Yi Ma"
+        ],
+        "summary": "Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and shared experts. The former increases expressiveness by enabling more expert combinations at a fixed a",
+        "url": "http://arxiv.org/abs/2610.22353v1",
+        "pdf": "https://arxiv.org/pdf/2610.22353v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "FDE-Gym: The Last Mile of AI Delivery",
+        "authors": [
+          "Dongxu Yang",
+          "Hongda Yan",
+          "Renxin Wang",
+          "Baoli Zhang",
+          "Haojia Zuo"
+        ],
+        "summary": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engineers (FDEs) must clarify ambiguous requirements, work in live systems, and uncover unstated constrai",
+        "url": "http://arxiv.org/abs/2610.22350v1",
+        "pdf": "https://arxiv.org/pdf/2610.22350v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+        "authors": [
+          "Shangheng Du",
+          "Jinxin Shi",
+          "Shuaiyu Zhang",
+          "Yiming Wu",
+          "Junpeng Zhao"
+        ],
+        "summary": "Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recursive self-improvement (RSI). Workflow-driven machine learning engineering (MLE) systems provide a pr",
+        "url": "http://arxiv.org/abs/2610.22344v1",
+        "pdf": "https://arxiv.org/pdf/2610.22344v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
+        "authors": [
+          "Hongchang Liu",
+          "Jian Liu",
+          "Yujuan Ding",
+          "Liang Peng",
+          "Xun Jiang"
+        ],
+        "summary": "Recent 3D world models increasingly use features from geometry foundation models (GFMs) as predictive world states, benefiting from their rich geometric priors. However, the view dependence of these features entangles scene dynamics with camera-induced variation, making the resulting state evolution",
+        "url": "http://arxiv.org/abs/2610.22343v1",
+        "pdf": "https://arxiv.org/pdf/2610.22343v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "3DCodeVerse: Exploring 3D Worlds as Code",
+        "authors": [
+          "Yipeng Gao",
+          "Ziyao Zeng",
+          "Jinfa Huang",
+          "Yijiang Li",
+          "Haolin Xiong"
+        ],
+        "summary": "We introduce 3DCodeVerse, a research ecosystem that enables coding agents to create editable and verifiable 3D content at scale. 3DCodeVerse comprises large-scale, high-quality datasets of executable 3D code, a coding harness for spatial reasoning and automated verification, and practical guidance f",
+        "url": "http://arxiv.org/abs/2610.22341v1",
+        "pdf": "https://arxiv.org/pdf/2610.22341v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Dexterity from Supervised Play",
+        "authors": [
+          "Botao He",
+          "Yiming Dou",
+          "Yiannis Aloimonos",
+          "Jitendra Malik",
+          "Akash Sharma"
+        ],
+        "summary": "How can robots autonomously collect the contact-rich experience needed to learn dexterous manipulation? We present DSP: Dexterity from supervised play, a framework in which a robot learns a play policy from minutes of human play through behavior cloning, then deploys it autonomously to collect hours",
+        "url": "http://arxiv.org/abs/2610.22340v1",
+        "pdf": "https://arxiv.org/pdf/2610.22340v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Languages?",
+        "authors": [
+          "Trizal Garg",
+          "Sibayan Mitra",
+          "Arya Karanjkar",
+          "Advait Singh",
+          "Jagat Sesh Challa"
+        ],
+        "summary": "Large language models (LLMs) can often tell when they are being tested. This ability, known as evaluation awareness, can lead models to act more cautiously during safety evaluations than in real use. Existing work has studied evaluation awareness almost entirely in English, although models serve use",
+        "url": "http://arxiv.org/abs/2610.22333v1",
+        "pdf": "https://arxiv.org/pdf/2610.22333v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents",
+        "authors": [
+          "Siqi Chen",
+          "Zhengxi Lu",
+          "Yuchen Yan",
+          "Xingyu Wu",
+          "Qipeng Chen"
+        ],
+        "summary": "Deep search agents solve knowledge-intensive tasks through long-horizon, multi-turn interactions, where assigning credit to individual search decisions is fundamentally difficult. Outcome-based reinforcement learning provides only a single terminal reward shared across an entire trajectory. Recent p",
+        "url": "http://arxiv.org/abs/2610.22331v1",
+        "pdf": "https://arxiv.org/pdf/2610.22331v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Designing Transformers for Continuous Diffusion Language Models",
+        "authors": [
+          "Weijian Luo",
+          "Yujian Chen",
+          "Hao Jiang",
+          "Guang Cheng",
+          "Tianyang Hu"
+        ],
+        "summary": "Continuous diffusion language models (CDLMs) offer an alternative approach to parallel language generation; however, most existing studies directly use transformer architectures from either causal large language models (LLMs) or Diffusion Transformers (DiTs) for image generation, which were not opti",
+        "url": "http://arxiv.org/abs/2610.22330v1",
+        "pdf": "https://arxiv.org/pdf/2610.22330v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning",
+        "authors": [
+          "Sara Dorfman",
+          "Nir Goren",
+          "Gal Barak",
+          "Daniel Cohen-Or",
+          "Or Patashnik"
+        ],
+        "summary": "Image editing models produce impressive results for individual edits, but their quality often deteriorates over multiple editing turns. Each editing turn introduces small distribution shifts that accumulate over successive edits, creating a gap between the input distributions encountered during the ",
+        "url": "http://arxiv.org/abs/2610.22328v1",
+        "pdf": "https://arxiv.org/pdf/2610.22328v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Twice Upon a Time: Complementary Representations for Time-Series Reasoning",
+        "authors": [
+          "Hedi Zisling",
+          "Liran Nochumsohn",
+          "Ilan Naiman",
+          "Mihir Parmar",
+          "Omri Azencot"
+        ],
+        "summary": "Time Series Language Models (TSLMs) enable language-based understanding and reasoning over temporal data, yet a fundamental question remains: what information should their time-series representations preserve, and what variation should they factor out? Existing TSLMs typically expose the language mo",
+        "url": "http://arxiv.org/abs/2610.22327v1",
+        "pdf": "https://arxiv.org/pdf/2610.22327v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Learning Self-Orchestration in Decentralized Agent Swarms",
+        "authors": [
+          "Guowei Xu",
+          "Zhenting Qi",
+          "Amani Kiruga",
+          "Himabindu Lakkaraju",
+          "Yilun Du"
+        ],
+        "summary": "The capabilities of an agent swarm depend on both its individual members and how they coordinate. Yet existing multi-agent systems often train agents within fixed orchestration structures, separating the learning of individual capabilities from the organization of collective behavior. We introduce m",
+        "url": "http://arxiv.org/abs/2610.22322v1",
+        "pdf": "https://arxiv.org/pdf/2610.22322v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "AVC-Reward: Event-Centric Audio-Video Consistency Evaluation",
+        "authors": [
+          "Yuruo Wu",
+          "Kaihang Pan",
+          "Kai Shen",
+          "Jiacheng Li",
+          "Shuyuan Tu"
+        ],
+        "summary": "As joint audio-video generation models become more capable, they can generate audio-visual scenes exhibiting three forms of complexity: multi-event composition, multi-layer audio mixture, and asymmetric cross-modal relations. However, current evaluations largely reuse metrics from earlier simple and",
+        "url": "http://arxiv.org/abs/2610.22321v1",
+        "pdf": "https://arxiv.org/pdf/2610.22321v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "A team of Gemini 4 Argon agents beats Minecraft",
+        "authors": [
+          "Maxence Faldor",
+          "Satinder Singh",
+          "Roberta Raileanu"
+        ],
+        "summary": "We placed four Gemini 4 Argon agents in a sandboxed Minecraft survival world and gave them one goal: defeat the Ender Dragon. Each agent controlled a player via an open-source library called Mineflayer and coordinated with its teammates through in-game chat and shared memory. No one assigned roles o",
+        "url": "http://arxiv.org/abs/2610.22319v1",
+        "pdf": "https://arxiv.org/pdf/2610.22319v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Learning to Steer LLM Agents and Multi-Agent Systems",
+        "authors": [
+          "Leyang Shen",
+          "Yaxin Gong",
+          "Yang Zhang",
+          "Chenxiao Fan",
+          "Jiakai Wang"
+        ],
+        "summary": "Large language model (LLM)-based agents and multi-agent systems increasingly tackle complex tasks through long-horizon tool use and inter-agent collaboration. However, these systems are prone to deviating from the overall goal as execution unfolds, which wastes execution resources and leads to undes",
+        "url": "http://arxiv.org/abs/2610.22316v1",
+        "pdf": "https://arxiv.org/pdf/2610.22316v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Knowledge That Is Linear Before Fine-Tuning Generalizes After It",
+        "authors": [
+          "Faridoun Mehri",
+          "Hinrich Schütze"
+        ],
+        "summary": "Not all facts a language model can recall support further learning equally well. We distinguish active facts, which support generalization beyond their own recall, from inert facts, which can be recalled but do not support such generalization in a given task. We study this distinction by constructin",
+        "url": "http://arxiv.org/abs/2610.22300v1",
+        "pdf": "https://arxiv.org/pdf/2610.22300v1",
+        "published": "2026-10-15",
+        "category": "cs.AI"
+      }
+    ]
+  }
+}
