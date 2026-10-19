@@ -1,0 +1,640 @@
+{
+  "date": "2026-10-19",
+  "generated": "2026-10-19T07:24:50.978522",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Arekejoker/qwen21-nsfw-pose-skill",
+        "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+        "stars": 3149,
+        "language": "Python",
+        "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+        "created": "2026-10-13"
+      },
+      {
+        "rank": 2,
+        "name": "Gathin23/tv-vibehack",
+        "description": "Your TV, minus the ads. Debloat any Android TV or Google TV over Wi-Fi and swap the ad-filled home screen for a clean Apple TV-style launcher. No root, fully reversible.",
+        "stars": 2717,
+        "language": "Java",
+        "url": "https://github.com/Gathin23/tv-vibehack",
+        "created": "2026-10-17"
+      },
+      {
+        "rank": 3,
+        "name": "feder-cr/git-ai",
+        "description": "Git designed for AI agents.",
+        "stars": 2327,
+        "language": "Go",
+        "url": "https://github.com/feder-cr/git-ai",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 4,
+        "name": "HeyPuter/everything",
+        "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+        "stars": 2256,
+        "language": "JavaScript",
+        "url": "https://github.com/HeyPuter/everything",
+        "created": "2026-10-13"
+      },
+      {
+        "rank": 5,
+        "name": "ahwootech/BRUTAL",
+        "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
+        "stars": 1933,
+        "language": "C#",
+        "url": "https://github.com/ahwootech/BRUTAL",
+        "created": "2026-10-14"
+      },
+      {
+        "rank": 6,
+        "name": "chenglou/handwired",
+        "description": "Turn your regular JavaScript code into a neural net.",
+        "stars": 1752,
+        "language": "TypeScript",
+        "url": "https://github.com/chenglou/handwired",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 7,
+        "name": "Supermedo/uncharted_pc",
+        "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+        "stars": 1479,
+        "language": "C++",
+        "url": "https://github.com/Supermedo/uncharted_pc",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 8,
+        "name": "Caho1/open-claude-ui",
+        "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+        "stars": 1218,
+        "language": "TypeScript",
+        "url": "https://github.com/Caho1/open-claude-ui",
+        "created": "2026-10-14"
+      },
+      {
+        "rank": 9,
+        "name": "ly05010419/MacNativeGames",
+        "description": "",
+        "stars": 1161,
+        "language": "C",
+        "url": "https://github.com/ly05010419/MacNativeGames",
+        "created": "2026-10-17"
+      },
+      {
+        "rank": 10,
+        "name": "Leonxlnx/earshot",
+        "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+        "stars": 981,
+        "language": "Python",
+        "url": "https://github.com/Leonxlnx/earshot",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 11,
+        "name": "outcrawlai/scout",
+        "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+        "stars": 946,
+        "language": "TypeScript",
+        "url": "https://github.com/outcrawlai/scout",
+        "created": "2026-10-13"
+      },
+      {
+        "rank": 12,
+        "name": "xscreensaver-official/xscreensaver",
+        "description": "There is no official XScreenSaver GitHub repository.",
+        "stars": 875,
+        "language": null,
+        "url": "https://github.com/xscreensaver-official/xscreensaver",
+        "created": "2026-10-16"
+      },
+      {
+        "rank": 13,
+        "name": "Tencent-Hunyuan/Hy-Memory",
+        "description": "",
+        "stars": 873,
+        "language": "Python",
+        "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 14,
+        "name": "CoolkHz/gptibo",
+        "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+        "stars": 829,
+        "language": "TypeScript",
+        "url": "https://github.com/CoolkHz/gptibo",
+        "created": "2026-10-13"
+      },
+      {
+        "rank": 15,
+        "name": "MyLuxy/overdrive",
+        "description": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
+        "stars": 818,
+        "language": "C++",
+        "url": "https://github.com/MyLuxy/overdrive",
+        "created": "2026-10-14"
+      },
+      {
+        "rank": 16,
+        "name": "LiCinCan/blender-ai-mcp-addon",
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy",
+        "stars": 790,
+        "language": "Python",
+        "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 17,
+        "name": "OpenMOSS/MOSS-Image",
+        "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+        "stars": 783,
+        "language": "Python",
+        "url": "https://github.com/OpenMOSS/MOSS-Image",
+        "created": "2026-10-16"
+      },
+      {
+        "rank": 18,
+        "name": "Zfinix/eleven",
+        "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+        "stars": 768,
+        "language": "TypeScript",
+        "url": "https://github.com/Zfinix/eleven",
+        "created": "2026-10-13"
+      },
+      {
+        "rank": 19,
+        "name": "aicodeking/leanrea",
+        "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+        "stars": 718,
+        "language": "Python",
+        "url": "https://github.com/aicodeking/leanrea",
+        "created": "2026-10-17"
+      },
+      {
+        "rank": 20,
+        "name": "Noniv/web-ocean",
+        "description": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from ",
+        "stars": 703,
+        "language": "HTML",
+        "url": "https://github.com/Noniv/web-ocean",
+        "created": "2026-10-16"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
+        "authors": [
+          "Soumik Mukhopadhyay",
+          "Long Mai",
+          "Abhinav Shrivastava",
+          "Aniruddha Mahapatra"
+        ],
+        "summary": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transformer can generate directly in pixel space by replacing the commonly used velocity ",
+        "url": "http://arxiv.org/abs/2610.23854v1",
+        "pdf": "https://arxiv.org/pdf/2610.23854v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
+        "authors": [
+          "Dongyoon Hahm",
+          "Woogyeol Jin",
+          "Dennis Wei",
+          "Yi Zhou",
+          "Nathalie Baracaldo"
+        ],
+        "summary": "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code can cause broad misalignment on prompts unrelated to coding. We refer to a relatio",
+        "url": "http://arxiv.org/abs/2610.23847v1",
+        "pdf": "https://arxiv.org/pdf/2610.23847v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+        "authors": [
+          "Shicheng Liu",
+          "Krista Opsahl-Ong",
+          "Andrew Drozdov",
+          "Julian Killingback",
+          "Arnav Singhvi"
+        ],
+        "summary": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate reproduction and robustness analysis, using a medical case study grounded in the S",
+        "url": "http://arxiv.org/abs/2610.23845v1",
+        "pdf": "https://arxiv.org/pdf/2610.23845v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Self-Building Labs",
+        "authors": [
+          "Jiaru Bai",
+          "Yuchi Zhao",
+          "Han Hao",
+          "Miroslav Bogdanovic",
+          "Yang Cao"
+        ],
+        "summary": "Self-driving laboratories (SDLs) accelerate scientific discovery by automating experimental execution and optimization. AI agents can increasingly propose new experiments, but existing SDLs can only run the procedures they were built for. Adapting them to a new experiment still takes extensive manua",
+        "url": "http://arxiv.org/abs/2610.23826v1",
+        "pdf": "https://arxiv.org/pdf/2610.23826v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Beyond SAEs: Consistent Concept Discovery with Sparse Coding",
+        "authors": [
+          "Jinho Choi",
+          "Hyesu Lim",
+          "Jaegul Choo",
+          "Steffen Schneider"
+        ],
+        "summary": "Sparse autoencoders (SAEs) explain foundation model representations by decomposing activations into sparse combinations of learned dictionary atoms. However, the learned dictionaries can vary across training runs, limiting the reliability and reproducibility of SAE-based analyses. We propose Consist",
+        "url": "http://arxiv.org/abs/2610.23801v1",
+        "pdf": "https://arxiv.org/pdf/2610.23801v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "FuTransformer: FP8 prefill and INT4 decode for Llama-style inference on Hopper",
+        "authors": [
+          "Wei Wang"
+        ],
+        "summary": "Transformer prefill reuses weights across tokens and is dominated by matrix multiplication and activation data movement; single-token decode has limited reuse and is dominated by weight and KV-cache reads. We present FUTRANSFORMER, a CUDA implementation of a Llama-style Transformer block for NVIDIA ",
+        "url": "http://arxiv.org/abs/2610.23796v1",
+        "pdf": "https://arxiv.org/pdf/2610.23796v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "DrugHarness: An Evolvable Agent Harness for Computational Drug Discovery",
+        "authors": [
+          "Yuxing Chen",
+          "Zhisheng Zhang",
+          "Cheng Tang",
+          "Wei Li",
+          "Minghui Zhang"
+        ],
+        "summary": "Computational drug discovery requires agents to compose scientific operations and adapt to changing evidence and constraints. Here we introduce DrugHarness, an evolvable agent harness coupling composable scientific execution with conditional skill induction. Its environment integrates over 80 scient",
+        "url": "http://arxiv.org/abs/2610.23791v1",
+        "pdf": "https://arxiv.org/pdf/2610.23791v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability",
+        "authors": [
+          "Qingshi Wang"
+        ],
+        "summary": "Understanding and simulating how subjective cognition and mental states emerge, evolve, and shape behavior is essential for advancing artificial intelligence toward deeper social cognition and general intelligence. Existing large language models (LLMs) and Theory of Mind (ToM) methods primarily infe",
+        "url": "http://arxiv.org/abs/2610.23722v1",
+        "pdf": "https://arxiv.org/pdf/2610.23722v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Neural Expansion: A Unified Mechanism for How Deep Neural Networks Generalize",
+        "authors": [
+          "Chashi Mahiul Islam",
+          "Samuel Jacob Chacko",
+          "Mao Nishino",
+          "Canlin Zhang",
+          "Xiuwen Liu"
+        ],
+        "summary": "Deep neural networks demonstrate remarkable generalization despite being highly over-parameterized, challenging traditional statistical learning theories. While several theoretical paradigms such as margin-based bounds, PAC-Bayesian analyses, and neural tangent kernels provide global explanations, t",
+        "url": "http://arxiv.org/abs/2610.23716v1",
+        "pdf": "https://arxiv.org/pdf/2610.23716v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "GLOBE: Evolving Structured Agentic Memory for E-commerce Product Optimization in Generative Search",
+        "authors": [
+          "Hyunseo Kim",
+          "Suil Choe",
+          "Sukkyoung So",
+          "Daeyeon Yi"
+        ],
+        "summary": "Optimizing product listings for generative search requires language agents not only to rewrite effectively but also to continually self-improve by retaining successful strategies across diverse categories. However, existing approaches often treat structured listings as free-form text, leaving effect",
+        "url": "http://arxiv.org/abs/2610.23709v1",
+        "pdf": "https://arxiv.org/pdf/2610.23709v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "On the possibilities and limitations of LLM-based multi-agent systems for multi-criteria decision-making in healthcare operations management",
+        "authors": [
+          "Marco Boresta",
+          "Tommaso Giovannelli",
+          "Sepehr Namirad",
+          "Giulia Riccardi"
+        ],
+        "summary": "Multi-criteria models for healthcare operations need weights that express how stakeholders trade off patient waiting time, provider workload, and operating cost, but these weights are difficult to quantify. Teams of large language model (LLM) agents, each prompted to represent a stakeholder, have be",
+        "url": "http://arxiv.org/abs/2610.23673v1",
+        "pdf": "https://arxiv.org/pdf/2610.23673v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
+        "authors": [
+          "Lewen Yan",
+          "Yanxu Zhu",
+          "Jie Zhang",
+          "Jing Shao"
+        ],
+        "summary": "Chain-of-Thought (CoT) monitoring offers actionable evidence for oversight AI systems, with the potential to enable early detection and intervention. However, existing approaches are focused on specific tasks, whereas the regulation of AI, particularly reasoning models, requires monitoring a broader",
+        "url": "http://arxiv.org/abs/2610.23670v1",
+        "pdf": "https://arxiv.org/pdf/2610.23670v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "TUPLE-Bench: Evaluating and Mitigating Privacy-Utility Trade-offs in Typed Decision Models",
+        "authors": [
+          "Yiqu Yang",
+          "Qiaoyuan Zheng",
+          "Yang Tian",
+          "Yu Fan",
+          "Elliott Ash"
+        ],
+        "summary": "Typed decision models often return more than a selected category. They also expose probabilities for each candidate and, sometimes, a separate confidence score. These fields support downstream decisions but may reveal information beyond a recipient's authorization. We introduce TUPLE-Bench (Typed de",
+        "url": "http://arxiv.org/abs/2610.23668v1",
+        "pdf": "https://arxiv.org/pdf/2610.23668v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "PresenceBench: An Exploratory Evaluation of Large Language Model Adaptation to User State",
+        "authors": [
+          "Peña Arroyo Gallego",
+          "Mauro Ruiz Moreno",
+          "Alejandro Acien",
+          "Sergio Romero-Tapiador",
+          "Teresa Arroyo-Gallego"
+        ],
+        "summary": "Presence-aware intelligence is the capacity of an AI system's intelligence layer to adapt appropriately to the functional state of the person it serves (here readiness, flow, and stability) while preserving task quality and safety. We introduce PresenceBench, an instrument for measuring it. Presence",
+        "url": "http://arxiv.org/abs/2610.23625v1",
+        "pdf": "https://arxiv.org/pdf/2610.23625v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "GEMS: Molecular Structure Elucidation as Learned Search over Isomer Graphs",
+        "authors": [
+          "Utku Umur Acikalin",
+          "Yingheng Wang",
+          "Goncalo J. Gouveia",
+          "Tyler J. Schwertfeger",
+          "Frank C. Schroeder"
+        ],
+        "summary": "Identifying small-molecule structures from molecular formulas and tandem mass spectra remains a bottleneck in untargeted metabolomics and natural-product discovery. Even when database retrieval or de novo prediction misses the exact structure, the resulting candidates can provide starting points for",
+        "url": "http://arxiv.org/abs/2610.23617v1",
+        "pdf": "https://arxiv.org/pdf/2610.23617v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Beyond Action Prediction: Learning Search-Free Planning in Latent Space",
+        "authors": [
+          "Guanchen Du",
+          "Jinhao Du",
+          "Yanpeng Sun",
+          "Shan Zhang",
+          "Na Zhao"
+        ],
+        "summary": "Latent world models learn action-conditioned state transitions in a compact representation space, providing a predictive model for visual planning and control. However, planning with these models typically requires costly test-time optimization over action sequences. We propose to replace this onlin",
+        "url": "http://arxiv.org/abs/2610.23615v1",
+        "pdf": "https://arxiv.org/pdf/2610.23615v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "SIT-Eval: Situation-Based Interactive Turn-by-Turn Evaluation of Conversational Agents",
+        "authors": [
+          "Ravil Mussabayev",
+          "Saveliy Zavertyaev",
+          "Dmitriy Parpulov",
+          "Andrey Savchenko"
+        ],
+        "summary": "The rapid proliferation of conversational AI agents necessitates evaluation methods that assess performance across diverse dialogue scenarios, utilizing multiple situational criteria, as appropriate behavior depends on context and encompasses various aspects. Existing dialogue benchmarks typically u",
+        "url": "http://arxiv.org/abs/2610.23612v1",
+        "pdf": "https://arxiv.org/pdf/2610.23612v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "From Trajectories to Differentiated Skills: Cognitive Differentiation for Self-Improving Agents",
+        "authors": [
+          "Yewei Zhao",
+          "Derong Xu",
+          "Wei Chen",
+          "Yin Xu",
+          "Peilun Zhou"
+        ],
+        "summary": "Large language model (LLM) agents tackle complex tasks through reasoning and interaction with external environments. Agent skills provide persistent, transferable capabilities that guide task planning, inform contextual decisions, support tool use, and enable executable procedures. Yet existing skil",
+        "url": "http://arxiv.org/abs/2610.23599v1",
+        "pdf": "https://arxiv.org/pdf/2610.23599v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "RL-Guided Temporal Localization for Dual-Channel Retrieval in Long-Horizon Agent Memory",
+        "authors": [
+          "Dabin Sheng",
+          "Zhe Wu",
+          "Jinming Zhao",
+          "Junliang Xing",
+          "Yuanchun Shi"
+        ],
+        "summary": "Time-aware retrieval is crucial for long-horizon LLM agents to effectively leverage ever-growing long-term memory. Existing methods focus on lexical or semantic similarity, leading to target memories being crowded out by temporally mismatched yet semantically similar candidates. Even time-aware appr",
+        "url": "http://arxiv.org/abs/2610.23598v1",
+        "pdf": "https://arxiv.org/pdf/2610.23598v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Darwin-Claw: Environment-Adaptive Experience Consolidation for Recursively Self-Evolving Agents",
+        "authors": [
+          "Mingze Yin",
+          "Xiaohan Wang",
+          "Dian Li",
+          "Longfei Luo",
+          "Jiahong Yan"
+        ],
+        "summary": "While Large Language Model (LLM) agents have demonstrated remarkable capabilities across complex tasks, they predominantly operate in isolated sessions, lacking the ability to continually learn from historical interactions or adapt to user-specific environments. Existing self-evolution paradigms oft",
+        "url": "http://arxiv.org/abs/2610.23574v1",
+        "pdf": "https://arxiv.org/pdf/2610.23574v1",
+        "published": "2026-10-16",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Task-aligned spectral inductive biases in parameterized quantum circuits",
+        "authors": [
+          "Felix Frohnert",
+          "Adrián Pérez-Salinas",
+          "Sebastian Lange",
+          "Marcus Schwaebisch",
+          "Evert van Nieuwenburg"
+        ],
+        "summary": "Parameterized quantum circuits are widely investigated in quantum machine learning, yet how their architecture can provide task-aligned inductive biases remains poorly understood. We study data reuploading quantum circuits with two distinct inputs: a signal that varies between samples and a fixed, t",
+        "url": "http://arxiv.org/abs/2610.23834v1",
+        "pdf": "https://arxiv.org/pdf/2610.23834v1",
+        "published": "2026-10-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation",
+        "authors": [
+          "Shaoang Li",
+          "Yanhang Shi",
+          "Yufei Li",
+          "Mingfu Liang",
+          "Frank Shyu"
+        ],
+        "summary": "A reasoning trace can accompany a correct answer without providing effective supervision for a particular student. We study how to construct traces that improve learning beyond answer-only supervision by considering both their intermediate content and their accessibility to the target learner. We in",
+        "url": "http://arxiv.org/abs/2610.23831v1",
+        "pdf": "https://arxiv.org/pdf/2610.23831v1",
+        "published": "2026-10-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Waiting Buys Exactly Two Moments: Endogenous Identification in Prediction-Driven Allocation",
+        "authors": [
+          "Rama AlHamidi",
+          "Rasul Khanbayov",
+          "Erchin Serpedin",
+          "Hasan Kurban"
+        ],
+        "summary": "A planner with a fixed budget of preventive help must decide whom to help and when. Waiting reveals risk but removes intervention opportunities as higher-risk individuals leave first. We characterize this tradeoff under repeated noisy signals and risk-dependent attrition: in the canonical model, a l",
+        "url": "http://arxiv.org/abs/2610.23830v1",
+        "pdf": "https://arxiv.org/pdf/2610.23830v1",
+        "published": "2026-10-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn?",
+        "authors": [
+          "Anis Bekri",
+          "Amar Abane",
+          "Van Sy Mai",
+          "Abdella Battou",
+          "Saddek Bensalem"
+        ],
+        "summary": "Future quantum networks will rely on control-plane decisions such as routing, scheduling, entanglement provisioning, purification, and memory allocation. Each decision depends on a timely and reliable estimate of the quality of the entanglement that a candidate path can deliver, with end-to-end fide",
+        "url": "http://arxiv.org/abs/2610.23827v1",
+        "pdf": "https://arxiv.org/pdf/2610.23827v1",
+        "published": "2026-10-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "ENFR: Evidence Networks with Flow-Matched References for Amortized Simulation-Based Model Inference",
+        "authors": [
+          "Kai Lehman",
+          "Jameson Dong",
+          "Carolina Cuesta-Lazaro",
+          "Niall Jeffrey",
+          "Benjamin D. Wandelt"
+        ],
+        "summary": "The evidence, $\\mathcal{Z} = p(x | \\mathcal{M})$, of a data-generating model $\\mathcal{M}$ is a powerful tool in Bayesian frameworks: it enables model inference, model misspecification tests, and goodness-of-fit assessment as an alternative to standard discrepancy statistics, e.g. $χ^2$. While versa",
+        "url": "http://arxiv.org/abs/2610.23825v1",
+        "pdf": "https://arxiv.org/pdf/2610.23825v1",
+        "published": "2026-10-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Learning without relearning physical symmetry: an SO(3)-equivariant convolutional network (CNN) on the sphere",
+        "authors": [
+          "Joshua Williamson",
+          "Niall Jeffrey",
+          "Lorne Whiteway"
+        ],
+        "summary": "Many of the most important datasets in the physical sciences live natively on the sphere, and these data often carry no preferred position or orientation. Using methods that do not reflect this symmetry leads to far higher simulation requirements, which can be catastrophic for scientific analyses (f",
+        "url": "http://arxiv.org/abs/2610.23821v1",
+        "pdf": "https://arxiv.org/pdf/2610.23821v1",
+        "published": "2026-10-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning",
+        "authors": [
+          "Tianmeng Hu",
+          "Biao Luo",
+          "Ke Li"
+        ],
+        "summary": "Designing RNA sequences that reliably fold into specific secondary structures is essential for understanding their biological functions but remains a challenging computational problem. We propose CocoRNA, a cooperative multi-agent reinforcement learning framework for RNA inverse design. CocoRNA simp",
+        "url": "http://arxiv.org/abs/2610.23820v1",
+        "pdf": "https://arxiv.org/pdf/2610.23820v1",
+        "published": "2026-10-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Learning Personalized Memory Gating from Delayed One-Sided Feedback",
+        "authors": [
+          "Kaixuan Ji",
+          "Zixiang Chen",
+          "Wenting Zhao",
+          "Cheng Qian",
+          "Heng Wang"
+        ],
+        "summary": "Long-term memory enables language-model agents to personalize future interactions, but a finite memory bank cannot preserve every extracted fact. Existing memory gating policies are typically shared across users and therefore fail to account for user-specific patterns of future reuse. In this paper,",
+        "url": "http://arxiv.org/abs/2610.23812v1",
+        "pdf": "https://arxiv.org/pdf/2610.23812v1",
+        "published": "2026-10-16",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 29,
+        "title": "Explainable Machine Learning Analysis of Temperature Effects on Mechanical Strength of Fiber-Reinforced High-Performance Concrete",
+        "authors": [
+          "Jagaran Chakma",
+          "Zhiguang Zhou",
+          "Badhan Chakma",
+          "Priyanta Chakma"
+        ],
+        "summary": "Predicting the compressive strength of fiber-reinforced high-performance concrete subjected to temperature exposure is challenging because to the intricate interdependencies of mixture composition, fiber properties, curing conditions, and temperature. A data-driven framework to predict compressive s",
+        "url": "http://arxiv.org/abs/2610.23811v1",
+        "pdf": "https://arxiv.org/pdf/2610.23811v1",
+        "published": "2026-10-16",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
