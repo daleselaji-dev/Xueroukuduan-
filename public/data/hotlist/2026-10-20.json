@@ -1,0 +1,575 @@
+{
+  "date": "2026-10-20",
+  "generated": "2026-10-20T07:15:37.017987",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Gathin23/cleanyourtv",
+        "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+        "stars": 7177,
+        "language": "Java",
+        "url": "https://github.com/Gathin23/cleanyourtv",
+        "created": "2026-10-17"
+      },
+      {
+        "rank": 2,
+        "name": "feder-cr/git-ai",
+        "description": "Git designed for AI agents.",
+        "stars": 2481,
+        "language": "Go",
+        "url": "https://github.com/feder-cr/git-ai",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 3,
+        "name": "ly05010419/MacNativeGames",
+        "description": "",
+        "stars": 2124,
+        "language": "C",
+        "url": "https://github.com/ly05010419/MacNativeGames",
+        "created": "2026-10-17"
+      },
+      {
+        "rank": 4,
+        "name": "ahwootech/BRUTAL",
+        "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
+        "stars": 2009,
+        "language": "C#",
+        "url": "https://github.com/ahwootech/BRUTAL",
+        "created": "2026-10-14"
+      },
+      {
+        "rank": 5,
+        "name": "chenglou/handwired",
+        "description": "Turn your regular JavaScript code into a neural net.",
+        "stars": 1828,
+        "language": "TypeScript",
+        "url": "https://github.com/chenglou/handwired",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 6,
+        "name": "Leonxlnx/earshot",
+        "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+        "stars": 1657,
+        "language": "Python",
+        "url": "https://github.com/Leonxlnx/earshot",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 7,
+        "name": "Supermedo/uncharted_pc",
+        "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+        "stars": 1627,
+        "language": "C++",
+        "url": "https://github.com/Supermedo/uncharted_pc",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 8,
+        "name": "Caho1/open-claude-ui",
+        "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+        "stars": 1266,
+        "language": "TypeScript",
+        "url": "https://github.com/Caho1/open-claude-ui",
+        "created": "2026-10-14"
+      },
+      {
+        "rank": 9,
+        "name": "xiaoyang111222/cn-math-taxonomy",
+        "description": "中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断",
+        "stars": 1207,
+        "language": "Python",
+        "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+        "created": "2026-10-18"
+      },
+      {
+        "rank": 10,
+        "name": "OpenMOSS/MOSS-Image",
+        "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+        "stars": 1045,
+        "language": "Python",
+        "url": "https://github.com/OpenMOSS/MOSS-Image",
+        "created": "2026-10-16"
+      },
+      {
+        "rank": 11,
+        "name": "aicodeking/leanrea",
+        "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+        "stars": 1039,
+        "language": "Python",
+        "url": "https://github.com/aicodeking/leanrea",
+        "created": "2026-10-17"
+      },
+      {
+        "rank": 12,
+        "name": "alchaincyf/huashu-motion",
+        "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+        "stars": 1023,
+        "language": "JavaScript",
+        "url": "https://github.com/alchaincyf/huashu-motion",
+        "created": "2026-10-18"
+      },
+      {
+        "rank": 13,
+        "name": "xscreensaver-official/xscreensaver",
+        "description": "There is no official XScreenSaver GitHub repository.",
+        "stars": 1007,
+        "language": null,
+        "url": "https://github.com/xscreensaver-official/xscreensaver",
+        "created": "2026-10-16"
+      },
+      {
+        "rank": 14,
+        "name": "Tencent-Hunyuan/Hy-Memory",
+        "description": "",
+        "stars": 1005,
+        "language": "Python",
+        "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 15,
+        "name": "MyLuxy/overdrive",
+        "description": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
+        "stars": 932,
+        "language": "C++",
+        "url": "https://github.com/MyLuxy/overdrive",
+        "created": "2026-10-14"
+      },
+      {
+        "rank": 16,
+        "name": "LiCinCan/blender-ai-mcp-addon",
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy",
+        "stars": 924,
+        "language": "Python",
+        "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 17,
+        "name": "Noniv/web-ocean",
+        "description": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from ",
+        "stars": 785,
+        "language": "HTML",
+        "url": "https://github.com/Noniv/web-ocean",
+        "created": "2026-10-16"
+      },
+      {
+        "rank": 18,
+        "name": "humblemuzzu/dumbtv",
+        "description": "",
+        "stars": 687,
+        "language": "JavaScript",
+        "url": "https://github.com/humblemuzzu/dumbtv",
+        "created": "2026-10-18"
+      },
+      {
+        "rank": 19,
+        "name": "0xProbabillity/house-control",
+        "description": "Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home.",
+        "stars": 667,
+        "language": "Swift",
+        "url": "https://github.com/0xProbabillity/house-control",
+        "created": "2026-10-14"
+      },
+      {
+        "rank": 20,
+        "name": "Ansub/tv-detox",
+        "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+        "stars": 625,
+        "language": "Java",
+        "url": "https://github.com/Ansub/tv-detox",
+        "created": "2026-10-18"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+        "authors": [
+          "Yu Zhou",
+          "Cheng-Fu Yang",
+          "Rui Sun",
+          "Di Wu",
+          "Sibo Peng"
+        ],
+        "summary": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply increasing the inference budget of the base model yields only m",
+        "url": "http://arxiv.org/abs/2610.26860v1",
+        "pdf": "https://arxiv.org/pdf/2610.26860v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+        "authors": [
+          "Shiao Xie",
+          "Siyu Chen",
+          "Jianwei Lv",
+          "Xiandong Li",
+          "Yujin Wang"
+        ],
+        "summary": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teach",
+        "url": "http://arxiv.org/abs/2610.26856v1",
+        "pdf": "https://arxiv.org/pdf/2610.26856v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
+        "authors": [
+          "Zehao Wang",
+          "Jianpeng Yao",
+          "Yuping Wang",
+          "Yiping Li",
+          "Jiaqi Li"
+        ],
+        "summary": "Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot settings often fails to ensure safety and efficiency, especially under occlusions and out-of-distri",
+        "url": "http://arxiv.org/abs/2610.26852v1",
+        "pdf": "https://arxiv.org/pdf/2610.26852v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy",
+        "authors": [
+          "Zekai Li",
+          "Jiayi Yu",
+          "Jinlu Zhang",
+          "Luyang Niu",
+          "Zekun Qi"
+        ],
+        "summary": "In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a five-axis metric: First-Attempt Performance, Efficiency, Success, Budget and Improvement from failure",
+        "url": "http://arxiv.org/abs/2610.26848v1",
+        "pdf": "https://arxiv.org/pdf/2610.26848v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "WeAct: Dynamic Weight Switching as Agent Actions",
+        "authors": [
+          "Rui Shi",
+          "Xunjian Yin",
+          "Jiacheng Sang",
+          "Zichuan Liu",
+          "Shuyan Zhou"
+        ],
+        "summary": "Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastrophic forgetting. As a trajectory unfolds, different stages may require different capabilities, yet ",
+        "url": "http://arxiv.org/abs/2610.26847v1",
+        "pdf": "https://arxiv.org/pdf/2610.26847v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Train An Imaginative Agent",
+        "authors": [
+          "Jiaxin Ge",
+          "Junyi Zhang",
+          "Tianning Chai",
+          "Hanjun Yoo",
+          "Chenyang Wang"
+        ],
+        "summary": "A seemingly reasonable push in Sokoban can make the puzzle unsolvable. To avoid such mistakes, an agent has to anticipate the consequences of its actions before execution, especially when feedback from the real environment is sparse or actions are irreversible. We introduce Agentic Imagination (Agim",
+        "url": "http://arxiv.org/abs/2610.26845v1",
+        "pdf": "https://arxiv.org/pdf/2610.26845v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
+        "authors": [
+          "Heejeong Nam",
+          "Divyat Mahajan",
+          "Quentin Le Lidec",
+          "Randall Balestriero",
+          "David Klindt"
+        ],
+        "summary": "The goal of a world model is to capture the dynamics of an environment. This has the great appeal that it allows agents to plan and simulate a course of actions with the help of a world model. For these uses to be reliable, however, the learned dynamics must behave well beyond the specific state-act",
+        "url": "http://arxiv.org/abs/2610.26844v1",
+        "pdf": "https://arxiv.org/pdf/2610.26844v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "LatComm: Reusable Context Compression for Latent Communication between Large Language Models",
+        "authors": [
+          "Huawei Lin",
+          "Jinting Liu",
+          "Tan Yu",
+          "Weijie Zhao"
+        ],
+        "summary": "Systems that combine several large language models (LLMs) often use one context for many questions. When the context is passed between models as text, the receiving model processes all of its tokens again for every question. Avoiding this cost requires a context representation that is compact, reusa",
+        "url": "http://arxiv.org/abs/2610.26840v1",
+        "pdf": "https://arxiv.org/pdf/2610.26840v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy",
+        "authors": [
+          "Ke Zhang",
+          "Sahchit Chundur",
+          "Jerry Peprah Owusu",
+          "Mohammad Javad Abdolhosseini Qomi",
+          "Maziar Raissi"
+        ],
+        "summary": "LLM agents that compute the right answer can still answer wrongly. Agent harnesses increasingly keep long tool outputs out of the context window, saving them to files that the agent searches or reads on demand. We ask where this costs accuracy with a real scientific tool: PHREEQC, a widely used geoc",
+        "url": "http://arxiv.org/abs/2610.26836v1",
+        "pdf": "https://arxiv.org/pdf/2610.26836v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Kronecker Delta Rule for Long Context Linear Attention",
+        "authors": [
+          "Anamaria-Roberta Hartl",
+          "Levente Zólyomi",
+          "Michael List",
+          "Günter Klambauer",
+          "Sebastian Böck"
+        ],
+        "summary": "We propose KronLSTM, a linear attention architecture based on the Kronecker Delta Rule, a novel update rule for associative matrix memories. KronLSTM extends the xLSTM family with a memory-revision mechanism that corrects targeted associations while modifying the memory only along a single direction",
+        "url": "http://arxiv.org/abs/2610.26834v1",
+        "pdf": "https://arxiv.org/pdf/2610.26834v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "ProteinGeoBench: Frontier Structural-Biology Agents Are Fluent at Lookup but Lost in Geometry",
+        "authors": [
+          "Matt Turk",
+          "Brandon L. Neel",
+          "Diana M. Lopez",
+          "Zachary D. Smith",
+          "Grace N. Johnecheck"
+        ],
+        "summary": "Frontier agents retrieve structural metadata well and compute geometry from coordinates less reliably. We ask how much of a benchmark score reflects that gap and how much reflects the evaluation configuration around the model. We study ProteinGeoBench, a suite of 131 protein-structure tasks, using 4",
+        "url": "http://arxiv.org/abs/2610.26829v1",
+        "pdf": "https://arxiv.org/pdf/2610.26829v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+        "authors": [
+          "Zhaoyang Wang",
+          "Qianhui Wu",
+          "Haorui Wang",
+          "Simon Yu",
+          "Baolin Peng"
+        ],
+        "summary": "Agent learning is shifting from learning from human data toward learning through interaction with the world. However, scaling such learning directly in real-world computer systems is challenging and can introduce substantial security risks. We therefore propose Agent World Model in the Wild (WildAWM",
+        "url": "http://arxiv.org/abs/2610.26828v1",
+        "pdf": "https://arxiv.org/pdf/2610.26828v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development",
+        "authors": [
+          "Yuchi Wang",
+          "Rongyao Fang",
+          "Weihao Yu",
+          "Xilin Wei",
+          "Tiancheng Gu"
+        ],
+        "summary": "Beyond basic tool use and coding skills, effectively incorporating visual references into agentic generation is equally essential for applying AI agents to real-world productivity tasks. We study this crucial capability through webpage development, a practical and readily evaluable setting in which ",
+        "url": "http://arxiv.org/abs/2610.26826v1",
+        "pdf": "https://arxiv.org/pdf/2610.26826v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "AfriBED: a Speech Recognition Bias Evaluation Dataset for Low Resource African Languages",
+        "authors": [
+          "Claytone Sikasote",
+          "Hussein Suleman",
+          "Jan Buys"
+        ],
+        "summary": "Despite advancements in automatic speech recognition systems (ASR), current systems exhibit speaker-attribute bias, i.e., their speech recognition performance is biased against certain speakers based on their demographic attributes such as gender, accents, and speaker type. However, accurately asses",
+        "url": "http://arxiv.org/abs/2610.26821v1",
+        "pdf": "https://arxiv.org/pdf/2610.26821v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Next Best Action: Causal Constrained Offline RL for Business Action Targeting",
+        "authors": [
+          "Surya Ramachandiran",
+          "Yiming Li",
+          "Juan Mancilla-Caceres",
+          "Tao Ye",
+          "Jun Liu"
+        ],
+        "summary": "Next Best Action (NBA) systems must select among customer interventions (e.g., discounts, promotions, and lifecycle actions), maximize long-term economic value, satisfy complex operational constraints, and remain causally grounded. Existing approaches lack a rigorous framework for meeting these requ",
+        "url": "http://arxiv.org/abs/2610.26817v1",
+        "pdf": "https://arxiv.org/pdf/2610.26817v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Mise-en-Video: Fine-Grained 3D Control for Multi-Shot Video Generation",
+        "authors": [
+          "Yingshuang Zou",
+          "Xiaoyu Shi",
+          "Yawen Luo",
+          "Ziang Li",
+          "Qinghe Wang"
+        ],
+        "summary": "Recent advances in text-to-video generation have enabled high-fidelity single-shot synthesis, yet practical storytelling creation requires multi-shot videos with both strong inter-shot consistency and fine-grained controllability. Existing multi-shot video generation approaches achieve strong consis",
+        "url": "http://arxiv.org/abs/2610.26801v1",
+        "pdf": "https://arxiv.org/pdf/2610.26801v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "SOMA: Continuous Monitoring and Intervention for System Two Reasoning with System One Models",
+        "authors": [
+          "Ruizhi Qian",
+          "Lei Shi",
+          "Tianyu Hu",
+          "Bo Yan",
+          "Song Wang"
+        ],
+        "summary": "Reasoning models often run into problems without noticing them, even when symptoms are visible in their own text. In humans, metacognition separates monitoring from control: fast, intuitive signals keep watch while slow, deliberate reasoning unfolds and help decide whether to continue, change course",
+        "url": "http://arxiv.org/abs/2610.26793v1",
+        "pdf": "https://arxiv.org/pdf/2610.26793v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "LG-Bench: A Graph-Structured Evaluation Benchmark for Life Sciences",
+        "authors": [
+          "Lu Sun",
+          "Xiangyi Zhang",
+          "Xiangyang Zhu",
+          "Kaiyuan Ji",
+          "Zijian Chen"
+        ],
+        "summary": "Traditional evaluation benchmarks reduce inherently interconnected scientific knowledge in life sciences into flat lists of questions, disregarding the underlying topological structure of the knowledge. We introduce, the first graph-structured benchmark for life sciences, featuring over 10,000 high-",
+        "url": "http://arxiv.org/abs/2610.26787v1",
+        "pdf": "https://arxiv.org/pdf/2610.26787v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Game of Phones: Harnessing Game Theory and LLMs in 'Bot Wars' to Counteract Phone Scams",
+        "authors": [
+          "Nardine Basta",
+          "Robin Carpentier",
+          "Benjamin Zi Hao Zhao",
+          "Dali Kaafar"
+        ],
+        "summary": "Phone scams impose substantial and growing costs on individuals and financial systems worldwide, yet existing countermeasures impose no resource cost on perpetrators. Strategic scam-baiting, in which automated agents engage scammers to deplete their operational capacity, offers a proactive alternati",
+        "url": "http://arxiv.org/abs/2610.26781v1",
+        "pdf": "https://arxiv.org/pdf/2610.26781v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning",
+        "authors": [
+          "Liana Patel",
+          "Rishabh Ranjan",
+          "Ion Stoica",
+          "Matei Zaharia",
+          "Carlos Guestrin"
+        ],
+        "summary": "Expert human readers process large inputs (e.g., code repositories and long documents) by skimming to closely read only what matters. On the other hand, language models process all input tokens through each model layer, resulting in significant processing costs for long-context inputs. We introduce ",
+        "url": "http://arxiv.org/abs/2610.26754v1",
+        "pdf": "https://arxiv.org/pdf/2610.26754v1",
+        "published": "2026-10-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Text-to-Image Generative Modeling Without Language Pretraining",
+        "authors": [
+          "Keshigeyan Chandrasegaran",
+          "Yue Zhao",
+          "Armin W. Thomas",
+          "Ehsan Adeli",
+          "Jiajun Wu"
+        ],
+        "summary": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family of early-fusion multimodal autoregressive models pretrained entirely from scrat",
+        "url": "http://arxiv.org/abs/2610.26863v1",
+        "pdf": "https://arxiv.org/pdf/2610.26863v1",
+        "published": "2026-10-19",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity",
+        "authors": [
+          "Youran Dong",
+          "Junfeng Yang",
+          "Wei Yao",
+          "Jin Zhang"
+        ],
+        "summary": "Bilevel optimization provides a framework for machine learning tasks such as hyperparameter optimization, data reweighting, and meta-learning. Existing Newton-based bilevel methods typically rely on the classical hypergradient formula, which is generally unavailable when lower-level solutions are no",
+        "url": "http://arxiv.org/abs/2610.26839v1",
+        "pdf": "https://arxiv.org/pdf/2610.26839v1",
+        "published": "2026-10-19",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Supervised Learning with Quantum Hamiltonian Embeddings",
+        "authors": [
+          "Riccardo Molteni",
+          "Minjun Jeon",
+          "Paolo Braccia",
+          "Abhinav Deshpande",
+          "Vedran Dunjko"
+        ],
+        "summary": "Machine learning is widely regarded as a promising application in which quantum computing could offer a computational advantage. However, general quantum machine learning models with provable guarantees on performance, trainability, and efficient inference remain limited. In this work, we introduce ",
+        "url": "http://arxiv.org/abs/2610.26833v1",
+        "pdf": "https://arxiv.org/pdf/2610.26833v1",
+        "published": "2026-10-19",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "MemT-1.0: Towards Memory-Native Evolution",
+        "authors": [
+          "Zhiyu Li",
+          "Zeyu Zhang",
+          "Linyun Liu",
+          "Yiwei Bu",
+          "Chenyang Xi"
+        ],
+        "summary": "Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new architecture of memory foundation models that internalize memory as part of model computation. Buil",
+        "url": "http://arxiv.org/abs/2610.26825v1",
+        "pdf": "https://arxiv.org/pdf/2610.26825v1",
+        "published": "2026-10-19",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
