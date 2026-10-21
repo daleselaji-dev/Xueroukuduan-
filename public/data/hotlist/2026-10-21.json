@@ -1,0 +1,501 @@
+{
+  "date": "2026-10-21",
+  "generated": "2026-10-21T07:11:39.690178",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "deepseek-ai/DeepInfer",
+        "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+        "stars": 15384,
+        "language": "Python",
+        "url": "https://github.com/deepseek-ai/DeepInfer",
+        "created": "2026-10-16"
+      },
+      {
+        "rank": 2,
+        "name": "Gathin23/cleanyourtv",
+        "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+        "stars": 13986,
+        "language": "Java",
+        "url": "https://github.com/Gathin23/cleanyourtv",
+        "created": "2026-10-17"
+      },
+      {
+        "rank": 3,
+        "name": "ly05010419/MacNativeGames",
+        "description": "",
+        "stars": 3153,
+        "language": "C",
+        "url": "https://github.com/ly05010419/MacNativeGames",
+        "created": "2026-10-17"
+      },
+      {
+        "rank": 4,
+        "name": "simbasjungles/free-my-tv",
+        "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+        "stars": 2083,
+        "language": "Java",
+        "url": "https://github.com/simbasjungles/free-my-tv",
+        "created": "2026-10-19"
+      },
+      {
+        "rank": 5,
+        "name": "Leonxlnx/earshot",
+        "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+        "stars": 1997,
+        "language": "Python",
+        "url": "https://github.com/Leonxlnx/earshot",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 6,
+        "name": "chenglou/handwired",
+        "description": "Turn your regular JavaScript code into a neural net.",
+        "stars": 1860,
+        "language": "TypeScript",
+        "url": "https://github.com/chenglou/handwired",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 7,
+        "name": "xiaoyang111222/cn-math-taxonomy",
+        "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断",
+        "stars": 1740,
+        "language": "Python",
+        "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+        "created": "2026-10-18"
+      },
+      {
+        "rank": 8,
+        "name": "Supermedo/uncharted_pc",
+        "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+        "stars": 1740,
+        "language": "C++",
+        "url": "https://github.com/Supermedo/uncharted_pc",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 9,
+        "name": "feder-cr/git-ai",
+        "description": "Git designed for AI agents.",
+        "stars": 1300,
+        "language": "Go",
+        "url": "https://github.com/feder-cr/git-ai",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 10,
+        "name": "pengchujin/aerial-tv",
+        "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+        "stars": 1225,
+        "language": "Kotlin",
+        "url": "https://github.com/pengchujin/aerial-tv",
+        "created": "2026-10-20"
+      },
+      {
+        "rank": 11,
+        "name": "aicodeking/leanrea",
+        "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+        "stars": 1203,
+        "language": "Python",
+        "url": "https://github.com/aicodeking/leanrea",
+        "created": "2026-10-17"
+      },
+      {
+        "rank": 12,
+        "name": "OpenMOSS/MOSS-Image",
+        "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+        "stars": 1198,
+        "language": "Python",
+        "url": "https://github.com/OpenMOSS/MOSS-Image",
+        "created": "2026-10-16"
+      },
+      {
+        "rank": 13,
+        "name": "alchaincyf/huashu-motion",
+        "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+        "stars": 1191,
+        "language": "JavaScript",
+        "url": "https://github.com/alchaincyf/huashu-motion",
+        "created": "2026-10-18"
+      },
+      {
+        "rank": 14,
+        "name": "JoasASantos/REA-Prompts",
+        "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+        "stars": 1143,
+        "language": null,
+        "url": "https://github.com/JoasASantos/REA-Prompts",
+        "created": "2026-10-19"
+      },
+      {
+        "rank": 15,
+        "name": "xscreensaver-official/xscreensaver",
+        "description": "There is no official XScreenSaver GitHub repository.",
+        "stars": 1107,
+        "language": null,
+        "url": "https://github.com/xscreensaver-official/xscreensaver",
+        "created": "2026-10-16"
+      },
+      {
+        "rank": 16,
+        "name": "Tencent-Hunyuan/Hy-Memory",
+        "description": "",
+        "stars": 1095,
+        "language": "Python",
+        "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 17,
+        "name": "humblemuzzu/dumbtv",
+        "description": "",
+        "stars": 1043,
+        "language": "JavaScript",
+        "url": "https://github.com/humblemuzzu/dumbtv",
+        "created": "2026-10-18"
+      },
+      {
+        "rank": 18,
+        "name": "Ansub/tv-detox",
+        "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+        "stars": 1012,
+        "language": "Java",
+        "url": "https://github.com/Ansub/tv-detox",
+        "created": "2026-10-18"
+      },
+      {
+        "rank": 19,
+        "name": "LiCinCan/blender-ai-mcp-addon",
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy",
+        "stars": 950,
+        "language": "Python",
+        "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+        "created": "2026-10-15"
+      },
+      {
+        "rank": 20,
+        "name": "Noniv/web-ocean",
+        "description": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from ",
+        "stars": 814,
+        "language": "HTML",
+        "url": "https://github.com/Noniv/web-ocean",
+        "created": "2026-10-16"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+        "authors": [
+          "Noam Rotstein",
+          "Yoad Tewel",
+          "Chen Tessler",
+          "Haggai Maron",
+          "Gal Chechik"
+        ],
+        "summary": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it cannot return that jump a",
+        "url": "http://arxiv.org/abs/2610.28632v1",
+        "pdf": "https://arxiv.org/pdf/2610.28632v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+        "authors": [
+          "Yazhuo Liu",
+          "Kunqing Ding",
+          "Xiaoguo Gong",
+          "Zifeng Wang",
+          "Yichen Yang"
+        ],
+        "summary": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the struct",
+        "url": "http://arxiv.org/abs/2610.28629v1",
+        "pdf": "https://arxiv.org/pdf/2610.28629v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+        "authors": [
+          "Rahul Sajnani",
+          "Diego Romeres",
+          "Mingyuan Zhang",
+          "Kai Gao",
+          "Carl Qi"
+        ],
+        "summary": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a single shared representation, where each modality is both a conditioning signal and a supervision t",
+        "url": "http://arxiv.org/abs/2610.28626v1",
+        "pdf": "https://arxiv.org/pdf/2610.28626v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
+        "authors": [
+          "Jad Yammine",
+          "Malek Wahidi",
+          "Abrar Anwar",
+          "Yan Chang",
+          "Mihir Acharya"
+        ],
+        "summary": "Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication, and storage costs. For example, explaining recurring aisle blockages can require reviewing video from multiple robots acros",
+        "url": "http://arxiv.org/abs/2610.28624v1",
+        "pdf": "https://arxiv.org/pdf/2610.28624v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "MindView: Benchmarking Generative Multi-View Spatial Intelligence",
+        "authors": [
+          "Yanbo Wang",
+          "Siqi Luo",
+          "Siyu Zhang",
+          "Chenming Zhu",
+          "Wenzhao Zheng"
+        ],
+        "summary": "Spatial intelligence has recently been assessed through generative tasks such as spatially grounded image editing, yet language-guided generation of spatially consistent views from partial multi-view observations remains underexplored. We introduce MindView, a benchmark for generative multi-view spa",
+        "url": "http://arxiv.org/abs/2610.28622v1",
+        "pdf": "https://arxiv.org/pdf/2610.28622v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Adaptive Multi-Token Prediction: How far should we go?",
+        "authors": [
+          "Emile Anand",
+          "Mohammed Rehan Parwani",
+          "Xinyuan Cao"
+        ],
+        "summary": "Multi-token prediction (MTP) can accelerate language-model decoding by drafting several tokens and verifying them in a single target-model pass. However, the best speculation horizon changes with context: longer drafts offer greater amortization when reliable, but can waste compute on suffixes disca",
+        "url": "http://arxiv.org/abs/2610.28619v1",
+        "pdf": "https://arxiv.org/pdf/2610.28619v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Semantic Observability for Autonomous Systems Diagnostics",
+        "authors": [
+          "Jitendra Solanki",
+          "Anand Todkar",
+          "Ziran Min"
+        ],
+        "summary": "Modern distributed microservice deployments generate massive volumes of heterogeneous, multi-format observability logs across physically and logically partitioned infrastructure. Isolating root causes during cascading failures remains an arduous task for Site Reliability Engineers (SREs), bottleneck",
+        "url": "http://arxiv.org/abs/2610.28611v1",
+        "pdf": "https://arxiv.org/pdf/2610.28611v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Benchmarking Arabic Dialects for Math Problems",
+        "authors": [
+          "Noor Abo Mokh",
+          "Teresa Lynn",
+          "Nizar Habash",
+          "Ahmed Elshabrawy",
+          "Sara Alhajeri"
+        ],
+        "summary": "Mathematical reasoning remains underexplored for low-resource languages, including Dialectal Arabic. To bridge this gap, we introduce the DAR-MGSM (Dialectal Arabic Multilingual Grade School Math) Benchmark, the first manually curated benchmark for evaluating mathematical reasoning in Dialectal Arab",
+        "url": "http://arxiv.org/abs/2610.28607v1",
+        "pdf": "https://arxiv.org/pdf/2610.28607v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Value-Rich, Differently Organized: Measuring Value Expression and Organization in AI-Generated Debates",
+        "authors": [
+          "Maoyuan Li",
+          "Haoyuan Li",
+          "Zhongsheng Wang",
+          "Jiamou Liu"
+        ],
+        "summary": "Current evaluation of LLM-generated debate largely focuses on argumentative quality, leaving the value structure of generated arguments underexamined. We introduce a diagnostic metric framework for comparing how values are expressed and organized in human-reference and AI-generated debates. The fram",
+        "url": "http://arxiv.org/abs/2610.28604v1",
+        "pdf": "https://arxiv.org/pdf/2610.28604v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Turning TS2Vec into a Foundation Model for Time Series Classification",
+        "authors": [
+          "Vasilii Feofanov",
+          "Zhenghan Tai",
+          "Andrei Ermakov",
+          "Irina Rish"
+        ],
+        "summary": "TS2Vec is one of the strongest self-supervised methods for time series classification, introduced in 2022. It is designed to be trained anew on every dataset: self-supervised pre-training followed by linear probing. Since then, the field has shifted towards foundation models that reuse one encoder a",
+        "url": "http://arxiv.org/abs/2610.28602v1",
+        "pdf": "https://arxiv.org/pdf/2610.28602v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Evolving Agent Interfaces",
+        "authors": [
+          "Saaket Agashe",
+          "Yuzhe Yang",
+          "Gonzalo Gonzalez-Pumariega",
+          "Bhuvan Chandra Koduru",
+          "Chih-Lun Li"
+        ],
+        "summary": "Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell when a single line of code would do, or print all two thousand lines of a file through a shell to find one function. Both the interfaces and the knowledge of when to use each are built by",
+        "url": "http://arxiv.org/abs/2610.28601v1",
+        "pdf": "https://arxiv.org/pdf/2610.28601v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "What Do RTL Repair Benchmarks Actually Measure?",
+        "authors": [
+          "Yeyin Eva Zhu",
+          "Rishabh Ranawat"
+        ],
+        "summary": "RTL repair benchmarks should measure whether a model can fix broken RTL given a specification. To this end, we construct and hash-bind RTLRepairDataset, 5,784 (broken, fixed) training pairs; RTLRepairBench, 459 held-out cases with 374 syntactic and 85 behavioral mutations; and an evaluation harness ",
+        "url": "http://arxiv.org/abs/2610.28595v1",
+        "pdf": "https://arxiv.org/pdf/2610.28595v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation",
+        "authors": [
+          "Shu Zhao",
+          "Tan Yu"
+        ],
+        "summary": "Agentic on-policy distillation (OPD) trains a student agent on its own trajectories while a teacher scores every token. A natural explanation of where it goes wrong is compounding error: the student's mistakes carry its trajectories beyond the region where the teacher is reliable, so recent methods ",
+        "url": "http://arxiv.org/abs/2610.28586v1",
+        "pdf": "https://arxiv.org/pdf/2610.28586v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images",
+        "authors": [
+          "Rundong Luo",
+          "Yunong Liu",
+          "Di Cao",
+          "Matthew Tancik",
+          "Shyamal Buch"
+        ],
+        "summary": "Simulation is a powerful tool for robotics, but building diverse, simulation-ready scenes at scale remains difficult. Reconstructing scenes from single images is a promising alternative, but visual similarity alone is insufficient: objects must also be recovered, accurately placed, and physically gr",
+        "url": "http://arxiv.org/abs/2610.28585v1",
+        "pdf": "https://arxiv.org/pdf/2610.28585v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning",
+        "authors": [
+          "Wei Cai",
+          "Jian Zhao",
+          "Yuchen Yuan",
+          "Xuelong Li"
+        ],
+        "summary": "Autoregressive models (ARMs) face a \"Sequentiality Bottleneck\" in reasoning, while diffusion language models (DLMs) offer parallelism but lack semantic coherence. To addresses both limitations, we propose Collaborative Reasoning Asymmetric Learning (CoRAL), a hybrid framework via an Asymmetric Plann",
+        "url": "http://arxiv.org/abs/2610.28584v1",
+        "pdf": "https://arxiv.org/pdf/2610.28584v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Spatially Informed and Direction Sensitive Representation Learning for Spatial Transcriptomics",
+        "authors": [
+          "Azim Dehghani Amirabad",
+          "Ali Khodabandeh Yalabadi",
+          "Artem Moskalev",
+          "Yun-Ching Chen",
+          "Mehdi Pirooznia"
+        ],
+        "summary": "Cellular states are shaped by both intrinsic gene expression programs and the spatial microenvironment in which cells reside. Spatial transcriptomics makes this context measurable, but effective representation learning requires capturing both spatially informative molecular signals and intercellular",
+        "url": "http://arxiv.org/abs/2610.28579v1",
+        "pdf": "https://arxiv.org/pdf/2610.28579v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition",
+        "authors": [
+          "Wenjie Lou",
+          "Tianshuo Peng",
+          "Shiyang Feng",
+          "Shengji Tang",
+          "Runmin Ma"
+        ],
+        "summary": "In this report, we introduce Sage-A1.5, a 35B Mixture-of-Experts agentic model that builds on A1 to advance long-horizon problem solving through adaptive capability composition. Compared with A1, Sage-A1.5 learns not only to solve individual tasks, but also to organize work and revise its approach d",
+        "url": "http://arxiv.org/abs/2610.28578v1",
+        "pdf": "https://arxiv.org/pdf/2610.28578v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Evolving Semantic Indexes for Generative Retrieval",
+        "authors": [
+          "Jinming Nian",
+          "Jyun-Yu Jiang",
+          "Henry Tsai",
+          "Yi Fang",
+          "Zhirong Liang"
+        ],
+        "summary": "Generative retrieval (GR) casts search and recommendation as autoregressive generation of discrete semantic identifiers (SIDs). SID design largely determines GR quality, but its discrete, interdependent components (SID construction, collision handling, decoding, and training) cannot be optimized end",
+        "url": "http://arxiv.org/abs/2610.28568v1",
+        "pdf": "https://arxiv.org/pdf/2610.28568v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "OptScientist: Automated Discovery of Optimization Laws",
+        "authors": [
+          "Ma ZhenYao",
+          "Yue Liang",
+          "Jian-Qiao Zhu"
+        ],
+        "summary": "Many scientific phenomena are best understood as outcomes of underlying optimization problems, yet automated scientific discovery has largely focused on recovering equations that describe observed input-output patterns. We introduce OptScientist, a novel automated framework for discovering compact s",
+        "url": "http://arxiv.org/abs/2610.28562v1",
+        "pdf": "https://arxiv.org/pdf/2610.28562v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Agentic Ensemble with Vision-Language Models for Visual Anomaly Detection",
+        "authors": [
+          "Shangquan Sun",
+          "Wenjun Luo",
+          "Xu He",
+          "Yoonsoo Lee",
+          "Shijian Lu"
+        ],
+        "summary": "Visual anomaly detection aims to detect abnormal objects, while anomaly samples are often scarce during model training. Assembling multiple pretrained detectors can help by leveraging their transferable image scores and anomaly maps. However, most existing ensemble methods apply fixed fusion rules o",
+        "url": "http://arxiv.org/abs/2610.28560v1",
+        "pdf": "https://arxiv.org/pdf/2610.28560v1",
+        "published": "2026-10-20",
+        "category": "cs.AI"
+      }
+    ]
+  }
+}
