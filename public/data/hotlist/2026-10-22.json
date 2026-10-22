@@ -1,0 +1,580 @@
+{
+  "date": "2026-10-22",
+  "generated": "2026-10-22T07:13:32.776597",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Gathin23/cleanyourtv",
+        "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+        "stars": 20803,
+        "language": "Java",
+        "url": "https://github.com/Gathin23/cleanyourtv",
+        "created": "2026-10-17"
+      },
+      {
+        "rank": 2,
+        "name": "deepseek-ai/DeepInfer",
+        "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+        "stars": 18736,
+        "language": "Python",
+        "url": "https://github.com/deepseek-ai/DeepInfer",
+        "created": "2026-10-16"
+      },
+      {
+        "rank": 3,
+        "name": "ly05010419/MacNativeGames",
+        "description": "",
+        "stars": 4118,
+        "language": "C",
+        "url": "https://github.com/ly05010419/MacNativeGames",
+        "created": "2026-10-17"
+      },
+      {
+        "rank": 4,
+        "name": "simbasjungles/free-my-tv",
+        "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+        "stars": 2894,
+        "language": "Java",
+        "url": "https://github.com/simbasjungles/free-my-tv",
+        "created": "2026-10-19"
+      },
+      {
+        "rank": 5,
+        "name": "pengchujin/aerial-tv",
+        "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+        "stars": 2542,
+        "language": "Kotlin",
+        "url": "https://github.com/pengchujin/aerial-tv",
+        "created": "2026-10-20"
+      },
+      {
+        "rank": 6,
+        "name": "xiaoyang111222/cn-math-taxonomy",
+        "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
+        "stars": 2085,
+        "language": "Python",
+        "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+        "created": "2026-10-18"
+      },
+      {
+        "rank": 7,
+        "name": "tek-sys-hub/Rubix-lang",
+        "description": "The 100% Pure x86-64 Assembly Systems Language",
+        "stars": 1895,
+        "language": "Assembly",
+        "url": "https://github.com/tek-sys-hub/Rubix-lang",
+        "created": "2026-10-19"
+      },
+      {
+        "rank": 8,
+        "name": "JoasASantos/REA-Prompts",
+        "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+        "stars": 1382,
+        "language": null,
+        "url": "https://github.com/JoasASantos/REA-Prompts",
+        "created": "2026-10-19"
+      },
+      {
+        "rank": 9,
+        "name": "OpenMOSS/MOSS-Image",
+        "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+        "stars": 1343,
+        "language": "Python",
+        "url": "https://github.com/OpenMOSS/MOSS-Image",
+        "created": "2026-10-16"
+      },
+      {
+        "rank": 10,
+        "name": "alchaincyf/huashu-motion",
+        "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+        "stars": 1327,
+        "language": "JavaScript",
+        "url": "https://github.com/alchaincyf/huashu-motion",
+        "created": "2026-10-18"
+      },
+      {
+        "rank": 11,
+        "name": "aicodeking/leanrea",
+        "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+        "stars": 1316,
+        "language": "Python",
+        "url": "https://github.com/aicodeking/leanrea",
+        "created": "2026-10-17"
+      },
+      {
+        "rank": 12,
+        "name": "ikow/php2shell-poc",
+        "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+        "stars": 1209,
+        "language": "Python",
+        "url": "https://github.com/ikow/php2shell-poc",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 13,
+        "name": "humblemuzzu/dumbtv",
+        "description": "",
+        "stars": 1199,
+        "language": "JavaScript",
+        "url": "https://github.com/humblemuzzu/dumbtv",
+        "created": "2026-10-18"
+      },
+      {
+        "rank": 14,
+        "name": "Ansub/tv-detox",
+        "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+        "stars": 1190,
+        "language": "Java",
+        "url": "https://github.com/Ansub/tv-detox",
+        "created": "2026-10-18"
+      },
+      {
+        "rank": 15,
+        "name": "xscreensaver-official/xscreensaver",
+        "description": "There is no official XScreenSaver GitHub repository.",
+        "stars": 1131,
+        "language": null,
+        "url": "https://github.com/xscreensaver-official/xscreensaver",
+        "created": "2026-10-16"
+      },
+      {
+        "rank": 16,
+        "name": "reason-machines/reason-network",
+        "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+        "stars": 963,
+        "language": "Rust",
+        "url": "https://github.com/reason-machines/reason-network",
+        "created": "2026-10-16"
+      },
+      {
+        "rank": 17,
+        "name": "Noniv/web-ocean",
+        "description": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from ",
+        "stars": 856,
+        "language": "HTML",
+        "url": "https://github.com/Noniv/web-ocean",
+        "created": "2026-10-16"
+      },
+      {
+        "rank": 18,
+        "name": "cranebeaker/coop-anything",
+        "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what",
+        "stars": 805,
+        "language": "Python",
+        "url": "https://github.com/cranebeaker/coop-anything",
+        "created": "2026-10-16"
+      },
+      {
+        "rank": 19,
+        "name": "eagle-hq/EAGLE-4",
+        "description": "Official Inference Code of EAGLE-4",
+        "stars": 769,
+        "language": "Python",
+        "url": "https://github.com/eagle-hq/EAGLE-4",
+        "created": "2026-10-20"
+      },
+      {
+        "rank": 20,
+        "name": "ELY-Open-Source/ElyOffice",
+        "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
+        "stars": 758,
+        "language": "Rust",
+        "url": "https://github.com/ELY-Open-Source/ElyOffice",
+        "created": "2026-10-19"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+        "authors": [
+          "Zhanshuo Cao",
+          "Jiakai Tang",
+          "Yuqi Zhou",
+          "Sunhao Dai",
+          "Jun Xu"
+        ],
+        "summary": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computational need: items withi",
+        "url": "http://arxiv.org/abs/2610.30128v1",
+        "pdf": "https://arxiv.org/pdf/2610.30128v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
+        "authors": [
+          "Yunhao Luo",
+          "Wentao He",
+          "Yinpei Dai",
+          "Hyelin Nam",
+          "Hongze Fu"
+        ],
+        "summary": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dynamics, such as an object's mass distribution, joint damping, or surface friction. Without calibrati",
+        "url": "http://arxiv.org/abs/2610.30125v1",
+        "pdf": "https://arxiv.org/pdf/2610.30125v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Environment Duels: A Microcosm of LLM Co-Evolution",
+        "authors": [
+          "Shibo Jin",
+          "Zhiqiu Xu",
+          "Yiling Zou",
+          "Shangyu Gong",
+          "Mayur Naik"
+        ],
+        "summary": "Through a tangle of real-world interactions, from synthetic training pipelines to data shared on the open web, frontier LLMs absorb what their predecessors and competitors create. How well does each model play its role in this ecosystem, as a creator and as a solver? We introduce Environment Duels, ",
+        "url": "http://arxiv.org/abs/2610.30116v1",
+        "pdf": "https://arxiv.org/pdf/2610.30116v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "The End of Consensus Research?",
+        "authors": [
+          "Clément Burgelin",
+          "Rachid Guerraoui",
+          "Zicong Hong",
+          "Yinan Hu",
+          "Anne-Marie Kermarrec"
+        ],
+        "summary": "Consensus is a fundamental problem in distributed computing and at the core of state machine replication (SMR). Despite decades of active human research, discovering practical low-latency solutions to the problem is still open, as it requires combining protocol knowledge, correctness reasoning, impl",
+        "url": "http://arxiv.org/abs/2610.30114v1",
+        "pdf": "https://arxiv.org/pdf/2610.30114v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+        "authors": [
+          "Houde Qian",
+          "Zheng Jiang",
+          "Wenyi Li",
+          "Chenxi Xu",
+          "Xinjie Lin"
+        ],
+        "summary": "Quantitative research is an iterative loop: a researcher proposes a market hypothesis, implements it as an executable signal, tests it on historical data, and decides what to keep. Existing benchmarks score formulas, code, or individual trading decisions, leaving open whether large language models (",
+        "url": "http://arxiv.org/abs/2610.30113v1",
+        "pdf": "https://arxiv.org/pdf/2610.30113v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
+        "authors": [
+          "Yanzhe Chen",
+          "Ziyi Yang",
+          "Jifeng Zhu",
+          "Qiming Huang",
+          "Ruihe An"
+        ],
+        "summary": "Multimodal agents (MMAs) sustain interaction through reasoning, memory, tools, and feedback, most visibly as computer-use agents, while robotic systems (RSs) couple sensing and actuation under physical dynamics. We define multimodal embodied agents (MMEAs) as goal-directed systems that couple multim",
+        "url": "http://arxiv.org/abs/2610.30108v1",
+        "pdf": "https://arxiv.org/pdf/2610.30108v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Asymmetric On-Policy Distillation Learns In-Context Exploration",
+        "authors": [
+          "Sriyash Poddar",
+          "Yanda Bao",
+          "Jacob Krantz",
+          "Matthew Chang",
+          "Xavier Puig"
+        ],
+        "summary": "Sequential decision-making under partial observability is difficult because agents must explore to infer hidden, task-relevant information before acting effectively. Learning such information-gathering behaviors tabula rasa via online reinforcement learning is sample-inefficient, whereas offline imi",
+        "url": "http://arxiv.org/abs/2610.30105v1",
+        "pdf": "https://arxiv.org/pdf/2610.30105v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "BatchBench: Benchmarking AI Robustness to Batch Effects and Domain Shift in Biomedical Images - A JUMP Cell Painting Leaderboard",
+        "authors": [
+          "Sonja Topf",
+          "Ana Sanchez-Fernandez",
+          "Günter Klambauer"
+        ],
+        "summary": "Despite recent advances, current AI systems remain highly susceptible to domain shifts, particularly in biomedical imaging, where images are usually acquired under substantially different experimental conditions. Although recent domain adaptation methods have made substantial progress, significant p",
+        "url": "http://arxiv.org/abs/2610.30104v1",
+        "pdf": "https://arxiv.org/pdf/2610.30104v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Differentially Private Sparse Reward Estimation with Preference Feedback",
+        "authors": [
+          "Meng Ding",
+          "Mingxi Lei",
+          "Jie Zhang",
+          "Jinyan Liu",
+          "Di Wang"
+        ],
+        "summary": "Reinforcement Learning with Human Feedback (RLHF) has become a central paradigm for aligning Large Language Models with human values. However, the reliance on sensitive preference data necessitates rigorous differential privacy (DP) guarantees to prevent user information leakage. Existing private al",
+        "url": "http://arxiv.org/abs/2610.30099v1",
+        "pdf": "https://arxiv.org/pdf/2610.30099v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation",
+        "authors": [
+          "Likui Zhang",
+          "Zhe Zhu",
+          "Zhihao Zhan",
+          "Yibo Bai",
+          "Hanlin Wang"
+        ],
+        "summary": "Vision-language-action (VLA) models have shown promise in robotic manipulation, but imitation learning (IL) alone often struggles to master complex long-horizon skills. Reinforcement learning (RL) offers an effective avenue for further improving VLA policies. However, existing VLA-RL methods typical",
+        "url": "http://arxiv.org/abs/2610.30097v1",
+        "pdf": "https://arxiv.org/pdf/2610.30097v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization",
+        "authors": [
+          "Hanmin Li",
+          "Yury Demidovich",
+          "Peter Richtárik"
+        ],
+        "summary": "Parallel AI agents can produce useful local edits yet degrade a shared solution when their edits are combined. We model this coordination problem as discrete block optimization with an exactly evaluable objective and a known dependency graph. Independent sets certify compatible edits whose verified ",
+        "url": "http://arxiv.org/abs/2610.30074v1",
+        "pdf": "https://arxiv.org/pdf/2610.30074v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Charts as Epistemic Actions for Experience-Driven Agentic Data Analysis",
+        "authors": [
+          "Xinzhe Wang",
+          "Xudong Weng",
+          "Zang Li",
+          "Shaolei Zhang"
+        ],
+        "summary": "Data agents built on ReAct-style loops now execute complex analytical workflows over structured data, yet their intermediate reasoning still runs almost entirely through text. Human analysts instead move between numbers, tables, and charts, reading visual evidence to expose trends and anomalies that",
+        "url": "http://arxiv.org/abs/2610.30072v1",
+        "pdf": "https://arxiv.org/pdf/2610.30072v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks",
+        "authors": [
+          "May Espinola",
+          "Qifan Zhang",
+          "Yu Xiang"
+        ],
+        "summary": "Recent advances in frontier AI models have demonstrated remarkable capabilities in visual understanding, reasoning, planning, and tool use, raising the possibility of using general-purpose AI models for robot manipulation without task-specific training. However, their manipulation capabilities have ",
+        "url": "http://arxiv.org/abs/2610.30051v1",
+        "pdf": "https://arxiv.org/pdf/2610.30051v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "SWE-DIVE: Multi-Turn Coding Agent Evaluation with Dynamic User Simulation",
+        "authors": [
+          "Lorenz Brehme",
+          "Benjamin Steenhoek",
+          "Ruth Breu"
+        ],
+        "summary": "Coding agents are typically evaluated using one-shot, well-formulated prompts. Benchmarks such as SWE-bench use existing GitHub issues as input for a coding agent and evaluate whether the agent successfully solves the task. However, in real-world use cases, prompts are often not as well-formulated o",
+        "url": "http://arxiv.org/abs/2610.30047v1",
+        "pdf": "https://arxiv.org/pdf/2610.30047v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Which Differences Matter? Controlled Tests of Rule Transfer, Joint Reliability, and Information Use in Decision Models",
+        "authors": [
+          "Tianyou Lai",
+          "Wentao Yue",
+          "Zhiwei Zuo",
+          "Qilei Li"
+        ],
+        "summary": "Decision models map stated rules and observed states to discrete answers. Aggregate accuracy leaves unresolved which rule and information changes guide those answers. We connect controlled input changes to transfer, joint reliability, and directed information use through executable arithmetic rules.",
+        "url": "http://arxiv.org/abs/2610.30045v1",
+        "pdf": "https://arxiv.org/pdf/2610.30045v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation",
+        "authors": [
+          "Zhaohui Yang",
+          "Quanbao Lin",
+          "Chengqi Shi",
+          "Zhenglang Weng",
+          "Jicheng Lin"
+        ],
+        "summary": "Humanoid loco-manipulation requires an effective interface between high-level task policies and whole-body control. Existing interfaces typically rely on a single action representation for both task intent and whole-body coordination. This may burden the high-level policy or leave one aspect undersp",
+        "url": "http://arxiv.org/abs/2610.30044v1",
+        "pdf": "https://arxiv.org/pdf/2610.30044v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "HGM-Dual: Lineage-Aware Guided Agent Harness Optimization for Long-Horizon Planning",
+        "authors": [
+          "Sudipta Paul",
+          "Pengrui Quan",
+          "Aounon Kumar",
+          "Nicholas Tzou",
+          "Vivek Kulkarni"
+        ],
+        "summary": "Harness optimization, which improves an agent's prompts, tools, and workflows, is an increasingly effective way to enhance agents built on frozen or closed-source LLMs. Leading approaches such as the Darwin--Godel Machine and the Huxley--Godel Machine (HGM) rely on recursive self-improvement and wer",
+        "url": "http://arxiv.org/abs/2610.30042v1",
+        "pdf": "https://arxiv.org/pdf/2610.30042v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Robust Soft Skill Adaptation via Behavioral Localization in Tool-Using Agents",
+        "authors": [
+          "Zijian Jiang",
+          "Xilu Wang"
+        ],
+        "summary": "Text skills can extend the capabilities of tool-using agents, but long skill descriptions increase computational costs. Soft prompts provide a compact alternative, yet learning from entire successful trajectories may also introduce unnecessary behavioral changes. We find that the useful effect of a ",
+        "url": "http://arxiv.org/abs/2610.30041v1",
+        "pdf": "https://arxiv.org/pdf/2610.30041v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "What the Author Wrote, What the Agent Reads: Silent Cue Loss in Enterprise Document Ingestion",
+        "authors": [
+          "Yikai Zhao",
+          "Saurabh Pandey",
+          "Pradeep Kumar Misra"
+        ],
+        "summary": "Enterprise agents act on documents. Before an agent can follow a policy, answer a compliance question or file a ticket, some ingestion layer must turn a Word file or PDF into tokens - and that layer is where an agent deployed in the wild silently loses information. We show that one layer is lost by ",
+        "url": "http://arxiv.org/abs/2610.30026v1",
+        "pdf": "https://arxiv.org/pdf/2610.30026v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Stationarity Constraints Improve Both Energies and Densities of Machine-Learned Exchange-Correlation Functionals",
+        "authors": [
+          "Yuhao Chen",
+          "Donald G. Truhlar",
+          "Xiao He"
+        ],
+        "summary": "Empirical exchange-correlation functionals are fitted on fixed orbitals but used self-consistently, so better energies often come with worse densities. We show that the Brillouin residual of a trained functional on the Kohn-Sham orbitals of an accurate density controls, to first order, both the self",
+        "url": "http://arxiv.org/abs/2610.30022v1",
+        "pdf": "https://arxiv.org/pdf/2610.30022v1",
+        "published": "2026-10-21",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+        "authors": [
+          "Zhennan Wan",
+          "Jianfei Chen"
+        ],
+        "summary": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too scarce to sustain RL,",
+        "url": "http://arxiv.org/abs/2610.30132v1",
+        "pdf": "https://arxiv.org/pdf/2610.30132v1",
+        "published": "2026-10-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions",
+        "authors": [
+          "Ashkan Soleymani",
+          "Gabriele Farina"
+        ],
+        "summary": "We give an algorithm for computing an $\\eps$-approximate fixed point of any $d$-dimensional nonexpansion with respect to the $\\ell_\\infty$ norm in time $\\log(1/\\eps)^{O(\\log^2 d)}$. At its core, our method uses a boosting argument to geometrically shrink a search region. Among other consequences, ou",
+        "url": "http://arxiv.org/abs/2610.30122v1",
+        "pdf": "https://arxiv.org/pdf/2610.30122v1",
+        "published": "2026-10-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence",
+        "authors": [
+          "Imon Banerjee",
+          "Pierre Alquier"
+        ],
+        "summary": "We prove a self-normalized Bernstein inequality for bounded functions of a regenerative process with independent, identically distributed marked cycles of finite mean length. The bound uses observed cycle lengths and retains explicit terms for truncation and the cycle ending after the observation ho",
+        "url": "http://arxiv.org/abs/2610.30119v1",
+        "pdf": "https://arxiv.org/pdf/2610.30119v1",
+        "published": "2026-10-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "The role of locality and weight sharing in convolutional neural networks",
+        "authors": [
+          "Francesco Mori",
+          "Melanie Weber"
+        ],
+        "summary": "The success of convolutional neural networks is often attributed to locality and weight sharing. However, how these two properties separately shape learning, and how their effects depend on the spatial correlations of natural images, remain poorly understood. We address these questions in a teacher-",
+        "url": "http://arxiv.org/abs/2610.30118v1",
+        "pdf": "https://arxiv.org/pdf/2610.30118v1",
+        "published": "2026-10-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Minimax Optimality of the NPMLE for Gaussian Mixtures in Hellinger Distance",
+        "authors": [
+          "Shayan Hundrieser",
+          "Tudor Manole"
+        ],
+        "summary": "We analyze the problem of estimating univariate Gaussian mixture densities using the nonparametric maximum likelihood estimator (NPMLE) based on $n$ independent and identically distributed samples. We show that the unconstrained NPMLE achieves the minimax optimal rate $\\log(n)/n$ in squared Hellinge",
+        "url": "http://arxiv.org/abs/2610.30109v1",
+        "pdf": "https://arxiv.org/pdf/2610.30109v1",
+        "published": "2026-10-21",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Matching",
+        "authors": [
+          "Yunpeng Mei",
+          "Xiaowen Zhu",
+          "Chenyu Wang",
+          "Chenbo Xin",
+          "Hongjie Cao"
+        ],
+        "summary": "Flow matching trains a continuum of velocity regression problems but usually reports a loss averaged over interpolation time, obscuring which regions are limited by intrinsic ambiguity and which remain data-limited. We introduce the Velocity Ambiguity Profile (VAP), $\\mathcal{A}_v(t)$, the time-loca",
+        "url": "http://arxiv.org/abs/2610.30107v1",
+        "pdf": "https://arxiv.org/pdf/2610.30107v1",
+        "published": "2026-10-21",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
