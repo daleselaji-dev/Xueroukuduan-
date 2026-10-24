@@ -1,0 +1,578 @@
+{
+  "date": "2026-10-24",
+  "generated": "2026-10-24T06:56:39.874285",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "simbasjungles/free-my-tv",
+        "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+        "stars": 4024,
+        "language": "Java",
+        "url": "https://github.com/simbasjungles/free-my-tv",
+        "created": "2026-10-19"
+      },
+      {
+        "rank": 2,
+        "name": "pengchujin/aerial-tv",
+        "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+        "stars": 4007,
+        "language": "Kotlin",
+        "url": "https://github.com/pengchujin/aerial-tv",
+        "created": "2026-10-20"
+      },
+      {
+        "rank": 3,
+        "name": "xiaoyang111222/cn-math-taxonomy",
+        "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+        "stars": 2927,
+        "language": "Python",
+        "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+        "created": "2026-10-18"
+      },
+      {
+        "rank": 4,
+        "name": "JoasASantos/REA-Prompts",
+        "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+        "stars": 1803,
+        "language": null,
+        "url": "https://github.com/JoasASantos/REA-Prompts",
+        "created": "2026-10-19"
+      },
+      {
+        "rank": 5,
+        "name": "EthanArbuckle/fairplay-decrypt",
+        "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
+        "stars": 1719,
+        "language": "C",
+        "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+        "created": "2026-10-19"
+      },
+      {
+        "rank": 6,
+        "name": "ikow/php2shell-poc",
+        "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+        "stars": 1709,
+        "language": "Python",
+        "url": "https://github.com/ikow/php2shell-poc",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 7,
+        "name": "alchaincyf/huashu-motion",
+        "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+        "stars": 1559,
+        "language": "JavaScript",
+        "url": "https://github.com/alchaincyf/huashu-motion",
+        "created": "2026-10-18"
+      },
+      {
+        "rank": 8,
+        "name": "humblemuzzu/dumbtv",
+        "description": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+        "stars": 1410,
+        "language": "Java",
+        "url": "https://github.com/humblemuzzu/dumbtv",
+        "created": "2026-10-18"
+      },
+      {
+        "rank": 9,
+        "name": "Ansub/tv-detox",
+        "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+        "stars": 1400,
+        "language": "Java",
+        "url": "https://github.com/Ansub/tv-detox",
+        "created": "2026-10-18"
+      },
+      {
+        "rank": 10,
+        "name": "9bie/php2shell-bypass-aslr-exp",
+        "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+        "stars": 1327,
+        "language": "Python",
+        "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 11,
+        "name": "openai/php2shell-checker",
+        "description": "",
+        "stars": 1281,
+        "language": "JavaScript",
+        "url": "https://github.com/openai/php2shell-checker",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 12,
+        "name": "wesbos/3d-model-anything",
+        "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+        "stars": 1251,
+        "language": "Swift",
+        "url": "https://github.com/wesbos/3d-model-anything",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 13,
+        "name": "xevrion/hatchzip",
+        "description": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
+        "stars": 1166,
+        "language": "Rust",
+        "url": "https://github.com/xevrion/hatchzip",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 14,
+        "name": "oosexgang/hackios-xnu-kernel",
+        "description": "",
+        "stars": 1158,
+        "language": "C",
+        "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+        "created": "2026-10-22"
+      },
+      {
+        "rank": 15,
+        "name": "colinhacks/reylo",
+        "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
+        "stars": 1090,
+        "language": "Rust",
+        "url": "https://github.com/colinhacks/reylo",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 16,
+        "name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+        "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes onl",
+        "stars": 973,
+        "language": "Shell",
+        "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 17,
+        "name": "eagle-hq/EAGLE-4",
+        "description": "Official Inference Code of EAGLE-4",
+        "stars": 959,
+        "language": "Python",
+        "url": "https://github.com/eagle-hq/EAGLE-4",
+        "created": "2026-10-20"
+      },
+      {
+        "rank": 18,
+        "name": "ELY-Open-Source/ElyOffice",
+        "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
+        "stars": 945,
+        "language": "Rust",
+        "url": "https://github.com/ELY-Open-Source/ElyOffice",
+        "created": "2026-10-19"
+      },
+      {
+        "rank": 19,
+        "name": "Jakeschincariol/day-trader-skill",
+        "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+        "stars": 899,
+        "language": "Python",
+        "url": "https://github.com/Jakeschincariol/day-trader-skill",
+        "created": "2026-10-20"
+      },
+      {
+        "rank": 20,
+        "name": "UniXNU/UniXNU",
+        "description": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
+        "stars": 866,
+        "language": "Python",
+        "url": "https://github.com/UniXNU/UniXNU",
+        "created": "2026-10-19"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+        "authors": [
+          "Mahdi Salmani",
+          "Adel Javanmard",
+          "Devansh Gupta",
+          "Meisam Razaviyayn"
+        ],
+        "summary": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes th",
+        "url": "http://arxiv.org/abs/2610.31667v1",
+        "pdf": "https://arxiv.org/pdf/2610.31667v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+        "authors": [
+          "Sachin Gupta"
+        ],
+        "summary": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on calibration data under explicit costs, then evaluate that frozen policy once on held-out test data. On a",
+        "url": "http://arxiv.org/abs/2610.31657v1",
+        "pdf": "https://arxiv.org/pdf/2610.31657v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+        "authors": [
+          "Ali Najar",
+          "Hosein Hasani",
+          "Amir Kooshan Fattah",
+          "Yasamin Rajabi",
+          "Mahdieh Soleymani Baghshah"
+        ],
+        "summary": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compress experience into hidden states, while transformer-based agents retrieve from ",
+        "url": "http://arxiv.org/abs/2610.31656v1",
+        "pdf": "https://arxiv.org/pdf/2610.31656v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
+        "authors": [
+          "Qijin Zhang",
+          "Hanzhen Wang",
+          "Yuehan Zhao",
+          "Haoyu Dai",
+          "Yao Shu"
+        ],
+        "summary": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action even though the user request is benign and every returned statement is true. We introduce \\bench{}, an ",
+        "url": "http://arxiv.org/abs/2610.31650v1",
+        "pdf": "https://arxiv.org/pdf/2610.31650v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Low-Bit N-Gram Embeddings for Language Models",
+        "authors": [
+          "Stephen Chung",
+          "Wenyu Du"
+        ],
+        "summary": "Many recent open-weight language models use n-gram embedding tables to improve performance. These tables store learned representations of short token sequences, such as pairs or triples of consecutive tokens, which the model retrieves during processing. However, they can require substantial memory: ",
+        "url": "http://arxiv.org/abs/2610.31646v1",
+        "pdf": "https://arxiv.org/pdf/2610.31646v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
+        "authors": [
+          "Gabriele Dominici",
+          "Teague McMillan",
+          "Fazl Barez",
+          "Marc Langheinrich",
+          "Martin Gjoreski"
+        ],
+        "summary": "Chain-of-thought (CoT) prompting elicits step-by-step rationales that appear to explain model predictions, but there is no guarantee these steps causally drive the final answer. In standard autoregressive generation, dense attention allows each reasoning step to attend to the full context, enabling ",
+        "url": "http://arxiv.org/abs/2610.31639v1",
+        "pdf": "https://arxiv.org/pdf/2610.31639v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
+        "authors": [
+          "Barış Alparslan",
+          "Sandy Tanwisuth",
+          "Caleb Petterson"
+        ],
+        "summary": "Instrumental convergence is often invoked as a general reason to expect capable agents to acquire or express power-seeking subgoals: self-preservation, resource acquisition, deception, or resistance to oversight which poses an important threat to the society. For LLMs, reinforcement learning is the ",
+        "url": "http://arxiv.org/abs/2610.31624v1",
+        "pdf": "https://arxiv.org/pdf/2610.31624v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions",
+        "authors": [
+          "Miguel Mochizuki Silva",
+          "Samuel Ismael",
+          "Mateus C. Dias",
+          "Thaís Gaudêncio",
+          "Yuri Malheiros"
+        ],
+        "summary": "Purpose: To describe an evidence-aware retrieval evaluation protocol for a clinical retrieval-augmented generation (RAG) system over breast lesion management literature, addressing the dependence of retrieval scores on annotation coverage. Methods: An 18-document corpus and an 18-query development b",
+        "url": "http://arxiv.org/abs/2610.31606v1",
+        "pdf": "https://arxiv.org/pdf/2610.31606v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Simulated Control Evals",
+        "authors": [
+          "Jeffrey Olmo",
+          "David Zhang",
+          "Tyler Tracy"
+        ],
+        "summary": "Control evaluations measure whether safeguards can prevent an AI model from causing undesired outcomes even when it is intentionally trying to do so. These evaluations typically use purpose-built control settings and extrapolate their results to a model's deployment. However, the effectiveness of sa",
+        "url": "http://arxiv.org/abs/2610.31593v1",
+        "pdf": "https://arxiv.org/pdf/2610.31593v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "VERA: A Responsible AI Dashboard for Assessing LLM Deployments in Light of the EU AI Act",
+        "authors": [
+          "Robin Quériaux",
+          "Solveig Bachellery",
+          "Léa Déléris",
+          "Saurabhsingh Rajput",
+          "Mariam Barry"
+        ],
+        "summary": "Institutions that deploy large language models in regulated settings often need technical evidence of responsible AI practices before approving a deployment. COMPL-AI provides a technical interpretation of the EU AI Act that organises this evidence under six principle groups and eighteen technical r",
+        "url": "http://arxiv.org/abs/2610.31588v1",
+        "pdf": "https://arxiv.org/pdf/2610.31588v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination",
+        "authors": [
+          "Miguel Fernandez-de-Retana",
+          "Unai Zulaika",
+          "Ruben Sanchez-Corcuera",
+          "Aritz Bilbao-Jayo",
+          "Aitor Almeida"
+        ],
+        "summary": "Accuracy on medical examinations is common evidence offered for the clinical use of language models, yet a health system that intends to run an open model on its own hardware needs to know considerably more: whether the model recognizes when it is likely to be wrong, whether medical fine-tuning impr",
+        "url": "http://arxiv.org/abs/2610.31586v1",
+        "pdf": "https://arxiv.org/pdf/2610.31586v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration",
+        "authors": [
+          "Deepthika S",
+          "Pawni Yadav",
+          "B. Sankar"
+        ],
+        "summary": "Research on sycophancy asks whether large language models (LLMs) bend towards what their users want to hear. We ask the reverse question: when an LLM is confident, consistent, and wrong, do users bend towards it? In a within-subjects experiment, 32 participants learned up to five science topics by c",
+        "url": "http://arxiv.org/abs/2610.31579v1",
+        "pdf": "https://arxiv.org/pdf/2610.31579v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "What Makes a Good Unmasking Policy? A Controlled Study of Learned Unmasking in Diffusion Language Models",
+        "authors": [
+          "Jinya Sakurai",
+          "Xun Xu",
+          "Jaehong Yoon"
+        ],
+        "summary": "Masked diffusion language models generate tokens in parallel, but their efficiency depends on which predictions are committed. Learned unmasking policies improve the speed--accuracy trade-off, yet differ in supervision, inputs, and capacity, obscuring which choices matter. We view supervised policie",
+        "url": "http://arxiv.org/abs/2610.31576v1",
+        "pdf": "https://arxiv.org/pdf/2610.31576v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure",
+        "authors": [
+          "Pellegrino Casoria",
+          "Simon Pietro Romano"
+        ],
+        "summary": "In the post-API landscape, social-media profiling has become inexpensive and automated: Large Language Models (LLMs) can extract structured information from unstructured content and deduce attributes users never disclosed. A person's true exposure is not what they post but what can be inferred from ",
+        "url": "http://arxiv.org/abs/2610.31573v1",
+        "pdf": "https://arxiv.org/pdf/2610.31573v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "When to Follow the Teacher: Advantage-Based On-Policy Distillation",
+        "authors": [
+          "Mahdi Sabbaghi",
+          "George Pappas",
+          "Hamed Hassani",
+          "Adel Javanmard"
+        ],
+        "summary": "Online Policy Distillation (OPD) often outperforms offline methods such as Supervised Fine-Tuning (SFT) by training on trajectories sampled directly from the student. However, standard OPD trains the student to follow the teacher at every state of the trajectory, assuming that teacher guidance is al",
+        "url": "http://arxiv.org/abs/2610.31563v1",
+        "pdf": "https://arxiv.org/pdf/2610.31563v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems",
+        "authors": [
+          "Humza Akhtar",
+          "Brian Freeman"
+        ],
+        "summary": "Industrial organizations hold operational knowledge in structured records, such as telemetry, point lists, and transactions, and in unstructured sources, such as manuals, service notes, communications, and inspection reports. Governance programs often manage these sources separately. Classifying, li",
+        "url": "http://arxiv.org/abs/2610.31553v1",
+        "pdf": "https://arxiv.org/pdf/2610.31553v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Beyond Causal Masks: Auditing and Localizing Hidden Future-Token Leakage in Adaptive Sequence Models",
+        "authors": [
+          "Huiting Liu",
+          "Jinsong Wu"
+        ],
+        "summary": "Hidden future-token leakage can create false architectural gains: an autoregressive model may appear substantially better under teacher-forced evaluation while its free-running generation deteriorates. We investigate this failure in an adaptive residual-routing decoder whose sequence-level routing s",
+        "url": "http://arxiv.org/abs/2610.31522v1",
+        "pdf": "https://arxiv.org/pdf/2610.31522v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Jev-DLC: Decision-Level Continual Learning from Typed Feedback",
+        "authors": [
+          "Yangyang Feng",
+          "Jianle Gan",
+          "Zhuoyan Feng",
+          "Chengwei Qin"
+        ],
+        "summary": "Individual preferences often become visible only after deployment, when a user accepts one decision or revokes it in favor of another. Jev-style typed interfaces make this feedback explicit by identifying the selected action and, under revocation, the decision it replaces. We study how these consequ",
+        "url": "http://arxiv.org/abs/2610.31521v1",
+        "pdf": "https://arxiv.org/pdf/2610.31521v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "The Geometry of Metaphor: Probing and Steering Metaphor Representations in Large Language Models",
+        "authors": [
+          "Shihui Li",
+          "Mette Andersen",
+          "Martha Lewis"
+        ],
+        "summary": "Metaphor is a crucial aspect of human cognition. As such, we would like to understand how it is represented in large language models (LLMs) and how it might be controlled. We use mechanistic interpretability techniques to identify causal subspaces in a range of LLMs covering different architectures ",
+        "url": "http://arxiv.org/abs/2610.31520v1",
+        "pdf": "https://arxiv.org/pdf/2610.31520v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "From Prompt Rules to Golden Data Model: Production-Scale Generation of Personalized, Compliant Pharmaceutical Claims",
+        "authors": [
+          "Suyash Mishra",
+          "Qiang Li",
+          "Subhabrata Adak",
+          "Upender Phogat",
+          "Srikanth Patil"
+        ],
+        "summary": "Large language models (LLMs) are increasingly used to generate domain-specific commercial & medical content (e.g., claims, statements, and promotional phrases) in regulated industries such as pharmaceuticals. However, ensuring its regulatory compliance, factual accuracy, and audience-specific person",
+        "url": "http://arxiv.org/abs/2610.31519v1",
+        "pdf": "https://arxiv.org/pdf/2610.31519v1",
+        "published": "2026-10-22",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+        "authors": [
+          "Yunfei Xie",
+          "Howard H. Qian",
+          "Shiyi Lan",
+          "Kaiyu Hang",
+          "Chen Wei"
+        ],
+        "summary": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge toward a",
+        "url": "http://arxiv.org/abs/2610.31670v1",
+        "pdf": "https://arxiv.org/pdf/2610.31670v1",
+        "published": "2026-10-22",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Phase Transition from Random Features to Fully Trainable Networks",
+        "authors": [
+          "Xin He",
+          "Huan Lao",
+          "Xiliang Lu",
+          "Shijun Zhang"
+        ],
+        "summary": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations. This paper quantifies a phase transition pattern in approximation bounds and ob",
+        "url": "http://arxiv.org/abs/2610.31663v1",
+        "pdf": "https://arxiv.org/pdf/2610.31663v1",
+        "published": "2026-10-22",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Reliable AI-Assisted Decisions via Selective Auditing",
+        "authors": [
+          "Isaac Gibbs",
+          "Elise L. Han",
+          "Ryan J. Tibshirani",
+          "Tijana Zrnic"
+        ],
+        "summary": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. The decision and confidence score need not be produced by the same model: for ex",
+        "url": "http://arxiv.org/abs/2610.31662v1",
+        "pdf": "https://arxiv.org/pdf/2610.31662v1",
+        "published": "2026-10-22",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
+        "authors": [
+          "Sy-Tuyen Ho",
+          "Anirudh Satheesh",
+          "Soham Chawathe",
+          "Huy Nghiem",
+          "Yongkyun Lee"
+        ],
+        "summary": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training images. Proactive dataset-use auditing plants a shared signal in a dataset before release, then later che",
+        "url": "http://arxiv.org/abs/2610.31659v1",
+        "pdf": "https://arxiv.org/pdf/2610.31659v1",
+        "published": "2026-10-22",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "A Fix for Softmax and Cross-Entropy",
+        "authors": [
+          "Jonathan T. Barron",
+          "Dan Gnanapragasam",
+          "Michael Tschannen"
+        ],
+        "summary": "Standard implementations of softmax, log-softmax, and cross-entropy have two numerical bugs. The first bug, Softmax Collapse, rounds the target logit's gradient to zero if that one logit is much larger than the others, resulting in gradients that no longer sum to zero. The second bug, Softmax Cancel",
+        "url": "http://arxiv.org/abs/2610.31642v1",
+        "pdf": "https://arxiv.org/pdf/2610.31642v1",
+        "published": "2026-10-22",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing",
+        "authors": [
+          "Hayden Prairie",
+          "Jacob M. Ryan",
+          "Taylor Berg-Kirkpatrick",
+          "Daniel Y. Fu"
+        ],
+        "summary": "Looped architectures scale quality while keeping parameter count fixed by repeatedly passing activations through the same block of layers. During inference, each recurrence generates independent KV-caches, causing memory to grow linearly. To address this challenge, prior work has proposed KV-sharing",
+        "url": "http://arxiv.org/abs/2610.31633v1",
+        "pdf": "https://arxiv.org/pdf/2610.31633v1",
+        "published": "2026-10-22",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
