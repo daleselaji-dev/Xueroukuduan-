@@ -1,0 +1,610 @@
+{
+  "date": "2026-10-26",
+  "generated": "2026-10-26T07:29:54.525631",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "pengchujin/aerial-tv",
+        "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+        "stars": 5480,
+        "language": "Kotlin",
+        "url": "https://github.com/pengchujin/aerial-tv",
+        "created": "2026-10-20"
+      },
+      {
+        "rank": 2,
+        "name": "JustAResearcher/gpu-unlock-ada",
+        "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+        "stars": 3214,
+        "language": "C",
+        "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+        "created": "2026-10-23"
+      },
+      {
+        "rank": 3,
+        "name": "wesbos/3d-model-anything",
+        "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+        "stars": 1977,
+        "language": "Swift",
+        "url": "https://github.com/wesbos/3d-model-anything",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 4,
+        "name": "xevrion/hatchzip",
+        "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop",
+        "stars": 1975,
+        "language": "Rust",
+        "url": "https://github.com/xevrion/hatchzip",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 5,
+        "name": "ikow/php2shell-poc",
+        "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+        "stars": 1805,
+        "language": "Python",
+        "url": "https://github.com/ikow/php2shell-poc",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 6,
+        "name": "Jakeschincariol/day-trader-skill",
+        "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+        "stars": 1774,
+        "language": "Python",
+        "url": "https://github.com/Jakeschincariol/day-trader-skill",
+        "created": "2026-10-20"
+      },
+      {
+        "rank": 7,
+        "name": "oosexgang/hackios-xnu-kernel",
+        "description": "",
+        "stars": 1514,
+        "language": "C",
+        "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+        "created": "2026-10-22"
+      },
+      {
+        "rank": 8,
+        "name": "9bie/php2shell-bypass-aslr-exp",
+        "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+        "stars": 1449,
+        "language": "Python",
+        "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 9,
+        "name": "openai/php2shell-checker",
+        "description": "",
+        "stars": 1405,
+        "language": "JavaScript",
+        "url": "https://github.com/openai/php2shell-checker",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 10,
+        "name": "colinhacks/reylo",
+        "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
+        "stars": 1272,
+        "language": "Rust",
+        "url": "https://github.com/colinhacks/reylo",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 11,
+        "name": "rddmwmddr/android-ad-cleaner",
+        "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+        "stars": 1177,
+        "language": "Python",
+        "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+        "created": "2026-10-24"
+      },
+      {
+        "rank": 12,
+        "name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+        "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes onl",
+        "stars": 1012,
+        "language": "Shell",
+        "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 13,
+        "name": "designfuchen/word-atlas",
+        "description": "词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0.",
+        "stars": 998,
+        "language": "TypeScript",
+        "url": "https://github.com/designfuchen/word-atlas",
+        "created": "2026-10-25"
+      },
+      {
+        "rank": 14,
+        "name": "eagle-hq/EAGLE-4",
+        "description": "Official Inference Code of EAGLE-4",
+        "stars": 997,
+        "language": "Python",
+        "url": "https://github.com/eagle-hq/EAGLE-4",
+        "created": "2026-10-20"
+      },
+      {
+        "rank": 15,
+        "name": "Snapintosh/Snapintosh",
+        "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+        "stars": 954,
+        "language": "Python",
+        "url": "https://github.com/Snapintosh/Snapintosh",
+        "created": "2026-10-22"
+      },
+      {
+        "rank": 16,
+        "name": "lyramakesmusic/neuron-explorer",
+        "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
+        "stars": 920,
+        "language": "Python",
+        "url": "https://github.com/lyramakesmusic/neuron-explorer",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 17,
+        "name": "assetnote/php2shell-scanner",
+        "description": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+        "stars": 910,
+        "language": "Python",
+        "url": "https://github.com/assetnote/php2shell-scanner",
+        "created": "2026-10-22"
+      },
+      {
+        "rank": 18,
+        "name": "morganlinton/BeautifulRust",
+        "description": "A Claude Code plugin that teaches Claude to write idiomatic, robust Rust",
+        "stars": 895,
+        "language": "Python",
+        "url": "https://github.com/morganlinton/BeautifulRust",
+        "created": "2026-10-23"
+      },
+      {
+        "rank": 19,
+        "name": "NVIDIA/flare-local-inference",
+        "description": "",
+        "stars": 664,
+        "language": "Python",
+        "url": "https://github.com/NVIDIA/flare-local-inference",
+        "created": "2026-10-20"
+      },
+      {
+        "rank": 20,
+        "name": "udhaykumarbala/cleanyourtv-app",
+        "description": "A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled.",
+        "stars": 649,
+        "language": "Kotlin",
+        "url": "https://github.com/udhaykumarbala/cleanyourtv-app",
+        "created": "2026-10-21"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
+        "authors": [
+          "Yuhan Liu",
+          "Lianhui Qin",
+          "Shenji Wan"
+        ],
+        "summary": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding remains difficult. Visual generative models offer rich priors over plausible arrang",
+        "url": "http://arxiv.org/abs/2610.32978v1",
+        "pdf": "https://arxiv.org/pdf/2610.32978v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+        "authors": [
+          "Xi Chen",
+          "Fengqi Hu",
+          "Zeyu Shen",
+          "Jiaying Xu",
+          "Shangding Gu"
+        ],
+        "summary": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and principles, yet two major barriers limit their broader potential: limited algorithm reusab",
+        "url": "http://arxiv.org/abs/2610.32971v1",
+        "pdf": "https://arxiv.org/pdf/2610.32971v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
+        "authors": [
+          "Amber Xie",
+          "Jiawei Fu",
+          "Xiaofeng Guo",
+          "Carmelo Sferrazza",
+          "Guanya Shi"
+        ],
+        "summary": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of coordinating many finger joints on the operator. Human demonstrations are easier to",
+        "url": "http://arxiv.org/abs/2610.32969v1",
+        "pdf": "https://arxiv.org/pdf/2610.32969v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models",
+        "authors": [
+          "Dianye Huang",
+          "Jiamei Guo",
+          "Yue Zhou",
+          "Mingde Li",
+          "Yi Xiong"
+        ],
+        "summary": "Objective: To develop a unified vision-language model for prompt-conditioned quantitative ultrasound measurement that addresses the mismatch between continuous measurement targets and discrete token-based numerical prediction. Methods: This article presents HAD-VLM, a hybrid autoregressive-diffusion",
+        "url": "http://arxiv.org/abs/2610.32948v1",
+        "pdf": "https://arxiv.org/pdf/2610.32948v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms",
+        "authors": [
+          "Yuhang Ji",
+          "Fasheng Xu",
+          "Tianjun Feng"
+        ],
+        "summary": "Large language model (LLM) platforms introducing advertising must decide how much capability ad revenue should fund and what consumers should pay to avoid ads. We study a monopolistic platform that jointly chooses costly response quality, advertising intensity, and subscription prices when advertisi",
+        "url": "http://arxiv.org/abs/2610.32945v1",
+        "pdf": "https://arxiv.org/pdf/2610.32945v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Yalda-Embedding: Open Development of a Competitive Persian Retrieval Model",
+        "authors": [
+          "Yalda Taheri",
+          "Mohammad Hassan Heydari",
+          "Armon Rasooli"
+        ],
+        "summary": "Despite advances in multilingual text representations, effective dense retrieval for Persian remains constrained by the limited availability of language-specific training resources and compact embedding models. We present Yalda Embedding, a 595.8-million-parameter Persian retrieval model adapted fro",
+        "url": "http://arxiv.org/abs/2610.32933v1",
+        "pdf": "https://arxiv.org/pdf/2610.32933v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "SemantEq: Faithful Bidirectional Equivalence of Formal Statements",
+        "authors": [
+          "Xinrui Li",
+          "Pawan Sasanka Ammanamanchi",
+          "Siddharth Bhat",
+          "Rianna Jamdar",
+          "Yongxi Lin"
+        ],
+        "summary": "Statement autoformalization translates mathematics from natural language into a proof assistant such as Lean 4, and models now do it at scale. As provers get stronger, the burden of correctness shifts from the proof to the statement, that is, to whether the formal statement faithfully translates its",
+        "url": "http://arxiv.org/abs/2610.32919v1",
+        "pdf": "https://arxiv.org/pdf/2610.32919v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Green Code or Costly Code? Evaluating the Energy Costs of Iterative LLM-Based Code Optimizations",
+        "authors": [
+          "Sadra Emami",
+          "Benjamin Weigell",
+          "Mohammad Reza Mousavi",
+          "Gunel Jahangirova",
+          "Hugo Araujo"
+        ],
+        "summary": "Large Language Models (LLMs) are increasingly used to optimize code for performance. This practice often assumes that improvements in execution speed naturally translate into overall lower energy consumption. We challenge this assumption empirically by measuring whether performance-optimized code pr",
+        "url": "http://arxiv.org/abs/2610.32891v1",
+        "pdf": "https://arxiv.org/pdf/2610.32891v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Closing the Modality Gap via Simplex-Constrained Representations",
+        "authors": [
+          "Shubham Gupta",
+          "Siva Reddy",
+          "Perouz Taslakian",
+          "Valentina Zantedeschi",
+          "Cem Subakan"
+        ],
+        "summary": "While multimodal contrastive models like CLIP and CLAP successfully learn shared representations, their embeddings typically exhibit a persistent \\emph{modality gap}. We propose addressing this separation through a purely geometric approach: changing the embedding domain from the unit sphere, $S^{d-",
+        "url": "http://arxiv.org/abs/2610.32890v1",
+        "pdf": "https://arxiv.org/pdf/2610.32890v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "NgramRL: Accelerating RL Post-Training for Structured Generation via Rollout-Aware N-gram Speculative Decoding",
+        "authors": [
+          "Nilesh Prasad Pandey",
+          "Jangseon Park",
+          "Jason Kong",
+          "Onat Gungor",
+          "Tajana Rosing"
+        ],
+        "summary": "Reinforcement learning (RL) post-training improves the reasoning capabilities of large language models, but its cost is dominated by autoregressive rollout generation, which can exceed 70% of training time. Existing speculative-decoding methods are poorly suited to this setting: model-based drafters",
+        "url": "http://arxiv.org/abs/2610.32881v1",
+        "pdf": "https://arxiv.org/pdf/2610.32881v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Advancing SVD-based LLM Compression via Layer-Wise Error Model Search",
+        "authors": [
+          "Moritz Thoma",
+          "Maximilian Groezinger",
+          "Maximilian Forstenhäusler",
+          "Emad Aghajanzadeh",
+          "Manoj Rohit Vemparala"
+        ],
+        "summary": "Low-rank SVD-based compression offers a powerful strategy to reduce the computational costs of LLMs. However, existing methods face two key limitations: (i) global rank allocation, where uncalibrated error proxies fail to capture complex error propagation, and (ii) decomposition quality, where Fishe",
+        "url": "http://arxiv.org/abs/2610.32878v1",
+        "pdf": "https://arxiv.org/pdf/2610.32878v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Do \"True\" and \"False\" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations",
+        "authors": [
+          "Anouar Imel",
+          "Jin Qi"
+        ],
+        "summary": "In LLM-agent opinion simulations, each agent reports the probability that a claim is true after seeing its own previous probability and the probabilities reported by its neighbors, and that number becomes its state in the next round. If the number describes the agent's position rather than the sente",
+        "url": "http://arxiv.org/abs/2610.32874v1",
+        "pdf": "https://arxiv.org/pdf/2610.32874v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "From Deliberately Constructed Systemic Representations of the World of Activity to Dialogue: A Five-Level Communication Architecture for Strong Language-Based ASI",
+        "authors": [
+          "Maxim Osovsky"
+        ],
+        "summary": "This paper proposes a five-level organization of message formation and understanding within thinking and activity in which ASI participates. Its central thesis is that a language model's context is fundamentally incapable of presenting the foundations of utterance formation for examination and verif",
+        "url": "http://arxiv.org/abs/2610.32869v1",
+        "pdf": "https://arxiv.org/pdf/2610.32869v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Interpretable sparse fine-tuning with TopKLoRA enables faithful circuit discovery",
+        "authors": [
+          "Marek Masiak",
+          "Andrzej Szablewski",
+          "Nicola Cancedda",
+          "Constantin Venhoff"
+        ],
+        "summary": "Fine-tuning on datasets of unknown origin can create a backdoor in the trained model when the data includes poisoned examples. Difficult to localise and remove, backdoors can persist through safety training. While parameter-efficient fine-tuning methods capture the full parameter changes introduced ",
+        "url": "http://arxiv.org/abs/2610.32866v1",
+        "pdf": "https://arxiv.org/pdf/2610.32866v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "PoKER: A Probability of Kill Estimation Rate Model for Air-to-Air Missiles Using Machine Learning on Stochastic Targets",
+        "authors": [
+          "Joao P. A. Dantas",
+          "Andre N. Costa",
+          "Diego Geraldo",
+          "Marcos R. O. A. Maximo",
+          "Takashi Yoneyama"
+        ],
+        "summary": "This work introduces PoKER, a novel probabilistic model engineered to optimize missile launch effectiveness in air-to-air scenarios, specifically within Beyond Visual Range (BVR) air combat. Unlike conventional Weapon Engagement Zone (WEZ) models that delineate zones based on static distances such a",
+        "url": "http://arxiv.org/abs/2610.32864v1",
+        "pdf": "https://arxiv.org/pdf/2610.32864v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "A Foundation Model for Policy In-Context Longitudinal Causal Effect Estimation",
+        "authors": [
+          "Wenxin Chen",
+          "Kyra Gan",
+          "Mingyu Lu",
+          "Zilin Jing",
+          "Fei Wang"
+        ],
+        "summary": "Longitudinal causal effect estimation is complicated by time-varying confounding and treatment-confounder feedback loops. Existing methods generally require data-specific nuisance-model fitting, and many are tailored to prespecified treatment sequences or prediction horizons, leading to time-consumi",
+        "url": "http://arxiv.org/abs/2610.32863v1",
+        "pdf": "https://arxiv.org/pdf/2610.32863v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves",
+        "authors": [
+          "Garima Agrawal",
+          "Prasun Das",
+          "Akshay Sarvade",
+          "Priyanka L",
+          "Minisha N"
+        ],
+        "summary": "Enterprises are deploying agentic AI across the software development lifecycle, and they need the behavioral logic of the systems they act on, not stakeholder documentation. A seven-agent reverse-engineering pipeline recovered this logic, processing 241 repositories across 18 services into thousands",
+        "url": "http://arxiv.org/abs/2610.32851v1",
+        "pdf": "https://arxiv.org/pdf/2610.32851v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "HarnessMM: Recursive Self-Improvement for Harness Token Efficiency",
+        "authors": [
+          "Yuhua Jiang",
+          "Chang Xu",
+          "Feifei Gao",
+          "Li Zhao"
+        ],
+        "summary": "Agent harnesses repeatedly invoke reasoning after tool feedback, even when an earlier call has already fixed the next action. We introduce HarnessMM (Harness Minus Minus), a method for improving harness token efficiency through guarded decision reuse and recursive self-improvement (RSI). RSI iterati",
+        "url": "http://arxiv.org/abs/2610.32813v1",
+        "pdf": "https://arxiv.org/pdf/2610.32813v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Multiplicative vs. Additive State Coupling in Learned Optimizer Schedules",
+        "authors": [
+          "M. Harper Langston",
+          "Pierre-David Letourneau",
+          "Dalton Jones",
+          "Roland Memisevic",
+          "Peter Scott"
+        ],
+        "summary": "We learn schedules for a continuous penalty relaxation of MAX-CUT by backpropagating through an unrolled classical solver. A state-blind schedule generalizes to instances substantially larger than those used for training. A state-adaptive bilinear schedule also generalizes out of distribution, outpe",
+        "url": "http://arxiv.org/abs/2610.32801v1",
+        "pdf": "https://arxiv.org/pdf/2610.32801v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Every Edge Needs a Quote: Building a Quote-Grounded Knowledge Graph of Healthcare Software Adoption with Language-Model Agents",
+        "authors": [
+          "Juan Felipe Duran",
+          "Arthur Tobler",
+          "Martin Vallières"
+        ],
+        "summary": "Hospitals regularly buy software that clinicians and patients depend on. Because these purchases are costly, hard to reverse and can affect patient care, buyers look for evidence of which peer institutions already use a product and which systems it connects to. This evidence is public but scattered ",
+        "url": "http://arxiv.org/abs/2610.32781v1",
+        "pdf": "https://arxiv.org/pdf/2610.32781v1",
+        "published": "2026-10-23",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
+        "authors": [
+          "Bernardo Perrone Ribeiro",
+          "Erkut Akdag",
+          "Egor Bondarev"
+        ],
+        "summary": "Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear structure, or risk reproducing anomalous content. Flownomaly instead casts the problem as normal-cou",
+        "url": "http://arxiv.org/abs/2610.32964v1",
+        "pdf": "https://arxiv.org/pdf/2610.32964v1",
+        "published": "2026-10-23",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
+        "authors": [
+          "Federico Lucca"
+        ],
+        "summary": "Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were written by the system itself. We present Foyer, a self-hosted personal inbox agent in daily use, and a",
+        "url": "http://arxiv.org/abs/2610.32955v1",
+        "pdf": "https://arxiv.org/pdf/2610.32955v1",
+        "published": "2026-10-23",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning",
+        "authors": [
+          "Yijing Ke",
+          "Tianle Cai",
+          "Ruosong Wang"
+        ],
+        "summary": "Reinforcement learning for large language models often uses separate systems for inference and training. Even with identical weights and BF16 tensors, implementation differences can make an intended on-policy update off-policy and destabilize training. Existing remedies align the entire inference an",
+        "url": "http://arxiv.org/abs/2610.32951v1",
+        "pdf": "https://arxiv.org/pdf/2610.32951v1",
+        "published": "2026-10-23",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Knowledge Distillation across Item and Code Spaces for Parallel Generative Recommendation",
+        "authors": [
+          "Yixuan Xu",
+          "Hailin Liu",
+          "Linxiang Peng",
+          "Can Yang"
+        ],
+        "summary": "Generative recommendation with semantic IDs represents each item as a sequence of discrete codes derived from its semantic representation and predicts these codes to generate recommendations. Existing semantic-ID recommenders are typically trained with hard labels for the observed next item. Althoug",
+        "url": "http://arxiv.org/abs/2610.32943v1",
+        "pdf": "https://arxiv.org/pdf/2610.32943v1",
+        "published": "2026-10-23",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs",
+        "authors": [
+          "Thomas Landeg",
+          "Thierry Tambe"
+        ],
+        "summary": "Vision-Language-Action (VLA) models perform well on robotic manipulation, yet remain brittle once their own actions carry them into states their training data barely covers. Recovering from such failures usually requires recovery demonstrations, policy retraining, or a separate model at inference ti",
+        "url": "http://arxiv.org/abs/2610.32941v1",
+        "pdf": "https://arxiv.org/pdf/2610.32941v1",
+        "published": "2026-10-23",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Learning Positive Linear Combinations of ReLUs in Fully Polynomial Time",
+        "authors": [
+          "Ilias Diakonikolas",
+          "Jelena Diakonikolas",
+          "Puqian Wang",
+          "Nikos Zarifis"
+        ],
+        "summary": "We study the fundamental problem of PAC learning positive linear combinations of $k$ arbitrary ReLU activations on $\\mathbb{R}^d$ with respect to the Gaussian distribution, in $L_2$ loss. We give the first fully-polynomial time algorithm for this learning task. Specifically, our algorithm draws $\\ma",
+        "url": "http://arxiv.org/abs/2610.32940v1",
+        "pdf": "https://arxiv.org/pdf/2610.32940v1",
+        "published": "2026-10-23",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "ZENO: Nonlinear filtering with Zakai Equation Neural Operators",
+        "authors": [
+          "Aaditya Prasad",
+          "Steven W. Flavell",
+          "Brian DePasquale"
+        ],
+        "summary": "State inference and parameter learning for nonlinear filters is a core computation for scientific machine learning with varied applications in engineering and neuroscience. The unnormalized filtering distribution is governed by the Zakai equation, a stochastic partial differential equation (SPDE) th",
+        "url": "http://arxiv.org/abs/2610.32926v1",
+        "pdf": "https://arxiv.org/pdf/2610.32926v1",
+        "published": "2026-10-23",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Adaptive Frequency Threshold Byte Pair Encoding for Mixed Natural Language and Structured Symbolic Corpora",
+        "authors": [
+          "Pietro Di Nicco",
+          "Lucio La Cava",
+          "Andrea Tagarelli"
+        ],
+        "summary": "Modern language models rely on subwording tokenization to define the discrete units of input processing, typically using methods like Byte Pair Encoding (BPE) that treat whitespace as a fixed semantic boundary. This design is inherently limited, as many meaningful concepts---including multiword expr",
+        "url": "http://arxiv.org/abs/2610.32921v1",
+        "pdf": "https://arxiv.org/pdf/2610.32921v1",
+        "published": "2026-10-23",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
