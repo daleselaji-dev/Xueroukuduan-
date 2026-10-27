@@ -1,0 +1,598 @@
+{
+  "date": "2026-10-27",
+  "generated": "2026-10-27T07:25:32.480881",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "JustAResearcher/gpu-unlock-ada",
+        "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+        "stars": 3990,
+        "language": "C",
+        "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+        "created": "2026-10-23"
+      },
+      {
+        "rank": 2,
+        "name": "rddmwmddr/android-ad-cleaner",
+        "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+        "stars": 2472,
+        "language": "Python",
+        "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+        "created": "2026-10-24"
+      },
+      {
+        "rank": 3,
+        "name": "wesbos/3d-model-anything",
+        "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+        "stars": 2113,
+        "language": "Swift",
+        "url": "https://github.com/wesbos/3d-model-anything",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 4,
+        "name": "xevrion/hatchzip",
+        "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop",
+        "stars": 2076,
+        "language": "Rust",
+        "url": "https://github.com/xevrion/hatchzip",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 5,
+        "name": "designfuchen/word-atlas",
+        "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+        "stars": 1987,
+        "language": "TypeScript",
+        "url": "https://github.com/designfuchen/word-atlas",
+        "created": "2026-10-25"
+      },
+      {
+        "rank": 6,
+        "name": "ikow/php2shell-poc",
+        "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+        "stars": 1847,
+        "language": "Python",
+        "url": "https://github.com/ikow/php2shell-poc",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 7,
+        "name": "oosexgang/hackios-xnu-kernel",
+        "description": "",
+        "stars": 1732,
+        "language": "C",
+        "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+        "created": "2026-10-22"
+      },
+      {
+        "rank": 8,
+        "name": "t3dotgg/tstack",
+        "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+        "stars": 1698,
+        "language": "Python",
+        "url": "https://github.com/t3dotgg/tstack",
+        "created": "2026-10-24"
+      },
+      {
+        "rank": 9,
+        "name": "9bie/php2shell-bypass-aslr-exp",
+        "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+        "stars": 1484,
+        "language": "Python",
+        "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 10,
+        "name": "openai/php2shell-checker",
+        "description": "",
+        "stars": 1428,
+        "language": "JavaScript",
+        "url": "https://github.com/openai/php2shell-checker",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 11,
+        "name": "lyramakesmusic/neuron-explorer",
+        "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
+        "stars": 1328,
+        "language": "Python",
+        "url": "https://github.com/lyramakesmusic/neuron-explorer",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 12,
+        "name": "colinhacks/reylo",
+        "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
+        "stars": 1323,
+        "language": "Rust",
+        "url": "https://github.com/colinhacks/reylo",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 13,
+        "name": "morganlinton/BeautifulRust",
+        "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+        "stars": 1246,
+        "language": "Python",
+        "url": "https://github.com/morganlinton/BeautifulRust",
+        "created": "2026-10-23"
+      },
+      {
+        "rank": 14,
+        "name": "enesozturk/dimensional-drawing",
+        "description": "",
+        "stars": 1078,
+        "language": "HTML",
+        "url": "https://github.com/enesozturk/dimensional-drawing",
+        "created": "2026-10-23"
+      },
+      {
+        "rank": 15,
+        "name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+        "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes onl",
+        "stars": 1025,
+        "language": "Shell",
+        "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+        "created": "2026-10-21"
+      },
+      {
+        "rank": 16,
+        "name": "unclebob/ub-mode",
+        "description": "",
+        "stars": 999,
+        "language": null,
+        "url": "https://github.com/unclebob/ub-mode",
+        "created": "2026-10-25"
+      },
+      {
+        "rank": 17,
+        "name": "Snapintosh/Snapintosh",
+        "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+        "stars": 993,
+        "language": "Python",
+        "url": "https://github.com/Snapintosh/Snapintosh",
+        "created": "2026-10-22"
+      },
+      {
+        "rank": 18,
+        "name": "assetnote/php2shell-scanner",
+        "description": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+        "stars": 935,
+        "language": "Python",
+        "url": "https://github.com/assetnote/php2shell-scanner",
+        "created": "2026-10-22"
+      },
+      {
+        "rank": 19,
+        "name": "KillaBoi/StealMyBitcoin-PoC",
+        "description": "A public release of the Steal My Bitcoin challenge",
+        "stars": 883,
+        "language": "Python",
+        "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+        "created": "2026-10-25"
+      },
+      {
+        "rank": 20,
+        "name": "andyhuo520/digital-human-koubo",
+        "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+        "stars": 879,
+        "language": "TypeScript",
+        "url": "https://github.com/andyhuo520/digital-human-koubo",
+        "created": "2026-10-26"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
+        "authors": [
+          "Chao Wan",
+          "Paul Jünger",
+          "Beixi Du",
+          "Bodong Liu",
+          "Navaneetha Krishnan"
+        ],
+        "summary": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to find, even the strongest generator cannot recover. We propose DecisionRAG, which b",
+        "url": "http://arxiv.org/abs/2610.35868v1",
+        "pdf": "https://arxiv.org/pdf/2610.35868v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Center-of-Mass Interpretation of Evolution Strategies",
+        "authors": [
+          "Akshat Gupta"
+        ],
+        "summary": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presented as an estimate of a smoothed gradient. We present a geometrical interpretation of this update in",
+        "url": "http://arxiv.org/abs/2610.35865v1",
+        "pdf": "https://arxiv.org/pdf/2610.35865v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
+        "authors": [
+          "Sihang Li",
+          "Xiaofeng Guo",
+          "Jinkun Cao",
+          "Charlie Cheng",
+          "Ruihan Yang"
+        ],
+        "summary": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic trajectories alone. Therefore, we present FLORE, a framework for learning force-reactive humanoid lo",
+        "url": "http://arxiv.org/abs/2610.35862v1",
+        "pdf": "https://arxiv.org/pdf/2610.35862v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Patient-specific rubric-based evaluation of large language models across longitudinal cancer care",
+        "authors": [
+          "Wei-Wei Zhang",
+          "Pengkai Wang",
+          "Yan Li",
+          "Zhijie Sang",
+          "Guan-Qun Zhou"
+        ],
+        "summary": "Large language models (LLMs) show promise in specialty medicine, yet existing evaluations largely focus on isolated clinical encounters rather than tracking how clinical responsibilities evolve across a longitudinal care pathway. Here we introduce NPC-RubricBench, a phase-aware benchmark for evaluat",
+        "url": "http://arxiv.org/abs/2610.35847v1",
+        "pdf": "https://arxiv.org/pdf/2610.35847v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "I-HITL: Inalienable Human-in-the-Loop",
+        "authors": [
+          "Samuel Breckenridge",
+          "Dani Vilardell",
+          "Wenhao Wang",
+          "Fan Zhang",
+          "Ari Juels"
+        ],
+        "summary": "Human oversight is a pillar of AI safety. It is often exercised by a human in the loop (HITL) who approves critical actions taken by an AI agent. AI agents' increasing ability to bypass guardrails, though, raises the question of how to enforce HITL robustly.\n  We introduce the concept of inalienable",
+        "url": "http://arxiv.org/abs/2610.35835v1",
+        "pdf": "https://arxiv.org/pdf/2610.35835v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy",
+        "authors": [
+          "Yifei Yao",
+          "Yude Zou",
+          "Guanbo Jiao",
+          "Xing Gao",
+          "Ning Gao"
+        ],
+        "summary": "Frontier multimodal large language models (MLLMs) can control robots without robot-specific training, but how their capabilities compare and interact with post-trained vision-language-action (VLA) and world action model (WAM) policies across manipulation demands remains to be thoroughly evaluated. I",
+        "url": "http://arxiv.org/abs/2610.35832v1",
+        "pdf": "https://arxiv.org/pdf/2610.35832v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Reva: Real-Time Vulnerability Detection through Contextual Probing of Large Language Models",
+        "authors": [
+          "Amine Lbath",
+          "Massih-Reza Amini"
+        ],
+        "summary": "A vulnerability costs more to fix the later it is discovered. As coding agents generate code faster than developers can review it, software needs a first line of defense screening each new function in real time. LLM agents have recently become capable of finding real-world vulnerabilities by working",
+        "url": "http://arxiv.org/abs/2610.35829v1",
+        "pdf": "https://arxiv.org/pdf/2610.35829v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent",
+        "authors": [
+          "Benjamin Pikus",
+          "Daniel Saunders",
+          "Mircea Mironenco",
+          "Salman Mohammadi",
+          "Mathew Mathew"
+        ],
+        "summary": "A robot policy needs to understand what a task is asking for in a scene, and how to move the robot to accomplish that task. To achieve these two skills, we introduce Zero-real Agent Policy (ZAP), a recipe that teaches a small off-the-shelf vision-language model to control a robot via a simple tool h",
+        "url": "http://arxiv.org/abs/2610.35817v1",
+        "pdf": "https://arxiv.org/pdf/2610.35817v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Learning When to Commit: Schedule Distillation for Fast Diffusion Language Models",
+        "authors": [
+          "Aidar Myrzakhan",
+          "Zhiqiang Shen"
+        ],
+        "summary": "Diffusion large language models (dLLMs) can generate multiple tokens in parallel, but often require many decoding rounds to complete a response. Efficient generation depends not only on which tokens are easy to predict, but also on how committing to them helps predict the remaining positions. A high",
+        "url": "http://arxiv.org/abs/2610.35804v1",
+        "pdf": "https://arxiv.org/pdf/2610.35804v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Game theory of academic effort and hiring in the age of AI",
+        "authors": [
+          "Saptarshi Pal",
+          "Peter S. Park"
+        ],
+        "summary": "Many academic disciplines (in particular, mathematics and the theoretical sciences) face difficult questions about how to adapt their practices to the rise of highly capable artificial intelligence (AI). Before AI, a well-written research paper with a strong theoretical result acted as a reliable si",
+        "url": "http://arxiv.org/abs/2610.35802v1",
+        "pdf": "https://arxiv.org/pdf/2610.35802v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "A Unified Arena for LLM Agents across Diverse Eurogame",
+        "authors": [
+          "Fengrui Zhang",
+          "Xiang Li",
+          "Ruomeng Ding",
+          "Jiayi Yuan",
+          "Yuchen Huang"
+        ],
+        "summary": "Interactive environments offer a practical way to evaluate large language model (LLM) agents, and competitive games extend this evaluation to decisions shaped by competing goals and other agents' choices. Yet existing evaluations confined to individual games or execution frameworks leave unclear whi",
+        "url": "http://arxiv.org/abs/2610.35773v1",
+        "pdf": "https://arxiv.org/pdf/2610.35773v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Free to Look, Free to Reason: Simple LLM Harnesses Outdiagnose Hand-Crafted Root Cause Analysis Agents",
+        "authors": [
+          "Tingzhu Bi",
+          "Xun Zhang",
+          "Jinglin Li",
+          "Ping Wang",
+          "Meng Ma"
+        ],
+        "summary": "Root cause analysis (RCA) of microservice failures has attracted many LLM agents whose investigation is hand-crafted, through standard operating procedures, fixed stages and role agents. Each is evaluated on its own data against few baselines, so it is unknown whether this design beats letting a cap",
+        "url": "http://arxiv.org/abs/2610.35767v1",
+        "pdf": "https://arxiv.org/pdf/2610.35767v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Do Similarity Measures Measure Similarity? How User Activity Creates Phantom Correlation in Recommender Systems",
+        "authors": [
+          "Marco Favier",
+          "Noah Daniëls",
+          "Jens Leysen",
+          "Sander Marinus",
+          "Bart Goethals"
+        ],
+        "summary": "Item-item similarity is one of the oldest and most foundational signals in recommender systems: two items are assumed to be similar when the same users consume them. Despite the sparsity and scale of interaction data, the implicit assumption across the field is that item co-occurrence reflects genui",
+        "url": "http://arxiv.org/abs/2610.35765v1",
+        "pdf": "https://arxiv.org/pdf/2610.35765v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Beyond Physical Illness: Can Clinical Narratives Reveal Emerging Mental Health Risks in Chronically Ill Patients?",
+        "authors": [
+          "Sudeshna Jana",
+          "Siddhartha Laha",
+          "Manjira Sinha",
+          "Tirthankar Dasgupta",
+          "Pabitra Mitra"
+        ],
+        "summary": "Mental-health risks such as depression, dementia, and suicidal ideation can emerge during hospitalization among chronically ill patients and may worsen without timely recognition and intervention. However, most existing mental health studies focus on patients with established psychiatric conditions ",
+        "url": "http://arxiv.org/abs/2610.35761v1",
+        "pdf": "https://arxiv.org/pdf/2610.35761v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "EEGaze: Multimodal Attention Prediction in Visual Search via EEG-Based Saliency Refinement",
+        "authors": [
+          "Mansi Sharma",
+          "Dinar Orazgaliyev",
+          "Antonio Krüger",
+          "Philipp Müller"
+        ],
+        "summary": "Visual search is ubiquitous in daily life, from locating keys in a messy apartment to finding a tool in a cluttered workshop or an application icon on a desktop screen. While visual attention is to a large extent driven by image content, research in psychology indicates that user cognitive states ha",
+        "url": "http://arxiv.org/abs/2610.35757v1",
+        "pdf": "https://arxiv.org/pdf/2610.35757v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "CLOSURE: Cross-Channel Closure for Multivariate Time Series Anomaly Detection",
+        "authors": [
+          "Fan Xu",
+          "Hao Wu",
+          "Zhi Song",
+          "Hanbo Huang",
+          "Wenzhuo Ma"
+        ],
+        "summary": "Multivariate time series produced by industrial installations and server clusters are under continuous monitoring, and anomaly detection is the first line of defense before a local fault escalates into a system-wide failure. In the absence of labels, the dominant paradigm trains a reconstruction mod",
+        "url": "http://arxiv.org/abs/2610.35753v1",
+        "pdf": "https://arxiv.org/pdf/2610.35753v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Multi-Objective Reinforcement Learning Using Routed Ensembles and Trajectory Attribution",
+        "authors": [
+          "Zhenshuo Zhang",
+          "Ruoxuan Xiong",
+          "Hongyang R. Zhang"
+        ],
+        "summary": "Multi-objective reinforcement learning is a fundamental problem for modern AI, with applications spanning post-training, reasoning models, and robotic control. A central challenge is to learn policies that balance competing objectives, such as helpfulness versus honesty in safety and alignment, or s",
+        "url": "http://arxiv.org/abs/2610.35733v1",
+        "pdf": "https://arxiv.org/pdf/2610.35733v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "The Watchtower Imperative: Lifespan-Calibrated Evaluation for Frontier AI",
+        "authors": [
+          "Casey M. Williams",
+          "Jennifer Victoria Scurrell"
+        ],
+        "summary": "The gap between AI capability deployment and safety assurance is structural and cannot be closed through internal evaluations alone. Analyzing documented harms (2017-2026) across the human lifespan reveals that disparate incidents --- from voice assistants endangering children to AI companions impli",
+        "url": "http://arxiv.org/abs/2610.35725v1",
+        "pdf": "https://arxiv.org/pdf/2610.35725v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Can JEV Support Clinical Trial Criteria Assessment?",
+        "authors": [
+          "Mengxian He",
+          "Ziyue Gao",
+          "Chun Li",
+          "Shunyi Zhang",
+          "Hao Wei"
+        ],
+        "summary": "Clinical trial prescreening requires distinguishing unmet conditions from insufficient evidence in patient records. Given patient records, criterion questions, and predefined answer options, we retrospectively compared JEV, a non-generative decision model returning native option probabilities, with ",
+        "url": "http://arxiv.org/abs/2610.35721v1",
+        "pdf": "https://arxiv.org/pdf/2610.35721v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Audit Where Hacks Pay: Budgeted Strong-Verifier Audits Against Reward Hacking in GRPO",
+        "authors": [
+          "Shurun Li",
+          "Michael Hua Wang",
+          "Haibo Zeng",
+          "Long Wang"
+        ],
+        "summary": "Reinforcement learning with verifiable rewards trains on cheap checks, such as unit tests, that a policy can learn to game, while a stronger check is too expensive to run on every rollout. We study how to spend a limited strong-verifier budget in GRPO, separating which weakly passing rollouts to aud",
+        "url": "http://arxiv.org/abs/2610.35716v1",
+        "pdf": "https://arxiv.org/pdf/2610.35716v1",
+        "published": "2026-10-26",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
+        "authors": [
+          "Xi Chen",
+          "Chongjian Ge",
+          "Yiran Xu",
+          "Yiqun Mei",
+          "Henrik I. Christensen"
+        ],
+        "summary": "As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark for evaluating autonomous research systems and discovering ideas in language modeling. Arena suppor",
+        "url": "http://arxiv.org/abs/2610.35866v1",
+        "pdf": "https://arxiv.org/pdf/2610.35866v1",
+        "published": "2026-10-26",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "On the stability of learning",
+        "authors": [
+          "John J. Vastola"
+        ],
+        "summary": "Learning algorithms are usually analyzed under the assumption that informative gradients are continuously available. But this is not always true---learning signals in biological neural networks, for example, may be sparse, local, and only intermittently available at any given synapse. In this work, ",
+        "url": "http://arxiv.org/abs/2610.35856v1",
+        "pdf": "https://arxiv.org/pdf/2610.35856v1",
+        "published": "2026-10-26",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Work Agents: Systems, Capabilities, and Optimization",
+        "authors": [
+          "Zishan Xu",
+          "Enjun Du",
+          "Mingqi Gao",
+          "Cheng Yang",
+          "Junhao Shen"
+        ],
+        "summary": "As foundation models evolve from information generation to digital work execution, agents are increasingly capable of completing complex tasks across tools, applications, and workflows. However, existing research lacks a unified perspective on how agents reliably accomplish delegated work. To addres",
+        "url": "http://arxiv.org/abs/2610.35845v1",
+        "pdf": "https://arxiv.org/pdf/2610.35845v1",
+        "published": "2026-10-26",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Information-Theoretic Secure Aggregation With Heterogeneous Client Quantization",
+        "authors": [
+          "Shreya Meel",
+          "Sennur Ulukus",
+          "Itzhak Tamo"
+        ],
+        "summary": "In federated learning (FL), secure aggregation enables a server to compute the sum of local model updates of $N$ clients, without revealing any information on the individual model updates to the server, beyond their sum. Different clients may be subject to heterogeneous bandwidth constraints, and co",
+        "url": "http://arxiv.org/abs/2610.35833v1",
+        "pdf": "https://arxiv.org/pdf/2610.35833v1",
+        "published": "2026-10-26",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Does VGGT Know What It Does Not Know?",
+        "authors": [
+          "Adityan Thirumani Srinivasan",
+          "David Nordström"
+        ],
+        "summary": "Feed-forward 3D reconstruction models such as VGGT regress cameras and geometry in a single forward pass, but they report no uncertainty for the camera poses they predict: an incorrect relative pose looks no different from a correct one. We ask whether the frozen model nonetheless knows when its pos",
+        "url": "http://arxiv.org/abs/2610.35806v1",
+        "pdf": "https://arxiv.org/pdf/2610.35806v1",
+        "published": "2026-10-26",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "FOCUS: Active Critic Learning for Long-Horizon Language Model Agents",
+        "authors": [
+          "Zhengping Jiang",
+          "William Jurayj",
+          "Liaoyaqi Wang",
+          "Chunsheng Zuo",
+          "Anqi Liu"
+        ],
+        "summary": "Sparse outcome rewards make it difficult for long-horizon language-model agents to assign credit to earlier actions. Learned critics provide value estimates for intermediate states, but these estimates can be inaccurate, while estimating intermediate values with repetitive continuation samples from ",
+        "url": "http://arxiv.org/abs/2610.35801v1",
+        "pdf": "https://arxiv.org/pdf/2610.35801v1",
+        "published": "2026-10-26",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Selective Tie Learning: Mitigating Spurious Correlations in Preference Optimization",
+        "authors": [
+          "Christian Moya",
+          "Purav Matlia",
+          "Elliott Thornley",
+          "Guang Lin"
+        ],
+        "summary": "Preference optimization can learn spurious correlations, and augmenting the preference data with ties (equally preferred responses) can reduce spurious reliance. However, ties differ in their corrective effect, making their selection for augmentation important. For log-linear policies, we derive eac",
+        "url": "http://arxiv.org/abs/2610.35787v1",
+        "pdf": "https://arxiv.org/pdf/2610.35787v1",
+        "published": "2026-10-26",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
