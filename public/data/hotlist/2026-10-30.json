@@ -1,0 +1,578 @@
+{
+  "date": "2026-10-30",
+  "generated": "2026-10-30T08:11:55.804009",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "unclebob/ub-mode",
+        "description": "",
+        "stars": 5000,
+        "language": null,
+        "url": "https://github.com/unclebob/ub-mode",
+        "created": "2026-10-25"
+      },
+      {
+        "rank": 2,
+        "name": "rddmwmddr/android-ad-cleaner",
+        "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+        "stars": 4881,
+        "language": "Python",
+        "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+        "created": "2026-10-24"
+      },
+      {
+        "rank": 3,
+        "name": "interplains/Zero-Breach-Toolkit",
+        "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+        "stars": 3694,
+        "language": "Python",
+        "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+        "created": "2026-10-25"
+      },
+      {
+        "rank": 4,
+        "name": "anhao/ai-pose-gallery-zh",
+        "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "stars": 3546,
+        "language": "HTML",
+        "url": "https://github.com/anhao/ai-pose-gallery-zh",
+        "created": "2026-10-27"
+      },
+      {
+        "rank": 5,
+        "name": "designfuchen/word-atlas",
+        "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+        "stars": 3293,
+        "language": "TypeScript",
+        "url": "https://github.com/designfuchen/word-atlas",
+        "created": "2026-10-25"
+      },
+      {
+        "rank": 6,
+        "name": "t3dotgg/tstack",
+        "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+        "stars": 2421,
+        "language": "Python",
+        "url": "https://github.com/t3dotgg/tstack",
+        "created": "2026-10-24"
+      },
+      {
+        "rank": 7,
+        "name": "andyhuo520/digital-human-koubo",
+        "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+        "stars": 1519,
+        "language": "TypeScript",
+        "url": "https://github.com/andyhuo520/digital-human-koubo",
+        "created": "2026-10-26"
+      },
+      {
+        "rank": 8,
+        "name": "DenisSergeevitch/ex-ussr-kinship-research",
+        "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+        "stars": 1279,
+        "language": "Python",
+        "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+        "created": "2026-10-25"
+      },
+      {
+        "rank": 9,
+        "name": "Motionsites-AI/claude-skill",
+        "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+        "stars": 1112,
+        "language": "Python",
+        "url": "https://github.com/Motionsites-AI/claude-skill",
+        "created": "2026-10-26"
+      },
+      {
+        "rank": 10,
+        "name": "ccch1mneyyy/dsh-go",
+        "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial.",
+        "stars": 1094,
+        "language": "Dart",
+        "url": "https://github.com/ccch1mneyyy/dsh-go",
+        "created": "2026-10-25"
+      },
+      {
+        "rank": 11,
+        "name": "aschmelyun/print-my-profile-pic",
+        "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+        "stars": 1074,
+        "language": null,
+        "url": "https://github.com/aschmelyun/print-my-profile-pic",
+        "created": "2026-10-27"
+      },
+      {
+        "rank": 12,
+        "name": "qybaihe/bla",
+        "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> H",
+        "stars": 1061,
+        "language": "TypeScript",
+        "url": "https://github.com/qybaihe/bla",
+        "created": "2026-10-25"
+      },
+      {
+        "rank": 13,
+        "name": "smithjohn78390/tongjiang-lab",
+        "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+        "stars": 1039,
+        "language": "HTML",
+        "url": "https://github.com/smithjohn78390/tongjiang-lab",
+        "created": "2026-10-28"
+      },
+      {
+        "rank": 14,
+        "name": "KillaBoi/StealMyBitcoin-PoC",
+        "description": "A public release of the Steal My Bitcoin challenge",
+        "stars": 1008,
+        "language": "Python",
+        "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+        "created": "2026-10-25"
+      },
+      {
+        "rank": 15,
+        "name": "ZiChuanLan/agent-purge",
+        "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+        "stars": 891,
+        "language": "JavaScript",
+        "url": "https://github.com/ZiChuanLan/agent-purge",
+        "created": "2026-10-25"
+      },
+      {
+        "rank": 16,
+        "name": "daveebbelaar/bama",
+        "description": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+        "stars": 834,
+        "language": "Swift",
+        "url": "https://github.com/daveebbelaar/bama",
+        "created": "2026-10-24"
+      },
+      {
+        "rank": 17,
+        "name": "kargulstudio/calender-app-design",
+        "description": "",
+        "stars": 812,
+        "language": "TypeScript",
+        "url": "https://github.com/kargulstudio/calender-app-design",
+        "created": "2026-10-26"
+      },
+      {
+        "rank": 18,
+        "name": "valentderah/totk-pc-recomp",
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+        "stars": 810,
+        "language": "C",
+        "url": "https://github.com/valentderah/totk-pc-recomp",
+        "created": "2026-10-29"
+      },
+      {
+        "rank": 19,
+        "name": "anonnerdfrenzy/survival-llm",
+        "description": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
+        "stars": 809,
+        "language": "Python",
+        "url": "https://github.com/anonnerdfrenzy/survival-llm",
+        "created": "2026-10-24"
+      },
+      {
+        "rank": 20,
+        "name": "DrWhax/unfairplay",
+        "description": "Decrypt IPA's on MacOS",
+        "stars": 791,
+        "language": "Go",
+        "url": "https://github.com/DrWhax/unfairplay",
+        "created": "2026-10-25"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Rethinking Neural Thickets Without Weight Perturbations",
+        "authors": [
+          "Nicolas Dufour",
+          "Elouan Gardès",
+          "Amil Dravid",
+          "Patrick Pérez",
+          "Loic Landrieu"
+        ],
+        "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a sing",
+        "url": "http://arxiv.org/abs/2610.40649v1",
+        "pdf": "https://arxiv.org/pdf/2610.40649v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+        "authors": [
+          "Jiongfan Yang",
+          "Weichen Fan",
+          "Haiwen Diao",
+          "Zhongang Cai",
+          "Ziwei Liu"
+        ],
+        "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from gl",
+        "url": "http://arxiv.org/abs/2610.40647v1",
+        "pdf": "https://arxiv.org/pdf/2610.40647v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Luggage re-identification: A study of strategies towards a real-world application",
+        "authors": [
+          "Quentin Dhôte",
+          "Romaric Audigier"
+        ],
+        "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same luggage across disjoint ",
+        "url": "http://arxiv.org/abs/2610.40643v1",
+        "pdf": "https://arxiv.org/pdf/2610.40643v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "From extreme weather to agricultural consequences with agentic AI",
+        "authors": [
+          "Minghan Yu",
+          "Mengyu Dai",
+          "Yixin Wen",
+          "Haizhao Yang"
+        ],
+        "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that could tell span many sources. We present WxCrop, the first agent that judges agricu",
+        "url": "http://arxiv.org/abs/2610.40641v1",
+        "pdf": "https://arxiv.org/pdf/2610.40641v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Probing Spatial State Representations in Visual Foundation Models",
+        "authors": [
+          "Baiqiao Yin",
+          "Zhongang Cai",
+          "Ruisi Wang",
+          "Qiwei Liang",
+          "Lei Yang"
+        ],
+        "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spatial state that is updated under self-motion and used to guide action. Do visual ",
+        "url": "http://arxiv.org/abs/2610.40636v1",
+        "pdf": "https://arxiv.org/pdf/2610.40636v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
+        "authors": [
+          "Tom Sander",
+          "Pierre Fernandez",
+          "Itai Gat",
+          "Haiming Bao",
+          "Jiaxin Shi"
+        ],
+        "summary": "We present TextSeal2, a distortion-free watermark for large language models that keeps its signal under speculative decoding: tokens that replace rejected drafts remain watermarked with the same keys, and the acceptance rate is unchanged. It also preserves output diversity and adds no measurable inf",
+        "url": "http://arxiv.org/abs/2610.40613v1",
+        "pdf": "https://arxiv.org/pdf/2610.40613v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder",
+        "authors": [
+          "A. J. A. Jubayer Talukder",
+          "Mohammad Ariful Haque"
+        ],
+        "summary": "Proactive assistants offer short, memory-grounded hints during a conversation, deciding when to assist and what to suggest. Current systems split this between a gate and a larger generator; we evaluate both together on 28,058 decision points. Stage-wise generation scores are oracle-gate ceilings: be",
+        "url": "http://arxiv.org/abs/2610.40611v1",
+        "pdf": "https://arxiv.org/pdf/2610.40611v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins",
+        "authors": [
+          "El Mustapha Mansouri",
+          "Eikichi Kimura",
+          "Masato Koga",
+          "Keigo Arai"
+        ],
+        "summary": "An autonomous research laboratory could conduct an entire study, from formulating questions to preparing manuscripts. Artificial intelligence (AI) offers one route towards this goal. Recent AI systems take on several research roles, but may draw conclusions that the evidence does not support. Here, ",
+        "url": "http://arxiv.org/abs/2610.40589v1",
+        "pdf": "https://arxiv.org/pdf/2610.40589v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In",
+        "authors": [
+          "Leonidas Raghav"
+        ],
+        "summary": "When AI agents share channels and credentials, one agent can press another to break its operator's rule, a first step towards collusion. Output filters check only what an agent has already written. Can an overseer tell beforehand that an agent is about to give in? We show that a linear probe on the ",
+        "url": "http://arxiv.org/abs/2610.40588v1",
+        "pdf": "https://arxiv.org/pdf/2610.40588v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
+        "authors": [
+          "Yalin E. Sagduyu",
+          "Tugba Erpek",
+          "Sastry Kompella"
+        ],
+        "summary": "Integrated sensing and communications (ISAC) systems using 5G and beyond signals of opportunity enable joint wireless sensing and communication using shared infrastructure and spectrum resources. While multistatic ISAC can increase sensing coverage with spatially distributed receivers, dense and dyn",
+        "url": "http://arxiv.org/abs/2610.40586v1",
+        "pdf": "https://arxiv.org/pdf/2610.40586v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "VeriCUA: Verification as Agentic Exploration for Computer-Using Agents",
+        "authors": [
+          "Qiushi Sun",
+          "Da Yu",
+          "Alexander Knop",
+          "Amer Sinha",
+          "Lingpeng Kong"
+        ],
+        "summary": "Building and scaling computer-using agents (CUAs) across desktop, mobile, and web environments requires reliable task-completion verification for data curation, evaluation, and reinforcement learning. Typical automated approaches prompt vision-language models (VLMs) to judge trajectories or generate",
+        "url": "http://arxiv.org/abs/2610.40578v1",
+        "pdf": "https://arxiv.org/pdf/2610.40578v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Gym-Anything for Robotics: Scaling physical simulations with digital agents",
+        "authors": [
+          "Pranjal Aggarwal",
+          "Sean Welleck"
+        ],
+        "summary": "Realistic, fast robotics simulations could enable large-scale training of embodied AI models that transfer to the real world. However, despite decades of progress, available simulations cover only a narrow range of real-world tasks and physical phenomena. The core bottleneck is that creating better ",
+        "url": "http://arxiv.org/abs/2610.40565v1",
+        "pdf": "https://arxiv.org/pdf/2610.40565v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns",
+        "authors": [
+          "Eric Rudolph",
+          "Philipp Steigerwald",
+          "Jens Albrecht"
+        ],
+        "summary": "This study investigates the capabilities of Large Language Models to simulate counselling clients in educational role-plays in comparison to human role-players. Initially, we recorded role-playing sessions, where novice counsellors interacted with human peers acting as clients, followed by role-play",
+        "url": "http://arxiv.org/abs/2610.40563v1",
+        "pdf": "https://arxiv.org/pdf/2610.40563v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "FARMS: A Verifiable Foundation for Automated Computational Science",
+        "authors": [
+          "Di Wu",
+          "Ling Liang",
+          "Haizhao Yang"
+        ],
+        "summary": "Automated computational science could accelerate discovery by selecting, adapting and developing numerical methods. This prospect requires mathematical knowledge that AI systems can interpret and reuse with explicit guarantees. Here we present FARMS, a faithful and efficient foundation that transfor",
+        "url": "http://arxiv.org/abs/2610.40560v1",
+        "pdf": "https://arxiv.org/pdf/2610.40560v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Advancing Clinical Genomic Analysis with a Skill-Centred Agent",
+        "authors": [
+          "Qiaoyu Zheng",
+          "Weike Zhao",
+          "Yanjie Fan",
+          "Ye Cao",
+          "Mengqi Jiang"
+        ],
+        "summary": "Clinical genomic analysis requires experts to integrate evolving guidelines, databases, and computational evidence. As sequencing has become increasingly accessible, this complex and labor-intensive process has become a major bottleneck to the timely use of genomic information in clinical decision-m",
+        "url": "http://arxiv.org/abs/2610.40556v1",
+        "pdf": "https://arxiv.org/pdf/2610.40556v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Ramanujan Challenge Results: AI-Assisted Evaluation Pipeline for Multi-Format Proofs",
+        "authors": [
+          "Alan Sorani",
+          "Ashvni Narayanan",
+          "Michael Shalyt",
+          "Tali Monderer",
+          "Rotem Kalisch"
+        ],
+        "summary": "As AI's mathematical capabilities rapidly improve, meaningful benchmarks are shifting from university-level problems and math olympiads to research-level mathematics. The Ramanujan Challenge is a benchmark comprised of research-level problems in number theory, including unpublished results and open ",
+        "url": "http://arxiv.org/abs/2610.40551v1",
+        "pdf": "https://arxiv.org/pdf/2610.40551v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Retrieval as Traversal: Value-Indexed Memory for Stateful Long-Context Agents",
+        "authors": [
+          "Daniel Strauß",
+          "Zhenshan Bing",
+          "Alois Knoll"
+        ],
+        "summary": "Long-context models repeatedly solve closely related retrieval problems. Attention or global retrieval can retain large stores, but each forward pass again searches for what matters. Recurrent compression avoids this search only by deciding earlier what information to preserve. Neither mechanism dir",
+        "url": "http://arxiv.org/abs/2610.40545v1",
+        "pdf": "https://arxiv.org/pdf/2610.40545v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "On the Fundamental Limits of Prefill-Based Decoding Length Prediction",
+        "authors": [
+          "Haowen Shi",
+          "Xuzhe Yan",
+          "Fahao Chen",
+          "Peng Li"
+        ],
+        "summary": "Predicting how many tokens a large language model (LLM) will decode, using only prefill-phase hidden states, is a key primitive for inference scheduling. We show that current benchmarks conflate predictor quality with task hardness: when the target model, dataset, or sampling configuration changes, ",
+        "url": "http://arxiv.org/abs/2610.40541v1",
+        "pdf": "https://arxiv.org/pdf/2610.40541v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Efficient Scalable Oversight via Rewinding",
+        "authors": [
+          "Ziyi Guan",
+          "Yael Tauman Kalai",
+          "Ron Rothblum",
+          "Zoe Xi"
+        ],
+        "summary": "Scalable oversight asks how a weak verifier can check the outputs of computations performed by more powerful AI systems. One proposed approach uses relativizing interactive proofs, in which a weak verifier checks the output of a complex oracle-aided computation by interacting with one or more powerf",
+        "url": "http://arxiv.org/abs/2610.40535v1",
+        "pdf": "https://arxiv.org/pdf/2610.40535v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing",
+        "authors": [
+          "Xiangyu Xu",
+          "Bangshuai Peng",
+          "Ziyi Liu",
+          "Mengjie Zhao",
+          "Chenhao Lu"
+        ],
+        "summary": "How effectively can vision-language-action (VLA) models learn diverse language-conditioned behaviors as training data scales? Investigating this question requires large and varied robot datasets, whose collection on physical robots remains costly. We introduce BURGER, a language-conditioned robotic ",
+        "url": "http://arxiv.org/abs/2610.40532v1",
+        "pdf": "https://arxiv.org/pdf/2610.40532v1",
+        "published": "2026-10-29",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
+        "authors": [
+          "Moshe Shenfeld",
+          "Eliad Tsfadia",
+          "Katrina Ligett"
+        ],
+        "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate the noise even when the remaining data would allow far less.",
+        "url": "http://arxiv.org/abs/2610.40654v1",
+        "pdf": "https://arxiv.org/pdf/2610.40654v1",
+        "published": "2026-10-29",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
+        "authors": [
+          "Aron Brenner",
+          "Saurabh Amin"
+        ],
+        "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizations absent from that record. A divergence ball around the empirical distribution",
+        "url": "http://arxiv.org/abs/2610.40644v1",
+        "pdf": "https://arxiv.org/pdf/2610.40644v1",
+        "published": "2026-10-29",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "world2vec: Mechanistic world models through latent dynamics learning",
+        "authors": [
+          "Tobias Schmidt",
+          "Rodrigo Gonzalez Laiz",
+          "Krisztián Szuppinger",
+          "Steffen Schneider"
+        ],
+        "summary": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduce world2vec to learn mechanistic world models without reward information directly f",
+        "url": "http://arxiv.org/abs/2610.40637v1",
+        "pdf": "https://arxiv.org/pdf/2610.40637v1",
+        "published": "2026-10-29",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "An ODE-based Sampler for Discrete Diffusion Models",
+        "authors": [
+          "Samson Gourevitch",
+          "Yazid Janati",
+          "Eric Moulines",
+          "Eric P. Xing",
+          "Alain Durmus"
+        ],
+        "summary": "The marginals of a continuous diffusion model can be reproduced by a deterministic ordinary differential equation (ODE), known as the probability flow ODE, which provides a foundation for accelerated sampling and consistency distillation. In this paper we address the question whether an analogous fo",
+        "url": "http://arxiv.org/abs/2610.40618v1",
+        "pdf": "https://arxiv.org/pdf/2610.40618v1",
+        "published": "2026-10-29",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Difficulty Calibration Across Time for Membership Inference in Diffusion Models",
+        "authors": [
+          "Michael Joseph",
+          "Yedid Hoshen"
+        ],
+        "summary": "Modern diffusion models are trained on massive datasets that often include copyrighted or private images. Membership inference attacks (MIAs) address this by testing whether a given image was in a model's training set. The standard approach scores an image by its reconstruction loss and flags low-lo",
+        "url": "http://arxiv.org/abs/2610.40616v1",
+        "pdf": "https://arxiv.org/pdf/2610.40616v1",
+        "published": "2026-10-29",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Training Foundation Models with a Single Algorithm",
+        "authors": [
+          "Yuda Song",
+          "Alvin Zhang",
+          "Fahim Tajwar",
+          "Daman Arora",
+          "Jeff Schneider"
+        ],
+        "summary": "Foundation models are typically trained in stages: pretraining, midtraining, supervised fine-tuning (SFT), and reinforcement learning (RL), with changes in both data and learning algorithms. We show that this algorithmic separation is not fundamental. By deriving suitable RL objectives as maximum-li",
+        "url": "http://arxiv.org/abs/2610.40564v1",
+        "pdf": "https://arxiv.org/pdf/2610.40564v1",
+        "published": "2026-10-29",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
