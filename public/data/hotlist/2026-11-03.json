@@ -1,0 +1,590 @@
+{
+  "date": "2026-11-03",
+  "generated": "2026-11-03T09:06:14.510470",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "deepseek-ai/dsh-superagent-prototype",
+        "description": "Towards a More Autonomous Agent System",
+        "stars": 15026,
+        "language": "TypeScript",
+        "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+        "created": "2026-10-31"
+      },
+      {
+        "rank": 2,
+        "name": "heydamir/unslop",
+        "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+        "stars": 6728,
+        "language": "JavaScript",
+        "url": "https://github.com/heydamir/unslop",
+        "created": "2026-10-29"
+      },
+      {
+        "rank": 3,
+        "name": "wangzan101/Mika",
+        "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "stars": 5759,
+        "language": "Kotlin",
+        "url": "https://github.com/wangzan101/Mika",
+        "created": "2026-10-29"
+      },
+      {
+        "rank": 4,
+        "name": "storytold/craft-anything",
+        "description": "Craft Anything: understand how any software works, and craft your own.",
+        "stars": 5590,
+        "language": "Rust",
+        "url": "https://github.com/storytold/craft-anything",
+        "created": "2026-10-31"
+      },
+      {
+        "rank": 5,
+        "name": "valentderah/totk-pc-recomp",
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+        "stars": 4207,
+        "language": "C",
+        "url": "https://github.com/valentderah/totk-pc-recomp",
+        "created": "2026-10-29"
+      },
+      {
+        "rank": 6,
+        "name": "patch-gg/pixelfx",
+        "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "stars": 3749,
+        "language": "JavaScript",
+        "url": "https://github.com/patch-gg/pixelfx",
+        "created": "2026-10-30"
+      },
+      {
+        "rank": 7,
+        "name": "Djihads80/Eglantine",
+        "description": "VERY experimental Nintendo Switch 2 emulator",
+        "stars": 2692,
+        "language": "C++",
+        "url": "https://github.com/Djihads80/Eglantine",
+        "created": "2026-10-29"
+      },
+      {
+        "rank": 8,
+        "name": "BryceYuuu/RUN",
+        "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+        "stars": 2318,
+        "language": "Python",
+        "url": "https://github.com/BryceYuuu/RUN",
+        "created": "2026-10-29"
+      },
+      {
+        "rank": 9,
+        "name": "paipiange/nvzhuang",
+        "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+        "stars": 2081,
+        "language": "Go",
+        "url": "https://github.com/paipiange/nvzhuang",
+        "created": "2026-10-29"
+      },
+      {
+        "rank": 10,
+        "name": "lexifina/global-law",
+        "description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
+        "stars": 1720,
+        "language": "HTML",
+        "url": "https://github.com/lexifina/global-law",
+        "created": "2026-10-28"
+      },
+      {
+        "rank": 11,
+        "name": "Verlintas/NOIR",
+        "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+        "stars": 1576,
+        "language": "Kotlin",
+        "url": "https://github.com/Verlintas/NOIR",
+        "created": "2026-10-31"
+      },
+      {
+        "rank": 12,
+        "name": "smithjohn78390/tongjiang-lab",
+        "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+        "stars": 1496,
+        "language": "HTML",
+        "url": "https://github.com/smithjohn78390/tongjiang-lab",
+        "created": "2026-10-28"
+      },
+      {
+        "rank": 13,
+        "name": "elvarofficial/teardown",
+        "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+        "stars": 1418,
+        "language": "JavaScript",
+        "url": "https://github.com/elvarofficial/teardown",
+        "created": "2026-10-30"
+      },
+      {
+        "rank": 14,
+        "name": "Arjun-Ingole/hop",
+        "description": "Install Linux next to Windows without a USB stick",
+        "stars": 1408,
+        "language": "PowerShell",
+        "url": "https://github.com/Arjun-Ingole/hop",
+        "created": "2026-10-30"
+      },
+      {
+        "rank": 15,
+        "name": "kevinraymond/florilegium",
+        "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+        "stars": 1391,
+        "language": "Lua",
+        "url": "https://github.com/kevinraymond/florilegium",
+        "created": "2026-10-30"
+      },
+      {
+        "rank": 16,
+        "name": "caru-ini/stack-diagram",
+        "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+        "stars": 1330,
+        "language": "TypeScript",
+        "url": "https://github.com/caru-ini/stack-diagram",
+        "created": "2026-11-01"
+      },
+      {
+        "rank": 17,
+        "name": "HRuiCcc/RuiC-PoseAtlas",
+        "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
+        "stars": 1097,
+        "language": "JavaScript",
+        "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
+        "created": "2026-10-28"
+      },
+      {
+        "rank": 18,
+        "name": "NiazMorshed2007/reanimate",
+        "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+        "stars": 1003,
+        "language": "JavaScript",
+        "url": "https://github.com/NiazMorshed2007/reanimate",
+        "created": "2026-10-29"
+      },
+      {
+        "rank": 19,
+        "name": "jacke-pp/open-yoki",
+        "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+        "stars": 950,
+        "language": "JavaScript",
+        "url": "https://github.com/jacke-pp/open-yoki",
+        "created": "2026-10-28"
+      },
+      {
+        "rank": 20,
+        "name": "mromidev/claude-animated-shorts",
+        "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+        "stars": 857,
+        "language": "TypeScript",
+        "url": "https://github.com/mromidev/claude-animated-shorts",
+        "created": "2026-11-01"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+        "authors": [
+          "Jason Jingzhou Liu",
+          "Tony Tao",
+          "Deepak Pathak",
+          "Ruslan Salakhutdinov"
+        ],
+        "summary": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whole-body policies from human data. We first introduce Environment-Aware Retargeting (EAR), which combi",
+        "url": "http://arxiv.org/abs/2611.03647v1",
+        "pdf": "https://arxiv.org/pdf/2611.03647v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+        "authors": [
+          "Tony Tao",
+          "Jason Jingzhou Liu",
+          "Ruslan Salakhutdinov",
+          "Deepak Pathak"
+        ],
+        "summary": "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these components are often developed independently, creating mismatches that limit the capabilities of the comple",
+        "url": "http://arxiv.org/abs/2611.03648v1",
+        "pdf": "https://arxiv.org/pdf/2611.03648v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
+        "authors": [
+          "Paulius Skaisgiris",
+          "Thomas Pammer",
+          "Veronika Semmelrock",
+          "Mykyta Ielanskyi",
+          "Maximilian Heisinger"
+        ],
+        "summary": "Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style question answering. Despite these advances, purely neural LLMs continue to struggle with elementary logica",
+        "url": "http://arxiv.org/abs/2611.03641v1",
+        "pdf": "https://arxiv.org/pdf/2611.03641v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+        "authors": [
+          "Zhaoyang Wang",
+          "Qianhui Wu",
+          "Boyu Gou",
+          "Demi Wang",
+          "Jiacheng Zhang"
+        ],
+        "summary": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and limited coverage of authenticated workflows, while existing synthetic environments for training often ",
+        "url": "http://arxiv.org/abs/2611.03634v1",
+        "pdf": "https://arxiv.org/pdf/2611.03634v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models",
+        "authors": [
+          "Marius Memmel",
+          "Shawn Yin",
+          "Urvi Rutia",
+          "Angad Wadhwa",
+          "Eldon Li"
+        ],
+        "summary": "Vision-Language Models (VLMs) hold promise for zero-shot video task-progress estimation in robot learning, yet existing frameworks frequently suffer from confirmation bias, hallucinating progress in failed executions due to implicit success assumptions or relative temporal ranking designs. Naive pro",
+        "url": "http://arxiv.org/abs/2611.03622v1",
+        "pdf": "https://arxiv.org/pdf/2611.03622v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Strategist: Evolving Reasoning with Agents",
+        "authors": [
+          "Taiming Lu",
+          "Qi Xu",
+          "Zhigang Hua",
+          "Zhuang Liu"
+        ],
+        "summary": "A model is only half of an AI agent system. The other half is the inference strategy: the reasoning procedure that turns model calls into a response. Today that second half is written by hand, and the experience of building one strategy never carries to the next. We introduce Strategist, a meta-agen",
+        "url": "http://arxiv.org/abs/2611.03618v1",
+        "pdf": "https://arxiv.org/pdf/2611.03618v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Tracing the Scientific Discovery Capacity of LLMs to Their Training Data",
+        "authors": [
+          "Arda Uzunoglu",
+          "Mahler Revsine",
+          "Michael Schatz",
+          "Benjamin Van Durme",
+          "Mehrdad Farajtabar"
+        ],
+        "summary": "Large language models (LLMs) show growing promise for scientific discovery, yet basic questions remain about what enables reliable discovery. How can we trace the scientific discovery capacity of LLMs to their training data? We study this question as one of missing probability mass and develop a the",
+        "url": "http://arxiv.org/abs/2611.03617v1",
+        "pdf": "https://arxiv.org/pdf/2611.03617v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "DiabAgent: Toward Agentic Physiological Control",
+        "authors": [
+          "Chengxi Li",
+          "Shaoxuan Li",
+          "Deyao Hong",
+          "Qingle Liu",
+          "Yi Huang"
+        ],
+        "summary": "As pretraining scales, medical language models have advanced rapidly in clinical question answering. Their ability to achieve effective physiological control through sustained intervention still lacks systematic quantitative evaluation. Type 1 diabetes provides a concrete setting: impaired insulin s",
+        "url": "http://arxiv.org/abs/2611.03601v1",
+        "pdf": "https://arxiv.org/pdf/2611.03601v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Four Bridges: Measuring Deception Propensity in a Multi-Agent Game",
+        "authors": [
+          "Raphael Casey",
+          "Michael Simeone",
+          "Alberto Tosato",
+          "Florian Ernst",
+          "Kemal El Moujahid"
+        ],
+        "summary": "AI agents are increasingly deployed in settings where they interact and coordinate with other agents, yet honesty is mostly measured in single-turn, single-agent benchmarks that pressure the model to deceive. We study deception that emerges in multi-agent interaction without any instruction to decei",
+        "url": "http://arxiv.org/abs/2611.03600v1",
+        "pdf": "https://arxiv.org/pdf/2611.03600v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Spacetime Emergence in the Memory of a Learning Agent",
+        "authors": [
+          "Philip A. LeMaitre",
+          "T. Rick Perche"
+        ],
+        "summary": "We show that the causal structure of spacetime can emerge within the memory of a learning agent performing a quantum information task. We train a model-based reinforcement-learning agent to maximize the quantum mutual information between localized quantum probes interacting with a quantum field in M",
+        "url": "http://arxiv.org/abs/2611.03596v1",
+        "pdf": "https://arxiv.org/pdf/2611.03596v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Evaluating Uncertainty Calibration in Probabilistic Time Series Foundation Models",
+        "authors": [
+          "Thomas Decker",
+          "Volker Tresp"
+        ],
+        "summary": "Time series foundation models (TSFMs) are increasingly used for probabilistic forecasting across diverse domains, yet the reliability of their uncertainty estimates remains poorly understood. In this work, we study uncertainty calibration in probabilistic TSFMs from a broader methodological and empi",
+        "url": "http://arxiv.org/abs/2611.03592v1",
+        "pdf": "https://arxiv.org/pdf/2611.03592v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "FedReady: Bounded Agents for Federation Formation",
+        "authors": [
+          "Ziyue Xu",
+          "Holger R. Roth",
+          "Chester Chen",
+          "Peter Cnudde"
+        ],
+        "summary": "Federated learning (FL) runtimes standardize aggregation and deployment, but each new study still requires federation formation: selecting task-eligible sites and preparing their local data and task code for federated training or analysis. This preparation recurs when the target changes, while raw r",
+        "url": "http://arxiv.org/abs/2611.03586v1",
+        "pdf": "https://arxiv.org/pdf/2611.03586v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Sonar-MoE: In-Backward Expert Updates for Memory-Efficient Mixture-of-Experts Training",
+        "authors": [
+          "Avni Mittal",
+          "Avinash Anand",
+          "Ashutosh Kumar",
+          "Dikshant Kukreja",
+          "Kritarth Prasad"
+        ],
+        "summary": "Most parameters of a Mixture-of-Experts (MoE) model belong to its experts, and standard training keeps every expert gradient in GPU memory until the optimizer step. This memory grows with the number and size of the experts, so it rises as MoE models scale. We introduce Sonar-MoE, which updates each ",
+        "url": "http://arxiv.org/abs/2611.03577v1",
+        "pdf": "https://arxiv.org/pdf/2611.03577v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "PlantVLM-Edge: Quantized Vision-Language Models for On-Device Crop Health Diagnosis",
+        "authors": [
+          "Gaurab Wagle",
+          "Bishal Adhikari",
+          "Jiajia Li",
+          "Xiaolei Huang",
+          "Dong Chen"
+        ],
+        "summary": "Timely and accurate crop health diagnosis is essential for sustainable agricultural production, yet accurate diagnosis often requires expert knowledge that is not readily available. Recent vision-language models (VLMs) have demonstrated remarkable capabilities in visual understanding, reasoning, and",
+        "url": "http://arxiv.org/abs/2611.03557v1",
+        "pdf": "https://arxiv.org/pdf/2611.03557v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "MCP Tool Poisoning in Agentic AI Frameworks: A Cross-Framework Measurement Study",
+        "authors": [
+          "Farooq Shaikh",
+          "Biagio Montaruli"
+        ],
+        "summary": "The Model Context Protocol (MCP) lets agentic AI frameworks connect language models to external tool providers, but it carries attacker-controlled content (tool descriptions, schema fields, and response data) into model context without validation. Prior benchmarks measure model compliance with poiso",
+        "url": "http://arxiv.org/abs/2611.03555v1",
+        "pdf": "https://arxiv.org/pdf/2611.03555v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Can LLM Agents Be Forward-Deployed Engineers? Requirement Discovery and Delivery for Enterprise Text-to-SQL",
+        "authors": [
+          "Marianne Menglin Liu",
+          "Rongguang Wang",
+          "Zheng Wang",
+          "Yewen Wang",
+          "Leonid Boytsov"
+        ],
+        "summary": "LLM coding agents can increasingly automate model post-training, but whether they can act as forward-deployed engineer (FDE) agents, discovering customer requirements and turning them into deployment decisions, remains unclear. We study this on a real enterprise text-to-SQL engagement: a simulated c",
+        "url": "http://arxiv.org/abs/2611.03551v1",
+        "pdf": "https://arxiv.org/pdf/2611.03551v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "An Agentic Framework for Automated Power System Studies and Grid Connection Assessment",
+        "authors": [
+          "MaoXun Huang",
+          "Kshitij Kapoor",
+          "Eli Louise"
+        ],
+        "summary": "Connecting new generation and demand to the grid depends on two scarce skills: checking applications against a large, changing body of regulation, and running the network studies that decide where and how a project connects. We present Grid Agents, an AI system that brings both together, and the met",
+        "url": "http://arxiv.org/abs/2611.03534v1",
+        "pdf": "https://arxiv.org/pdf/2611.03534v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Contrastive Adapter Training and Consensus Knowledge Distillation for Multi-Source-Free Domain Adaptation in Skin Cancer Diagnosis",
+        "authors": [
+          "Ali Abedi",
+          "Q. M. Jonathan Wu",
+          "Ning Zhang",
+          "Farhad Pourpanah"
+        ],
+        "summary": "Skin cancer diagnosis, particularly differentiating melanoma from benign nevi, is challenging due to the visual similarity between lesions. Although convolutional neural networks (CNNs) and vision transformers (ViTs) have shown promising performance, their effectiveness often deteriorates on data fr",
+        "url": "http://arxiv.org/abs/2611.03528v1",
+        "pdf": "https://arxiv.org/pdf/2611.03528v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime",
+        "authors": [
+          "Abdellah Rahmani",
+          "Sean McLeish",
+          "Ang Li",
+          "Sanae Lotfi",
+          "Pascal Frossard"
+        ],
+        "summary": "Computer programmers chain together the same reusable computational primitives, for example, conditional statements or loops, but in different orders to implement different algorithms. In contrast, existing language model architectures always execute their layers in the same order. We introduce Libr",
+        "url": "http://arxiv.org/abs/2611.03526v1",
+        "pdf": "https://arxiv.org/pdf/2611.03526v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Grading the Unannotated: Insights from the WorkRB Skill Extraction Challenge at RecSys-HR 2026",
+        "authors": [
+          "Warre Veys",
+          "Luis Gasco",
+          "Jens-Joris Decorte"
+        ],
+        "summary": "Skill extraction benchmarks score models against a few human-annotated positives and treat every other skill in the vocabulary as equally wrong. At the scale of ESCO (13,939 skills) this binary view can reward models that rank the annotated positive high for the wrong reason, and hides semantically ",
+        "url": "http://arxiv.org/abs/2611.03525v1",
+        "pdf": "https://arxiv.org/pdf/2611.03525v1",
+        "published": "2026-11-02",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
+        "authors": [
+          "Catherine Li",
+          "Jingchu Gai",
+          "Andrej Risteski",
+          "Jacob Mitchell Springer",
+          "Aditi Raghunathan"
+        ],
+        "summary": "Muon has recently emerged as a promising optimizer for pretraining large language models, offering a speedup over AdamW in minimizing pretraining loss. However, it remains unclear whether Muon's advantage persists after fine-tuning. In this paper, we study the downstream behavior of Muon and AdamW a",
+        "url": "http://arxiv.org/abs/2611.03633v1",
+        "pdf": "https://arxiv.org/pdf/2611.03633v1",
+        "published": "2026-11-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR",
+        "authors": [
+          "Ziqi Pang",
+          "Yu-Xiong Wang"
+        ],
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) can enable generalizable improvement for large language model (LLM) reasoning. This paper studies how to incentivize such generalization via reasoning strategies. We study this question with a controllable equation-solving framework: finding mult",
+        "url": "http://arxiv.org/abs/2611.03627v1",
+        "pdf": "https://arxiv.org/pdf/2611.03627v1",
+        "published": "2026-11-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "FADE: Factored Ability--Difficulty Filtering for Online RLVR Scheduling",
+        "authors": [
+          "Tomas Duncun",
+          "Jonah Ellison",
+          "Mateo Ruiz",
+          "Hanae Fujita",
+          "Ingrid Solberg"
+        ],
+        "summary": "Group-based reinforcement learning with verifiable rewards (RLVR) learns only from prompts whose sampled completions disagree: all-pass and all-fail groups produce zero relative advantage and burn generation budget without moving the policy. Adaptive schedulers try to steer rollouts toward informati",
+        "url": "http://arxiv.org/abs/2611.03625v1",
+        "pdf": "https://arxiv.org/pdf/2611.03625v1",
+        "published": "2026-11-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Thought-deciphering via hierarchical EEG-to-text alignment",
+        "authors": [
+          "Xiaopeng Mao",
+          "Morten Mørup",
+          "Xin Xu",
+          "Sang Wan Lee",
+          "Sadasivan Puthusserypady"
+        ],
+        "summary": "Communication is important for our well-being, but it can be impaired by disabilities, such as locked-in syndrome (LIS), cerebral palsy (CP), and dysarthria. Non-invasive brain-to-text brain-computer interfaces (BCIs) offer a promising solution by providing an alternative communication pathway for p",
+        "url": "http://arxiv.org/abs/2611.03623v1",
+        "pdf": "https://arxiv.org/pdf/2611.03623v1",
+        "published": "2026-11-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Benchmark Prediction with Sparse and Unpaired Cached Responses",
+        "authors": [
+          "Hayden Helm",
+          "Avijit Ghosh",
+          "Ben Johnson",
+          "Carey Priebe"
+        ],
+        "summary": "Evaluating a generative model on all queries from all available benchmark tasks is prohibitively expensive. As such, models are often evaluated on different subsets of tasks and/or different subsets of queries from a given task. The resulting collection of responses and the corresponding (model, tas",
+        "url": "http://arxiv.org/abs/2611.03614v1",
+        "pdf": "https://arxiv.org/pdf/2611.03614v1",
+        "published": "2026-11-02",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Efficient Closure Learning in Dynamical Systems: A Comparison of Data-Assimilated and Embedded Approaches",
+        "authors": [
+          "Rileigh Bandy",
+          "Teresa Portone",
+          "Mohammad Khalil",
+          "Eric Crislip",
+          "Kyle Neal"
+        ],
+        "summary": "Increased computing power has transformed computational science and improved predictive capabilities for complex systems, but many phenomena still exceed current simulation capabilities or require rapid evaluations for fast design iterations. Closure models address this challenge by approximating un",
+        "url": "http://arxiv.org/abs/2611.03612v1",
+        "pdf": "https://arxiv.org/pdf/2611.03612v1",
+        "published": "2026-11-02",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
