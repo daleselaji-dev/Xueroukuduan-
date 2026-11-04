@@ -1,0 +1,586 @@
+{
+  "date": "2026-11-04",
+  "generated": "2026-11-04T08:43:24.324028",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "deepseek-ai/dsh-superagent-prototype",
+        "description": "Towards a More Autonomous Agent System",
+        "stars": 17845,
+        "language": "TypeScript",
+        "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+        "created": "2026-10-31"
+      },
+      {
+        "rank": 2,
+        "name": "storytold/craft-anything",
+        "description": "Craft Anything: understand how any software works, and craft your own.",
+        "stars": 9494,
+        "language": "Rust",
+        "url": "https://github.com/storytold/craft-anything",
+        "created": "2026-10-31"
+      },
+      {
+        "rank": 3,
+        "name": "heydamir/unslop",
+        "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+        "stars": 7830,
+        "language": "JavaScript",
+        "url": "https://github.com/heydamir/unslop",
+        "created": "2026-10-29"
+      },
+      {
+        "rank": 4,
+        "name": "wangzan101/Mika",
+        "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "stars": 6254,
+        "language": "Kotlin",
+        "url": "https://github.com/wangzan101/Mika",
+        "created": "2026-10-29"
+      },
+      {
+        "rank": 5,
+        "name": "valentderah/totk-pc-recomp",
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+        "stars": 4634,
+        "language": "C",
+        "url": "https://github.com/valentderah/totk-pc-recomp",
+        "created": "2026-10-29"
+      },
+      {
+        "rank": 6,
+        "name": "patch-gg/pixelfx",
+        "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "stars": 4356,
+        "language": "JavaScript",
+        "url": "https://github.com/patch-gg/pixelfx",
+        "created": "2026-10-30"
+      },
+      {
+        "rank": 7,
+        "name": "BryceYuuu/RUN",
+        "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+        "stars": 3372,
+        "language": "Python",
+        "url": "https://github.com/BryceYuuu/RUN",
+        "created": "2026-10-29"
+      },
+      {
+        "rank": 8,
+        "name": "Djihads80/Eglantine",
+        "description": "VERY experimental Nintendo Switch 2 emulator",
+        "stars": 3206,
+        "language": "C++",
+        "url": "https://github.com/Djihads80/Eglantine",
+        "created": "2026-10-29"
+      },
+      {
+        "rank": 9,
+        "name": "paipiange/nvzhuang",
+        "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+        "stars": 2154,
+        "language": "Go",
+        "url": "https://github.com/paipiange/nvzhuang",
+        "created": "2026-10-29"
+      },
+      {
+        "rank": 10,
+        "name": "Verlintas/NOIR",
+        "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+        "stars": 1847,
+        "language": "Kotlin",
+        "url": "https://github.com/Verlintas/NOIR",
+        "created": "2026-10-31"
+      },
+      {
+        "rank": 11,
+        "name": "elvarofficial/teardown",
+        "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+        "stars": 1763,
+        "language": "JavaScript",
+        "url": "https://github.com/elvarofficial/teardown",
+        "created": "2026-10-30"
+      },
+      {
+        "rank": 12,
+        "name": "caru-ini/stack-diagram",
+        "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+        "stars": 1658,
+        "language": "TypeScript",
+        "url": "https://github.com/caru-ini/stack-diagram",
+        "created": "2026-11-01"
+      },
+      {
+        "rank": 13,
+        "name": "KKKKhazix/agent-autoloop",
+        "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "stars": 1613,
+        "language": "TypeScript",
+        "url": "https://github.com/KKKKhazix/agent-autoloop",
+        "created": "2026-11-03"
+      },
+      {
+        "rank": 14,
+        "name": "Pika-Labs/Pika-H3-Flex",
+        "description": "Pika H3 Flex: video and audio generation inference",
+        "stars": 1483,
+        "language": "Python",
+        "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
+        "created": "2026-10-29"
+      },
+      {
+        "rank": 15,
+        "name": "Arjun-Ingole/hop",
+        "description": "Install Linux next to Windows without a USB stick",
+        "stars": 1481,
+        "language": "PowerShell",
+        "url": "https://github.com/Arjun-Ingole/hop",
+        "created": "2026-10-30"
+      },
+      {
+        "rank": 16,
+        "name": "kevinraymond/florilegium",
+        "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+        "stars": 1418,
+        "language": "Lua",
+        "url": "https://github.com/kevinraymond/florilegium",
+        "created": "2026-10-30"
+      },
+      {
+        "rank": 17,
+        "name": "mromidev/claude-animated-shorts",
+        "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+        "stars": 1332,
+        "language": "TypeScript",
+        "url": "https://github.com/mromidev/claude-animated-shorts",
+        "created": "2026-11-01"
+      },
+      {
+        "rank": 18,
+        "name": "NiazMorshed2007/reanimate",
+        "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+        "stars": 1127,
+        "language": "JavaScript",
+        "url": "https://github.com/NiazMorshed2007/reanimate",
+        "created": "2026-10-29"
+      },
+      {
+        "rank": 19,
+        "name": "wquguru/cicada",
+        "description": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
+        "stars": 831,
+        "language": "Swift",
+        "url": "https://github.com/wquguru/cicada",
+        "created": "2026-11-01"
+      },
+      {
+        "rank": 20,
+        "name": "RikiyaT/lm_understand-logs",
+        "description": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
+        "stars": 815,
+        "language": "Python",
+        "url": "https://github.com/RikiyaT/lm_understand-logs",
+        "created": "2026-10-29"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+        "authors": [
+          "Jisoo Kim",
+          "Chaehyun Kim",
+          "Junsu Kim",
+          "Jiho Park",
+          "Seongchan Kim"
+        ],
+        "summary": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearance. Existing latent action models infer actions from visual transitions, but their representations of",
+        "url": "http://arxiv.org/abs/2611.05377v1",
+        "pdf": "https://arxiv.org/pdf/2611.05377v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
+        "authors": [
+          "Hao Fei"
+        ],
+        "summary": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on a person's behalf. Yet people still forget what they once knew, miss what they are not looking at, f",
+        "url": "http://arxiv.org/abs/2611.05376v1",
+        "pdf": "https://arxiv.org/pdf/2611.05376v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
+        "authors": [
+          "Austin Tsai",
+          "Saurav Nanda",
+          "Ganapathy Parthasarathy",
+          "Bhuvnesh Kumar",
+          "Parivesh Choudhary"
+        ],
+        "summary": "Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates on-policy sampling, LLM-based rating of the samples together with a teacher's gold response, large-",
+        "url": "http://arxiv.org/abs/2611.05373v1",
+        "pdf": "https://arxiv.org/pdf/2611.05373v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Suppressing Misaligned Behaviors in Language Models, Durably",
+        "authors": [
+          "Luxi He",
+          "Pengcheng Jiang",
+          "Jifan Zhang",
+          "Jiawei Han",
+          "Danqi Chen"
+        ],
+        "summary": "Undesired model behaviors can emerge or re-emerge at any stage of training. Once observed, how effectively can we suppress them? To study this question, we first construct two model organisms--language models deliberately trained to exhibit a specific misalignment--that differ in what triggers the b",
+        "url": "http://arxiv.org/abs/2611.05358v1",
+        "pdf": "https://arxiv.org/pdf/2611.05358v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Adversarial Speculative Reasoning Improves Long Horizon Agents",
+        "authors": [
+          "Hongyin Luo",
+          "Wei Fang",
+          "Lijie Yang",
+          "Owen Stepan",
+          "Daniel Suit"
+        ],
+        "summary": "Speculative decoding has been treated purely as a systems optimization that speeds up large language model decoding without changing the model behavior. Under this view, the growing effort to train better draft models has been focused solely on acceptance rate. We argue that this view does not hold ",
+        "url": "http://arxiv.org/abs/2611.05345v1",
+        "pdf": "https://arxiv.org/pdf/2611.05345v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Weight-space programming for auditing clinical decision networks",
+        "authors": [
+          "Humza Nusrat",
+          "Omar Nusrat"
+        ],
+        "summary": "Machine learning models in radiotherapy are commissioned by testing them on cases with known answers, which may not reveal a shortcut that the test cases share with the training data. Frontier language models have recently been reported to read and write the raw weights of small neural networks, an ",
+        "url": "http://arxiv.org/abs/2611.05341v1",
+        "pdf": "https://arxiv.org/pdf/2611.05341v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "MedPhysBench: A Benchmark for Evaluating Language Models on Medical Physics Calculations and Error Detection",
+        "authors": [
+          "Omar Nusrat"
+        ],
+        "summary": "Medical physicists turn a prescription into a delivered dose and check one another's calculations, because one error in a beam calibration or a monitor-unit (MU) calculation can affect every patient treated with it. MedPhysBench has ten seeded generators of calculation items in radiation therapy, di",
+        "url": "http://arxiv.org/abs/2611.05340v1",
+        "pdf": "https://arxiv.org/pdf/2611.05340v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "A simple adaptive accelerated optimistic dual averaging method for unconstrained convex optimization in $p$-norm geometry",
+        "authors": [
+          "Bowen Li",
+          "Danqing Zhou",
+          "Chuan He"
+        ],
+        "summary": "Efficient preconditioning plays an important role in large-scale first-order optimization. In this paper, we propose an adaptive accelerated optimistic dual averaging ($\\text{A}^2$ODA) method for unconstrained convex optimization that adopts low-cost preconditioning based on $p$-norm geometry for $p",
+        "url": "http://arxiv.org/abs/2611.05334v1",
+        "pdf": "https://arxiv.org/pdf/2611.05334v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data",
+        "authors": [
+          "Kewei Zhang",
+          "Juncheng Ma",
+          "Guodong Lv",
+          "Duomin Wang",
+          "Feixiang Ruan"
+        ],
+        "summary": "Teleoperation remains the default way to collect robot demonstrations, but every episode costs robot and operator time, and every new task starts from scratch. We ask whether a coding agent can take over the teleoperator's job. In our DataFarm, the agent receives a data request and one calibration e",
+        "url": "http://arxiv.org/abs/2611.05320v1",
+        "pdf": "https://arxiv.org/pdf/2611.05320v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation",
+        "authors": [
+          "Zhen Tao",
+          "Xun Zhou",
+          "Xuhui Chen",
+          "Ziyue Qiao",
+          "Qingqiang Sun"
+        ],
+        "summary": "In LLM-based recommendation, memory acts as a user-level agent in a memory-augmented backbone. Yet users and items remain asymmetric: only the user is given a structured profile; it enters a bandwidth-limited reranker prompt; and it is frozen after warmup. We recast LLM-based recommendation as an ag",
+        "url": "http://arxiv.org/abs/2611.05319v1",
+        "pdf": "https://arxiv.org/pdf/2611.05319v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "You don't need long context",
+        "authors": [
+          "Peter Belcak",
+          "Saurav Muralidharan",
+          "Jindong Jiang",
+          "Yonggan Fu",
+          "Wonmin Byeon"
+        ],
+        "summary": "Later tokens are costlier to generate than earlier tokens. On frontier open weight models, the disparity in cost may rise to as much as 7x. Through frequent compaction, we show across a broad range of long-horizon and long-input tasks that frontier language models sacrifice little to no task accurac",
+        "url": "http://arxiv.org/abs/2611.05306v1",
+        "pdf": "https://arxiv.org/pdf/2611.05306v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers",
+        "authors": [
+          "Minsoo Cheong",
+          "Sungjoo Yoo"
+        ],
+        "summary": "Looped transformers are a parameter-efficient alternative to standard transformers for language modeling. By reapplying the same layers across multiple loop steps, recent looped language models match the performance of non-looped models several times their size. While this architecture effectively r",
+        "url": "http://arxiv.org/abs/2611.05304v1",
+        "pdf": "https://arxiv.org/pdf/2611.05304v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Personas Are Not People: Identity as State, Not Attribute",
+        "authors": [
+          "Tamunotonye Harry",
+          "Yuanyuan Feng"
+        ],
+        "summary": "Synthetic populations, large sets of simulated people, are increasingly used in place of real people to pretest surveys, simulate users and communities, and evaluate AI systems. Each simulated person is defined by a persona, a written profile of fixed traits, demographics, and attitudes that a langu",
+        "url": "http://arxiv.org/abs/2611.05292v1",
+        "pdf": "https://arxiv.org/pdf/2611.05292v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "False Reassurance in LLM Severe-Weather Guidance: A Replayable Evaluation Against Real NWS Alerts",
+        "authors": [
+          "Kadharmoideen Fadurudeen"
+        ],
+        "summary": "An LLM assistant that cannot see official severe-weather alerts may tell users that conditions are calm while a warning is active. We call this false reassurance and measure it by replaying 117 frozen cases built from real U.S. National Weather Service (NWS) alerts (69 alert cases, 32 no-alert contr",
+        "url": "http://arxiv.org/abs/2611.05290v1",
+        "pdf": "https://arxiv.org/pdf/2611.05290v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment",
+        "authors": [
+          "Ariana M. Villegas-Suarez",
+          "Guido Freire",
+          "Sohan Venkatesh",
+          "Bartosz Cywiński"
+        ],
+        "summary": "Fine-tuning a large language model (LLM) on harmful data in a narrow domain, such as bad medical advice, can make it broadly misaligned. How realistic this risk is remains unclear, since models are very rarely fine-tuned on explicitly harmful data in practice. In this work, we show that fine-tuning ",
+        "url": "http://arxiv.org/abs/2611.05287v1",
+        "pdf": "https://arxiv.org/pdf/2611.05287v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Beyond Accuracy: What Language-Subspace Interventions Capture, Remove, and Improve",
+        "authors": [
+          "Shaanil Punglia",
+          "Dadhichi Telwadkar",
+          "Vaibhav Rathore",
+          "Siddharth Sureka",
+          "Neha Bhargava"
+        ],
+        "summary": "Language-subspace interventions aim to improve multilingual reasoning by suppressing language-related components in mid-layer activations. Using MATH and MGSM across four open-weight LLMs, we ask three questions: do estimated language subspaces capture translation-associated variation? Does projecti",
+        "url": "http://arxiv.org/abs/2611.05278v1",
+        "pdf": "https://arxiv.org/pdf/2611.05278v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "The Geometry of Ignorance: Detecting Suppressed Knowledge in LLMs through Activation Fragmentation",
+        "authors": [
+          "Adar Peleg",
+          "Dvir Alsheich",
+          "Tomer Ashuach",
+          "Avi Mendelson"
+        ],
+        "summary": "Evaluating whether a large language model (LLM) genuinely knows a concept remains a fundamental problem, since behavioral metrics can be fooled by suppression: a model that refuses to answer may still harbor recoverable knowledge. The framework measures the geometric coherence of \\textit{anon-vector",
+        "url": "http://arxiv.org/abs/2611.05272v1",
+        "pdf": "https://arxiv.org/pdf/2611.05272v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks",
+        "authors": [
+          "Shanka Subhra Mondal",
+          "Jiayun Wang"
+        ],
+        "summary": "Multimodal web agents have shown promising capabilities for interacting with websites through graphical user interfaces (GUIs), yet realistic web tasks often require long-horizon, multi-step planning that remains challenging for monolithic policies. Such agents must jointly infer high-level plans, n",
+        "url": "http://arxiv.org/abs/2611.05263v1",
+        "pdf": "https://arxiv.org/pdf/2611.05263v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Going Deeper With Memories",
+        "authors": [
+          "Afshin Khadangi"
+        ],
+        "summary": "Byte level language models avoid tokenizer dependence and provide universal coverage, but processing every byte at full resolution is expensive. We introduce DeepMem, a causal multiscale architecture that separates semantic compression from exact byte preservation. A learned invertible subband trans",
+        "url": "http://arxiv.org/abs/2611.05255v1",
+        "pdf": "https://arxiv.org/pdf/2611.05255v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Fairness Metrics based on the AUC in Clinical Predictive AI",
+        "authors": [
+          "João Matos",
+          "Ben Van Calster",
+          "Richard D. Riley",
+          "Paula Dhiman",
+          "Gary S. Collins"
+        ],
+        "summary": "Fairness evaluation of clinical prediction models for binary outcomes often involves fairness metrics that compare the area under the receiver operating characteristic curve (AUC, or c-statistic) across subgroups. However, the AUC has been shown to be a non-collapsible metric, meaning that its subgr",
+        "url": "http://arxiv.org/abs/2611.05222v1",
+        "pdf": "https://arxiv.org/pdf/2611.05222v1",
+        "published": "2026-11-03",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning",
+        "authors": [
+          "Yuhan Liu",
+          "Xinqi Liu",
+          "Zixuan Dong",
+          "Keith W. Ross",
+          "Shenji Wan"
+        ],
+        "summary": "Inverse kinematics (IK) converts end-effector pose commands into joint motion, and many vision-language-action (VLA) policies rely on it to act on a given arm and to transfer across embodiments. Precise IK remains laborious: redundancy and singularities complicate the inverse mapping, execution depe",
+        "url": "http://arxiv.org/abs/2611.05372v1",
+        "pdf": "https://arxiv.org/pdf/2611.05372v1",
+        "published": "2026-11-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "GUILD: Guided Iterative Data Collection for Imitation Learning",
+        "authors": [
+          "Shivin Dass",
+          "Kevin Nguyen",
+          "Rohan Yelandur",
+          "Junhong Xu",
+          "Roberto Martín-Martín"
+        ],
+        "summary": "Imitation learning policies in robotics are trained on datasets collected through costly real-world teleoperation. Often, the data-collection process is unguided, relying on the teleoperator's intuition, resulting in data that contributes little to overall policy performance. Recent work has shown t",
+        "url": "http://arxiv.org/abs/2611.05368v1",
+        "pdf": "https://arxiv.org/pdf/2611.05368v1",
+        "published": "2026-11-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits",
+        "authors": [
+          "Teerawat Tongloy",
+          "Jiraporn Pongsopa",
+          "Rangsan Jomtarak"
+        ],
+        "summary": "When a language model answers, we can usually only estimate why. We build a transformer in which every step is a Born measurement - attention $|\\langle q|k\\rangle|^4$ normalised over each row, a measured product in place of the feed-forward nonlinearity, and a Born readout. With its denominators hel",
+        "url": "http://arxiv.org/abs/2611.05355v1",
+        "pdf": "https://arxiv.org/pdf/2611.05355v1",
+        "published": "2026-11-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Agnostic Learning by Imitating",
+        "authors": [
+          "Sílvia Casacuberta",
+          "Parikshit Gopalan",
+          "Varun Kanade",
+          "Omer Reingold",
+          "Konstantinos Stavropoulos"
+        ],
+        "summary": "Given a class of machine learning models and sample access to a data distribution with binary labels, which computational task is harder: training a discriminative model that distinguishes positive and negative labels as well as the best member of the class, or training a generative model whose outp",
+        "url": "http://arxiv.org/abs/2611.05346v1",
+        "pdf": "https://arxiv.org/pdf/2611.05346v1",
+        "published": "2026-11-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "A Circuit for In-Context Learning",
+        "authors": [
+          "Andrew Gao",
+          "William Gao"
+        ],
+        "summary": "In-context learning (ICL) lets a pretrained language model perform a task specified by demonstrations in its prompt, with no parameter updates. With arbitrary labels the model must acquire a mapping it cannot have memorized, so the learning happens within a single forward pass. Prior work found cand",
+        "url": "http://arxiv.org/abs/2611.05344v1",
+        "pdf": "https://arxiv.org/pdf/2611.05344v1",
+        "published": "2026-11-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "CATF: A Manager-Worker Framework for Context-Aware Time-Series Forecasting",
+        "authors": [
+          "Yueqiao Chen",
+          "Dongyu Liu"
+        ],
+        "summary": "We study context-aware time-series forecasting, in which a single target variable is predicted from its own history and a set of contextual variables, such as weather and calendar information. As the context becomes more diverse, a single model struggles to capture all of its regimes, while ensemble",
+        "url": "http://arxiv.org/abs/2611.05325v1",
+        "pdf": "https://arxiv.org/pdf/2611.05325v1",
+        "published": "2026-11-03",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "$Φ$asmaNet: A Staged Spectral Token-Refinement Architecture for Fast Gravitational-Wave Signal-to-Noise Ratio Prediction",
+        "authors": [
+          "Ioannis Tsioulis",
+          "Anastasios Tefas",
+          "Nikolaos Stergioulas"
+        ],
+        "summary": "Quantifying selection effects in gravitational-wave population studies requires millions of costly signal-to-noise ratio (SNR) calculations. We present $Φ$asmaNet, a compact neural architecture for structured tabular regression, with staged spectral refinement as an explicit architectural prior. Lea",
+        "url": "http://arxiv.org/abs/2611.05309v1",
+        "pdf": "https://arxiv.org/pdf/2611.05309v1",
+        "published": "2026-11-03",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
