@@ -1,0 +1,601 @@
+{
+  "date": "2026-11-05",
+  "generated": "2026-11-05T09:05:05.520338",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "deepseek-ai/dsh-superagent-prototype",
+        "description": "Towards a More Autonomous Agent System",
+        "stars": 19054,
+        "language": "TypeScript",
+        "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+        "created": "2026-10-31"
+      },
+      {
+        "rank": 2,
+        "name": "storytold/craft-anything",
+        "description": "Craft Anything: understand how any software works, and craft your own.",
+        "stars": 13368,
+        "language": "Rust",
+        "url": "https://github.com/storytold/craft-anything",
+        "created": "2026-10-31"
+      },
+      {
+        "rank": 3,
+        "name": "patch-gg/pixelfx",
+        "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "stars": 4972,
+        "language": "JavaScript",
+        "url": "https://github.com/patch-gg/pixelfx",
+        "created": "2026-10-30"
+      },
+      {
+        "rank": 4,
+        "name": "KKKKhazix/agent-autoloop",
+        "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "stars": 2946,
+        "language": "TypeScript",
+        "url": "https://github.com/KKKKhazix/agent-autoloop",
+        "created": "2026-11-03"
+      },
+      {
+        "rank": 5,
+        "name": "Verlintas/NOIR",
+        "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+        "stars": 2265,
+        "language": "Kotlin",
+        "url": "https://github.com/Verlintas/NOIR",
+        "created": "2026-10-31"
+      },
+      {
+        "rank": 6,
+        "name": "elvarofficial/teardown",
+        "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+        "stars": 1999,
+        "language": "JavaScript",
+        "url": "https://github.com/elvarofficial/teardown",
+        "created": "2026-10-30"
+      },
+      {
+        "rank": 7,
+        "name": "caru-ini/stack-diagram",
+        "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+        "stars": 1800,
+        "language": "TypeScript",
+        "url": "https://github.com/caru-ini/stack-diagram",
+        "created": "2026-11-01"
+      },
+      {
+        "rank": 8,
+        "name": "govijr/terminal-mac",
+        "description": "Entire MacOS running in your terminal.",
+        "stars": 1728,
+        "language": "Swift",
+        "url": "https://github.com/govijr/terminal-mac",
+        "created": "2026-11-03"
+      },
+      {
+        "rank": 9,
+        "name": "mromidev/claude-animated-shorts",
+        "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+        "stars": 1602,
+        "language": "TypeScript",
+        "url": "https://github.com/mromidev/claude-animated-shorts",
+        "created": "2026-11-01"
+      },
+      {
+        "rank": 10,
+        "name": "Arjun-Ingole/hop",
+        "description": "Install Linux next to Windows without a USB stick",
+        "stars": 1518,
+        "language": "PowerShell",
+        "url": "https://github.com/Arjun-Ingole/hop",
+        "created": "2026-10-30"
+      },
+      {
+        "rank": 11,
+        "name": "kevinraymond/florilegium",
+        "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+        "stars": 1430,
+        "language": "TeX",
+        "url": "https://github.com/kevinraymond/florilegium",
+        "created": "2026-10-30"
+      },
+      {
+        "rank": 12,
+        "name": "wquguru/cicada",
+        "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+        "stars": 1353,
+        "language": "Swift",
+        "url": "https://github.com/wquguru/cicada",
+        "created": "2026-11-01"
+      },
+      {
+        "rank": 13,
+        "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+        "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+        "stars": 1293,
+        "language": "Python",
+        "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+        "created": "2026-11-04"
+      },
+      {
+        "rank": 14,
+        "name": "zortos293/Lichii",
+        "description": "VERY experimental Nintendo Switch 2 emulator",
+        "stars": 1162,
+        "language": "C++",
+        "url": "https://github.com/zortos293/Lichii",
+        "created": "2026-10-31"
+      },
+      {
+        "rank": 15,
+        "name": "N1nEmAn/sapper-v2",
+        "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa ",
+        "stars": 1077,
+        "language": "Python",
+        "url": "https://github.com/N1nEmAn/sapper-v2",
+        "created": "2026-10-30"
+      },
+      {
+        "rank": 16,
+        "name": "Minireel/HGhub",
+        "description": "YellowFruit third-party client",
+        "stars": 997,
+        "language": "TypeScript",
+        "url": "https://github.com/Minireel/HGhub",
+        "created": "2026-11-03"
+      },
+      {
+        "rank": 17,
+        "name": "s1dashu/quiet-md",
+        "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML. 高性能本地笔记，兼容飞书文档格式。",
+        "stars": 887,
+        "language": "Rust",
+        "url": "https://github.com/s1dashu/quiet-md",
+        "created": "2026-11-01"
+      },
+      {
+        "rank": 18,
+        "name": "anthropics/FlashProve",
+        "description": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
+        "stars": 865,
+        "language": "Lean",
+        "url": "https://github.com/anthropics/FlashProve",
+        "created": "2026-10-30"
+      },
+      {
+        "rank": 19,
+        "name": "AssassinCreator/steam-stash-value-report-card",
+        "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+        "stars": 776,
+        "language": "Python",
+        "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+        "created": "2026-11-02"
+      },
+      {
+        "rank": 20,
+        "name": "UncensoredLabs/uncensored-ai-api",
+        "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+        "stars": 765,
+        "language": "JavaScript",
+        "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+        "created": "2026-11-01"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+        "authors": [
+          "Fei Lin",
+          "Tengchao Zhang",
+          "Ziyang Gong",
+          "Xiaotong Yu",
+          "Bohan Zhang"
+        ],
+        "summary": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act under physical, procedural, and safety constraints. Although Multimodal Large Language Models (MLLMs) a",
+        "url": "http://arxiv.org/abs/2611.06911v1",
+        "pdf": "https://arxiv.org/pdf/2611.06911v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+        "authors": [
+          "Bingran You",
+          "Wenjun Ke",
+          "Ria Rosenauer",
+          "Bo Liu",
+          "Wenbo Chen"
+        ],
+        "summary": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research quality alongside correctness. We introduce FrontierPhysics, an end-",
+        "url": "http://arxiv.org/abs/2611.06910v1",
+        "pdf": "https://arxiv.org/pdf/2611.06910v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Perceptive Humanoid Motion from Simulation",
+        "authors": [
+          "Siyuan Hu",
+          "Abulikemu Abuduweili",
+          "Yue Meng",
+          "Shipeng Liu",
+          "Quentin Leboutet"
+        ],
+        "summary": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-form language to low-level joint commands requires paired supervision, and no corpus of such data ex",
+        "url": "http://arxiv.org/abs/2611.06908v1",
+        "pdf": "https://arxiv.org/pdf/2611.06908v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues",
+        "authors": [
+          "Chibueze Praise Onyenweaku",
+          "Toyibat Adele",
+          "Sikirulahi Opeyemi Abdulkareem",
+          "Obed Honour Eje"
+        ],
+        "summary": "Knowing that a pedestrian is occluded is useful to a robot even when the detector cannot recover the hidden pixels, but occlusion estimators are normally trained on occlusion annotations that deployment settings rarely have. We show that occlusion can be read off two distance estimates a camera-only",
+        "url": "http://arxiv.org/abs/2611.06899v1",
+        "pdf": "https://arxiv.org/pdf/2611.06899v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure",
+        "authors": [
+          "Siyi Yu"
+        ],
+        "summary": "Automation is often justified as relief from dull, dirty, and dangerous work. I examine how these conditions relate to occupational AI exposure using 21 O*NET items across 754 US occupations. Higher exposure is associated with lower condition scores under a large language model (LLM) measure and AI ",
+        "url": "http://arxiv.org/abs/2611.06888v1",
+        "pdf": "https://arxiv.org/pdf/2611.06888v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Learning to Decode Linear Codes with Generalized Belief Propagation Network",
+        "authors": [
+          "Samira Malek"
+        ],
+        "summary": "Error correcting codes are a fundamental component of communication systems, enabling reliable data transmission over noisy channels. Recently, neural decoders have demonstrated notable performance gains over classical iterative algorithms. In this paper, we propose a Generalized Belief Propagation ",
+        "url": "http://arxiv.org/abs/2611.06874v1",
+        "pdf": "https://arxiv.org/pdf/2611.06874v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "On Turn-Level Best-of-N Sampling for Scaling LLM Agents",
+        "authors": [
+          "Jalaj Bhandari",
+          "Dhawal Gupta",
+          "Hongli Zhan",
+          "Zhenting Wang",
+          "Varad Pimpalkhute"
+        ],
+        "summary": "In this work, we evaluate a simple inference-time scaling approach based on \\textit{turn-level best-of-N sampling} (\\method) for large language model (LLM) agents on complex, long-horizon tasks. We instantiate this using a \\textit{generator-selector} framework with two LLMs; at each turn, a \\emph{ge",
+        "url": "http://arxiv.org/abs/2611.06868v1",
+        "pdf": "https://arxiv.org/pdf/2611.06868v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "CounterFactual Retrieval for Evidence-Aware Individual Animal Identification",
+        "authors": [
+          "Ankit K. Upadhyay",
+          "Aleksandr Algasov",
+          "Ekaterina Nepovinnykh",
+          "Fedor Zolotarev",
+          "Tuomas Eerola"
+        ],
+        "summary": "Automated identification of individual animals is moving from small curated studies toward shared benchmarks and reusable foundation models. This progress is useful, but current evaluation leaves the evidence behind a match unresolved, i.e., high retrieval accuracy does not show whether a model used",
+        "url": "http://arxiv.org/abs/2611.06864v1",
+        "pdf": "https://arxiv.org/pdf/2611.06864v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "CompressionBench: How can your coding agents compress LLMs?",
+        "authors": [
+          "Xinrui Zhong",
+          "Zhifeng Li",
+          "Zhiming Wang",
+          "Yongqi Liu",
+          "Shanglin Yang"
+        ],
+        "summary": "Recursive self-improvement requires AI systems to improve the models and infrastructure used by subsequent systems. LLM compression offers a concrete efficiency objective: retain a pretrained model's behavior within a smaller model storage budget. We study whether coding agents can carry out this st",
+        "url": "http://arxiv.org/abs/2611.06858v1",
+        "pdf": "https://arxiv.org/pdf/2611.06858v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "ServerBench: How can your coding agents design specialized LLM serving systems?",
+        "authors": [
+          "Xinrui Zhong",
+          "Zhiming Wang",
+          "Yongqi Liu",
+          "Zhaohui Wang",
+          "Shanglin Yang"
+        ],
+        "summary": "Large language model (LLM) coding agents develop software through experimentation, offering an opportunity to design the serving systems supporting their own operation. Effective serving requires coordinating implementation and operating decisions under session dependencies, latency constraints, and",
+        "url": "http://arxiv.org/abs/2611.06841v1",
+        "pdf": "https://arxiv.org/pdf/2611.06841v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Context--Answer Metamodels: Forecasting LLM Activations Before the First Answer Token",
+        "authors": [
+          "Tommy He",
+          "Thomas Jiralerspong"
+        ],
+        "summary": "Under stochastic decoding, a single context can elicit many different answers from a language model. Characterizing this variation typically requires many expensive autoregressive rollouts, each revealing only one realization. We ask whether the activations produced while reading the context can dir",
+        "url": "http://arxiv.org/abs/2611.06837v1",
+        "pdf": "https://arxiv.org/pdf/2611.06837v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Enabling AWS Cloud FPGA Development Using High-Level Vitis HLS",
+        "authors": [
+          "David Rostcheck"
+        ],
+        "summary": "We present a toolchain for development of ML models on AWS EC2 F2 cloud FPGA infrastructure from high-level language, implementing a complete Vitis HLS to HDK bridge to AFI workflow that has been absent from the academic literature despite eight years of AWS FPGA availability. We introduce a four-le",
+        "url": "http://arxiv.org/abs/2611.06829v1",
+        "pdf": "https://arxiv.org/pdf/2611.06829v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Rules, Traces and Routing Statistics: Training and Calibration Data for Open Models on ARC-AGI-2",
+        "authors": [
+          "Nguyen Minh Thang",
+          "Trinh Thi Phuong"
+        ],
+        "summary": "We study which training and calibration data help three open models solve ARC-AGI-2 tasks when the solver runs offline on four L4 GPUs for at most 12 hours. We compare data offline on public tasks and report 189 runs on the 120 hidden semi-private tasks. For the NVARC Qwen3-4B grid model, we built a",
+        "url": "http://arxiv.org/abs/2611.06827v1",
+        "pdf": "https://arxiv.org/pdf/2611.06827v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Task-Efficient Agent Evaluation Using Cached Traces",
+        "authors": [
+          "Ben Johnson",
+          "Hayden Helm"
+        ],
+        "summary": "Efficient benchmarking estimates a system's full benchmark performance from a small number of task executions. Standard approaches rely solely on the binary correctness of executions from a collection of already-evaluated reference systems. An agentic system, however, produces a rich trace for each ",
+        "url": "http://arxiv.org/abs/2611.06803v1",
+        "pdf": "https://arxiv.org/pdf/2611.06803v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Message-passing graph persistence",
+        "authors": [
+          "Jorge Luiz Franco",
+          "Arthur Queiroz Moura",
+          "Moacir Ponti",
+          "Amauri Souza"
+        ],
+        "summary": "Message-passing graph neural networks (GNNs) are limited in expressive power by the one-dimensional Weisfeiler-Leman test. Persistent homology (PH) provides topological descriptors that can complement GNN representations, but existing approaches typically compute persistence separately from the repr",
+        "url": "http://arxiv.org/abs/2611.06801v1",
+        "pdf": "https://arxiv.org/pdf/2611.06801v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Transforming Integer Grids to Spatial Intuition: Perception, Not Planning, Governs ARC-AGI-3",
+        "authors": [
+          "Harsidak Singh Banwait"
+        ],
+        "summary": "Sample-efficient fluid intelligence requires agents that rapidly form working models of unfamiliar interactive environments. ARC-AGI-3 tests this across uninstructed visual games scored by Relative Human Action Efficiency, which penalizes exploratory waste quadratically. When frontier models read ra",
+        "url": "http://arxiv.org/abs/2611.06793v1",
+        "pdf": "https://arxiv.org/pdf/2611.06793v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "FedFiOT: Fisher-Weighted Optimal Transport for Model Merging in One-Shot and Few-Round Federated Learning",
+        "authors": [
+          "Quan Minh Nguyen",
+          "Hoang M. Ngo",
+          "Bhakti Chowkwale",
+          "Yasaman Keshtkarjahromi",
+          "My T. Thai"
+        ],
+        "summary": "One-shot and few-round federated learning (FL) reduce communication burden by constructing a global model within one or a few communication rounds, but often achieve lower performance than conventional multi-round FL. Without frequent synchronization, client models may drift apart, causing neurons t",
+        "url": "http://arxiv.org/abs/2611.06783v1",
+        "pdf": "https://arxiv.org/pdf/2611.06783v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Route First, See Later: Enabling Vision Agents to Reason Scientifically by Separating Routing Policy from Action Spaces",
+        "authors": [
+          "Shubhabrata Mukherjee",
+          "Jeffrey Donatelli",
+          "Daniela Ushizima"
+        ],
+        "summary": "Scientific image-analysis workflows require agents to select among diverse capabilities like description, detection, counting, and segmentation. Current multi-tool architectures conflate intent interpretation with visual execution, masking whether a failure arises from flawed reasoning (misrouting) ",
+        "url": "http://arxiv.org/abs/2611.06760v1",
+        "pdf": "https://arxiv.org/pdf/2611.06760v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "EvoWorld: Towards Out-of-Sight World Evolution in Generative Video Models",
+        "authors": [
+          "Yequan Bie",
+          "Dengyang Jiang",
+          "Zhixuan Chen",
+          "Xiaozhuan Liang",
+          "Haoxuan Che"
+        ],
+        "summary": "Generative video models are increasingly used as visual world simulators, yet their primary strength lies in rendering plausible pixels rather than reasoning about how a world should evolve. Coherent world evolution requires more than visual fidelity: when an event occurs, a model must infer its con",
+        "url": "http://arxiv.org/abs/2611.06748v1",
+        "pdf": "https://arxiv.org/pdf/2611.06748v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing",
+        "authors": [
+          "Ruikang Li",
+          "Zixuan Chen",
+          "Jiarui Wu",
+          "Mingde Yao",
+          "Yiyuan Zhang"
+        ],
+        "summary": "Strong single-turn editing performance does not guarantee reliable multi-turn interaction: as edited outputs are repeatedly reused, small unintended changes can accumulate into severe visual drift. This long-term drift is often mitigated through training on multi-turn data or cross-turn rollouts, po",
+        "url": "http://arxiv.org/abs/2611.06741v1",
+        "pdf": "https://arxiv.org/pdf/2611.06741v1",
+        "published": "2026-11-04",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+        "authors": [
+          "Mattia Greiche",
+          "Reihaneh Rabbany",
+          "Maximilian Puelma Touzel"
+        ],
+        "summary": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been shown to substantially change their behavior under meaning-preserving prompt variations, creating a ",
+        "url": "http://arxiv.org/abs/2611.06914v1",
+        "pdf": "https://arxiv.org/pdf/2611.06914v1",
+        "published": "2026-11-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
+        "authors": [
+          "Nicolas Tricard",
+          "Linzheng Wang",
+          "Jason Chen",
+          "Sili Deng"
+        ],
+        "summary": "Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimators and which aspects of their predictions can be trusted. FlowReconBench evaluates ten learned and f",
+        "url": "http://arxiv.org/abs/2611.06912v1",
+        "pdf": "https://arxiv.org/pdf/2611.06912v1",
+        "published": "2026-11-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
+        "authors": [
+          "Michal Korniak",
+          "Marco Bagatella",
+          "Ralf Römer",
+          "Michal Nauman",
+          "Yarden As"
+        ],
+        "summary": "The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-shot generalization capabilities, they typically require an adaptation phase to achieve sufficient pe",
+        "url": "http://arxiv.org/abs/2611.06905v1",
+        "pdf": "https://arxiv.org/pdf/2611.06905v1",
+        "published": "2026-11-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Adaptive Multi Mode: Budget-Aware Routing of Optimizers By Online Landscape Probes",
+        "authors": [
+          "Benjamin Jacob Bodner"
+        ],
+        "summary": "The best classical optimizer for a continuous black-box problem depends on its budget and landscape. Existing routers decide from the dimension and budget, past improvement or features fitted to one benchmark, and few test an optimizer's implicit assumptions online. AMM (Adaptive Multi Mode) routes ",
+        "url": "http://arxiv.org/abs/2611.06879v1",
+        "pdf": "https://arxiv.org/pdf/2611.06879v1",
+        "published": "2026-11-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Balancing hierarchical representation and quantization: A performance trade-off in text embeddings",
+        "authors": [
+          "Kai Ponel",
+          "Marco Polignano",
+          "Erasmo Purificato",
+          "Aylin Julia Temizkan",
+          "Marco Levantesi"
+        ],
+        "summary": "Hierarchical text embedding models offer variable-length representations, while quantization reduces numerical precision; both aim to improve computational efficiency. This work is an empirical benchmark study of how these two orthogonal, already-established techniques interact. We evaluate 38 tasks",
+        "url": "http://arxiv.org/abs/2611.06859v1",
+        "pdf": "https://arxiv.org/pdf/2611.06859v1",
+        "published": "2026-11-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Visual Token Routing: Learning to keep tokens that matter",
+        "authors": [
+          "Pranjal Aggarwal",
+          "Sean Welleck"
+        ],
+        "summary": "Computer-use agents (CUAs) have recently achieved superhuman performance on several long-horizon benchmarks. However, their computational cost limits their use in long-horizon tasks and real-time domains such as video games. A key bottleneck is representing each screenshot as thousands of visual tok",
+        "url": "http://arxiv.org/abs/2611.06854v1",
+        "pdf": "https://arxiv.org/pdf/2611.06854v1",
+        "published": "2026-11-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "Navigating Disagreement Among Criteria for Evaluating Explanation Faithfulness",
+        "authors": [
+          "Grant Shanklin",
+          "Jiří Němeček",
+          "Asia Biega"
+        ],
+        "summary": "Faithfulness requires that algorithmic explanations accurately reflect the model's behavior. Yet existing operationalizations of faithfulness can disagree about whether the same explanation is faithful, leaving developers and auditors to choose among conflicting evaluations. In this paper, we invest",
+        "url": "http://arxiv.org/abs/2611.06846v1",
+        "pdf": "https://arxiv.org/pdf/2611.06846v1",
+        "published": "2026-11-04",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Thermally Conditioned Time-Series Forecasting of Grain Growth in Polycrystalline Materials",
+        "authors": [
+          "Eliane Younes",
+          "Elie Hachem",
+          "Marc Bernacki"
+        ],
+        "summary": "Grain growth during heat treatment strongly affects the microstructure of polycrystalline materials and, consequently, their mechanical properties. Although numerical methods such as front-tracking or front-capturing simulations can accurately describe grain growth, their high computational cost lim",
+        "url": "http://arxiv.org/abs/2611.06843v1",
+        "pdf": "https://arxiv.org/pdf/2611.06843v1",
+        "published": "2026-11-04",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
