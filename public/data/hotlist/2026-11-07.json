@@ -1,0 +1,552 @@
+{
+  "date": "2026-11-07",
+  "generated": "2026-11-07T08:27:29.842008",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "KKKKhazix/agent-autoloop",
+        "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "stars": 3799,
+        "language": "TypeScript",
+        "url": "https://github.com/KKKKhazix/agent-autoloop",
+        "created": "2026-11-03"
+      },
+      {
+        "rank": 2,
+        "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+        "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+        "stars": 2956,
+        "language": "Python",
+        "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+        "created": "2026-11-04"
+      },
+      {
+        "rank": 3,
+        "name": "govijr/terminal-mac",
+        "description": "Entire MacOS running in your terminal.",
+        "stars": 2192,
+        "language": "Swift",
+        "url": "https://github.com/govijr/terminal-mac",
+        "created": "2026-11-03"
+      },
+      {
+        "rank": 4,
+        "name": "mromidev/claude-animated-shorts",
+        "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+        "stars": 2074,
+        "language": "TypeScript",
+        "url": "https://github.com/mromidev/claude-animated-shorts",
+        "created": "2026-11-01"
+      },
+      {
+        "rank": 5,
+        "name": "caru-ini/stack-diagram",
+        "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+        "stars": 1999,
+        "language": "TypeScript",
+        "url": "https://github.com/caru-ini/stack-diagram",
+        "created": "2026-11-01"
+      },
+      {
+        "rank": 6,
+        "name": "Minireel/HGhub",
+        "description": "YellowFruit third-party client",
+        "stars": 1878,
+        "language": "TypeScript",
+        "url": "https://github.com/Minireel/HGhub",
+        "created": "2026-11-03"
+      },
+      {
+        "rank": 7,
+        "name": "wquguru/cicada",
+        "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+        "stars": 1583,
+        "language": "Swift",
+        "url": "https://github.com/wquguru/cicada",
+        "created": "2026-11-01"
+      },
+      {
+        "rank": 8,
+        "name": "JenkinWoo/sheeridVerify",
+        "description": "",
+        "stars": 1220,
+        "language": "JavaScript",
+        "url": "https://github.com/JenkinWoo/sheeridVerify",
+        "created": "2026-11-06"
+      },
+      {
+        "rank": 9,
+        "name": "s1dashu/quiet-md",
+        "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
+        "stars": 1207,
+        "language": "Rust",
+        "url": "https://github.com/s1dashu/quiet-md",
+        "created": "2026-11-01"
+      },
+      {
+        "rank": 10,
+        "name": "livliv-dev/player",
+        "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+        "stars": 1014,
+        "language": "TypeScript",
+        "url": "https://github.com/livliv-dev/player",
+        "created": "2026-11-04"
+      },
+      {
+        "rank": 11,
+        "name": "mmdoctor/google-pro-helper",
+        "description": "",
+        "stars": 987,
+        "language": "Python",
+        "url": "https://github.com/mmdoctor/google-pro-helper",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 12,
+        "name": "Sandflow-ai/sand3d",
+        "description": "3D modeling in Python, built for LLMs.",
+        "stars": 887,
+        "language": "HTML",
+        "url": "https://github.com/Sandflow-ai/sand3d",
+        "created": "2026-11-03"
+      },
+      {
+        "rank": 13,
+        "name": "AssassinCreator/steam-stash-value-report-card",
+        "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+        "stars": 786,
+        "language": "Python",
+        "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+        "created": "2026-11-02"
+      },
+      {
+        "rank": 14,
+        "name": "chadyi/StudyOnTV",
+        "description": "StudyOnTV (Tiledaoti TV) — open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and manage questions fro",
+        "stars": 760,
+        "language": "Kotlin",
+        "url": "https://github.com/chadyi/StudyOnTV",
+        "created": "2026-11-01"
+      },
+      {
+        "rank": 15,
+        "name": "Minglink/dsh-jailbreak-workflow",
+        "description": "DSH 破甲词制作作工作流 ",
+        "stars": 725,
+        "language": "TypeScript",
+        "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+        "created": "2026-11-01"
+      },
+      {
+        "rank": 16,
+        "name": "Gezine/CivSwitch",
+        "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
+        "stars": 636,
+        "language": "JavaScript",
+        "url": "https://github.com/Gezine/CivSwitch",
+        "created": "2026-11-01"
+      },
+      {
+        "rank": 17,
+        "name": "NotRexed/Hookshot",
+        "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+        "stars": 608,
+        "language": "C++",
+        "url": "https://github.com/NotRexed/Hookshot",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 18,
+        "name": "libracoder/kiri",
+        "description": "A small, fast container runtime for macOS, Windows and Linux",
+        "stars": 604,
+        "language": "Rust",
+        "url": "https://github.com/libracoder/kiri",
+        "created": "2026-11-02"
+      },
+      {
+        "rank": 19,
+        "name": "WoYun520/gif-factory",
+        "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+        "stars": 576,
+        "language": "Python",
+        "url": "https://github.com/WoYun520/gif-factory",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 20,
+        "name": "voyager-so/vork",
+        "description": "Headless 3D and VFX engine for agents. Research preview.",
+        "stars": 529,
+        "language": "Rust",
+        "url": "https://github.com/voyager-so/vork",
+        "created": "2026-11-05"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+        "authors": [
+          "Qile Jiang",
+          "George Em Karniadakis"
+        ],
+        "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must rep",
+        "url": "http://arxiv.org/abs/2611.08483v1",
+        "pdf": "https://arxiv.org/pdf/2611.08483v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Scientist World: Grow a Research World for AI-Scientists",
+        "authors": [
+          "Taiming Lu",
+          "Sachin Konan",
+          "Zhuang Liu"
+        ],
+        "summary": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every resea",
+        "url": "http://arxiv.org/abs/2611.08478v1",
+        "pdf": "https://arxiv.org/pdf/2611.08478v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "XStack: A Benchmark for ML Repo Migration",
+        "authors": [
+          "Linrong Cai",
+          "Taiming Lu",
+          "Haozhe Chen",
+          "Zhuang Liu"
+        ],
+        "summary": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is (1",
+        "url": "http://arxiv.org/abs/2611.08472v1",
+        "pdf": "https://arxiv.org/pdf/2611.08472v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+        "authors": [
+          "Linqian Wu",
+          "Diaoxuan He"
+        ],
+        "summary": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions. W",
+        "url": "http://arxiv.org/abs/2611.08469v1",
+        "pdf": "https://arxiv.org/pdf/2611.08469v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Towards interpreting any residual stream direction by scaling activation inversion",
+        "authors": [
+          "Celeste De Schamphelaere",
+          "Juan J. Vazquez",
+          "Ari Spiesberger",
+          "Tomáš Gavenčiak",
+          "Gavin Leech"
+        ],
+        "summary": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus contains. We develop Maximally-Activating Example Metamodels (MAEMs), language models which map residua",
+        "url": "http://arxiv.org/abs/2611.08465v1",
+        "pdf": "https://arxiv.org/pdf/2611.08465v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+        "authors": [
+          "Yubo Wang",
+          "Rui Meng",
+          "Jaehyun Nam",
+          "Tomas Pfister",
+          "Jinsung Yoon"
+        ],
+        "summary": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success can therefore depend on their ability to fill in missing details, rather than on the released artifac",
+        "url": "http://arxiv.org/abs/2611.08452v1",
+        "pdf": "https://arxiv.org/pdf/2611.08452v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
+        "authors": [
+          "Vladimir Beskorovainyi"
+        ],
+        "summary": "Typed-decision models score options that the caller supplies at request time, so their accuracy depends on label wording that the model's developer does not control. We compare two releases of a 307M-parameter multilingual cross-encoder, Ru-Jev, trained on thirteen Russian-language tasks; the later ",
+        "url": "http://arxiv.org/abs/2611.08439v1",
+        "pdf": "https://arxiv.org/pdf/2611.08439v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+        "authors": [
+          "Fazl Barez",
+          "Tung-Yu Wu",
+          "Hunar Batra",
+          "Gabriele Dominici",
+          "Florent Draye"
+        ],
+        "summary": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making AI safety one of the defining challenges of our time. Yet we continue to build increasingly powerfu",
+        "url": "http://arxiv.org/abs/2611.08438v1",
+        "pdf": "https://arxiv.org/pdf/2611.08438v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
+        "authors": [
+          "Donghua Zhang",
+          "Zizheng Wang",
+          "Ze Dong",
+          "Yiding Feng",
+          "Siyu Qian"
+        ],
+        "summary": "LLM-based medical assistants that follow a patient across visits need a memory that keeps the patient's clinical state correct as it changes. We examine the errors of five memory systems on longitudinal medical dialogue and find three recurring causes: the retrieved evidence gives an outdated state,",
+        "url": "http://arxiv.org/abs/2611.08433v1",
+        "pdf": "https://arxiv.org/pdf/2611.08433v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
+        "authors": [
+          "Julian Kunkel",
+          "Ali Doosthosseini"
+        ],
+        "summary": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. We explore meta access---giving the assistant a structured, permissioned view of",
+        "url": "http://arxiv.org/abs/2611.08428v1",
+        "pdf": "https://arxiv.org/pdf/2611.08428v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing",
+        "authors": [
+          "Michal P. Podolinsky",
+          "Yunhao Yang",
+          "Daniel Little",
+          "Hong Lu",
+          "Rohan Siva"
+        ],
+        "summary": "Vision-Language-Action models (VLAs) enable general-purpose embodied intelligence, but their performance is brittle under distribution shift, where unanticipated failures can damage equipment or endanger people. Deploying VLAs in real-world systems therefore requires a runtime monitor that is timely",
+        "url": "http://arxiv.org/abs/2611.08425v1",
+        "pdf": "https://arxiv.org/pdf/2611.08425v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
+        "authors": [
+          "E. Kelly Buchanan",
+          "Crystal Zhou",
+          "Scott W. Linderman",
+          "Christopher Ré"
+        ],
+        "summary": "Coding agents are among the most economically consequential deployments of LLMs to date, making reliable evaluation increasingly important. Yet even benchmarks that are carefully validated at release can become stale. As models improve, they can discover valid solutions that existing verifiers rejec",
+        "url": "http://arxiv.org/abs/2611.08417v1",
+        "pdf": "https://arxiv.org/pdf/2611.08417v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?",
+        "authors": [
+          "Yuanchuan Guo",
+          "Jiashun Jin",
+          "Zheng Tracy Ke",
+          "Bingcheng Sui"
+        ],
+        "summary": "The growing use of AI in mathematics raises a question: can we detect AI involvement in proofs, separately from AI assistance with writing? Historical arXiv papers, recent papers disclosing substantive AI use, and manuscripts released by OpenAI provide a rich empirical basis for studying this questi",
+        "url": "http://arxiv.org/abs/2611.08412v1",
+        "pdf": "https://arxiv.org/pdf/2611.08412v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning",
+        "authors": [
+          "Yang Ouyang",
+          "Jung-Eun Kim"
+        ],
+        "summary": "Self-consistency (SC) is a widely used decoding strategy for improving chain-of-thought reasoning, but it requires sampling many complete reasoning trajectories with a preset budget. Its efficient variants reduce the cost mainly by stopping full-trajectory sampling early or distributing the number o",
+        "url": "http://arxiv.org/abs/2611.08403v1",
+        "pdf": "https://arxiv.org/pdf/2611.08403v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Learning a patient world model for health system simulation in intensive care",
+        "authors": [
+          "Yingtai Li",
+          "Ruoyan Wang",
+          "Yu Li",
+          "Shaohua Kevin Zhou"
+        ],
+        "summary": "Designing healthcare strategies requires anticipating their clinical and operational consequences before implementation, a task that often relies on health system simulation. Such a simulation necessitates modeling how patient states evolve and generate care demands. However, conventional approaches",
+        "url": "http://arxiv.org/abs/2611.08392v1",
+        "pdf": "https://arxiv.org/pdf/2611.08392v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Hybrid Machine Learning for Imbalanced Landing-Phase Safety Event Prediction from Flight Data",
+        "authors": [
+          "Taha Asghar",
+          "Bilal Mufti",
+          "Syed Qasim Zaheer",
+          "Luqman Ahmed"
+        ],
+        "summary": "Landing-phase safety-event prediction requires the detection of rare abnormal approaches within strongly imbalanced multivariate flight data. Capturing coupled temporal behavior while distinguishing event-specific signatures across airport operating contexts remains a central modeling challenge. Thi",
+        "url": "http://arxiv.org/abs/2611.08386v1",
+        "pdf": "https://arxiv.org/pdf/2611.08386v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning",
+        "authors": [
+          "Ali Mohammadi Ruzbahani",
+          "Abbas Yazdinejad",
+          "Hadis Karimipour"
+        ],
+        "summary": "Federated learning servers combine client models with a fixed aggregation rule, and each rule in common use is designed for one kind of heterogeneity. We study whether a large language model (LLM) that inspects the client models can choose the rule itself, without any training on the server. In FedR",
+        "url": "http://arxiv.org/abs/2611.08383v1",
+        "pdf": "https://arxiv.org/pdf/2611.08383v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation",
+        "authors": [
+          "Sateesh Kumar",
+          "Arnav Balaji",
+          "Arpit Bahety",
+          "Skand Peri",
+          "Georgios Pavlakos"
+        ],
+        "summary": "Visuomotor policies trained through imitation learning are highly sensitive to changes in camera viewpoint. This is particularly problematic for mobile manipulation (MoMa), where robots rarely execute manipulation from the exact same base pose used during demonstration collection due to navigation u",
+        "url": "http://arxiv.org/abs/2611.08372v1",
+        "pdf": "https://arxiv.org/pdf/2611.08372v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
+        "authors": [
+          "Pengkai Wang",
+          "Wei-Wei Zhang",
+          "Yan Li",
+          "Min Tang",
+          "Zhitian Hou"
+        ],
+        "summary": "Current medical benchmarks typically break down clinical competence into isolated factual questions, single-image tasks, or static case vignettes. These tests score individual answers, but reveal less about whether a model can integrate subspecialty knowledge with multimodal evidence and track a pat",
+        "url": "http://arxiv.org/abs/2611.08369v1",
+        "pdf": "https://arxiv.org/pdf/2611.08369v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception",
+        "authors": [
+          "Sacha Jungerman",
+          "Kaustubh Sadekar",
+          "Avery Gump",
+          "Sriram Narayanan",
+          "Shantanu Gupta"
+        ],
+        "summary": "Robotic perception increasingly relies on heterogeneous sensor suites combining cameras with emerging modalities (event, SPAD, iToF/dToF, and thermal). Yet existing simulators idealize these sensors, hiding critical modality-specific failure modes that limit real-world deployment. We present VisionS",
+        "url": "http://arxiv.org/abs/2611.08368v1",
+        "pdf": "https://arxiv.org/pdf/2611.08368v1",
+        "published": "2026-11-05",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+        "authors": [
+          "Jonathan Kozaczuk",
+          "Zheng Dong",
+          "Noyan Evirgen",
+          "Keivan Majidi",
+          "Eddie K. H. Ng"
+        ],
+        "summary": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we argue that user embedd",
+        "url": "http://arxiv.org/abs/2611.08487v1",
+        "pdf": "https://arxiv.org/pdf/2611.08487v1",
+        "published": "2026-11-05",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness",
+        "authors": [
+          "Yi Feng",
+          "Andrea Paudice"
+        ],
+        "summary": "Adversarial Training (AT) is an important method for improving model robustness. We study the dynamics of deterministic Gradient Descent (GD) in AT. Most existing works in this direction focus on the small or vanishing step sizes regime, where GD resembles a continuous-time flow. However, such step ",
+        "url": "http://arxiv.org/abs/2611.08457v1",
+        "pdf": "https://arxiv.org/pdf/2611.08457v1",
+        "published": "2026-11-05",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
+        "authors": [
+          "Zeyu Leo Liu",
+          "Yang Li",
+          "Bo Pang",
+          "Emre Can Acikgoz",
+          "Xuan-Phi Nguyen"
+        ],
+        "summary": "On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does this dense signal reduce the training FLOPs needed to reach a target accuracy compared with reinforcement learning? We systematically compare vanilla reverse-KL OPD with Group Relat",
+        "url": "http://arxiv.org/abs/2611.08453v1",
+        "pdf": "https://arxiv.org/pdf/2611.08453v1",
+        "published": "2026-11-05",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "A Hidden Markov Preference Model for Online Prediction of Adversary Actions",
+        "authors": [
+          "Angel Daruna",
+          "Michael Cogswell",
+          "Tixiao Shan",
+          "Yi Yao",
+          "Han-Pang Chiu"
+        ],
+        "summary": "A defender anticipating an attacker needs a probability distribution over the attacker's next action from information available before that action occurs. Two structures complicate this: the attacker's behavioral regime persists and can switch within an episode, and each action combines an operation",
+        "url": "http://arxiv.org/abs/2611.08445v1",
+        "pdf": "https://arxiv.org/pdf/2611.08445v1",
+        "published": "2026-11-05",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
