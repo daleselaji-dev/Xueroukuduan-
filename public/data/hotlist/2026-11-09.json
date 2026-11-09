@@ -1,0 +1,586 @@
+{
+  "date": "2026-11-09",
+  "generated": "2026-11-09T09:18:28.864518",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Minireel/HGhub",
+        "description": "YellowFruit third-party client",
+        "stars": 4466,
+        "language": "TypeScript",
+        "url": "https://github.com/Minireel/HGhub",
+        "created": "2026-11-03"
+      },
+      {
+        "rank": 2,
+        "name": "KKKKhazix/agent-autoloop",
+        "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "stars": 4208,
+        "language": "TypeScript",
+        "url": "https://github.com/KKKKhazix/agent-autoloop",
+        "created": "2026-11-03"
+      },
+      {
+        "rank": 3,
+        "name": "NotRexed/Hookshot",
+        "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+        "stars": 3549,
+        "language": "C++",
+        "url": "https://github.com/NotRexed/Hookshot",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 4,
+        "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+        "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+        "stars": 3313,
+        "language": "Python",
+        "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+        "created": "2026-11-04"
+      },
+      {
+        "rank": 5,
+        "name": "govijr/terminal-mac",
+        "description": "Entire MacOS running in your terminal.",
+        "stars": 2445,
+        "language": "Swift",
+        "url": "https://github.com/govijr/terminal-mac",
+        "created": "2026-11-03"
+      },
+      {
+        "rank": 6,
+        "name": "JenkinWoo/sheeridVerify",
+        "description": "",
+        "stars": 1897,
+        "language": "JavaScript",
+        "url": "https://github.com/JenkinWoo/sheeridVerify",
+        "created": "2026-11-06"
+      },
+      {
+        "rank": 7,
+        "name": "sarpstar/cinecode",
+        "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+        "stars": 1743,
+        "language": "Python",
+        "url": "https://github.com/sarpstar/cinecode",
+        "created": "2026-11-03"
+      },
+      {
+        "rank": 8,
+        "name": "tangerineturtle1/NX2navi",
+        "description": "",
+        "stars": 1680,
+        "language": "C",
+        "url": "https://github.com/tangerineturtle1/NX2navi",
+        "created": "2026-11-07"
+      },
+      {
+        "rank": 9,
+        "name": "Sandflow-ai/sand3d",
+        "description": "3D modeling in Python, built for LLMs.",
+        "stars": 1511,
+        "language": "HTML",
+        "url": "https://github.com/Sandflow-ai/sand3d",
+        "created": "2026-11-03"
+      },
+      {
+        "rank": 10,
+        "name": "livliv-dev/player",
+        "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+        "stars": 1366,
+        "language": "TypeScript",
+        "url": "https://github.com/livliv-dev/player",
+        "created": "2026-11-04"
+      },
+      {
+        "rank": 11,
+        "name": "CzJam/gjgjxweb",
+        "description": "《搞机工具箱》Web移植版",
+        "stars": 1361,
+        "language": "HTML",
+        "url": "https://github.com/CzJam/gjgjxweb",
+        "created": "2026-11-03"
+      },
+      {
+        "rank": 12,
+        "name": "mmdoctor/google-pro-helper",
+        "description": "",
+        "stars": 1291,
+        "language": "Python",
+        "url": "https://github.com/mmdoctor/google-pro-helper",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 13,
+        "name": "shanselman/gputaskman",
+        "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+        "stars": 1259,
+        "language": "Python",
+        "url": "https://github.com/shanselman/gputaskman",
+        "created": "2026-11-03"
+      },
+      {
+        "rank": 14,
+        "name": "voyager-so/vork",
+        "description": "Headless 3D and VFX engine for agents. Research preview.",
+        "stars": 1204,
+        "language": "Rust",
+        "url": "https://github.com/voyager-so/vork",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 15,
+        "name": "DIYgod/pinky",
+        "description": "Let AI agents use your phone, with you in the loop.",
+        "stars": 1184,
+        "language": "Go",
+        "url": "https://github.com/DIYgod/pinky",
+        "created": "2026-11-06"
+      },
+      {
+        "rank": 16,
+        "name": "jhaizhou-ops/S2Arm",
+        "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
+        "stars": 1131,
+        "language": "C#",
+        "url": "https://github.com/jhaizhou-ops/S2Arm",
+        "created": "2026-11-08"
+      },
+      {
+        "rank": 17,
+        "name": "egoist/mygo-music",
+        "description": "A native music player you extend with plugins",
+        "stars": 1059,
+        "language": "Go",
+        "url": "https://github.com/egoist/mygo-music",
+        "created": "2026-11-04"
+      },
+      {
+        "rank": 18,
+        "name": "sostenesfreitas/ocarina-recomp",
+        "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+        "stars": 998,
+        "language": "C",
+        "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+        "created": "2026-11-06"
+      },
+      {
+        "rank": 19,
+        "name": "WoYun520/gif-factory",
+        "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+        "stars": 979,
+        "language": "Python",
+        "url": "https://github.com/WoYun520/gif-factory",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 20,
+        "name": "Th0rgal/satmux",
+        "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+        "stars": 973,
+        "language": "Python",
+        "url": "https://github.com/Th0rgal/satmux",
+        "created": "2026-11-07"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "On Agentic Manipulation Policies",
+        "authors": [
+          "Chen Chen",
+          "Omid Bagherieh",
+          "Naveen Nikamanth Appiah Balaji",
+          "Jesse T. Gonzalez",
+          "Negin Heravi"
+        ],
+        "summary": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action models (WAMs). We systematically analyze age",
+        "url": "http://arxiv.org/abs/2611.09892v1",
+        "pdf": "https://arxiv.org/pdf/2611.09892v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+        "authors": [
+          "Peter Belcak",
+          "Greg Heinrich",
+          "Saurav Muralidharan",
+          "Shizhe Diao",
+          "Pavlo Molchanov"
+        ],
+        "summary": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned through, the application of its solution to a new problem instance can be done very",
+        "url": "http://arxiv.org/abs/2611.09891v1",
+        "pdf": "https://arxiv.org/pdf/2611.09891v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+        "authors": [
+          "Haoyu Wang",
+          "Ru Wang",
+          "Yuanyuan Wang",
+          "Jiaxian Guo",
+          "Mingming Gong"
+        ],
+        "summary": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze majority-vote supervision for TTRL with online Direct Preference Optimization (DPO) and decompose its ",
+        "url": "http://arxiv.org/abs/2611.09872v1",
+        "pdf": "https://arxiv.org/pdf/2611.09872v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description",
+        "authors": [
+          "Rochak Dhakal",
+          "Chen Zhao",
+          "Soup Cobb",
+          "Xin Qian",
+          "Xiaofeng Yang"
+        ],
+        "summary": "Purpose: Surgical operative reports support procedural documentation, surgical training, performance assessment, and workflow review. However, extracting meaningful information often requires extensive manual review and clinical expertise. Automated surgical scene descriptions could reduce this burd",
+        "url": "http://arxiv.org/abs/2611.09866v1",
+        "pdf": "https://arxiv.org/pdf/2611.09866v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
+        "authors": [
+          "Xun Tu",
+          "Minghao Zou",
+          "Karthik Desingh"
+        ],
+        "summary": "Loco-manipulation, which requires mobile manipulators to coordinate locomotion and manipulation over long horizons, is a key capability for large-object rearrangement in applications such as service robotics and warehouse automation. Despite recent progress, reliably executing these tasks remains ch",
+        "url": "http://arxiv.org/abs/2611.09864v1",
+        "pdf": "https://arxiv.org/pdf/2611.09864v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Flow-Guided Target-Space Alignment via Path Consistency",
+        "authors": [
+          "Ruizhi Yuan",
+          "Zeqiu Yu",
+          "Wei Gao",
+          "Wei Chen",
+          "Xiwei Tang"
+        ],
+        "summary": "Many multimodal alignment problems require mapping a source modality into a fixed space defined by a target modality, where the target space is not merely an intermediate embedding but is used directly for downstream analysis. In this setting, successful alignment should preserve both the global str",
+        "url": "http://arxiv.org/abs/2611.09863v1",
+        "pdf": "https://arxiv.org/pdf/2611.09863v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Ensemble Methodology for Reference-Free Confidence Estimation in LLM-based Code Summarization",
+        "authors": [
+          "Marco Colombo",
+          "Balaji A Jayaram",
+          "Sowmyakumari Selvaraj",
+          "Sumit Tokkar",
+          "Animesh Kumar"
+        ],
+        "summary": "This paper describes an approach and use case to estimate the correctness of LLM-generated COBOL summaries without access to human-authored references. The core intuition is that inter-model agreement on semantics is informative about truth, and that an LLM-as-judge can provide higher-fidelity pairw",
+        "url": "http://arxiv.org/abs/2611.09846v1",
+        "pdf": "https://arxiv.org/pdf/2611.09846v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Can Agentic Systems Close the Gap in Radiology with Production AI Tools?",
+        "authors": [
+          "Aubin Charley",
+          "Julien Khlaut",
+          "Charles Corbière",
+          "Pierre Manceron",
+          "Corentin Dancette"
+        ],
+        "summary": "Radiology AI has developed along two paths: specialized models that perform well on narrow tasks but cover few clinical findings, and generalist models that address a broader range of tasks but remain prone to hallucination and inaccurate measurements. Combining the two through agentic systems offer",
+        "url": "http://arxiv.org/abs/2611.09836v1",
+        "pdf": "https://arxiv.org/pdf/2611.09836v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
+        "authors": [
+          "Dayou Du",
+          "Woon Yee Ng",
+          "Guangming Sheng",
+          "Nick Lau",
+          "Jianyi Cheng"
+        ],
+        "summary": "The key-value (KV) cache dominates memory capacity and bandwidth in long-context LLM serving. While 4-bit microscaling formats (NVFP4, MXFP4) shrink the cache and run attention on FP4 Tensor Cores, a fundamental gap remains between algorithmic quantization and system-aware acceleration: existing FP4",
+        "url": "http://arxiv.org/abs/2611.09825v1",
+        "pdf": "https://arxiv.org/pdf/2611.09825v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Discovering formally verified quantum programs with AI",
+        "authors": [
+          "Sergey Shirobokov",
+          "Ben Jaderberg",
+          "Katerina Hristova",
+          "George Tsoukalas",
+          "Johannes Bausch"
+        ],
+        "summary": "The timeline by which quantum computers can solve breakthrough problems in science depends on improved quantum algorithms as much as on better hardware. Such algorithmic advances are typically achieved through many years of expert human collaboration. In mathematics and computer science, large langu",
+        "url": "http://arxiv.org/abs/2611.09822v1",
+        "pdf": "https://arxiv.org/pdf/2611.09822v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Generative Latent Priors for Interpreting and Steering Protein Language Models",
+        "authors": [
+          "Daniel Hinjos",
+          "Lucía Urcelay"
+        ],
+        "summary": "Dominant methods for interpreting large models impose strong structural assumptions. Generative Latent Priors (GLP) are a complementary approach: a diffusion model that learns the distribution of a frozen model's activations directly, imposing no assumptions. We port GLP to ESM-2 activations (UniRef",
+        "url": "http://arxiv.org/abs/2611.09818v1",
+        "pdf": "https://arxiv.org/pdf/2611.09818v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Scaling Graph Similarity Learning with Graph Neural Networks",
+        "authors": [
+          "Ahmet Tüzen",
+          "Helge Langseth",
+          "Kjetil Nørvåg"
+        ],
+        "summary": "Graph similarity computation is an important task in graph mining with many real-world applications, such as chemical compound analysis, program dependence comparison, and social network analysis. The problem is computationally challenging: Graph Edit Distance (GED) and Maximum Common Subgraph (MCS)",
+        "url": "http://arxiv.org/abs/2611.09805v1",
+        "pdf": "https://arxiv.org/pdf/2611.09805v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "When Instruction Files Go Stale: Documentation Debt and Hidden Cost in Coding Agents",
+        "authors": [
+          "Tural Mehtiyev",
+          "Biruk Tadesse",
+          "Lawrence Arkoh",
+          "Wesley Assunção"
+        ],
+        "summary": "LLM-based coding agents such as Claude Code are guided by repository instruction files (also called context files or agent configuration files) like AGENTS.md and CLAUDE.md, which are read in every agent session. As any documentation artifact, these files can fall behind the code and become stale (e",
+        "url": "http://arxiv.org/abs/2611.09802v1",
+        "pdf": "https://arxiv.org/pdf/2611.09802v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Maya a1: Do the Options Read the Model, or Does Their Position? Order Sensitivity in a Non-Autoregressive Decision Model",
+        "authors": [
+          "Mohammed Nayeem Khan",
+          "Logesh L"
+        ],
+        "summary": "Laya answers typed multiple-choice questions in one forward pass by scoring a hidden state at one [MASK] marker per option. We re-engineer the checkpoint (421M parameters; a 2-layer option head with no positional tensor; a documented but unused parallel layout) and test whether the answer depends on",
+        "url": "http://arxiv.org/abs/2611.09803v1",
+        "pdf": "https://arxiv.org/pdf/2611.09803v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Test-Time Compute Scales Better with Parallel Agent Teams",
+        "authors": [
+          "Junlin Wang",
+          "Haozhe Chen",
+          "Ang Li",
+          "Rahul Chalamala",
+          "Zhuang Liu"
+        ],
+        "summary": "Test-time scaling improves the performance of a fixed model by spending more computation at inference. There are two common ways to spend it on agents when a verifier can score every attempt. Best-of-N sampling runs many independent agents and keeps the best result but saturates quickly. One large t",
+        "url": "http://arxiv.org/abs/2611.09798v1",
+        "pdf": "https://arxiv.org/pdf/2611.09798v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Knowing When to Intervene: Causal Evaluation of AI Agents",
+        "authors": [
+          "Ayush Sawarni",
+          "Wenqian Xing",
+          "Tijana Zrnic",
+          "Ramesh Johari",
+          "Vasilis Syrgkanis"
+        ],
+        "summary": "Current evaluations of agentic AI systems primarily rely on benchmarks. However, the static nature of benchmarks makes them uninformative about the value of auditing interventions at deployment time. For reliable deployment, we often need to determine within an agent's trajectory whether or not to i",
+        "url": "http://arxiv.org/abs/2611.09792v1",
+        "pdf": "https://arxiv.org/pdf/2611.09792v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Assessing the Impact of Retrieval-Augmented Generation on Algorithmic Problem-Solving",
+        "authors": [
+          "Gabriel Souza Baggio",
+          "Gabriel Machado Lunardi",
+          "Guilherme Medeiros Machado",
+          "Subhankar Maity",
+          "Faiza Belbachir"
+        ],
+        "summary": "Competitive programming problems pose distinctive challenges for Large Language Models, as they demand not only proficient code generation but also advanced algorithmic reasoning. This study presents a Retrieval-Augmented Generation approach specifically designed to enhance the capacity of Large Lan",
+        "url": "http://arxiv.org/abs/2611.09791v1",
+        "pdf": "https://arxiv.org/pdf/2611.09791v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models",
+        "authors": [
+          "Lingyun Song",
+          "Ziyao Chen",
+          "Kang Pan",
+          "Xiaolin Han",
+          "Yifei Zhang"
+        ],
+        "summary": "Multimodal Large Language Models (MLLMs) require continuous factual updates to stay current, yet lifelong knowledge editing remains a daunting challenge. The primary obstacle is the severe Locality Erosion and Catastrophic Forgetting, where sequential edits inevitably interfere with pre-trained capa",
+        "url": "http://arxiv.org/abs/2611.09770v1",
+        "pdf": "https://arxiv.org/pdf/2611.09770v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Language as Trait, Politeness as Strategy: Controlled Tests of Linguistic Effects in LLM Social-Deduction Agents",
+        "authors": [
+          "Yuchen Li",
+          "Lisa Liu",
+          "Runqi Zou",
+          "Shuxuan Kuang",
+          "Qingquan Zhang"
+        ],
+        "summary": "Large language model (LLM) agents coordinate through conversation, and the same message can be phrased in simpler or more complex language, bluntly or politely. We test whether such differences change how other agents judge and act, using the LURK Werewolf framework, which separates each utterance's",
+        "url": "http://arxiv.org/abs/2611.09768v1",
+        "pdf": "https://arxiv.org/pdf/2611.09768v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Continuous wavelet-based feature extraction for laser-induced breakdown spectroscopy classification of human plasma samples",
+        "authors": [
+          "Md Mahmudur Rahman",
+          "Atqiya Munawara Mahi",
+          "Nazim Ahmed Belabbaci",
+          "Mohammad Arif Ul Alam"
+        ],
+        "summary": "Extracting discriminative features from laser-induced breakdown spectroscopy (LIBS) spectra is important for the classification of complex biological samples. This study evaluates continuous wavelet transform (CWT)-based spectral peak extraction for distinguishing human plasma samples labeled as SAR",
+        "url": "http://arxiv.org/abs/2611.09746v1",
+        "pdf": "https://arxiv.org/pdf/2611.09746v1",
+        "published": "2026-11-06",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "On the (non-)closedness of the set of ReLU networks",
+        "authors": [
+          "Eloi Martinet",
+          "Leon Bungert"
+        ],
+        "summary": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounded connected open set $Ω\\subset\\mathbb R^d$. Consequently, every coercive, weakly lower semicontinuous energy on this space attains its minimu",
+        "url": "http://arxiv.org/abs/2611.09887v1",
+        "pdf": "https://arxiv.org/pdf/2611.09887v1",
+        "published": "2026-11-06",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
+        "authors": [
+          "Aadya Agrawal",
+          "Ho Kei Cheng",
+          "Alexander Schwing"
+        ],
+        "summary": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the dominant paradigm in multi-person 3D motion prediction remains deterministic, with existing methods p",
+        "url": "http://arxiv.org/abs/2611.09882v1",
+        "pdf": "https://arxiv.org/pdf/2611.09882v1",
+        "published": "2026-11-06",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
+        "authors": [
+          "Tanush Shaska"
+        ],
+        "summary": "The Gaussian jet of an image is a graded vector space: a dilation by $λ$ multiplies derivatives of order $k$ by $λ^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and a local feature is dilation-invariant if and only if it factors through the scale-normalized jet or,",
+        "url": "http://arxiv.org/abs/2611.09878v1",
+        "pdf": "https://arxiv.org/pdf/2611.09878v1",
+        "published": "2026-11-06",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Computer-Use Agents Are Embodied Generalists",
+        "authors": [
+          "Pranjal Aggarwal",
+          "Sean Welleck"
+        ],
+        "summary": "In many areas of AI, general-purpose models have increasingly replaced handcrafted methods and specialized architectures. We argue that embodied AI is poised for a similar shift. Our key claim is that embodied tasks can be formulated as interaction with digital software. Specifically, we build softw",
+        "url": "http://arxiv.org/abs/2611.09847v1",
+        "pdf": "https://arxiv.org/pdf/2611.09847v1",
+        "published": "2026-11-06",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Fifty-Two Shades of Pig: What the UCR Archive Really Asks Classifiers to Do",
+        "authors": [
+          "Omar Swelam",
+          "Jaris Küken",
+          "Shi Bin Hoo",
+          "Frank Hutter",
+          "Lennart Purucker"
+        ],
+        "summary": "The pigs were bleeding. That was the point of the experiment: could airway pressure reveal hemorrhage before it became critical? In the UCR Time Series Classification Archive, the de facto benchmark for Time Series Classification (TSC), the same recordings ask a different question: \"which of 52 pigs",
+        "url": "http://arxiv.org/abs/2611.09843v1",
+        "pdf": "https://arxiv.org/pdf/2611.09843v1",
+        "published": "2026-11-06",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Designing Effective Monitor-Based Interventions for Mitigating Reward Hacking During RL",
+        "authors": [
+          "Aria Wong",
+          "Joshua Engels",
+          "Neel Nanda"
+        ],
+        "summary": "Reinforcement learning (RL) rewards are notoriously difficult to design and control, often leading to the model learning unintended behaviors such as reward hacking. One potential solution is to monitor for reward hacking and penalize it when detected; however, training against a monitor could lead ",
+        "url": "http://arxiv.org/abs/2611.09828v1",
+        "pdf": "https://arxiv.org/pdf/2611.09828v1",
+        "published": "2026-11-06",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
