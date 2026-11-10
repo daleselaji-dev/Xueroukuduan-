@@ -1,0 +1,626 @@
+{
+  "date": "2026-11-10",
+  "generated": "2026-11-10T09:23:02.353104",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "NotRexed/Hookshot",
+        "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+        "stars": 5657,
+        "language": "C++",
+        "url": "https://github.com/NotRexed/Hookshot",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 2,
+        "name": "huamidev/GestaltX",
+        "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+        "stars": 3546,
+        "language": "Swift",
+        "url": "https://github.com/huamidev/GestaltX",
+        "created": "2026-11-09"
+      },
+      {
+        "rank": 3,
+        "name": "tangerineturtle1/NX2navi",
+        "description": "",
+        "stars": 2595,
+        "language": "C",
+        "url": "https://github.com/tangerineturtle1/NX2navi",
+        "created": "2026-11-07"
+      },
+      {
+        "rank": 4,
+        "name": "jhaizhou-ops/S2Arm",
+        "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
+        "stars": 2191,
+        "language": "C#",
+        "url": "https://github.com/jhaizhou-ops/S2Arm",
+        "created": "2026-11-08"
+      },
+      {
+        "rank": 5,
+        "name": "JenkinWoo/sheeridVerify",
+        "description": "",
+        "stars": 1986,
+        "language": "JavaScript",
+        "url": "https://github.com/JenkinWoo/sheeridVerify",
+        "created": "2026-11-06"
+      },
+      {
+        "rank": 6,
+        "name": "DIYgod/pinky",
+        "description": "Let AI agents use your phone, with you in the loop.",
+        "stars": 1578,
+        "language": "Go",
+        "url": "https://github.com/DIYgod/pinky",
+        "created": "2026-11-06"
+      },
+      {
+        "rank": 7,
+        "name": "IainKay/ram-altman",
+        "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+        "stars": 1567,
+        "language": "Shell",
+        "url": "https://github.com/IainKay/ram-altman",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 8,
+        "name": "mmdoctor/google-pro-helper",
+        "description": "",
+        "stars": 1545,
+        "language": "Python",
+        "url": "https://github.com/mmdoctor/google-pro-helper",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 9,
+        "name": "livliv-dev/player",
+        "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+        "stars": 1431,
+        "language": "TypeScript",
+        "url": "https://github.com/livliv-dev/player",
+        "created": "2026-11-04"
+      },
+      {
+        "rank": 10,
+        "name": "jamesondh/chimera-vocal-synth",
+        "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+        "stars": 1381,
+        "language": "Rust",
+        "url": "https://github.com/jamesondh/chimera-vocal-synth",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 11,
+        "name": "voyager-so/vork",
+        "description": "Headless 3D and VFX engine for agents. Research preview.",
+        "stars": 1323,
+        "language": "Rust",
+        "url": "https://github.com/voyager-so/vork",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 12,
+        "name": "egoist/mygo-music",
+        "description": "A native music player you extend with plugins",
+        "stars": 1157,
+        "language": "Go",
+        "url": "https://github.com/egoist/mygo-music",
+        "created": "2026-11-04"
+      },
+      {
+        "rank": 13,
+        "name": "sostenesfreitas/ocarina-recomp",
+        "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+        "stars": 1072,
+        "language": "C",
+        "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+        "created": "2026-11-06"
+      },
+      {
+        "rank": 14,
+        "name": "WoYun520/gif-factory",
+        "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+        "stars": 1057,
+        "language": "Python",
+        "url": "https://github.com/WoYun520/gif-factory",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 15,
+        "name": "Th0rgal/satmux",
+        "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+        "stars": 1019,
+        "language": "Python",
+        "url": "https://github.com/Th0rgal/satmux",
+        "created": "2026-11-07"
+      },
+      {
+        "rank": 16,
+        "name": "JosssphZhou/poki",
+        "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+        "stars": 836,
+        "language": "Swift",
+        "url": "https://github.com/JosssphZhou/poki",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 17,
+        "name": "yappologistic/CUI",
+        "description": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
+        "stars": 798,
+        "language": "C",
+        "url": "https://github.com/yappologistic/CUI",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 18,
+        "name": "sassiestrhihno/boxshelf-beta",
+        "description": "Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a TV-style 3D box-art shelf for your emulators, Steam games and media apps.",
+        "stars": 760,
+        "language": null,
+        "url": "https://github.com/sassiestrhihno/boxshelf-beta",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 19,
+        "name": "AtomIllusionistDwell/watson-username-footprint-finder",
+        "description": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
+        "stars": 715,
+        "language": "TypeScript",
+        "url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 20,
+        "name": "majorminorlabs/hermes-voice",
+        "description": "Talk to a Hermes Agent profile through Home Assistant Assist",
+        "stars": 632,
+        "language": "Python",
+        "url": "https://github.com/majorminorlabs/hermes-voice",
+        "created": "2026-11-05"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+        "authors": [
+          "Haozhen Zhang",
+          "Bohan Liu",
+          "Jianzhu Bao",
+          "Qingyuan Liu",
+          "Haodong Yue"
+        ],
+        "summary": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on semantic retrieval over compressed memories and expose predefined representations, whic",
+        "url": "http://arxiv.org/abs/2611.12872v1",
+        "pdf": "https://arxiv.org/pdf/2611.12872v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
+        "authors": [
+          "Xinjie Shen"
+        ],
+        "summary": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including reward hacking, through verifiable reward--context conflicts, where compliant task completion remains fea",
+        "url": "http://arxiv.org/abs/2611.12865v1",
+        "pdf": "https://arxiv.org/pdf/2611.12865v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Programming Prescience: Issues in Human Construction of Forecasting Bots",
+        "authors": [
+          "Priya Dhawka",
+          "Benjamin Wilson",
+          "Andrew Head"
+        ],
+        "summary": "AI models' growing capacity for complex reasoning has made them attractive tools for forecasting, or the systematic prediction of the future based on past and present data. However, should AI forecasting systems be adopted, human builders will shoulder the work of building and evaluating them. In th",
+        "url": "http://arxiv.org/abs/2611.12834v1",
+        "pdf": "https://arxiv.org/pdf/2611.12834v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning",
+        "authors": [
+          "Jihwan Jeong",
+          "Guy Tennenholtz",
+          "Yinlam Chow",
+          "Chih-Wei Hsu",
+          "Craig Boutilier"
+        ],
+        "summary": "AI systems must often maintain bounded memory of unbounded interaction histories. However, optimizing the memory representation, and its updates, for downstream task utility is difficult for standard reinforcement learning (RL) due to severe credit assignment bottlenecks induced by sparse, delayed r",
+        "url": "http://arxiv.org/abs/2611.12825v1",
+        "pdf": "https://arxiv.org/pdf/2611.12825v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "LUCQUE: A lung cancer screening dataset from Québec for reliable AI evaluation",
+        "authors": [
+          "Johanna Topalis",
+          "Yannick Lemaréchal",
+          "Gabriel Couture",
+          "Hanife Ersay",
+          "Loran Nas"
+        ],
+        "summary": "BACKGROUND: AI-based tools are expected to play a key role in lung cancer screening (LCS). The evaluation of these tools often relied on private datasets or fragmented public datasets with inconsistent availability of clinical data and expert nodule annotations. This has hindered reproducibility, co",
+        "url": "http://arxiv.org/abs/2611.12817v1",
+        "pdf": "https://arxiv.org/pdf/2611.12817v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Automated Knowledge Acquisition Pipeline for Disassembly Instructions: A Comparison of NLP and Generative AI Frameworks",
+        "authors": [
+          "Tim Schnieders",
+          "Tareq Maximilian Gabriel Ahrari",
+          "Oliver Petrovic",
+          "Christian Brecher"
+        ],
+        "summary": "The push towards circularity and Re-X principles presents a challenge to SMEs, particularly due to increasing product complexity that impedes the adoption of disassembly automation. This paper introduces and compares two frameworks for extracting disassembly instructions from unstructured informatio",
+        "url": "http://arxiv.org/abs/2611.12816v1",
+        "pdf": "https://arxiv.org/pdf/2611.12816v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "2D Gum-Net: Unsupervised Dense Elastic Image Registration via Symmetric Correlation and Spectral Pooling",
+        "authors": [
+          "Aarya Bhave",
+          "Anushka Ajay Bhave"
+        ],
+        "summary": "Dense non-rigid registration, the recovery of a pixel-wise deformation field that warps one image into geometric agreement with another, is fundamental across medical imaging, structural biology, and correspondence estimation, yet learning-based approaches face a severe bottleneck: ground-truth defo",
+        "url": "http://arxiv.org/abs/2611.12805v1",
+        "pdf": "https://arxiv.org/pdf/2611.12805v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Agentic-OPD: Recovering Forgotten Agent Capabilities via On-Policy Distillation for Agentic Tasks",
+        "authors": [
+          "Tingcheng Bian",
+          "Kangye Gong",
+          "Jinchang Luo",
+          "MingQuan Cheng",
+          "Feiran Liu"
+        ],
+        "summary": "Reinforcement learning is now the mainstream paradigm for training LLMs on agentic tasks, yet standard practice keeps only the best-validation checkpoint and discards the rest. We show that this is lossy: in GRPO training of LLM agents, the best-validation checkpoint fails on problems that earlier c",
+        "url": "http://arxiv.org/abs/2611.12799v1",
+        "pdf": "https://arxiv.org/pdf/2611.12799v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "LogCDM: Interpretable Log Anomaly Detection via Behavioral Graph Drift and Adaptive Signal Fusion",
+        "authors": [
+          "Suryansh Talukdar",
+          "Taha Sarwat",
+          "Jin Soung Yoo"
+        ],
+        "summary": "Log-based anomaly detection is increasingly dominated by large pretrained models, from BERT-scale encoders to 8B-parameter language models, which require GPUs at inference time and are difficult to deploy on the monitoring nodes where logs are produced. We present LogCDM, a compact detector that sco",
+        "url": "http://arxiv.org/abs/2611.12775v1",
+        "pdf": "https://arxiv.org/pdf/2611.12775v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "PORT: Preference Optimization via Robust Token-Level Reweighting",
+        "authors": [
+          "Ding Zhu",
+          "Xiukun Wei",
+          "Tian Xie",
+          "Zhihui Zhu",
+          "Xueru Zhang"
+        ],
+        "summary": "Preference optimization has become a central approach for aligning large language models with human values, but its effectiveness depends heavily on the quality of preference annotations. In practice, preference data is often noisy due to annotation errors and ambiguity. Existing robust preference o",
+        "url": "http://arxiv.org/abs/2611.12763v1",
+        "pdf": "https://arxiv.org/pdf/2611.12763v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+        "authors": [
+          "Weida Wang",
+          "Benteng Chen",
+          "Yigeng Jiang",
+          "Shuchen Pu",
+          "Weiping Shen"
+        ],
+        "summary": "We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions,",
+        "url": "http://arxiv.org/abs/2611.12762v1",
+        "pdf": "https://arxiv.org/pdf/2611.12762v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "DeepChronos: Temporal Neuro-Symbolic Reasoning for Multi-Step Attack Detection",
+        "authors": [
+          "Sofia Burkow",
+          "Andrea Agiollo",
+          "Enkeleda Bardhi",
+          "Fernando Kuipers",
+          "Kaitai Liang"
+        ],
+        "summary": "Modern cyber threats commonly unfold as multi-step attacks comprising temporally and causally related phases. Current defenses commonly follow a detect first and correlate later paradigm. Intrusion detection systems classify events independently, while downstream systems reconstruct attack progressi",
+        "url": "http://arxiv.org/abs/2611.12760v1",
+        "pdf": "https://arxiv.org/pdf/2611.12760v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?",
+        "authors": [
+          "Nikhil Sharma",
+          "Kelly Marchisio",
+          "Kenton Murray",
+          "Ziang Xiao"
+        ],
+        "summary": "Large language models (LLMs) increasingly mediate how people seek and consume information, including accounts that differ across languages and regions, especially on contested topics. Supporting diverse information seeking requires models to help users navigate competing narratives across languages ",
+        "url": "http://arxiv.org/abs/2611.12750v1",
+        "pdf": "https://arxiv.org/pdf/2611.12750v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "$Σ$-LeWM: Learning World Models via S-Information for Robot Control",
+        "authors": [
+          "Xinrui Zu",
+          "Michael Przystupa",
+          "Zhao Yang",
+          "Shujian Yu",
+          "Kevin Sebastian Luck"
+        ],
+        "summary": "World models have increasingly been applied as a model-based control method for robotics tasks such as manipulation and locomotion. While early world model architectures relied on decoders to prevent mode collapse and learn a predictable latent space, recent works on world models, such as Joint Embe",
+        "url": "http://arxiv.org/abs/2611.12732v1",
+        "pdf": "https://arxiv.org/pdf/2611.12732v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Safe Reinforcement Learning for Multi-Turn Clinical Agents: When Dense Rewards Beat Outcome Rewards",
+        "authors": [
+          "Brendan P. Murphy",
+          "Agustina Saenz"
+        ],
+        "summary": "Reinforcement learning with verifiable rewards is increasingly used to improve language model reasoning, yet its effects on sequential decision procedures remain poorly understood. We study this problem in clinical multi-turn agents that must decide what information to request, when to stop gatherin",
+        "url": "http://arxiv.org/abs/2611.12728v1",
+        "pdf": "https://arxiv.org/pdf/2611.12728v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Multi-Agent Screening: What Agreement and Acceptance Cannot Tell You",
+        "authors": [
+          "Benjamin Chang",
+          "Dell Zhang"
+        ],
+        "summary": "When AI agents screen items for a costly human assessor, as in agentic search, e-discovery and AI reviewing of papers, only what they pass gets judged. We show what each kind of evidence can establish about their errors, even with unlimited data. Agreement shows that agents concur, not that they are",
+        "url": "http://arxiv.org/abs/2611.12705v1",
+        "pdf": "https://arxiv.org/pdf/2611.12705v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "GeoScope: Training-Free Program Execution beyond the Counting Horizon for Ultra-High-Resolution Remote Sensing Question Answering",
+        "authors": [
+          "Guohui Deng",
+          "Yuhang Jiang",
+          "Chengjun Wang",
+          "Zhongwen Hu",
+          "Zhaocong Wu"
+        ],
+        "summary": "In ultra-high-resolution (UHR) remote sensing images, the objects that questions count in a region or relate by direction often span only a few pixels. Existing methods mainly decide where a vision-language model (VLM) should look and trust its answer in the chosen view. We show that this assumption",
+        "url": "http://arxiv.org/abs/2611.12699v1",
+        "pdf": "https://arxiv.org/pdf/2611.12699v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "reComposer: Editable Planning for Controllable Image Generation",
+        "authors": [
+          "Susie S. Y. Li",
+          "Angie Boggust",
+          "Fred Hohman",
+          "Donghao Ren",
+          "Dominik Moritz"
+        ],
+        "summary": "Prompt-based image generation makes it easy to produce visual assets, but offers little support for engaging with the creative process. Prompting collapses interdependent creative decisions into a monolithic instruction and returns a finished image, leaving control limited to revising the prompt or ",
+        "url": "http://arxiv.org/abs/2611.12687v1",
+        "pdf": "https://arxiv.org/pdf/2611.12687v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Library of Hands: Fix the Hands, Not the World Model",
+        "authors": [
+          "Hasaan Ahmad",
+          "Qizhen Ying",
+          "Yuxuan Sun",
+          "Tianjin Huang",
+          "Guangming Wang"
+        ],
+        "summary": "A world model predicts how a scene changes after an action, and a planner uses it to search for actions that reach a goal. If the camera moves or the controller changes, the same command moves the robot differently: when its commands are turned by 90 degrees, a frozen planner with the LeWM world mod",
+        "url": "http://arxiv.org/abs/2611.12678v1",
+        "pdf": "https://arxiv.org/pdf/2611.12678v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Interpretability Is Not Model-Specific",
+        "authors": [
+          "Marcus Armstrong",
+          "Navid Ayoobi",
+          "Pradham Mummaleti",
+          "Alexander Chulzhanov",
+          "Arjun Mukherjee"
+        ],
+        "summary": "Interpretability tools are usually built for one model at a time: a refusal direction, a truthfulness probe, or a steering vector is found with labeled data inside the model it explains. We ask whether such tools can be carried to other models through a map between residual streams fit only on unlab",
+        "url": "http://arxiv.org/abs/2611.12675v1",
+        "pdf": "https://arxiv.org/pdf/2611.12675v1",
+        "published": "2026-11-09",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Guiding Data Allocation for Robust Subpopulation Generalization",
+        "authors": [
+          "Zhaoying Pan",
+          "Yipei Wang",
+          "Shenyu Lu",
+          "Xiaoqian Wang"
+        ],
+        "summary": "Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup proportions, but full balance can be costly, infeasible, and not always necessary. In this ",
+        "url": "http://arxiv.org/abs/2611.12884v1",
+        "pdf": "https://arxiv.org/pdf/2611.12884v1",
+        "published": "2026-11-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics",
+        "authors": [
+          "Majdi Hassan",
+          "Marta Skreta",
+          "Dominique Beaini",
+          "Kirill Neklyudov"
+        ],
+        "summary": "Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration steps are inexpensive, observing meaningful events or transitions can require millions of sequential st",
+        "url": "http://arxiv.org/abs/2611.12880v1",
+        "pdf": "https://arxiv.org/pdf/2611.12880v1",
+        "published": "2026-11-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels",
+        "authors": [
+          "Sreejeet Maity",
+          "Aritra Mitra"
+        ],
+        "summary": "Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel. In our setup, an agent interacting with an unknown environment (modeled as a Markov Decision Process) transmits quantized est",
+        "url": "http://arxiv.org/abs/2611.12878v1",
+        "pdf": "https://arxiv.org/pdf/2611.12878v1",
+        "published": "2026-11-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection",
+        "authors": [
+          "Amey Pasarkar",
+          "Adji Bousso Dieng"
+        ],
+        "summary": "Anomaly detection (AD) is a critical for trustworthy machine learning and scientific discovery. Existing methods typically define anomalies through local density, isolation heuristics, or distance from a fitted distribution, making them sensitive to neighborhood scale, partitioning choices, or restr",
+        "url": "http://arxiv.org/abs/2611.12871v1",
+        "pdf": "https://arxiv.org/pdf/2611.12871v1",
+        "published": "2026-11-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
+        "authors": [
+          "Julia Herbst",
+          "Simon Roschmann",
+          "Quentin Bouniot",
+          "Zeynep Akata"
+        ],
+        "summary": "The Platonic Representation Hypothesis (PRH) suggests that neural networks are converging toward similar representation spaces. As language models become more capable, their representations are aligning with those of vision models. However, recent work has questioned whether this trend continues to ",
+        "url": "http://arxiv.org/abs/2611.12869v1",
+        "pdf": "https://arxiv.org/pdf/2611.12869v1",
+        "published": "2026-11-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Is Persona Generalization Predictable?",
+        "authors": [
+          "Olina Mukherjee",
+          "Arnav Goel",
+          "Aditi Raghunathan",
+          "Jacob Mitchell Springer"
+        ],
+        "summary": "Persona generalization occurs when fine-tuning a language model in one domain induces behavioral changes in others -- for example, the broadly unsafe behavior observed in emergent misalignment. We discover a surprising \"on-the-line\" phenomenon in persona generalization: in-domain and out-of-domain p",
+        "url": "http://arxiv.org/abs/2611.12864v1",
+        "pdf": "https://arxiv.org/pdf/2611.12864v1",
+        "published": "2026-11-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching",
+        "authors": [
+          "Tianze Luo",
+          "Haofeng Huang",
+          "Yuan Yao"
+        ],
+        "summary": "Latent Diffusion Models dominate generative modeling but face two-stage training complexity and the inherent reconstruction limits of pre-trained autoencoders. Pixel-space Flow Matching offers a simplified end-to-end alternative yet often encounters training difficulties when using the standard $v$-",
+        "url": "http://arxiv.org/abs/2611.12852v1",
+        "pdf": "https://arxiv.org/pdf/2611.12852v1",
+        "published": "2026-11-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Mitigating Agentic Deception via Evaluation-Side Partially Observable Games",
+        "authors": [
+          "Hanxiao Li",
+          "Shutong Liu",
+          "Yongjia Ma",
+          "Jiaming Ji",
+          "Juntao Dai"
+        ],
+        "summary": "As large language models become more capable agents, they can exhibit deceptive behaviors, cheating human for higher rewards while appearing helpful. We attribute this failure to evaluation-side partial observability, where models are evaluated mainly from final outcome, without checking the faithfu",
+        "url": "http://arxiv.org/abs/2611.12835v1",
+        "pdf": "https://arxiv.org/pdf/2611.12835v1",
+        "published": "2026-11-09",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 29,
+        "title": "What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts",
+        "authors": [
+          "Chang Lu",
+          "Mengjiao Zhang"
+        ],
+        "summary": "Low-precision pretraining is usually judged by validation loss. We ask whether matching loss also means learning rare facts as efficiently. We train transformers from scratch with emulated 4-bit matrix multiplications on synthetic biographies with controlled exposure counts, on their own and mixed i",
+        "url": "http://arxiv.org/abs/2611.12832v1",
+        "pdf": "https://arxiv.org/pdf/2611.12832v1",
+        "published": "2026-11-09",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
