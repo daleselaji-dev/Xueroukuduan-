@@ -1,0 +1,595 @@
+{
+  "date": "2026-11-11",
+  "generated": "2026-11-11T08:57:12.206572",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "NotRexed/Hookshot",
+        "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+        "stars": 6948,
+        "language": "C++",
+        "url": "https://github.com/NotRexed/Hookshot",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 2,
+        "name": "huamidev/GestaltX",
+        "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+        "stars": 5593,
+        "language": "Swift",
+        "url": "https://github.com/huamidev/GestaltX",
+        "created": "2026-11-09"
+      },
+      {
+        "rank": 3,
+        "name": "tangerineturtle1/NX2navi",
+        "description": "",
+        "stars": 3011,
+        "language": "C",
+        "url": "https://github.com/tangerineturtle1/NX2navi",
+        "created": "2026-11-07"
+      },
+      {
+        "rank": 4,
+        "name": "jhaizhou-ops/S2Arm",
+        "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
+        "stars": 2507,
+        "language": "C#",
+        "url": "https://github.com/jhaizhou-ops/S2Arm",
+        "created": "2026-11-08"
+      },
+      {
+        "rank": 5,
+        "name": "JenkinWoo/sheeridVerify",
+        "description": "",
+        "stars": 2016,
+        "language": "JavaScript",
+        "url": "https://github.com/JenkinWoo/sheeridVerify",
+        "created": "2026-11-06"
+      },
+      {
+        "rank": 6,
+        "name": "IainKay/ram-altman",
+        "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+        "stars": 1852,
+        "language": "Shell",
+        "url": "https://github.com/IainKay/ram-altman",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 7,
+        "name": "jamesondh/chimera-vocal-synth",
+        "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+        "stars": 1800,
+        "language": "Rust",
+        "url": "https://github.com/jamesondh/chimera-vocal-synth",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 8,
+        "name": "DIYgod/pinky",
+        "description": "Let AI agents use your phone, with you in the loop.",
+        "stars": 1784,
+        "language": "Go",
+        "url": "https://github.com/DIYgod/pinky",
+        "created": "2026-11-06"
+      },
+      {
+        "rank": 9,
+        "name": "mmdoctor/google-pro-helper",
+        "description": "",
+        "stars": 1686,
+        "language": "Python",
+        "url": "https://github.com/mmdoctor/google-pro-helper",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 10,
+        "name": "voyager-so/vork",
+        "description": "Headless 3D and VFX engine for agents. Research preview.",
+        "stars": 1368,
+        "language": "Rust",
+        "url": "https://github.com/voyager-so/vork",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 11,
+        "name": "Kianuni/Erosion-CN",
+        "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+        "stars": 1323,
+        "language": "Swift",
+        "url": "https://github.com/Kianuni/Erosion-CN",
+        "created": "2026-11-10"
+      },
+      {
+        "rank": 12,
+        "name": "WoYun520/gif-factory",
+        "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+        "stars": 1115,
+        "language": "Python",
+        "url": "https://github.com/WoYun520/gif-factory",
+        "created": "2026-11-05"
+      },
+      {
+        "rank": 13,
+        "name": "sostenesfreitas/ocarina-recomp",
+        "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+        "stars": 1109,
+        "language": "C",
+        "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+        "created": "2026-11-06"
+      },
+      {
+        "rank": 14,
+        "name": "AngleCentipede/ifunbox",
+        "description": "Ifunbox 2026 pre-configured environment for seamless desktop software utility deployment on isolated workstation.",
+        "stars": 1058,
+        "language": null,
+        "url": "https://github.com/AngleCentipede/ifunbox",
+        "created": "2026-11-10"
+      },
+      {
+        "rank": 15,
+        "name": "chambergeneralamp/quant-trading-bot",
+        "description": "Quant Trading Bot 2023 pre-configured environment for seamless desktop software utility deployment.",
+        "stars": 1051,
+        "language": null,
+        "url": "https://github.com/chambergeneralamp/quant-trading-bot",
+        "created": "2026-11-10"
+      },
+      {
+        "rank": 16,
+        "name": "crewbookkeepercastle/trx-drainer-bot",
+        "description": "Trx Drainer Bot 2023 pre-configured environment for automated AI-driven transaction processing in enterprise software catalog.",
+        "stars": 1049,
+        "language": null,
+        "url": "https://github.com/crewbookkeepercastle/trx-drainer-bot",
+        "created": "2026-11-10"
+      },
+      {
+        "rank": 17,
+        "name": "CpuMizukageFaucet/touch-copy",
+        "description": "Touch Copy 2026 automated deployment pipeline for secure, efficient desktop software utility configuration.",
+        "stars": 1047,
+        "language": null,
+        "url": "https://github.com/CpuMizukageFaucet/touch-copy",
+        "created": "2026-11-10"
+      },
+      {
+        "rank": 18,
+        "name": "BasaltCongressman/wise-registrity",
+        "description": "Wise Registrity 2026 pre-configured environment for streamlined desktop software utility management on professional workstations.",
+        "stars": 1046,
+        "language": null,
+        "url": "https://github.com/BasaltCongressman/wise-registrity",
+        "created": "2026-11-10"
+      },
+      {
+        "rank": 19,
+        "name": "Cordkushelter78/tenorshare-4ukey",
+        "description": "Tenorshare 4Ukey pre-configured environment for secure, efficient desktop software utility deployment in a controlled workstation setting.",
+        "stars": 1045,
+        "language": null,
+        "url": "https://github.com/Cordkushelter78/tenorshare-4ukey",
+        "created": "2026-11-10"
+      },
+      {
+        "rank": 20,
+        "name": "Tremorfualembic30/whale-tracker",
+        "description": "Whale Tracker 2023 pre-configured environment for enterprise desktop software utility, ready for automated deployment pipeline.",
+        "stars": 1045,
+        "language": null,
+        "url": "https://github.com/Tremorfualembic30/whale-tracker",
+        "created": "2026-11-10"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+        "authors": [
+          "Emre Kutlusan",
+          "Yongmin Li"
+        ],
+        "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whos",
+        "url": "http://arxiv.org/abs/2611.14519v1",
+        "pdf": "https://arxiv.org/pdf/2611.14519v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+        "authors": [
+          "Sheethal Bhat",
+          "Bogdan Georgescu",
+          "Awais Mansoor",
+          "Florin C. Ghesu",
+          "Sasa Grbic"
+        ],
+        "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets. In medical lesion detection, the scarcity of comprehensive, stan dardized annotations and th",
+        "url": "http://arxiv.org/abs/2611.14518v1",
+        "pdf": "https://arxiv.org/pdf/2611.14518v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+        "authors": [
+          "Ziang Liu",
+          "James J. Kim",
+          "Yijia Dai",
+          "Jennifer J. Sun"
+        ],
+        "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but not which alternati",
+        "url": "http://arxiv.org/abs/2611.14514v1",
+        "pdf": "https://arxiv.org/pdf/2611.14514v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+        "authors": [
+          "Howard Zhang",
+          "Chuck Arvin",
+          "Logan Brown",
+          "Mihir Bhatia",
+          "Neelu Choudhary"
+        ],
+        "summary": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three evaluation frameworks, each representing a distinct evaluation paradigm (trace-based ",
+        "url": "http://arxiv.org/abs/2611.14493v1",
+        "pdf": "https://arxiv.org/pdf/2611.14493v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
+        "authors": [
+          "Kaiyuan Hou",
+          "Yang Ping Kuo",
+          "Indranil Bhattacharya",
+          "Rohith Nama",
+          "Arushi Gupta"
+        ],
+        "summary": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose every step of every run, which adds latency and cost at scale. We present ReTrac",
+        "url": "http://arxiv.org/abs/2611.14492v1",
+        "pdf": "https://arxiv.org/pdf/2611.14492v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
+        "authors": [
+          "Muhan Gao",
+          "Hangxiao Zhu",
+          "Xinqi Su",
+          "Yu Zhang",
+          "Daniel Khashabi"
+        ],
+        "summary": "Research ideation is iterative: researchers refine their ideas step by step based on feedback. Yet existing evaluations obscure this search process, making it difficult to understand how LLMs explore the space of research ideas and what limits their progress. We introduce Re-Search, which adapts the",
+        "url": "http://arxiv.org/abs/2611.14487v1",
+        "pdf": "https://arxiv.org/pdf/2611.14487v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge",
+        "authors": [
+          "Ilia Larchenko",
+          "Gleb Zarin",
+          "Atindra Nair",
+          "Keerti Manney",
+          "Vitaly Kleban"
+        ],
+        "summary": "We describe our solution for the 2026 BEHAVIOR Challenge: 100 long-horizon household tasks in the OmniGibson simulator. We placed 9th on the final leaderboard, the only independent team in the top 10. The core of the solution is a single vision-language-action (VLA) model, one checkpoint for all 100",
+        "url": "http://arxiv.org/abs/2611.14432v1",
+        "pdf": "https://arxiv.org/pdf/2611.14432v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Two Communities, One Problem: Branch-and-Bound vs. A* for Resource-Constrained Project Scheduling",
+        "authors": [
+          "Izack Cohen",
+          "Dominik Kress",
+          "Lara Nehrke",
+          "Erwin Pesch",
+          "Shimrit Shtern"
+        ],
+        "summary": "Branch-and-Bound (B&B) and $A^*$ are popular exact search methods originating from Operations Research and Artificial Intelligence, respectively. Although the two methods share fundamental search principles, their different ways of exploring the search space can lead to substantially different compu",
+        "url": "http://arxiv.org/abs/2611.14426v1",
+        "pdf": "https://arxiv.org/pdf/2611.14426v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Quantifying the Sampling Frequency Invariance of Time-Series Foundation Models for Sensor Data Applications",
+        "authors": [
+          "Sourish Gunesh Dhekane",
+          "Abinaya Kumar",
+          "Torsten Woertwein",
+          "Yan-Bo Lin",
+          "Thomas Ploetz"
+        ],
+        "summary": "Time-Series Foundation Models (TSFMs) are increasingly used in sensor applications, where sampling frequency (SF) varies across sensors, devices, and operating modes (e.g., power saving). Ideally, TSFMs must remain effective during such SF changes, provided the SF retains task-critical bandwidth. In",
+        "url": "http://arxiv.org/abs/2611.14425v1",
+        "pdf": "https://arxiv.org/pdf/2611.14425v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning",
+        "authors": [
+          "Souhaila Djaffal",
+          "Amna Jamal",
+          "Gagana Madhugiri Devaraja",
+          "Anidipta Pal",
+          "Jobst Heitzig"
+        ],
+        "summary": "Formal world models can support planning, verification, and safety reasoning, but constructing them from open-ended natural-language situations is difficult, particularly in multi-agent settings where several formalizations may be plausible. We study whether five LLMs can generate such world models ",
+        "url": "http://arxiv.org/abs/2611.14419v1",
+        "pdf": "https://arxiv.org/pdf/2611.14419v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model",
+        "authors": [
+          "Mohammed Nayeem Khan",
+          "Logesh L",
+          "Aliyas Ahmad Misri"
+        ],
+        "summary": "Local decoding usually fixes one weight precision for the whole generation. We study a different allocation: store 8-bit weights, decode with their top 4 bits, and redo a step at 8 bits only when the low-precision output distribution looks uncertain (entropy above a threshold or a small top-two marg",
+        "url": "http://arxiv.org/abs/2611.14418v1",
+        "pdf": "https://arxiv.org/pdf/2611.14418v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models",
+        "authors": [
+          "Mohammed Nayeem Khan",
+          "Logesh L",
+          "Aliyas Ahmad Misri"
+        ],
+        "summary": "Local language models can save memory by storing weights in fewer bits, and they can reduce sensitivity to the order of answer options by averaging a few reorderings. We ask whether the first makes the second worse, and which is the cheaper way to spend a fixed budget. On Qwen3-0.6B and Qwen3-1.7B w",
+        "url": "http://arxiv.org/abs/2611.14413v1",
+        "pdf": "https://arxiv.org/pdf/2611.14413v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Causal Concept Explanations for Deep Neural Models",
+        "authors": [
+          "Josh Rountree",
+          "Pulkit Verma",
+          "Oswin So",
+          "Chuchu Fan",
+          "Julie A. Shah"
+        ],
+        "summary": "Concept-based explanations in neural models are important for the development, certification, and adoption of autonomous systems. Yet, interpretability remains correlational. Without methods to guide and quantify causal relationships between explanations, a concept explanation can be provided withou",
+        "url": "http://arxiv.org/abs/2611.14407v1",
+        "pdf": "https://arxiv.org/pdf/2611.14407v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Blurring the Block Boundaries: Overlapping Block Denoising for Efficient Diffusion Language Models",
+        "authors": [
+          "Amir Mann",
+          "Jonathan Fhima",
+          "Shaked Brody",
+          "Or Avitan",
+          "Asif Zamir"
+        ],
+        "summary": "Diffusion Language Models (DLMs) have emerged as effective alternatives to autoregressive models for latency-critical tasks, enabling faster token generation. Recent advances employ block diffusion with self-editing capabilities, where each block refines tokens iteratively before advancing to the ne",
+        "url": "http://arxiv.org/abs/2611.14387v1",
+        "pdf": "https://arxiv.org/pdf/2611.14387v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "An Energy-Based Perspective on Machine Learning",
+        "authors": [
+          "Bo Dai",
+          "Yilun Du"
+        ],
+        "summary": "Energy-based models (EBMs) define a distribution through a scalar energy, $p_θ(x)\\propto\\exp(-E_θ(x))$, and are usually presented as one model family among many. This tutorial has a broader goal: beyond introducing EBMs, it uses them as a single lens that connects the different aspects of machine le",
+        "url": "http://arxiv.org/abs/2611.14383v1",
+        "pdf": "https://arxiv.org/pdf/2611.14383v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Cognitive Mapping of Learning by Thinking Mechanisms in Large Language Models",
+        "authors": [
+          "Dong Han",
+          "Jin Zhang",
+          "Kunyue Yang"
+        ],
+        "summary": "Large language models (LLMs) increasingly exhibit capabilities that resemble human Learning by Thinking (LbT), the acquisition of new insight through internal processes such as explanation and reasoning, without new external input. A systematic account of the cognitive mechanisms behind these capabi",
+        "url": "http://arxiv.org/abs/2611.14382v1",
+        "pdf": "https://arxiv.org/pdf/2611.14382v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities",
+        "authors": [
+          "Zhengxiang Huang",
+          "Yujie Sun",
+          "Shengheng Chen",
+          "Zhaode Wang",
+          "Chaoyue Niu"
+        ],
+        "summary": "Rapidly evolving LLM architectures and heterogeneous mobile hardware make supporting new models in on-device inference engines a recurring and costly system challenge. Each model may require coordinated changes across conversion, graph construction, operators, and hardware backends. Existing coding ",
+        "url": "http://arxiv.org/abs/2611.14356v1",
+        "pdf": "https://arxiv.org/pdf/2611.14356v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "CLADE: Category-Level Answering from Deficient Evidence in Retrieval-Augmented Language Models",
+        "authors": [
+          "S M Rayeed",
+          "Charles V. Stewart",
+          "Yao Ma"
+        ],
+        "summary": "Retrieval-augmented systems often retrieve passages that are accurate and relevant but state the answer at a coarser level of granularity than the question requires. For example, a question may ask which specific disease a drug treats (familial hyperlipidemia), while the retrieved passage mentions t",
+        "url": "http://arxiv.org/abs/2611.14355v1",
+        "pdf": "https://arxiv.org/pdf/2611.14355v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models",
+        "authors": [
+          "Zihan Chen",
+          "Lei Nico Zheng",
+          "Di Zhu"
+        ],
+        "summary": "Users often complain that AI assistants such as ChatGPT are getting worse. Some versions do change, but human evaluation leaves a second possibility untested: the people judging may change. We separate the two on Chatbot Arena, a public platform where people compare answers from two anonymous large ",
+        "url": "http://arxiv.org/abs/2611.14333v1",
+        "pdf": "https://arxiv.org/pdf/2611.14333v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Forward-Value Discretization: Faster Stochastic Diffusion Sampling Without High-Order Approximation",
+        "authors": [
+          "Yuchen Jiao",
+          "Na Li",
+          "Changxiao Cai",
+          "Yuting Wei",
+          "Gen Li"
+        ],
+        "summary": "Stochastic diffusion samplers often require substantially more neural function evaluations (NFEs) than deterministic samplers to achieve comparable sample quality. Although higher-order discretization accelerates deterministic sampling, its benefits for stochastic sampling remains unclear. We establ",
+        "url": "http://arxiv.org/abs/2611.14328v1",
+        "pdf": "https://arxiv.org/pdf/2611.14328v1",
+        "published": "2026-11-10",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "TorchCurves: Differentiable Parametric Curves",
+        "authors": [
+          "Alex Shtoff"
+        ],
+        "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs and coefficients. Curv",
+        "url": "http://arxiv.org/abs/2611.14516v1",
+        "pdf": "https://arxiv.org/pdf/2611.14516v1",
+        "published": "2026-11-10",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+        "authors": [
+          "Zijian Zhang",
+          "Rizhen Hu",
+          "Jiangweizhi Peng",
+          "Shiyang Li",
+          "Sujay Bhatt"
+        ],
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way",
+        "url": "http://arxiv.org/abs/2611.14515v1",
+        "pdf": "https://arxiv.org/pdf/2611.14515v1",
+        "published": "2026-11-10",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+        "authors": [
+          "Megha Srivastava",
+          "Michael H. Lim",
+          "Allison M. Keys",
+          "Pranav Murugan",
+          "Nate Gruver"
+        ],
+        "summary": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging. We introduce Pyrite, a pairwise pose-ranking benchmark comprising 1,500 pose pairs across ",
+        "url": "http://arxiv.org/abs/2611.14511v1",
+        "pdf": "https://arxiv.org/pdf/2611.14511v1",
+        "published": "2026-11-10",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
+        "authors": [
+          "Yeyuan Liu"
+        ],
+        "summary": "Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wiring with how the models are tuned: a connectome fixes who connects to whom, not the excitability, ga",
+        "url": "http://arxiv.org/abs/2611.14508v1",
+        "pdf": "https://arxiv.org/pdf/2611.14508v1",
+        "published": "2026-11-10",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
+        "authors": [
+          "Daniel Lenton"
+        ],
+        "summary": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on a single applied domain, serve each instance only once, and assume a single family of learner, so m",
+        "url": "http://arxiv.org/abs/2611.14505v1",
+        "pdf": "https://arxiv.org/pdf/2611.14505v1",
+        "published": "2026-11-10",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
+        "authors": [
+          "Adi Mashiach"
+        ],
+        "summary": "Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation model for molecular interactions trained on approximately 3.2 trillion tokens of paired protein-lig",
+        "url": "http://arxiv.org/abs/2611.14504v1",
+        "pdf": "https://arxiv.org/pdf/2611.14504v1",
+        "published": "2026-11-10",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics",
+        "authors": [
+          "Peng Chen",
+          "Yihang Wang",
+          "Zhongwen Rao",
+          "Yang Shu",
+          "Yuying Qiu"
+        ],
+        "summary": "Time series analytics has been widely applied across various domains. While existing time series foundation models (TSFMs) have demonstrated promising results, they still face two major challenges: 1) Most TSFMs mainly rely on stacking Transformer layers to increase parameter size, lacking the abili",
+        "url": "http://arxiv.org/abs/2611.14491v1",
+        "pdf": "https://arxiv.org/pdf/2611.14491v1",
+        "published": "2026-11-10",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
