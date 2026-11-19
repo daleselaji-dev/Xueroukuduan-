@@ -1,0 +1,603 @@
+{
+  "date": "2026-11-19",
+  "generated": "2026-11-19T09:57:48.573983",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+        "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa",
+        "stars": 4246,
+        "language": "C++",
+        "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+        "created": "2026-11-16"
+      },
+      {
+        "rank": 2,
+        "name": "erkamyaman/rust-anything",
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+        "stars": 4073,
+        "language": "Rust",
+        "url": "https://github.com/erkamyaman/rust-anything",
+        "created": "2026-11-16"
+      },
+      {
+        "rank": 3,
+        "name": "duwqijlk/muse-protocol",
+        "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+        "stars": 1638,
+        "language": "Python",
+        "url": "https://github.com/duwqijlk/muse-protocol",
+        "created": "2026-11-14"
+      },
+      {
+        "rank": 4,
+        "name": "Hut-hzf/ung220z-tool",
+        "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+        "stars": 1548,
+        "language": "Python",
+        "url": "https://github.com/Hut-hzf/ung220z-tool",
+        "created": "2026-11-15"
+      },
+      {
+        "rank": 5,
+        "name": "CzzzzzzJ/mdldm-maitian",
+        "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+        "stars": 1504,
+        "language": "JavaScript",
+        "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+        "created": "2026-11-14"
+      },
+      {
+        "rank": 6,
+        "name": "sybil-solutions/inference-optimisation-skill",
+        "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+        "stars": 1176,
+        "language": "Python",
+        "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+        "created": "2026-11-16"
+      },
+      {
+        "rank": 7,
+        "name": "haziqahmedqasmi/PeakCut",
+        "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+        "stars": 1175,
+        "language": "Python",
+        "url": "https://github.com/haziqahmedqasmi/PeakCut",
+        "created": "2026-11-14"
+      },
+      {
+        "rank": 8,
+        "name": "joshpuckett/allo",
+        "description": "Allo is your friendly neighborhood typeface, free and open source",
+        "stars": 1087,
+        "language": "Python",
+        "url": "https://github.com/joshpuckett/allo",
+        "created": "2026-11-15"
+      },
+      {
+        "rank": 9,
+        "name": "zephyr4123/snug",
+        "description": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every phone, tablet and computer, with native touch gesture",
+        "stars": 1064,
+        "language": "Swift",
+        "url": "https://github.com/zephyr4123/snug",
+        "created": "2026-11-13"
+      },
+      {
+        "rank": 10,
+        "name": "chuanqisun/spaceship",
+        "description": "Steer your ideas in realtime",
+        "stars": 890,
+        "language": "HTML",
+        "url": "https://github.com/chuanqisun/spaceship",
+        "created": "2026-11-16"
+      },
+      {
+        "rank": 11,
+        "name": "opencoredev/islandcn",
+        "description": "The open-source Dynamic Island for React, installed with shadcn.",
+        "stars": 815,
+        "language": "TypeScript",
+        "url": "https://github.com/opencoredev/islandcn",
+        "created": "2026-11-13"
+      },
+      {
+        "rank": 12,
+        "name": "n4ze3m/tiny-voca",
+        "description": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
+        "stars": 756,
+        "language": "Python",
+        "url": "https://github.com/n4ze3m/tiny-voca",
+        "created": "2026-11-14"
+      },
+      {
+        "rank": 13,
+        "name": "yetanotherbrowser/yab",
+        "description": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
+        "stars": 728,
+        "language": "Swift",
+        "url": "https://github.com/yetanotherbrowser/yab",
+        "created": "2026-11-14"
+      },
+      {
+        "rank": 14,
+        "name": "mit-han-lab/pear",
+        "description": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+        "stars": 711,
+        "language": "Python",
+        "url": "https://github.com/mit-han-lab/pear",
+        "created": "2026-11-13"
+      },
+      {
+        "rank": 15,
+        "name": "boringmarketer/boring-marketing-skills",
+        "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+        "stars": 685,
+        "language": "Python",
+        "url": "https://github.com/boringmarketer/boring-marketing-skills",
+        "created": "2026-11-16"
+      },
+      {
+        "rank": 16,
+        "name": "Illson/RustText",
+        "description": "",
+        "stars": 656,
+        "language": "Rust",
+        "url": "https://github.com/Illson/RustText",
+        "created": "2026-11-16"
+      },
+      {
+        "rank": 17,
+        "name": "siliconjungle/shapeshift-labs-ink-studio",
+        "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
+        "stars": 639,
+        "language": "JavaScript",
+        "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
+        "created": "2026-11-16"
+      },
+      {
+        "rank": 18,
+        "name": "faizwashere/ScanDot",
+        "description": "Experimental Android 3D scanning and point-cloud viewer",
+        "stars": 545,
+        "language": "Kotlin",
+        "url": "https://github.com/faizwashere/ScanDot",
+        "created": "2026-11-13"
+      },
+      {
+        "rank": 19,
+        "name": "quer3q/kraken-mount",
+        "description": "Minimalist PS5 game mounter supporting PKG, folder dumps, zstd and lz4",
+        "stars": 531,
+        "language": "Rust",
+        "url": "https://github.com/quer3q/kraken-mount",
+        "created": "2026-11-13"
+      },
+      {
+        "rank": 20,
+        "name": "ybblab/Jiumi",
+        "description": "揪咪 Jiumi：开源安卓应用行为监测与管理，查看权限访问和网络活动。Android app activity & privacy monitor. No root required.",
+        "stars": 488,
+        "language": "Kotlin",
+        "url": "https://github.com/ybblab/Jiumi",
+        "created": "2026-11-13"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+        "authors": [
+          "Priyanka Sinha",
+          "Sugam Pandey"
+        ],
+        "summary": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We de",
+        "url": "http://arxiv.org/abs/2611.24932v1",
+        "pdf": "https://arxiv.org/pdf/2611.24932v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+        "authors": [
+          "Sarah H. Cen",
+          "Lindsey A. Gailmard",
+          "Joohan Kim",
+          "Rishi Bommasani",
+          "Daniel E. Ho"
+        ],
+        "summary": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors and components across layers remains sparsely documented. In this work, we focus ",
+        "url": "http://arxiv.org/abs/2611.24927v1",
+        "pdf": "https://arxiv.org/pdf/2611.24927v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
+        "authors": [
+          "Jiahang Lin",
+          "Jiahao Chen",
+          "Yiding Wang",
+          "Shichun Liu",
+          "Chengjun Pan"
+        ],
+        "summary": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requirements and interaction needs, while using a single evolution agent to modify the harness and benchmar",
+        "url": "http://arxiv.org/abs/2611.24924v1",
+        "pdf": "https://arxiv.org/pdf/2611.24924v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Who are you? The Personal Imitation Game",
+        "authors": [
+          "Muhammad Rizky Wellyanto",
+          "Hajara-Yasmin Isa",
+          "Kexin Xue",
+          "Vishal Ravichandran",
+          "Wenpeng Lu"
+        ],
+        "summary": "Large Language Models (LLMs) now perform strongly on Alan Turing's 1950 Imitation Game, so we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a specific individual in conversation rather than a generic human. Testing with 30 participants, we establ",
+        "url": "http://arxiv.org/abs/2611.24888v1",
+        "pdf": "https://arxiv.org/pdf/2611.24888v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs",
+        "authors": [
+          "Yuzhuo Li",
+          "Pasan Gunawardena",
+          "Yunwei Li"
+        ],
+        "summary": "Agentic artificial intelligence (AI) is emerging in power electronics, where it drives the simulation loop that engineers used to close largely by hand. In this loop, a converter design, or a study of the network it connects to, is built, run, measured and revised until it satisfies its specificatio",
+        "url": "http://arxiv.org/abs/2611.24880v1",
+        "pdf": "https://arxiv.org/pdf/2611.24880v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws",
+        "authors": [
+          "Zhiyu Liu",
+          "Xinyu Yang"
+        ],
+        "summary": "Large language models (LLMs) are used to explain clinical prediction models, on the promise that they can say what a model computes, find its faults and even reveal new knowledge in it. We tested the three promises where the answers could be checked. From the International Stroke Trial we trained fo",
+        "url": "http://arxiv.org/abs/2611.24877v1",
+        "pdf": "https://arxiv.org/pdf/2611.24877v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "WorldRuler: Interactive World Modeling under Configurable Rules",
+        "authors": [
+          "Mingliang Zhai",
+          "Chuanhao Li",
+          "Jiaming Tan",
+          "Zhen Li",
+          "Yuwei Wu"
+        ],
+        "summary": "Rules govern how player actions change interactive worlds. Different rules create distinct gameplay experiences within similar scenes and action spaces. For customizable gameplay, generative world models must follow user-defined rules beyond real-world behaviors. However, realizing user-defined rule",
+        "url": "http://arxiv.org/abs/2611.24869v1",
+        "pdf": "https://arxiv.org/pdf/2611.24869v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents",
+        "authors": [
+          "Ruiqi Liu",
+          "Jinming Li",
+          "Mo Wang",
+          "Yang Lu",
+          "Yanlan Kang"
+        ],
+        "summary": "Visual agents that read dense documents must ration a finite observation budget across candidate regions, yet answer accuracy conflates where an agent looks, how it adapts to the reads that remain, and how it an?swers once observation stops. We introduce budget-paired counterfactual audits, an evalu",
+        "url": "http://arxiv.org/abs/2611.24867v1",
+        "pdf": "https://arxiv.org/pdf/2611.24867v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Vibe-Trading: Towards Agent-Native Trading",
+        "authors": [
+          "Haozhe Wu",
+          "Zhonghang Li",
+          "Chao Huang"
+        ],
+        "summary": "Existing AI agents can retrieve information, call tools, run experiments, and produce multi-step outputs. Yet most are built around relatively static workflows and struggle to preserve reliable state as the environment changes. Financial trading makes this limitation especially consequential: prices",
+        "url": "http://arxiv.org/abs/2611.24845v1",
+        "pdf": "https://arxiv.org/pdf/2611.24845v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "General progress substitutes for specific training data in language models",
+        "authors": [
+          "Mark Marosi",
+          "Peter Antal"
+        ],
+        "summary": "Language models acquire their capabilities from training data, and developers withhold data during training to keep models from learning capabilities that could be misused. How long this delays a capability, and how much data is needed to acquire it later, is unknown. Here we show that the general p",
+        "url": "http://arxiv.org/abs/2611.24844v1",
+        "pdf": "https://arxiv.org/pdf/2611.24844v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving",
+        "authors": [
+          "Binay Kumar Singh",
+          "Niels Da Vitoria Lobo"
+        ],
+        "summary": "World models are increasingly used in autonomous driving to predict how a scene evolves under the ego vehicle's actions, supporting counterfactual reasoning and model-based planning. However, existing evaluations focus on prediction fidelity and planning performance, and rarely verify that the predi",
+        "url": "http://arxiv.org/abs/2611.24840v1",
+        "pdf": "https://arxiv.org/pdf/2611.24840v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "A Foundation Model to Measure and Predict Human Behaviour",
+        "authors": [
+          "Haoran Ye",
+          "Tianrui Huo",
+          "Hangzhen Li",
+          "Xin Zhang",
+          "Guojie Song"
+        ],
+        "summary": "Large language models (LLMs) are increasingly used to infer psychological attributes, predict individual behaviour, and simulate human populations. However, despite generating plausible responses, they often misrepresent individuals and distort population statistics. Here we introduce Chiron, a foun",
+        "url": "http://arxiv.org/abs/2611.24830v1",
+        "pdf": "https://arxiv.org/pdf/2611.24830v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "LAaDT-DSS: decision support for non-experts on rooftop PV, incentive and grid simulations under Turkish tariff rules",
+        "authors": [
+          "Baran Kaynak"
+        ],
+        "summary": "Rooftop photovoltaics raise three questions: should a household invest, which incentive costs the state least, and does the feeder stay within limits? Those who ask are rarely modellers. We present LAaDT-DSS, decision-support software that answers all three under Turkish tariff rules from one simula",
+        "url": "http://arxiv.org/abs/2611.24810v1",
+        "pdf": "https://arxiv.org/pdf/2611.24810v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning",
+        "authors": [
+          "Valeria Repetto",
+          "Romina D'Aurizio",
+          "Piero Farinelli"
+        ],
+        "summary": "Quantum Machine Learning (QML) has attracted increasing interest as a possible route to construct feature representations that are difficult to reproduce with classical models. However, near-term QML architectures based on trainable parametrized quantum circuits remain affected by limited hardware r",
+        "url": "http://arxiv.org/abs/2611.24798v1",
+        "pdf": "https://arxiv.org/pdf/2611.24798v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Bias-Only Training Dynamics in ReLU Networks",
+        "authors": [
+          "Shreyas Chaudhari",
+          "Jose M. F. Moura"
+        ],
+        "summary": "Neural networks with randomly initialized, fixed weights and trainable biases are universal approximators, yet the dynamics of bias-only training remain largely unexplored. We study these dynamics in one-hidden-layer ReLU networks through activation codes, the binary patterns of active neurons that ",
+        "url": "http://arxiv.org/abs/2611.24797v1",
+        "pdf": "https://arxiv.org/pdf/2611.24797v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Isabelle Pool Server: a pooled verification service for prover training and multi-agent proving",
+        "authors": [
+          "Xuanwei Ren",
+          "Wenda Li"
+        ],
+        "summary": "Isabelle Pool Server (IPS), a verification service with a pool of warm headless Isabelle sessions behind an HTTP API, with session leasing and reclamation, memory-aware admission control, and a time budget on every call. Its verification interface spans single-step execution, block-level proof check",
+        "url": "http://arxiv.org/abs/2611.24788v1",
+        "pdf": "https://arxiv.org/pdf/2611.24788v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Learning Trajectories Leave Decodable Traces in Neural Network Weight Space and Internal Representations",
+        "authors": [
+          "Patrick Krauss",
+          "Achim Schilling",
+          "Andreas Maier",
+          "Thomas Kinfe",
+          "Claus Metzner"
+        ],
+        "summary": "Neural networks trained on the same task develop related weight-space structures, yet remain distinguishable after learning. Do these differences merely reflect alternative solutions, or do they preserve information about individual learning histories? We tested whether final weights reveal initiali",
+        "url": "http://arxiv.org/abs/2611.24782v1",
+        "pdf": "https://arxiv.org/pdf/2611.24782v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Counterfactual World Models: JEPAs That Reason About \"What If\"",
+        "authors": [
+          "Randall Balestriero",
+          "Yann LeCun",
+          "Kerda Varaku"
+        ],
+        "summary": "World models operate in a world they cannot fully observe. When a hidden disturbance, such as a current pushing a boat, changes the outcome of an action, a counterfactual question follows: what would have happened under a different action, subject to the same disturbance? Its answer separates bad de",
+        "url": "http://arxiv.org/abs/2611.24778v1",
+        "pdf": "https://arxiv.org/pdf/2611.24778v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "LLM-Guided Cyber-Physical Attack Path Identification in Smart Grids",
+        "authors": [
+          "Amr Elshazly",
+          "Jesse Roberts",
+          "Rachad Atat",
+          "Muhammad Ismail"
+        ],
+        "summary": "Identifying high-impact attack paths in cyber-physical power systems is critical for improving grid resilience. Existing methods typically rely on either structural topology analysis or simulation-based cascading-failure models. Topology-based approaches capture connectivity but lack adversarial rea",
+        "url": "http://arxiv.org/abs/2611.24765v1",
+        "pdf": "https://arxiv.org/pdf/2611.24765v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Horizontal Flow Matching for Single-Cell Spatiotemporal Dynamics",
+        "authors": [
+          "Zihan Wang",
+          "Jianzhe Li",
+          "Zhenyi Zhang",
+          "Peijie Zhou"
+        ],
+        "summary": "Learning the spatiotemporal dynamics of cells from spatial transcriptomics requires connecting snapshots of different cells acquired in different coordinate frames. A rotation or translation of a section can appear as cell movement and distort the inferred correspondence. We introduce horizontal flo",
+        "url": "http://arxiv.org/abs/2611.24764v1",
+        "pdf": "https://arxiv.org/pdf/2611.24764v1",
+        "published": "2026-11-18",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation",
+        "authors": [
+          "Samet Demir",
+          "Zafer Dogan"
+        ],
+        "summary": "We study two-layer neural networks trained by stochastic gradient descent (SGD) on a multi-index teacher model, focusing on how first-layer parameters orthogonal to the teacher subspace affect generalization. We decompose the first-layer weights into a signal component aligned with the teacher and a",
+        "url": "http://arxiv.org/abs/2611.24908v1",
+        "pdf": "https://arxiv.org/pdf/2611.24908v1",
+        "published": "2026-11-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators",
+        "authors": [
+          "Michael Liaofan Liu",
+          "Joe Kileel"
+        ],
+        "summary": "We present a general framework for modeling and learning equivariant functions between finite dimensional semisimple real group representations, unifying constructions developed across many application areas. Our model is a linear combination of equivariant polynomial features whose coefficients are",
+        "url": "http://arxiv.org/abs/2611.24896v1",
+        "pdf": "https://arxiv.org/pdf/2611.24896v1",
+        "published": "2026-11-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "On Evaluating User Simulators for Interactive Agents",
+        "authors": [
+          "Hengguang Zhou",
+          "I-Hung Hsu",
+          "Li Chen",
+          "Priyanshi Shrivastava",
+          "Anastasios Angelopoulos"
+        ],
+        "summary": "User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored. In particular, it is unclear whether existing user simulator evaluation frameworks reliably detect meaningful failures in simulated user behavior. This uncertainty makes it dif",
+        "url": "http://arxiv.org/abs/2611.24892v1",
+        "pdf": "https://arxiv.org/pdf/2611.24892v1",
+        "published": "2026-11-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacity",
+        "authors": [
+          "Benjamin Novotny",
+          "Doug Szeto",
+          "Chang Wang",
+          "Shicheng Chen",
+          "George Zhihua Yuan"
+        ],
+        "summary": "A fixed dispatch rate for LLM inference becomes stale as serving fleets resize and request sizes change. Generative output length is unknown at admission, and shared provider pools can lose capacity. We present Cap-and-Track, a design for asynchronous inference across provider capacity and internal ",
+        "url": "http://arxiv.org/abs/2611.24891v1",
+        "pdf": "https://arxiv.org/pdf/2611.24891v1",
+        "published": "2026-11-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Monoculture Robust Learning",
+        "authors": [
+          "Lee Cohen",
+          "Jon Kleinberg",
+          "Omer Reingold"
+        ],
+        "summary": "We introduce a notion of monoculture robustness in Probably Approximately Correct (PAC) learning, as a way to mitigate the problem of algorithmic monoculture (Kleinberg and Raghavan, 2021): the tendency of models sharing the same components (e.g., training data) to fail on the same inputs. Specifica",
+        "url": "http://arxiv.org/abs/2611.24881v1",
+        "pdf": "https://arxiv.org/pdf/2611.24881v1",
+        "published": "2026-11-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation",
+        "authors": [
+          "Beyazit Yalcinkaya",
+          "Ethan Pronovost",
+          "Maximilian Naumann",
+          "Marcell Vazquez-Chanlatte"
+        ],
+        "summary": "Large-scale, multi-agent self-play trains robust driving policies effectively in simulation, but controlling these models to generate specific, safety-critical edge cases remains a key challenge. Existing goal-conditioned self-play frameworks rely primarily on static map-location goals and fail to r",
+        "url": "http://arxiv.org/abs/2611.24876v1",
+        "pdf": "https://arxiv.org/pdf/2611.24876v1",
+        "published": "2026-11-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 27,
+        "title": "TangentPDE: Learning Local Operator Responses with Sparse Finite-Difference Supervision",
+        "authors": [
+          "Xinjian Xie",
+          "Ruxuan Chen",
+          "Jiashu Li",
+          "Tianyu Gao",
+          "Ye Wei"
+        ],
+        "summary": "Neural PDE operators are often optimized through state reconstruction, which largely constrains operator values at observed inputs but does not fully characterize their sensitivity to local perturbations. A more faithful approximation of operator behavior requires not only accurate state predictions",
+        "url": "http://arxiv.org/abs/2611.24873v1",
+        "pdf": "https://arxiv.org/pdf/2611.24873v1",
+        "published": "2026-11-18",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 28,
+        "title": "Atomic MathReasoner: Instance-Level Composition of Atomic Reasoning Skills for Mathematical LLMs",
+        "authors": [
+          "Jiashu Li",
+          "Tianyu Gao",
+          "Qinglong Liu",
+          "Jinping Wang",
+          "Ye Wei"
+        ],
+        "summary": "Most existing approaches enhance mathematical reasoning in large language models (LLMs) as a monolithic capability, despite the fact that different mathematical problems require different reasoning skills. Recent work has explored a more fine-grained perspective by decomposing mathematical reasoning",
+        "url": "http://arxiv.org/abs/2611.24846v1",
+        "pdf": "https://arxiv.org/pdf/2611.24846v1",
+        "published": "2026-11-18",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
