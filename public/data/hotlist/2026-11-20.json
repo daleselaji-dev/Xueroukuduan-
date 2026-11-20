@@ -1,0 +1,589 @@
+{
+  "date": "2026-11-20",
+  "generated": "2026-11-20T09:46:02.344504",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "erkamyaman/rust-anything",
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+        "stars": 5809,
+        "language": "Rust",
+        "url": "https://github.com/erkamyaman/rust-anything",
+        "created": "2026-11-16"
+      },
+      {
+        "rank": 2,
+        "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+        "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa",
+        "stars": 4877,
+        "language": "C++",
+        "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+        "created": "2026-11-16"
+      },
+      {
+        "rank": 3,
+        "name": "gylive/google-ultra",
+        "description": "",
+        "stars": 2496,
+        "language": "Python",
+        "url": "https://github.com/gylive/google-ultra",
+        "created": "2026-11-17"
+      },
+      {
+        "rank": 4,
+        "name": "Hut-hzf/ung220z-tool",
+        "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+        "stars": 1875,
+        "language": "Python",
+        "url": "https://github.com/Hut-hzf/ung220z-tool",
+        "created": "2026-11-15"
+      },
+      {
+        "rank": 5,
+        "name": "duwqijlk/muse-protocol",
+        "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+        "stars": 1674,
+        "language": "Python",
+        "url": "https://github.com/duwqijlk/muse-protocol",
+        "created": "2026-11-14"
+      },
+      {
+        "rank": 6,
+        "name": "CzzzzzzJ/mdldm-maitian",
+        "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+        "stars": 1669,
+        "language": "JavaScript",
+        "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+        "created": "2026-11-14"
+      },
+      {
+        "rank": 7,
+        "name": "haziqahmedqasmi/PeakCut",
+        "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+        "stars": 1429,
+        "language": "Python",
+        "url": "https://github.com/haziqahmedqasmi/PeakCut",
+        "created": "2026-11-14"
+      },
+      {
+        "rank": 8,
+        "name": "sybil-solutions/inference-optimisation-skill",
+        "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+        "stars": 1283,
+        "language": "Python",
+        "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+        "created": "2026-11-16"
+      },
+      {
+        "rank": 9,
+        "name": "joshpuckett/allo",
+        "description": "Allo is your friendly neighborhood typeface, free and open source",
+        "stars": 1184,
+        "language": "Python",
+        "url": "https://github.com/joshpuckett/allo",
+        "created": "2026-11-15"
+      },
+      {
+        "rank": 10,
+        "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
+        "stars": 994,
+        "language": null,
+        "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+        "created": "2026-11-19"
+      },
+      {
+        "rank": 11,
+        "name": "chuanqisun/spaceship",
+        "description": "Steer ideas like a space pilot!",
+        "stars": 967,
+        "language": "HTML",
+        "url": "https://github.com/chuanqisun/spaceship",
+        "created": "2026-11-16"
+      },
+      {
+        "rank": 12,
+        "name": "n4ze3m/tiny-voca",
+        "description": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
+        "stars": 778,
+        "language": "Python",
+        "url": "https://github.com/n4ze3m/tiny-voca",
+        "created": "2026-11-14"
+      },
+      {
+        "rank": 13,
+        "name": "iamajmeena/neonclipping",
+        "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+        "stars": 773,
+        "language": "Python",
+        "url": "https://github.com/iamajmeena/neonclipping",
+        "created": "2026-11-19"
+      },
+      {
+        "rank": 14,
+        "name": "yetanotherbrowser/yab",
+        "description": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
+        "stars": 746,
+        "language": "Swift",
+        "url": "https://github.com/yetanotherbrowser/yab",
+        "created": "2026-11-14"
+      },
+      {
+        "rank": 15,
+        "name": "siliconjungle/shapeshift-labs-ink-studio",
+        "description": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
+        "stars": 745,
+        "language": "JavaScript",
+        "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
+        "created": "2026-11-16"
+      },
+      {
+        "rank": 16,
+        "name": "boringmarketer/boring-marketing-skills",
+        "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+        "stars": 728,
+        "language": "Python",
+        "url": "https://github.com/boringmarketer/boring-marketing-skills",
+        "created": "2026-11-16"
+      },
+      {
+        "rank": 17,
+        "name": "0marContreras/gta6recomp",
+        "description": "A GTA VI PC Port",
+        "stars": 718,
+        "language": null,
+        "url": "https://github.com/0marContreras/gta6recomp",
+        "created": "2026-11-18"
+      },
+      {
+        "rank": 18,
+        "name": "Lemxy/WinRust",
+        "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+        "stars": 554,
+        "language": "Rust",
+        "url": "https://github.com/Lemxy/WinRust",
+        "created": "2026-11-17"
+      },
+      {
+        "rank": 19,
+        "name": "mankidev/antialgorithm",
+        "description": "Claude Code skill that steers the model away from its first, most average pick in creative work: names, ideas, posters, UI.",
+        "stars": 526,
+        "language": "Python",
+        "url": "https://github.com/mankidev/antialgorithm",
+        "created": "2026-11-14"
+      },
+      {
+        "rank": 20,
+        "name": "nilbuild/stick-scene",
+        "description": "Skill to draw stick figure animated visuals",
+        "stars": 516,
+        "language": "JavaScript",
+        "url": "https://github.com/nilbuild/stick-scene",
+        "created": "2026-11-15"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+        "authors": [
+          "Weihao Cheng"
+        ],
+        "summary": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on its",
+        "url": "http://arxiv.org/abs/2611.26624v1",
+        "pdf": "https://arxiv.org/pdf/2611.26624v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
+        "authors": [
+          "Yuxin Jiang",
+          "Wenqiang Sun",
+          "Jiaqi Li",
+          "Yuchao Gu",
+          "Lvmin Zhang"
+        ],
+        "summary": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics largely from scratch. We ask whether a pretrained video generator can instead provide the prior for",
+        "url": "http://arxiv.org/abs/2611.26617v1",
+        "pdf": "https://arxiv.org/pdf/2611.26617v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
+        "authors": [
+          "Amine Lbath",
+          "Manan Suri",
+          "Aurelien Delaitre",
+          "Vadim Okun",
+          "Massih-Reza Amini"
+        ],
+        "summary": "LLM-based agents are becoming increasingly capable at discovering, validating and patching vulnerabilities in real software, and vendors and researchers report that this is already changing how vulnerabilities are found and fixed. These claims, however, are scattered across papers, vendor reports an",
+        "url": "http://arxiv.org/abs/2611.26601v1",
+        "pdf": "https://arxiv.org/pdf/2611.26601v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "Active Feature Acquisition by Distilling an Oracle Teacher",
+        "authors": [
+          "Yang Meng",
+          "Zixin Ding",
+          "Robert L. Grossman",
+          "Yuxin Chen"
+        ],
+        "summary": "Acquiring every feature of an instance is often costly: a measurement can carry a monetary price, a time delay, or a privacy cost. Active Feature Acquisition (AFA) addresses this by learning a policy that decides, per instance, which features to acquire under a budget. Existing AFA methods train thi",
+        "url": "http://arxiv.org/abs/2611.26598v1",
+        "pdf": "https://arxiv.org/pdf/2611.26598v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation",
+        "authors": [
+          "Kai Lu",
+          "Chenyang Ma",
+          "Ioannis Havoutis"
+        ],
+        "summary": "Robotic vision-language-action (VLA) models can execute diverse individual manipulation skills, yet they still struggle with long-horizon loco-manipulation tasks, where temporal structure, skills, and precision are tightly coupled within a monolithic model. We propose Physically Grounded Execution (",
+        "url": "http://arxiv.org/abs/2611.26596v1",
+        "pdf": "https://arxiv.org/pdf/2611.26596v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning",
+        "authors": [
+          "Terence D. Agbeyegbe",
+          "Toneukarin G. Agbeyegbe"
+        ],
+        "summary": "Self-consistency certification treats repeated sampling from a language model as sequential evidence accumulation and stops when an anytime-valid e-process crosses a threshold, guaranteeing finite-sample Type I error control by Ville's inequality. Prior constructions assume sampled rollouts are cond",
+        "url": "http://arxiv.org/abs/2611.26592v1",
+        "pdf": "https://arxiv.org/pdf/2611.26592v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+        "authors": [
+          "Jiahao Huang",
+          "Jun Wang"
+        ],
+        "summary": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to special",
+        "url": "http://arxiv.org/abs/2611.26590v1",
+        "pdf": "https://arxiv.org/pdf/2611.26590v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Verify the Verifier: Specification-Grounded LLM Cross-Checking for Bugs That Escape UVM Scoreboards",
+        "authors": [
+          "Ana E. Sanchez Villalobos",
+          "Michael D. Quinn",
+          "Aakash Tyagi",
+          "Minh D. Luu",
+          "David Kebo Houngninou"
+        ],
+        "summary": "A passing UVM regression shows the design agrees with the reference model on what the scoreboard checks, not that it meets the specification. Bugs that pass every test yet violate the specification, termed scoreboard escapes, survive mature testbenches. We present Verify the Verifier, to our knowled",
+        "url": "http://arxiv.org/abs/2611.26588v1",
+        "pdf": "https://arxiv.org/pdf/2611.26588v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "ProtoDiffusion: Token-per-Layer Generative Modeling of Multi-Layer Images",
+        "authors": [
+          "Adrià Ciurana Lanau",
+          "Harleen Hanspal",
+          "Lusine Abrahamyan",
+          "Emilio Tylson Baixauli",
+          "Yu Cao"
+        ],
+        "summary": "Graphic designs are ordered compositions of RGBA layers whose separation enables selection, movement, and reuse. Existing layered models represent each layer with a full-canvas or region-sized spatial latent grid, so representation size grows with the cumulative spatial extent of the layers. We pres",
+        "url": "http://arxiv.org/abs/2611.26586v1",
+        "pdf": "https://arxiv.org/pdf/2611.26586v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "GEOHunter: Mapping a Generative Engine Optimization Network in the Wild",
+        "authors": [
+          "Sean Tang",
+          "Peiran Wang",
+          "Ying Li",
+          "Esha Shivakumar",
+          "Tao Meng"
+        ],
+        "summary": "Generative engines synthesize retrieved web pages into answers, recommendations, and rankings. Generative engine optimization (GEO) services sell visibility in these answers by publishing promotional articles on user-generated-content (UGC) platforms for paying clients. Such promotion raises concern",
+        "url": "http://arxiv.org/abs/2611.26564v1",
+        "pdf": "https://arxiv.org/pdf/2611.26564v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "Multi-institutional grading of Barrett's esophagus dysplasia without stain normalization using a pathology foundation model and multiple instance learning",
+        "authors": [
+          "Amirali Khosravi",
+          "Jaidip M. Jagtap",
+          "D. Chamil Codipilly",
+          "Catherine E. Hagen",
+          "Jason T. Lewis"
+        ],
+        "summary": "Barrett's esophagus dysplasia grading suffers substantial inter-observer variability, particularly for low-grade dysplasia, complicating clinical decision-making. We conducted a retrospective multi-institutional diagnostic accuracy study of a foundation model-based deep learning system for dysplasia",
+        "url": "http://arxiv.org/abs/2611.26562v1",
+        "pdf": "https://arxiv.org/pdf/2611.26562v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "MM-SystemOneBias: Evaluating Bias in Multimodal Jev-Style System One Decision Models",
+        "authors": [
+          "Jinzhe Li",
+          "Qi Wang",
+          "Dandan Guo",
+          "Li Liu",
+          "Yuan Wu"
+        ],
+        "summary": "When multimodal decision models determine actions, moderation outcomes, or quality judgments, their reliability depends on preserving semantic decisions across presentation changes, ignoring irrelevant additions, and distinguishing information consistent with task evidence from information that conf",
+        "url": "http://arxiv.org/abs/2611.26557v1",
+        "pdf": "https://arxiv.org/pdf/2611.26557v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)",
+        "authors": [
+          "Mengxiao Wang",
+          "Mahbub Alam",
+          "Kalyan Nakka",
+          "Nitesh Saxena"
+        ],
+        "summary": "Agents based on large language models (LLMs) can now delete files and send payments on behalf of their users. News media reports routinely describe failures of these agents (e.g., Replit's coding agent deleting a production database), but a report often only says what went wrong and rarely (in)valid",
+        "url": "http://arxiv.org/abs/2611.26553v1",
+        "pdf": "https://arxiv.org/pdf/2611.26553v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "The Geometry of Lies: Knowledge and Persona Directions for Detecting Deception in Large Language Models",
+        "authors": [
+          "Md. Abdullah Al Zami",
+          "Suraiya Shanaz",
+          "Mahdi Hasan",
+          "Shoaib Ahmed Dipu",
+          "Farig Yousuf Sadeque"
+        ],
+        "summary": "Linear probes are the cheapest LLM lie detectors but often fail to transfer across kinds of lie. Label-free directions from honest and deceptive role-play are untested at 70B scale and on lies about knowledge, where a lie and an honest denial can be identical. We widen a published persona bank with ",
+        "url": "http://arxiv.org/abs/2611.26545v1",
+        "pdf": "https://arxiv.org/pdf/2611.26545v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "AURA: AUdio-dRiven streaming Avatar",
+        "authors": [
+          "Nathaniel Cohen",
+          "Nicolas Dufour",
+          "Amélie Royer",
+          "Alasdair Newson",
+          "Patrick Pérez"
+        ],
+        "summary": "Current audio-driven video diffusion models can synthesize realistic talking-head videos but generally require dozens of diffusion denoising steps over multi-second video chunks, making them unsuitable for streaming applications such as voice assistants and virtual avatars, where low-latency and onl",
+        "url": "http://arxiv.org/abs/2611.26540v1",
+        "pdf": "https://arxiv.org/pdf/2611.26540v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "LLM GerryMandering: Separating Interactions from Additive Effects in LLM Audits",
+        "authors": [
+          "George Rahul",
+          "Ronit Jahilal",
+          "Bhaskara Hanuma Vedula",
+          "Ponnurangam Kumaraguru",
+          "Pushkar Shukla"
+        ],
+        "summary": "Intersectional bias arises when a model treats people who hold several marginalised identities at once differently from what their separate identities would predict. Auditing such intersectional subgroups remains a challenge: their number grows quadratically, and there is no agreed baseline for what",
+        "url": "http://arxiv.org/abs/2611.26538v1",
+        "pdf": "https://arxiv.org/pdf/2611.26538v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models",
+        "authors": [
+          "Chang Yang",
+          "Yao Xuan",
+          "Wendan Yan",
+          "Nhat Le",
+          "Jiang Liu"
+        ],
+        "summary": "Large Web platforms operate large fleets of ranking models, each selecting features from a shared pool of tens of thousands. We present an end-to-end agentic system that optimizes features across the fleet under resource constraints shared across models and those set per model, such as feature pipel",
+        "url": "http://arxiv.org/abs/2611.26531v1",
+        "pdf": "https://arxiv.org/pdf/2611.26531v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Backtracking Agent Applications Security Incidents",
+        "authors": [
+          "Yicheng Cai",
+          "Taegyu Kim",
+          "Peng Liu"
+        ],
+        "summary": "Agent applications are increasingly deployed, yet agent-specific attacks pose real threats to them. Upon a security incident, organizations backtrack to identify the CEP (compromise entry point), remediate the damage, and prevent its recurrence. The main artifacts available for backtracking are traj",
+        "url": "http://arxiv.org/abs/2611.26525v1",
+        "pdf": "https://arxiv.org/pdf/2611.26525v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "GLiDE: A Fast, Calibrated Decision Model Distilled from Reasoning Teachers",
+        "authors": [
+          "Sahibzada Allahyar",
+          "Julia White",
+          "Dhruv Atreja",
+          "George Hurn-Maloney",
+          "Urchade Zaratiana"
+        ],
+        "summary": "Decision models enable fast, confidence-aware decisions by scoring candidate answers in a single forward pass, without generating text or intermediate reasoning. Yet reasoning can substantially improve decision quality, raising the question of whether its benefits can be retained without the cost of",
+        "url": "http://arxiv.org/abs/2611.26509v1",
+        "pdf": "https://arxiv.org/pdf/2611.26509v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "FLUID: Flexible, Evidence-Grounded Situated Task Guidance",
+        "authors": [
+          "Yunqi Zhao",
+          "Run Peng",
+          "Ze Dong",
+          "Ryan Lu",
+          "Yinpei Dai"
+        ],
+        "summary": "Real-time task guidance is inherently flexible: when an agent guides a user through a task, multiple responses and timings can be appropriate, and sometimes the best action is to remain silent. Existing benchmarks often miss this flexibility by treating synthesized dialogues as fixed targets for wha",
+        "url": "http://arxiv.org/abs/2611.26491v1",
+        "pdf": "https://arxiv.org/pdf/2611.26491v1",
+        "published": "2026-11-19",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+        "authors": [
+          "Tuna Han Salih Meral",
+          "Kaan Oktay",
+          "Alec Helbling",
+          "Atakan Kara",
+          "Duen Horng Chau"
+        ],
+        "summary": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that",
+        "url": "http://arxiv.org/abs/2611.26627v1",
+        "pdf": "https://arxiv.org/pdf/2611.26627v1",
+        "published": "2026-11-19",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+        "authors": [
+          "Jinbin Luo",
+          "Xiaozhe Yao",
+          "Shang Yang",
+          "Zhijian Liu",
+          "Song Han"
+        ],
+        "summary": "Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and concurrency. We present TideCache, a serving system on CPU--GPU superchips with three components for",
+        "url": "http://arxiv.org/abs/2611.26619v1",
+        "pdf": "https://arxiv.org/pdf/2611.26619v1",
+        "published": "2026-11-19",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Bio-PM-Guided Synthetic IMU Generation",
+        "authors": [
+          "Deepali Singh",
+          "Deepesh Parpani",
+          "Aviral Gupta"
+        ],
+        "summary": "Collecting and labeling inertial measurement unit (IMU) data for human activity recognition (HAR) is expensive, and models trained on one group of subjects often fail to generalize to unseen individuals. Even with balanced data, classifiers struggle to distinguish dynamically similar activity classe",
+        "url": "http://arxiv.org/abs/2611.26607v1",
+        "pdf": "https://arxiv.org/pdf/2611.26607v1",
+        "published": "2026-11-19",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+        "authors": [
+          "Peiyun Hu",
+          "Marko Mihajlovic",
+          "Lyndon Duong",
+          "Lahav Lipson",
+          "Wei Dong"
+        ],
+        "summary": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal consistency and boundary sharpness: multi-frame methods favor consistency, single-fra",
+        "url": "http://arxiv.org/abs/2611.26603v1",
+        "pdf": "https://arxiv.org/pdf/2611.26603v1",
+        "published": "2026-11-19",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "Represented but misread: Post-training changes how language models read out what they represent",
+        "authors": [
+          "Jochen Laubrock"
+        ],
+        "summary": "Does post-training change what a language model represents, or how this representation is read out into an answer? We compared linear probes with the models' own answers, analyzed with signal detection theory, in six open-weight base models and their post-trained versions. For judgments of whether G",
+        "url": "http://arxiv.org/abs/2611.26584v1",
+        "pdf": "https://arxiv.org/pdf/2611.26584v1",
+        "published": "2026-11-19",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs",
+        "authors": [
+          "Ziqing Yang",
+          "Yixin Wu",
+          "Michael Backes",
+          "Yang Zhang"
+        ],
+        "summary": "Multimodal image generation systems have made rapid progress and increasingly emphasize content safety. However, their safety mechanisms tend to rely on a single modality and lack joint consideration of both visual content and text prompts, particularly in instruction-guided image editing, where the",
+        "url": "http://arxiv.org/abs/2611.26569v1",
+        "pdf": "https://arxiv.org/pdf/2611.26569v1",
+        "published": "2026-11-19",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
