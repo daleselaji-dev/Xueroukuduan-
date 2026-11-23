@@ -1,0 +1,571 @@
+{
+  "date": "2026-11-23",
+  "generated": "2026-11-23T10:24:37.278142",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "ItsNotRexed/Leonida",
+        "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+        "stars": 18317,
+        "language": "Python",
+        "url": "https://github.com/ItsNotRexed/Leonida",
+        "created": "2026-11-20"
+      },
+      {
+        "rank": 2,
+        "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
+        "stars": 2760,
+        "language": null,
+        "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+        "created": "2026-11-19"
+      },
+      {
+        "rank": 3,
+        "name": "EL4CTEO/fast-anything",
+        "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+        "stars": 2531,
+        "language": "Rust",
+        "url": "https://github.com/EL4CTEO/fast-anything",
+        "created": "2026-11-21"
+      },
+      {
+        "rank": 4,
+        "name": "iamajmeena/neonclipping",
+        "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+        "stars": 2210,
+        "language": "Python",
+        "url": "https://github.com/iamajmeena/neonclipping",
+        "created": "2026-11-19"
+      },
+      {
+        "rank": 5,
+        "name": "omonkeyz/xbox-emulator",
+        "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+        "stars": 1455,
+        "language": "Rust",
+        "url": "https://github.com/omonkeyz/xbox-emulator",
+        "created": "2026-11-21"
+      },
+      {
+        "rank": 6,
+        "name": "R0Y00/Xbox2Windows",
+        "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
+        "stars": 1379,
+        "language": "Python",
+        "url": "https://github.com/R0Y00/Xbox2Windows",
+        "created": "2026-11-20"
+      },
+      {
+        "rank": 7,
+        "name": "Lemxy/WinRust",
+        "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+        "stars": 1307,
+        "language": "Rust",
+        "url": "https://github.com/Lemxy/WinRust",
+        "created": "2026-11-17"
+      },
+      {
+        "rank": 8,
+        "name": "os6/nospeaker",
+        "description": "make your macbook's trackpad talk using its haptic motor",
+        "stars": 795,
+        "language": "Swift",
+        "url": "https://github.com/os6/nospeaker",
+        "created": "2026-11-22"
+      },
+      {
+        "rank": 9,
+        "name": "leanprover-community/riemann-hypothesis",
+        "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
+        "stars": 716,
+        "language": "Lean",
+        "url": "https://github.com/leanprover-community/riemann-hypothesis",
+        "created": "2026-11-20"
+      },
+      {
+        "rank": 10,
+        "name": "MSNightmare/FastUnlock",
+        "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+        "stars": 687,
+        "language": null,
+        "url": "https://github.com/MSNightmare/FastUnlock",
+        "created": "2026-11-19"
+      },
+      {
+        "rank": 11,
+        "name": "AFK-surf/xnulinux",
+        "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+        "stars": 687,
+        "language": "Objective-C++",
+        "url": "https://github.com/AFK-surf/xnulinux",
+        "created": "2026-11-20"
+      },
+      {
+        "rank": 12,
+        "name": "INK-Q/agy-fast",
+        "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+        "stars": 675,
+        "language": "TypeScript",
+        "url": "https://github.com/INK-Q/agy-fast",
+        "created": "2026-11-19"
+      },
+      {
+        "rank": 13,
+        "name": "nataphong-lab/Open-Source-Face-Recognition-Final",
+        "description": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face",
+        "stars": 648,
+        "language": "Python",
+        "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Final",
+        "created": "2026-11-19"
+      },
+      {
+        "rank": 14,
+        "name": "0xkaka/homeport",
+        "description": "",
+        "stars": 625,
+        "language": "HTML",
+        "url": "https://github.com/0xkaka/homeport",
+        "created": "2026-11-17"
+      },
+      {
+        "rank": 15,
+        "name": "replit/datacat",
+        "description": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
+        "stars": 575,
+        "language": "TypeScript",
+        "url": "https://github.com/replit/datacat",
+        "created": "2026-11-17"
+      },
+      {
+        "rank": 16,
+        "name": "danielwh2/sprite-stacking",
+        "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+        "stars": 559,
+        "language": "HTML",
+        "url": "https://github.com/danielwh2/sprite-stacking",
+        "created": "2026-11-20"
+      },
+      {
+        "rank": 17,
+        "name": "realdody/americas-recomp",
+        "description": "",
+        "stars": 549,
+        "language": null,
+        "url": "https://github.com/realdody/americas-recomp",
+        "created": "2026-11-20"
+      },
+      {
+        "rank": 18,
+        "name": "CocoSgt/riemann-hypothesis-lean",
+        "description": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge",
+        "stars": 532,
+        "language": "Lean",
+        "url": "https://github.com/CocoSgt/riemann-hypothesis-lean",
+        "created": "2026-11-20"
+      },
+      {
+        "rank": 19,
+        "name": "ThreatDefence/agentic-attack-detections",
+        "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft ",
+        "stars": 481,
+        "language": "Python",
+        "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+        "created": "2026-11-20"
+      },
+      {
+        "rank": 20,
+        "name": "sybil-solutions/skill-distill",
+        "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+        "stars": 475,
+        "language": "Python",
+        "url": "https://github.com/sybil-solutions/skill-distill",
+        "created": "2026-11-21"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Optimal Linear Regression Without a Variance",
+        "authors": [
+          "Artin Tajdini",
+          "Jasper C. H. Lee",
+          "Jonathan Scarlett",
+          "Kevin Jamieson"
+        ],
+        "summary": "We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\\in(1,2)$, and the covariates may only have finite moments up to a given order (e.g., 4th moment). We give a black-box reduction tha",
+        "url": "http://arxiv.org/abs/2611.27983v1",
+        "pdf": "https://arxiv.org/pdf/2611.27983v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Non-penetrating World Models",
+        "authors": [
+          "Yuhang Dai",
+          "Yinwei Wu",
+          "Ziyue Lin",
+          "Han Ji",
+          "Xingyi Yang"
+        ],
+        "summary": "We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world models respond to physical obstacles. Our evaluation reveals that none of the open-source models can ",
+        "url": "http://arxiv.org/abs/2611.27963v1",
+        "pdf": "https://arxiv.org/pdf/2611.27963v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Model Carving: Training Transformers That Optimize Their Own Topology",
+        "authors": [
+          "Kaden Zheng",
+          "Pratyusha Sharma"
+        ],
+        "summary": "Machine learning has largely kept separate the choice of architecture and the process of training. A classic Transformer, for instance, trains a fixed set of attention and MLP sublayers at every layer, in the same order, and optimizes the weights within. This uniformity is a convention rather than a",
+        "url": "http://arxiv.org/abs/2611.27962v1",
+        "pdf": "https://arxiv.org/pdf/2611.27962v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "BioEmu2: Scalable Emulation of Biomolecular Dynamics",
+        "authors": [
+          "Michael Gastegger",
+          "Adam E. Foster",
+          "José Jiménez-Luna",
+          "Tim Hempel",
+          "Sarah Lewis"
+        ],
+        "summary": "Despite major advances in structure prediction, modelling the motions and interactions that drive biomolecular function at scale remains a central challenge. We introduce BioEmu2, a generative model for atomically resolved biomolecular structures combining static structure prediction, equilibrium sa",
+        "url": "http://arxiv.org/abs/2611.27924v1",
+        "pdf": "https://arxiv.org/pdf/2611.27924v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement",
+        "authors": [
+          "Huaze Tang",
+          "Runqing Miao",
+          "Tianren Peng",
+          "Lam Nguyen",
+          "Chao Wang"
+        ],
+        "summary": "Reward-independent representations enable reinforcement learning agents to reuse knowledge across tasks, but limited representation capacity raises three fundamental questions: what statistical dependence should these representations capture, which components of that dependence should be retained fo",
+        "url": "http://arxiv.org/abs/2611.27919v1",
+        "pdf": "https://arxiv.org/pdf/2611.27919v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning",
+        "authors": [
+          "Chi Yan",
+          "Guoyang Zhao",
+          "Wentao Yuan",
+          "Yixiao Ge",
+          "Yanning Zhou"
+        ],
+        "summary": "Vision-language models (VLMs) exhibit strong semantic understanding but remain limited in their ability to reason about metric 3D space in the physical world. Existing VLMs typically infer 3D scene structure from one or more images without known camera calibration or cross-view geometric constraints",
+        "url": "http://arxiv.org/abs/2611.27915v1",
+        "pdf": "https://arxiv.org/pdf/2611.27915v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "Star Panoptic Quality: Selectively Evaluating Split and Merged Instances",
+        "authors": [
+          "Erik Großkopf",
+          "Paula Tamara Buzduga",
+          "Hendrik Möller",
+          "Florian Kofler"
+        ],
+        "summary": "Detecting individual instances is crucial for many segmentation problems. However, expert instance annotations are often unavailable, so instances are approximated heuristically (e.g., as connected components of semantic maps), which can merge touching objects or split fragmented ones. Even when exp",
+        "url": "http://arxiv.org/abs/2611.27913v1",
+        "pdf": "https://arxiv.org/pdf/2611.27913v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Functional Depth Is Learned: Isolating the Computation That Layers Produce Only Together",
+        "authors": [
+          "JaeSeong Kim",
+          "KyungTae Lim"
+        ],
+        "summary": "Transformer performance scales with depth, but layer count merely counts the opportunities for sequential computation: layers could still behave as nearly independent refinements that barely depend on one another. We study how transformers develop functional depth during pretraining, introducing an ",
+        "url": "http://arxiv.org/abs/2611.27911v1",
+        "pdf": "https://arxiv.org/pdf/2611.27911v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "Decision Columns as an Index: Interpretable Embeddings for Explainable Entity Matching and Search",
+        "authors": [
+          "Aadharsh Kannan",
+          "Robert Bruckner",
+          "Philip A. Bernstein"
+        ],
+        "summary": "Business data systems must determine whether records refer to the same entity and retrieve records satisfying requests whose decisive properties are implicit. As agents act on these records, both tasks require auditable reasons. Dense embeddings perform well but offer opaque coordinates, cannot be f",
+        "url": "http://arxiv.org/abs/2611.27910v1",
+        "pdf": "https://arxiv.org/pdf/2611.27910v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "The Dual-Tier Sentiment Framework: Scalable Multimodal UX Attribution in Web Search",
+        "authors": [
+          "Yi Ding",
+          "Gaurav Kumar",
+          "Rui Min",
+          "Isabella Ye",
+          "Bhavika Goyal"
+        ],
+        "summary": "Sustaining user experience (UX) quality in large-scale web search requires scalable evaluation. Traditional surveys are slow and bottleneck rapid A/B testing, while automated metrics often lack the granularity to diagnose visual-spatial UX anomalies. To address this, we introduce the Dual-Tier Senti",
+        "url": "http://arxiv.org/abs/2611.27899v1",
+        "pdf": "https://arxiv.org/pdf/2611.27899v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "TEA-Bench-BR: Can Coding Agents Turn a Branching Clinical Specification into Correct Code?",
+        "authors": [
+          "Marcio Andre de Souza Estevam"
+        ],
+        "summary": "Coding agents increasingly implement rules written by domain experts, and bugs in such code are silent: it runs and returns a plausible answer. We introduce TEA-Bench-BR, a benchmark built on the Brazilian pathway for early autism (TEA) screening: three fictitious instruments with the structure of r",
+        "url": "http://arxiv.org/abs/2611.27895v1",
+        "pdf": "https://arxiv.org/pdf/2611.27895v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "Speculative Decoding Is Less Speculative Than You Think",
+        "authors": [
+          "Guanning Zeng",
+          "Andrea Zanette"
+        ],
+        "summary": "Speculative decoding accelerates language-model inference by preparing candidate continuations before the target model generates them. Its efficiency depends on how well limited drafting computation anticipates the path the target will actually follow. Anticipating this path involves two sources of ",
+        "url": "http://arxiv.org/abs/2611.27891v1",
+        "pdf": "https://arxiv.org/pdf/2611.27891v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "LesionAgent: Training-Free Agentic Tumor Tracking and Response Assessment in Longitudinal CT",
+        "authors": [
+          "Maximilian Rokuss",
+          "Jeya Maria Jose Valanarasu",
+          "Alejandro Lozano",
+          "Benjamin Hamm",
+          "Yannick Kirchhoff"
+        ],
+        "summary": "Every few months, a cancer patient's CT scans decide whether treatment continues. 3D foundation models can now detect, segment, register and track lesions, yet none of them reads the scans as a radiologist does. A radiologist decides which findings are lesions, which are the same lesion months later",
+        "url": "http://arxiv.org/abs/2611.27876v1",
+        "pdf": "https://arxiv.org/pdf/2611.27876v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Beyond Visual Fidelity: Comparing Categorical and Continuous World Models",
+        "authors": [
+          "Sarah Parisot",
+          "Melanie Fernandez Pradier",
+          "David Bignell",
+          "Sergio Valcarcel Macua",
+          "Katja Hofmann"
+        ],
+        "summary": "Visual world models can now generate compelling interactive worlds, but visual realism does not guarantee faithful dynamics. We systematically compare how categorical and continuous prediction shape learned dynamics under both next-token and iterative whole-frame generation. These choices are often ",
+        "url": "http://arxiv.org/abs/2611.27870v1",
+        "pdf": "https://arxiv.org/pdf/2611.27870v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Integrating Generative Artificial Intelligence with Learning Style Models: Opportunities, Challenges, and Future Directions",
+        "authors": [
+          "Malithi Nawarathne",
+          "Prasanna Haddela",
+          "Nuwan Kodagoda"
+        ],
+        "summary": "Generative Artificial Intelligence (Generative AI) has emerged as a powerful tool for transforming learning. This review examines how Generative AI can be integrated with established learning style models (VARK, Kolb, Felder-Silverman, and Honey & Mumford) to support student engagement in large onli",
+        "url": "http://arxiv.org/abs/2611.27868v1",
+        "pdf": "https://arxiv.org/pdf/2611.27868v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "SLICR: Strategy Logic-Guided Multi-Agent Reinforcement Learning",
+        "authors": [
+          "Arshia Rafieioskouie",
+          "Matthew Lucas",
+          "Tzu-Han Hsu",
+          "Borzoo Bonakdarpour"
+        ],
+        "summary": "Specification-guided reinforcement learning (RL) translates formal specifications of desired behavior of agents into shaped rewards. This paper introduces SLICR, a significant paradigm shift that advances the state of the art to specification-guided RL in adversarial settings under partial observabi",
+        "url": "http://arxiv.org/abs/2611.27865v1",
+        "pdf": "https://arxiv.org/pdf/2611.27865v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Who Grades the Agent? Privilege Separation for Coding-Agent Benchmarks",
+        "authors": [
+          "Nathan Nour Houlamy",
+          "Mattia Favretto",
+          "Earlence Fernandes",
+          "Mauro Conti"
+        ],
+        "summary": "Benchmarks for AI-based coding agents are a staple of the current AI landscape, because they are the leading way to measure the performance of LLMs. Their scores guide business and research decisions. Evaluating coding agents is challenging, since they are able to manipulate their evaluation infrast",
+        "url": "http://arxiv.org/abs/2611.27860v1",
+        "pdf": "https://arxiv.org/pdf/2611.27860v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Beyond Self-Critique: Epistemic Convergence Control for Multi-Agent Research Verification",
+        "authors": [
+          "Chrisantus Eze"
+        ],
+        "summary": "Multi-agent systems for scientific claim verification increasingly rely on role-structured LLM debate to pressure-test hypotheses. However, when debating agents are instantiated from the same underlying base model, they share identical latent representations, making self-critique bias structurally i",
+        "url": "http://arxiv.org/abs/2611.27839v1",
+        "pdf": "https://arxiv.org/pdf/2611.27839v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Auditable Financial Knowledge Graphs: Schema-Driven Construction and Intrinsic Quality Evaluation",
+        "authors": [
+          "Samarth Sarin",
+          "Lovepreet Singh",
+          "Dhagash Mehta"
+        ],
+        "summary": "Financial documents combine narrative disclosures, accounting metrics, corporate structures, management commentary, and time-dependent facts, making them difficult to represent using conventional chunk-based retrieval-augmented generation systems. This paper presents an auditable, schema-driven meth",
+        "url": "http://arxiv.org/abs/2611.27835v1",
+        "pdf": "https://arxiv.org/pdf/2611.27835v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "Graph Signal Generation via Graph-Aware Diffusion Models",
+        "authors": [
+          "Vimal K B",
+          "Sergio Rozada",
+          "Antonio G. Marques",
+          "Elvin Isufi",
+          "Hadi J. Rad"
+        ],
+        "summary": "Many signals are defined on the nodes of a graph, such as traffic flow at road sensors or user purchases of related products. They are often partly observed, and learning their distribution enables imputing missing values and forecasting future ones. Diffusion models learn such distributions, but th",
+        "url": "http://arxiv.org/abs/2611.27826v1",
+        "pdf": "https://arxiv.org/pdf/2611.27826v1",
+        "published": "2026-11-20",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning",
+        "authors": [
+          "Hari Sitaula",
+          "Joseph Opitz"
+        ],
+        "summary": "This study examines one-day-ahead forecasting of the S&P 500 closing level using a 2006-2025 dataset that includes fundamental price data, macroeconomic indicators, and engineered technical features. We benchmark three model families, namely linear regression, vanilla recurrent neural networks (RNN)",
+        "url": "http://arxiv.org/abs/2611.27978v1",
+        "pdf": "https://arxiv.org/pdf/2611.27978v1",
+        "published": "2026-11-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals",
+        "authors": [
+          "Javier Sanchis",
+          "Álvaro Navarro",
+          "Jorge García-Carrasco",
+          "Tahar Kechadi",
+          "Juan Trujillo"
+        ],
+        "summary": "Attention-deficit/hyperactivity disorder is a neurodevelopmental condition that can affect attention, activity and impulse control. Electroencephalography (EEG) records brain activity as children and adolescents perform cognitive tasks. However, comparing features derived from these recordings requi",
+        "url": "http://arxiv.org/abs/2611.27970v1",
+        "pdf": "https://arxiv.org/pdf/2611.27970v1",
+        "published": "2026-11-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "Ranking-Preserving Coreset Selection for Efficient Evolutionary Hyperparameter Optimization",
+        "authors": [
+          "Mamoona Tasadduq",
+          "Maryam Bashir"
+        ],
+        "summary": "Hyperparameter optimization (HPO) is essential for high predictive performance, but its computational cost becomes prohibitive when candidate configurations require repeated training on large datasets. This paper proposes a ranking-preserving coreset (RPC) selection framework for accelerating evolut",
+        "url": "http://arxiv.org/abs/2611.27959v1",
+        "pdf": "https://arxiv.org/pdf/2611.27959v1",
+        "published": "2026-11-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Topology Hub Optimal Transport: Eliminating Long Context Dilution at Flash Speed",
+        "authors": [
+          "Dylan Forde"
+        ],
+        "summary": "Long-context models use sparse or structured attention to avoid quadratic cost, yet retrieving a small set of relevant facts embedded among hundreds of thousands of distractors degrades as normalization mass disperses with length. Hub-and-spoke optimal transport (OT) replaces the dense $L \\times L$ ",
+        "url": "http://arxiv.org/abs/2611.27951v1",
+        "pdf": "https://arxiv.org/pdf/2611.27951v1",
+        "published": "2026-11-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "The Optimal Sample Complexity of Agnostic PAC Learning for Partial Concept Classes",
+        "authors": [
+          "Liang-Yu Zou"
+        ],
+        "summary": "Let $\\mathcal H\\subseteq\\{-1,+1,\\star\\}^{\\mathcal X}$ be a partial concept class of finite VC dimension $d$. We construct a deterministic agnostic PAC learner that, for every $\\varepsilon,δ\\in(0,1)$, uses $O((d+\\log(1/δ))/\\varepsilon^2)$ i.i.d. examples from an arbitrary distribution $\\mathcal D$ ov",
+        "url": "http://arxiv.org/abs/2611.27946v1",
+        "pdf": "https://arxiv.org/pdf/2611.27946v1",
+        "published": "2026-11-20",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Communication-Efficient Federated Learning of Latent Patient Representations from Multi-Institutional EHRs",
+        "authors": [
+          "Zhiyu Yan",
+          "Shiao Liu",
+          "Rahul Mahajan",
+          "Anand Viswanathan",
+          "Christopher D. Anderson"
+        ],
+        "summary": "Electronic health records (EHRs) contain rich health information for uncovering latent patient representations and clinically meaningful subgroups. Learning from EHR data across institutions is valuable because representations learned at a single site may reflect local data patterns and lack general",
+        "url": "http://arxiv.org/abs/2611.27900v1",
+        "pdf": "https://arxiv.org/pdf/2611.27900v1",
+        "published": "2026-11-20",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
