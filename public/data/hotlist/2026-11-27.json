@@ -1,0 +1,589 @@
+{
+  "date": "2026-11-27",
+  "generated": "2026-11-27T10:36:31.047868",
+  "github": {
+    "title": "GitHub 热门项目",
+    "description": "最近7天新建的高星项目",
+    "items": [
+      {
+        "rank": 1,
+        "name": "Marvisak/VIctory",
+        "description": "An attempt at running GTA VI on PC",
+        "stars": 13577,
+        "language": "Rust",
+        "url": "https://github.com/Marvisak/VIctory",
+        "created": "2026-11-23"
+      },
+      {
+        "rank": 2,
+        "name": "4lwayz/portwatch-vi",
+        "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+        "stars": 6187,
+        "language": "JavaScript",
+        "url": "https://github.com/4lwayz/portwatch-vi",
+        "created": "2026-11-21"
+      },
+      {
+        "rank": 3,
+        "name": "EL4CTEO/fast-anything",
+        "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+        "stars": 4356,
+        "language": "Rust",
+        "url": "https://github.com/EL4CTEO/fast-anything",
+        "created": "2026-11-21"
+      },
+      {
+        "rank": 4,
+        "name": "Belobug/VIctory-Belobug-AMD",
+        "description": "",
+        "stars": 3732,
+        "language": "Rust",
+        "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
+        "created": "2026-11-25"
+      },
+      {
+        "rank": 5,
+        "name": "fxceless/victory-fork",
+        "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+        "stars": 3317,
+        "language": "Rust",
+        "url": "https://github.com/fxceless/victory-fork",
+        "created": "2026-11-24"
+      },
+      {
+        "rank": 6,
+        "name": "ubiquitarianism/leonida",
+        "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+        "stars": 2576,
+        "language": "Python",
+        "url": "https://github.com/ubiquitarianism/leonida",
+        "created": "2026-11-23"
+      },
+      {
+        "rank": 7,
+        "name": "os6/nospeaker",
+        "description": "make your macbook's trackpad talk using its haptic motor",
+        "stars": 1970,
+        "language": "Swift",
+        "url": "https://github.com/os6/nospeaker",
+        "created": "2026-11-22"
+      },
+      {
+        "rank": 8,
+        "name": "avatarmanz/VIctory-7900XTX",
+        "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX",
+        "stars": 1894,
+        "language": "Rust",
+        "url": "https://github.com/avatarmanz/VIctory-7900XTX",
+        "created": "2026-11-25"
+      },
+      {
+        "rank": 9,
+        "name": "omonkeyz/xbox-emulator",
+        "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+        "stars": 1853,
+        "language": "Rust",
+        "url": "https://github.com/omonkeyz/xbox-emulator",
+        "created": "2026-11-21"
+      },
+      {
+        "rank": 10,
+        "name": "alesha-pro/llm.asm",
+        "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+        "stars": 1814,
+        "language": "Assembly",
+        "url": "https://github.com/alesha-pro/llm.asm",
+        "created": "2026-11-25"
+      },
+      {
+        "rank": 11,
+        "name": "crhywun/g1-acq",
+        "description": "",
+        "stars": 1726,
+        "language": "JavaScript",
+        "url": "https://github.com/crhywun/g1-acq",
+        "created": "2026-11-22"
+      },
+      {
+        "rank": 12,
+        "name": "nexu-io/opengame",
+        "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish",
+        "stars": 1711,
+        "language": "TypeScript",
+        "url": "https://github.com/nexu-io/opengame",
+        "created": "2026-11-25"
+      },
+      {
+        "rank": 13,
+        "name": "qianyiai/KuroCat",
+        "description": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
+        "stars": 1658,
+        "language": "TypeScript",
+        "url": "https://github.com/qianyiai/KuroCat",
+        "created": "2026-11-21"
+      },
+      {
+        "rank": 14,
+        "name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+        "description": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+        "stars": 1586,
+        "language": "Rust",
+        "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+        "created": "2026-11-22"
+      },
+      {
+        "rank": 15,
+        "name": "Indigo-0167/universal-game-mod-manager",
+        "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+        "stars": 1300,
+        "language": "Rust",
+        "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+        "created": "2026-11-23"
+      },
+      {
+        "rank": 16,
+        "name": "Umbra9179/clipboard-history-manager-windows",
+        "description": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+        "stars": 1266,
+        "language": "C#",
+        "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+        "created": "2026-11-23"
+      },
+      {
+        "rank": 17,
+        "name": "deterministic-machines/deslop-please",
+        "description": "Bring (back) sanity to your code",
+        "stars": 1172,
+        "language": "Rust",
+        "url": "https://github.com/deterministic-machines/deslop-please",
+        "created": "2026-11-22"
+      },
+      {
+        "rank": 18,
+        "name": "Reukix/Reloc",
+        "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+        "stars": 1155,
+        "language": "Swift",
+        "url": "https://github.com/Reukix/Reloc",
+        "created": "2026-11-25"
+      },
+      {
+        "rank": 19,
+        "name": "solv4626/steam-achievement-manager-windows",
+        "description": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
+        "stars": 1058,
+        "language": "Rust",
+        "url": "https://github.com/solv4626/steam-achievement-manager-windows",
+        "created": "2026-11-23"
+      },
+      {
+        "rank": 20,
+        "name": "kai415-debug/ffmpeg-video-audio-converter",
+        "description": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
+        "stars": 1019,
+        "language": "C++",
+        "url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
+        "created": "2026-11-23"
+      }
+    ]
+  },
+  "arxiv": {
+    "title": "arXiv 最新论文",
+    "description": "cs.AI 分类最新提交",
+    "items": [
+      {
+        "rank": 1,
+        "title": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+        "authors": [
+          "Yalin E. Sagduyu",
+          "Tugba Erpek"
+        ],
+        "summary": "End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter and the receiver. This paper studies AI-native communications with AEs and quantifies the sensitivity ",
+        "url": "http://arxiv.org/abs/2611.34942v1",
+        "pdf": "https://arxiv.org/pdf/2611.34942v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 2,
+        "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+        "authors": [
+          "Charlie Griffin",
+          "Oliver Makins",
+          "Asa Cooper Stickland",
+          "Alessandro Abate",
+          "Yarin Gal"
+        ],
+        "summary": "AI monitors, classifiers that flag dangerous behaviour by AI agents, are often evaluated against transcripts generated by attack policies acting as proxies for dangerous behaviour in deployment. We evaluate an ex-production OpenAI monitor as a case study and find that measured false negative rate is",
+        "url": "http://arxiv.org/abs/2611.34934v1",
+        "pdf": "https://arxiv.org/pdf/2611.34934v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 3,
+        "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+        "authors": [
+          "Lukas Aichberger",
+          "Adam Golinski",
+          "Arno Blaas",
+          "Arwen Bradley",
+          "Jacob Springer"
+        ],
+        "summary": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare under independent Monte Carlo (MC) sampling. To address this, we propose Diverse Alternative Reasoning T",
+        "url": "http://arxiv.org/abs/2611.34928v1",
+        "pdf": "https://arxiv.org/pdf/2611.34928v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 4,
+        "title": "$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
+        "authors": [
+          "Qihao Lin",
+          "Guanxu Chen",
+          "Shuhang Zheng",
+          "Xiaoya Lu",
+          "Jingyi Yang"
+        ],
+        "summary": "Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privacy, and task constraints. Existing evaluations offer limited coverage when participants react throughout a session. We introduce $μ$-Bench, a benchmark for joint task completion in ",
+        "url": "http://arxiv.org/abs/2611.34920v1",
+        "pdf": "https://arxiv.org/pdf/2611.34920v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 5,
+        "title": "Enhancing Maritime Domain Awareness using Latent Space Representations",
+        "authors": [
+          "Rikard Vinge",
+          "Miguel A. Belenguer-Plomer",
+          "Isabelle Wittmann",
+          "Octavian Dumitru",
+          "Michele Lazzarini"
+        ],
+        "summary": "This work presents a novel application of Earth Observation (EO) embeddings for Maritime Domain Awareness (MDA) from the perspective of the geospatial foundation model TerraMind. By operating directly on compressed latent-space representations rather than on the original Sentinel-1 imagery, this app",
+        "url": "http://arxiv.org/abs/2611.34899v1",
+        "pdf": "https://arxiv.org/pdf/2611.34899v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 6,
+        "title": "Interpretable and Accurate Hybrid Decision Trees with Selective Case-Based Splits",
+        "authors": [
+          "Cristiano Landi",
+          "Alessio Cascione",
+          "Riccardo Guidotti"
+        ],
+        "summary": "Decision trees are among the most well-known interpretable models in Machine Learning. Over the years, a wide variety of strategies have been proposed to define split conditions within the greedy learning framework, aiming to guide instance routing and enhance predictive performance. These strategie",
+        "url": "http://arxiv.org/abs/2611.34887v1",
+        "pdf": "https://arxiv.org/pdf/2611.34887v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 7,
+        "title": "How Much Do Coding Agents Over-Edit, and Why? An Empirical Study of Unneeded Edits in Repository-Level Agent Patches",
+        "authors": [
+          "Aakash Goel",
+          "Benjamin Steenhoek",
+          "Yu Hu"
+        ],
+        "summary": "Agent patches are larger than developers', which is widely read as over-editing. But patch size does not say whether the extra edits are needed, what they are, or where they come from. We introduce Delta Residue Attribution (DRA), which replays agent trajectories, traces every block (unit) of the fi",
+        "url": "http://arxiv.org/abs/2611.34875v1",
+        "pdf": "https://arxiv.org/pdf/2611.34875v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 8,
+        "title": "Shape-Aware Three-Way Merge for RDF Knowledge Graphs: The schema defines the conflict: an implementation and evaluation",
+        "authors": [
+          "Steve Brown"
+        ],
+        "summary": "Merging RDF serializations creates ordering conflicts and misses semantic ones. We describe and evaluate a three-way merge in which the schema defines a conflict: set algebra combines canonical triples, and a slot is contended only where a SHACL shape bounds its cardinality and both sides' changes c",
+        "url": "http://arxiv.org/abs/2611.34870v1",
+        "pdf": "https://arxiv.org/pdf/2611.34870v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 9,
+        "title": "A Survey of Security, Privacy, and Ethics of Large Language Models in Telecom",
+        "authors": [
+          "Joy Bose",
+          "Srinivas Adyapak"
+        ],
+        "summary": "Large Language Models (LLMs) are increasingly integrated into telecommunications for customer service, network analytics, and operational support. While offering efficiency and innovation, their deployment raises critical privacy, security, and ethical challenges due to the uniquely sensitive and lo",
+        "url": "http://arxiv.org/abs/2611.34868v1",
+        "pdf": "https://arxiv.org/pdf/2611.34868v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 10,
+        "title": "RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies",
+        "authors": [
+          "Insup Lee",
+          "Hojin Jeon",
+          "Sunguk Shin",
+          "Seoungbin Bae",
+          "Taekwan Kim"
+        ],
+        "summary": "Since vision-language-action (VLA) policies can inherit the slow pace of human demonstrations, accelerating these demonstrations before fine-tuning can lead to faster VLA policies without an additional speed-selection module at deployment. Several offline speedup methods have focused on identifying ",
+        "url": "http://arxiv.org/abs/2611.34864v1",
+        "pdf": "https://arxiv.org/pdf/2611.34864v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 11,
+        "title": "BOP-Refer: Benchmark for Monocular 3D and 2D Object Grounding",
+        "authors": [
+          "Tomas Hodan",
+          "Vineet Bhat",
+          "Martin Sundermeyer",
+          "Jonathan Tremblay",
+          "Yash Patel"
+        ],
+        "summary": "We introduce BOP-Refer, the first benchmark for monocular 3D and 2D grounding of everyday and industrial objects sourced from 9 diverse BOP datasets. We pair images from these datasets with VLM-generated and human-verified referring expressions, and derive accurate ground-truth 3D and 2D bounding bo",
+        "url": "http://arxiv.org/abs/2611.34862v1",
+        "pdf": "https://arxiv.org/pdf/2611.34862v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 12,
+        "title": "From Prediction to Decision: Decision-Focused Fine-Tuning of Autoregressive Tabular Transformers for Cost-Sensitive Financial Events",
+        "authors": [
+          "Ashkan Golgoon",
+          "Giacomo Domeniconi",
+          "Samuel Atkins",
+          "Sergio Servantez",
+          "Zain Khandwala"
+        ],
+        "summary": "Autoregressive transformers trained on tokenized tabular event streams are a simple and strong baseline for predicting financial events such as fraud. Yet institutions do not act on probabilities; they act on decisions whose consequences are asymmetric and heteroscedastic: the cost of a missed high-",
+        "url": "http://arxiv.org/abs/2611.34858v1",
+        "pdf": "https://arxiv.org/pdf/2611.34858v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 13,
+        "title": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+        "authors": [
+          "Han Huang",
+          "Yuchen Yan",
+          "Xingyu Wu",
+          "Yijun Li",
+          "Chao Deng"
+        ],
+        "summary": "Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but lack a dedicated knowledge-centric evaluation of which research directions a report covers and how de",
+        "url": "http://arxiv.org/abs/2611.34852v1",
+        "pdf": "https://arxiv.org/pdf/2611.34852v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 14,
+        "title": "Probing Visual Idiosyncrasies in Text-to-Image Models",
+        "authors": [
+          "Yongqian Peng",
+          "Hongjie Li",
+          "Yichao Zhou",
+          "Chi Zhang",
+          "Yixin Zhu"
+        ],
+        "summary": "Text-to-Image (T2I) models turn short text descriptions into images, and the leading models now produce images of comparable visual quality. Whether their outputs still carry model-specific characteristics matters for attribution, for model comparison beyond aggregate quality, and for evaluations th",
+        "url": "http://arxiv.org/abs/2611.34843v1",
+        "pdf": "https://arxiv.org/pdf/2611.34843v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 15,
+        "title": "Knowledge-Base Gradient Descent: Self-Structuring Learning through Question Answering",
+        "authors": [
+          "Masahiro Kato"
+        ],
+        "summary": "We consider the problem of constructing knowledge bases for applications based on large language models, in which the structure of a knowledge base determines how an application can retrieve and connect the information needed to answer a question. We study Self-Structuring Learning, a setting in whi",
+        "url": "http://arxiv.org/abs/2611.34841v1",
+        "pdf": "https://arxiv.org/pdf/2611.34841v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 16,
+        "title": "Repairing the Trustworthiness of Distilled Language Models",
+        "authors": [
+          "Kumar Shubham",
+          "Devendra Vyas",
+          "Vidushi Agarwal",
+          "Jayin Khanna",
+          "Prathosh AP"
+        ],
+        "summary": "Knowledge distillation enables the deployment of large language models through smaller student models, but the compression process can introduce regressions in trustworthiness even when downstream performance is preserved. Repairing such failures is challenging because the original distillation corp",
+        "url": "http://arxiv.org/abs/2611.34831v1",
+        "pdf": "https://arxiv.org/pdf/2611.34831v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 17,
+        "title": "Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models",
+        "authors": [
+          "Simon Baur",
+          "Wojciech Samek",
+          "Jackie Ma"
+        ],
+        "summary": "World models predict how an environment responds to actions, so that candidate actions can be evaluated before execution. Executed actions, or decisions, taken in this manner are only as reliable as the model's predictive capabilities, and predictions in turn are only reliable within the model's exp",
+        "url": "http://arxiv.org/abs/2611.34830v1",
+        "pdf": "https://arxiv.org/pdf/2611.34830v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 18,
+        "title": "Transferring Architecture as an Optimization Prior",
+        "authors": [
+          "Vighnesh Subramaniam",
+          "Boris Katz",
+          "Brian Cheung"
+        ],
+        "summary": "Initialization determines the optimization \"fate\" of a model, going far beyond just setting the scale of its weights. It establishes a fundamental initial geometry over the input data, dictating certain aspects such as which examples are considered close and which representations gradient descent wi",
+        "url": "http://arxiv.org/abs/2611.34816v1",
+        "pdf": "https://arxiv.org/pdf/2611.34816v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 19,
+        "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+        "authors": [
+          "Dezhi Luo",
+          "Fengyuan Yu",
+          "Haotian Zhang",
+          "Zehong Zhao",
+          "Ran Ji"
+        ],
+        "summary": "Video generation models are increasingly evaluated as visual reasoners: given a first frame and a natural-language prompt, can the model produce the video in which the specified task is carried out? The paradigm is considered advantageous because the reasoning is native to the visual medium, unfoldi",
+        "url": "http://arxiv.org/abs/2611.34813v1",
+        "pdf": "https://arxiv.org/pdf/2611.34813v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 20,
+        "title": "HOG-WAM: Improving Visual Robustness through Future Gradient Prediction",
+        "authors": [
+          "Boxuan Dong",
+          "Yupeng Qian",
+          "Ying Wu",
+          "Heshuai Li",
+          "Junhao Tan"
+        ],
+        "summary": "World-action models jointly predict future observations and actions, yet visual corruption can disrupt the resulting policies. We introduce HOG-WAM, which adds future Histograms of Oriented Gradients (HOG) as structural supervision derived directly from demonstration images. An auxiliary HOG diffusi",
+        "url": "http://arxiv.org/abs/2611.34811v1",
+        "pdf": "https://arxiv.org/pdf/2611.34811v1",
+        "published": "2026-11-25",
+        "category": "cs.AI"
+      },
+      {
+        "rank": 21,
+        "title": "Tokenisation is not in APX",
+        "authors": [
+          "Violeta Kastreva",
+          "Philip Whittington",
+          "Dennis Komm",
+          "Tiago Pimentel"
+        ],
+        "summary": "In this paper, we prove that, unless P=NP, no polynomial-time algorithm can find a tokeniser whose objective is within any constant factor of the optimum, meaning that tokenisation is not in the APX complexity class. We prove this for direct and bottom-up tokenisation, under both a compression or un",
+        "url": "http://arxiv.org/abs/2611.34938v1",
+        "pdf": "https://arxiv.org/pdf/2611.34938v1",
+        "published": "2026-11-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 22,
+        "title": "Can image generation help visual reasoning? An empirical study",
+        "authors": [
+          "Xueyang Yu",
+          "Yifan Jing",
+          "Taiming Lu",
+          "Linrong Cai",
+          "Zhipeng Cai"
+        ],
+        "summary": "Language models think in words; then multimodal models might think in images. We test whether a generated helper improves the answer to a visual question. A model describes the helper it needs and then answers using the original and generated images together. Across 13 vision-language model and gene",
+        "url": "http://arxiv.org/abs/2611.34935v1",
+        "pdf": "https://arxiv.org/pdf/2611.34935v1",
+        "published": "2026-11-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 23,
+        "title": "A gene informed benchmark for BioScoring of pathology foundation models",
+        "authors": [
+          "Paul Vilars",
+          "Vincent Quoc-Huy Trinh",
+          "Maria Vakalopoulou",
+          "Dimitris Samaras",
+          "Stergios Christodoulidis"
+        ],
+        "summary": "Pathology foundation models are usually compared by their performance on downstream tasks such as classification and retrieval. While such benchmarks measure how useful a model is, they provide no insight into the biology it represents. We introduce BioScore, a benchmark that quantifies how well an ",
+        "url": "http://arxiv.org/abs/2611.34930v1",
+        "pdf": "https://arxiv.org/pdf/2611.34930v1",
+        "published": "2026-11-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 24,
+        "title": "Mixture-of-Loops Transformer",
+        "authors": [
+          "Lianghui Zhu",
+          "Shijie Wang",
+          "Xinggang Wang",
+          "Jinze Bai",
+          "Bo Wang"
+        ],
+        "summary": "Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Tr",
+        "url": "http://arxiv.org/abs/2611.34923v1",
+        "pdf": "https://arxiv.org/pdf/2611.34923v1",
+        "published": "2026-11-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 25,
+        "title": "What a Drop Reveals: Sim-to-Real Material Estimation for Deformable Objects from Video",
+        "authors": [
+          "Ziyue Peng",
+          "Yanxi Hu",
+          "Junyoung Kim",
+          "Andrew Chen",
+          "Jin Yang"
+        ],
+        "summary": "How an object deforms when it hits the ground reveals what it is made of. From a single real video of a drop, we estimate a deformable object's density-normalized stiffness $E/ρ$, and its yield stress $σ_Y/ρ$ when the impact causes plastic deformation, with a feed-forward predictor trained only in s",
+        "url": "http://arxiv.org/abs/2611.34894v1",
+        "pdf": "https://arxiv.org/pdf/2611.34894v1",
+        "published": "2026-11-25",
+        "category": "cs.LG"
+      },
+      {
+        "rank": 26,
+        "title": "Stranger Things: When Objects Appear Without Their Typical Neighbors",
+        "authors": [
+          "Siddhartha Gairola",
+          "Jiahao Xie",
+          "Anna Kukleva",
+          "Francesco Locatello",
+          "Bernt Schiele"
+        ],
+        "summary": "Visual context is a powerful cue for object recognition: scenes inform what, where, and at what scale objects are likely to appear. Yet over-reliance on context becomes a failure mode when models predict objects based on their typical neighbors rather than the objects' own visual features, which we ",
+        "url": "http://arxiv.org/abs/2611.34881v1",
+        "pdf": "https://arxiv.org/pdf/2611.34881v1",
+        "published": "2026-11-25",
+        "category": "cs.LG"
+      }
+    ]
+  }
+}
